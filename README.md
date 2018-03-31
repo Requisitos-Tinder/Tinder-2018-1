@@ -1,10 +1,10 @@
-## Requisitos de Software
+# Requisitos de Software
 ___
 
 
-### Grupo 5
+## Grupo 5
 
-<img src="https://user-images.githubusercontent.com/1852287/37942190-51f7ad46-3148-11e8-8f6b-91ed1df20a1a.png" alt="tinder" class="center">
+![tinder](Wiki/docs/img/tinderName.png)
 
 ---
 
@@ -17,10 +17,10 @@ ___
 | Calebe Rios de Sousa Mendes            | @CalebeRios     |
 | Luciana Ribeiro Lins de Albuquerque    | @lucianaribeiro |
 | Vítor Cardoso Xoteslem                 | @vitorcx        |
-| Waysman Silva                          |                 |
+| Waysman Silva                          | @waysman        |
 
 ---
 
 ### Wiki
 
-Para acessar a nossa wiki, acesse a nossa página do [GitHub Pages](https://requisitos-tinder.github.io/Tinder-2018-1/)
+A wiki do projeto pode ser acessada na nossa página do [GitHub Pages](https://requisitos-tinder.github.io/Tinder-2018-1/)
