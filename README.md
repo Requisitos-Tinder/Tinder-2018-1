@@ -2,9 +2,9 @@
 ___
 
 
-## Grupo 5
+## Grupo 05
 
-![tinder](Wiki/docs/img/tinderName.png)
+<img src="Wiki/docs/img/tinderName.png" alt="alt text" width="70%">
 
 ---
 
