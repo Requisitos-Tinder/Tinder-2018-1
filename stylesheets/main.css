@@ -1,0 +1,32 @@
+h1 {
+	color: #FF5864;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 45%;
+
+}
+
+h2 {
+	color: #FF444D;
+}
+
+h3 {
+	color: #FF5864;
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 8%;
+
+}
+
+img {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+	max-width:200px;
+  max-height:150px;
+  width: auto;
+  height: auto;
+
+}
