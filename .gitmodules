@@ -1,0 +1,9 @@
+[submodule "Wiki/site/themes/themes/minimo"]
+	path = Wiki/site/themes/themes/minimo
+	url = https://github.com/MunifTanjim/minimo
+[submodule "Wiki/site/themes/minimo"]
+	path = Wiki/site/themes/minimo
+	url = https://github.com/MunifTanjim/minimo
+[submodule "Wiki/themes/minimo"]
+	path = Wiki/themes/minimo
+	url = https://github.com/MunifTanjim/minimo

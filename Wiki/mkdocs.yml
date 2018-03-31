@@ -1,0 +1,28 @@
+site_name: Wiki Tinder
+pages:
+     - Home: index.md
+     - Pré-Rastreabilidade: 
+         - 'About': 'pre-rastreabilidade/pre-rastreabilidade.md'
+         - 'Rich Pictures': 'pre-rastreabilidade/richPicture.md'
+         - 'Argumentações': 'pre-rastreabilidade/argumentacoes.md'
+         - 'Referências': 'pre-rastreabilidade/referencias.md'
+     - Pós-Rastreabilidade:
+         - 'About': 'pos-rastreabilidade/pos-rastreabilidade.md'
+         - 'Referências': 'pos-rastreabilidade/referencias.md'
+     - Elicitação:
+         - 'About': 'elicitacao/elicitacao.md'
+         - 'Referências': 'elicitacao/referencias.md'
+     - Modelagem:
+         - 'About': 'modelagem/modelagem.md'
+         - 'Referências': 'modelagem/referencias.md'
+     - Análise:
+         - 'About': 'analise/analise.md'
+         - 'Referências': 'analise/referencias.md'
+     - Extras:
+         - 'Linha do Tempo': 'extras/linha-tempo.md'
+         - 'Pautas de Reuniões': 'extras/reunioes.md'
+         - 'Apresentações': 'extras/apresentacoes.md'
+theme: 
+    name: simplex
+extra_css:
+  - 'stylesheets/main.css'
