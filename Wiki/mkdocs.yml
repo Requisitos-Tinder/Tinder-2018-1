@@ -11,6 +11,7 @@ pages:
          - 'Referências': 'pos-rastreabilidade/referencias.md'
      - Elicitação:
          - 'About': 'elicitacao/elicitacao.md'
+         - 'Técnicas Usadas': 'elicitacao/tecnicas.md'
          - 'Referências': 'elicitacao/referencias.md'
      - Modelagem:
          - 'About': 'modelagem/modelagem.md'
