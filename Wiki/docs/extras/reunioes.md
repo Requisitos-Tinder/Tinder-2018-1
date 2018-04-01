@@ -95,3 +95,101 @@ A conclusão dessa argumentação foi para não adicionar os concorrentes no ric
 <p align="justify">
 <b>Compromissos:</b> a entrega de cada um desses rich pictures será feita na próxima reunião que acontecerá amanhã às 20h30min.
 </p>
+
+
+## **Reunião - 20/03**
+
+<br>
+**Data:** 20 de março de 2018.
+
+**Horário de início:** 20h30min.
+
+**Horário de término:** 22h30min.
+
+**Pessoas presentes:**
+
+- Amanda Muniz
+- Arthur Assis
+- Calebe Rios
+- Luciana Ribeiro
+- Vítor Cardoso
+- Waysman Silva
+</br>
+
+**Pauta da reunião:** revisão dos rich pictures feitos desde a última reunião.
+
+**Discussões abordadas:** os rich pictures foram revisados. O formulário começou a ser criado.
+
+<p align="justify">
+<b>Registro das decisões:</b> os rich pictures passaram por revisão de todos os integrantes. Nessa revisão os rich pictures de visão da empresa, cadastro, concorrente, fluxo de match e conceitual foram aprovados. O rich picture de feed e conversas não foi feito, o que levantou uma discussão sobre a necessidade deste artefato ser feito. Essa argumentação gerou as seguintes opiniões:
+</p>
+
+<p align="justify">
+Discussão 01 - Rich picture próprio para feed e conversas
+</p>
+
+<p align="justify">
+p1 - não é necessário fazer um rich picture separado, pois esse fluxo já está incluso no rich picture de match - Amanda
+</p>
+
+<p align="justify">
+p2 - não é necessário já que é um fluxo bem pequeno - Vítor
+</p>
+
+<p align="justify">
+p3 - seria interessante ter um próprio, pois se a equipe estivesse criando o aplicativo do zero traria uma visão nova para o desenvolvimento que não seria óbvio - Luciana
+</p>
+
+<p align="justify">
+p4 - é necessário já que pode trazer uma visão não funcional dessa parte da aplicação - Arthur
+</p>
+
+<p align="justify">
+p5 - é bom para trazer informações do que deve aparecer no feed - Vítor
+</p>
+
+<p align="justify">
+A conclusão dessa argumentação foi que o rich picture sobre o feed e conversas deveria ser feito. Logo em seguida começou outra argumentação a respeito do atraso na entrega do rich picture de visão social:
+</p>
+
+<p align="justify">
+Discussão 02 - motivo para não fazer rich picture da visão social agora.
+</p>
+
+<p align="justify">
+p1 - é válido optar por adiar o rich picture de requisitos não funcionais - Luciana
+</p>
+
+<p align="justify">
+P2 - é importante se preocupar com os requisitos não funcionais para garantir que eles vão estar documentados desde a pré-rastreabilidade - Arthur
+</p>
+
+<p align="justify">
+p3 - fazer a pesquisa não significa que os requisitos não funcionais estão sendo deixados de lado, mas sim que estão sendo feitas pesquisas para entendê-los melhor - Vítor
+</p>
+
+<p align="justify">
+p4 - é melhor pesquisar e garantir uma representação mínima dos interesses dos usuários - Amanda
+</p>
+
+<p align="justify">
+p5 - se feito agora seria sem embasamento nenhum - Waysman
+</p>
+
+<p align="justify">
+p6 - todos os documentos são evolutivos. Então mesmo feito com menos conhecimento, eles seriam evoluídos e amadurecidos - Arthur
+</p>
+
+<p align="justify">
+p7 - existe um embasamento porque os integrantes do grupo são usuários do tinder. O que cada indivíduo do grupo pensa do Tinder acaba sendo um pensamento de usuário, e isso  ajudaria na elaboração do rich picture - Arthur
+</p>
+
+<p align="justify">
+p8 - apesar dos integrantes serem usuários não é significativo, já que é um número extremamente pequeno de indivíduos e muitos não estão usando o Tinder de forma real. É muito difícil que seis pessoas representem todos os usuários. Por isso um documento validaria os requisitos não funcionais - Luciana
+</p>
+
+<p align="justify">
+A conclusão dessa argumentação foi que o rich picture de visão social seria feito depois que o formulário fosse lançado para receber respostas. Sendo assim, um questionário precisaria ser criado e para isso os integrantes levantaram perguntas que não poderiam faltar. Foi decidido que o questionário teria perguntas para usuários e não-usuários, perguntas sobre concorrentes e sobre os motivos de utilizar ou não o Tinder. A pessoa que ficou responsável pela elaboração do questionário foi a Luciana.
+</p>
+
+**Compromissos:** entrega dos rich pictures que faltaram e do questionário.
