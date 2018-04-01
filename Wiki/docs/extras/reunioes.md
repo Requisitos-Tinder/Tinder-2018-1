@@ -59,3 +59,39 @@ A conclusão dessa argumentação foi para não adicionar os concorrentes no ric
 <p align="justify">
 <b>Compromissos:</b> reunião marcada para dia 19 de março às 20h30min para refatoração dos artefatos, levando em conta as críticas feitas pelos professores.
 </p>
+
+
+
+## **Reunião - 19/03**
+
+
+<br>
+**Data:** 19 de março de 2018.
+
+**Horário de início:** 20h30min.
+
+**Horário de término:** 22h.
+
+**Pessoas presentes:**
+
+- Amanda Muniz
+- Arthur Assis
+- Calebe Rios
+- Luciana Ribeiro
+- Vítor Cardoso
+- Waysman Silva
+</br>
+
+**Pauta da reunião:** divisão dos Rich Pictures.
+
+<p align="justify">
+<b>Discussões abordadas:</b> nesta reunião foi decidido quais rich pictures seriam feitos para o projeto final e quem seria responsável por elaborar cada um deles.
+</p>
+
+<p align="justify">
+<b>Registro das decisões:</b> os rich pictures que serão entregues na próxima reunião são o de serviços pagos, concorrentes, visão social, cadastro, feed e mensagens, timeline do match, conceito e visão empresarial. A Amanda ficará responsável por fazer o rich picture de feed e mensagens e o da timeline do match. O Arthur ficará responsável pelo rich picture da visão empresarial do Tinder. Calebe ficará com o de serviços pagos. Luciana está responsável pelo conceitual e pela visão social. O Vítor ficará responsável pelo rich picture sobre os concorrentes. O Waysman ficará responsável pelo rich picture que mostra o fluxo de cadastro.
+</p>
+
+<p align="justify">
+<b>Compromissos:</b> a entrega de cada um desses rich pictures será feita na próxima reunião que acontecerá amanhã às 20h30min.
+</p>
