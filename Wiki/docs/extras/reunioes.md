@@ -3,7 +3,7 @@
 ## **Reunião - 18/03**
 
 <br>
-**Data:** 18/03
+**Data:** 18 de março de 2018.
 
 **Horário de início:** 20h30min.
 
@@ -193,3 +193,45 @@ A conclusão dessa argumentação foi que o rich picture de visão social seria 
 </p>
 
 **Compromissos:** entrega dos rich pictures que faltaram e do questionário.
+
+
+## **Reunião - 26/03**
+
+<br>
+**Data:** 26 de março de 2018.
+
+**Horário de início:** 20h30min.
+
+**Horário de término:** 22h.
+
+**Pessoas presentes:**
+
+- Amanda Muniz
+- Calebe Rios
+- Luciana Ribeiro
+- Vítor Cardoso
+- Waysman Silva
+
+**Pauta da reunião:** decisão sobre como será feita a elicitação dos requisitos.
+
+**Discussões abordadas:** divisão da wiki e elicitação de requisitos.
+</br>
+
+<p align="justify">
+<b>Registro das decisões:</b> foi decidido que cada membro deve pesquisar as melhores formas para elicitação de requisito e justificar o motivo para usar dada técnica. Foi feita a divisão da wiki em tópicos e dividido entre os integrantes. Cada pessoa será responsável por criar a página do tópico e commitar os artefatos gerados. O index, o cabeçalho e a sidebar da wiki foram criadas. A divisão da wiki ficou da seguinte maneira:
+</p>
+
+- Cabeçalho: Luciana / Vitor
+- Sidebar: Luciana / Vitor
+- Linha do tempo: Arthur
+- Histórico de participação de cada membro: Arthur
+- Pré-rastreabilidade: Luciana
+- Pós-rastreabilidade: Amanda
+- Pautas de reunião: Amanda
+- Sobre Tinder: Waysman
+- Membros: Waysman
+- Apresentações: Calebe
+
+<p align="justify">
+<b>Compromissos:</b> Trazer as técnicas de elicitação escolhidas individualmente para que o grupo possa escolher a melhor opção. Criar as páginas do github pages. Tudo isso deve ser entregue na próxima reunião que acontecerá dia 27/03 às 20h30min.
+</p>
