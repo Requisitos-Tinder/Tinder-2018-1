@@ -221,8 +221,8 @@ A conclusão dessa argumentação foi que o rich picture de visão social seria 
 <b>Registro das decisões:</b> foi decidido que cada membro deve pesquisar as melhores formas para elicitação de requisito e justificar o motivo para usar dada técnica. Foi feita a divisão da wiki em tópicos e dividido entre os integrantes. Cada pessoa será responsável por criar a página do tópico e commitar os artefatos gerados. O index, o cabeçalho e a sidebar da wiki foram criadas. A divisão da wiki ficou da seguinte maneira:
 </p>
 
-- Cabeçalho: Luciana / Vitor
-- Sidebar: Luciana / Vitor
+- Cabeçalho: Luciana e Vitor
+- Sidebar: Luciana e Vitor
 - Linha do tempo: Arthur
 - Histórico de participação de cada membro: Arthur
 - Pré-rastreabilidade: Luciana
@@ -234,4 +234,48 @@ A conclusão dessa argumentação foi que o rich picture de visão social seria 
 
 <p align="justify">
 <b>Compromissos:</b> Trazer as técnicas de elicitação escolhidas individualmente para que o grupo possa escolher a melhor opção. Criar as páginas do github pages. Tudo isso deve ser entregue na próxima reunião que acontecerá dia 27/03 às 20h30min.
+</p>
+
+
+## **Reunião - 28/03**
+
+<br>
+**Data:** 28 de março de 2018.
+
+**Horário de início:** 14h40min.
+
+**Horário de término:** 15h40min.
+
+**Pessoas presentes:**
+
+- Amanda Muniz
+- Arthur Assis
+- Calebe Rios
+- Luciana Ribeiro
+- Vítor Cardoso
+- Waysman Silva
+<br>
+
+**Pauta da reunião:** divisão das refatorações dos artefatos e da rastreabilidade dos requisitos.
+
+<p align="justify">
+<b>Discussões abordadas:</b> a maioria dos artefatos feitos até agora serão refatorados de acordo com as críticas feitas pelos professores.
+</p>
+
+<p align="justify">
+<b>Registro das decisões:</b> foi decidido que a wiki agora será feita com mkdocs. A Luciana ficou responsável por criar todo o esqueleto da wiki. Partindo dessa decisão, foram divididas tarefas de refatoração de artefatos e criação de páginas para wiki. A Amanda será responsável por escrever os textos introdutórios da home da wiki, por refatorar as pautas de reuniões existentes, pelo registro das novas e pela criação da página de pós-rastreabilidade. O Arthur será responsável pela elaboração da linha do tempo e pelas técnicas de elicitação e priorização. O Calebe será responsável pela criação da página de modelagem e de apresentações. A Luciana ficou responsável pela criação da página de pré-rastreabilidade. E o Vítor ficou responsável pela criação da página de análise. Além de criar a wiki, o grupo decidiu aplicar o maior número de técnicas de elicitação possíveis. Para facilitar essa escolha, os responsáveis por cada técnica foram decididos da seguinte maneira:
+</p>
+
+- Storytelling - Vítor
+- Entrevista - Amanda e Luciana
+- Observação - Arthur
+- Análise de protocolo - Amanda e Luciana
+- Análise de discurso - Calebe
+
+<p align="justify">
+Como a análise de discurso precisa ser feita por todos os integrantes, o Calebe ficou responsável por preparar a técnica para que possa ser aplicada na próxima reunião. O grupo já tinha aplicado quatro técnicas de elicitação e priorização. Levando isso em consideração, foi decidido que o Waysman irá refatorar a introspecção, o brainstorming, o questionário, a observação participativa e o MoSCoW.
+</p>
+
+<p align="justify">
+<b>Compromissos:</b> Todas essas atividades precisam ser entregues na reunião que acontecerá sábado às 20h30min.
 </p>
