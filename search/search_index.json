@@ -282,13 +282,23 @@
         }, 
         {
             "location": "/modelagem/modelagem/", 
-            "text": "", 
+            "text": "Em breve", 
             "title": "About"
         }, 
         {
-            "location": "/modelagem/referencias/", 
+            "location": "/modelagem/modelagem/#em-breve", 
             "text": "", 
+            "title": "Em breve"
+        }, 
+        {
+            "location": "/modelagem/referencias/", 
+            "text": "Em breve", 
             "title": "Refer\u00eancias"
+        }, 
+        {
+            "location": "/modelagem/referencias/#em-breve", 
+            "text": "", 
+            "title": "Em breve"
         }, 
         {
             "location": "/analise/analise/", 
