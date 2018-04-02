@@ -8,6 +8,7 @@
 
 <br>
 
+
 ## Sobre a Disciplina
 
 <p align="justify">&emsp;
@@ -31,9 +32,9 @@ Tendo em vista a importância dessa área, existe uma disciplina chamada Requisi
 ## Sobre o Tinder
 
 <p align="justify">&emsp;
-Tinder é um aplicativo de relacionamentos multiplataforma. Inicialmente disponível em versão mobile e para pessoas cadastradas no Facebook, a aplicação ganhou um grande número de usuários e se tornou um dos principais aplicativos do mundo. De acordo com o próprio site do [Tinder](gotinder.com), a aplicação recebe 1.6 bilhões de swipes por dia, os usuários têm mais de 1 milhão de dates. A aplicação tem o total de mais de 20 bilhões de matches e se estende por mais de 190 países.
-
+Tinder é um aplicativo de relacionamentos multiplataforma. Inicialmente disponível em versão mobile e para pessoas cadastradas no Facebook, a aplicação ganhou um grande número de usuários e se tornou um dos principais aplicativos do mundo. De acordo com o próprio site do [Tinder](https://gotinder.com), a aplicação recebe 1.6 bilhões de swipes por dia, os usuários têm mais de 1 milhão de dates. A aplicação tem o total de mais de 20 bilhões de matches e se estende por mais de 190 países.
 </p>
+
 <p align="justify">&emsp;
 O Tinder cruza as informações dos perfis dos usuários com um sistema de geolocalização para assim sugerir os melhores candidatos para seu usuário, levando em conta a proximidade e os interesses em comum. Para a coleta desses dados o aplicativo se integra com o Facebook, Spotify e Instagram.
 </p>
