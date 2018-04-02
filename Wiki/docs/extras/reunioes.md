@@ -279,3 +279,32 @@ Como a análise de discurso precisa ser feita por todos os integrantes, o Calebe
 <p align="justify">
 <b>Compromissos:</b> Todas essas atividades precisam ser entregues na reunião que acontecerá sábado às 20h30min.
 </p>
+
+
+## **Reunião - 31/03**
+
+<br>
+**Data:** 31 de março de 2018.
+
+**Horário de início:** 20h30min.
+
+**Horário de término:** 22h.
+
+**Pessoas presentes:**
+
+- Amanda Muniz
+- Luciana Ribeiro
+- Waysman Silva
+</br>
+
+**Pauta da reunião:** Explicação de como funciona o mkdocs e revisão das técnicas de elicitação feitas.
+
+**Discussões abordadas:** as técnicas de elicitação que estava prontas precisavam de mais refatoração.
+
+<p align="justify">
+<b>Registro das decisões:</b> somente três integrantes do grupo compareceram nessa reunião. Por isso, grande parte do que teria que acontecer durante a reunião foi adiada para a próxima. A Luciana explicou como funciona o mkdocs para o restante dos integrantes. Amanda e Luciana revisaram as técnicas entregues pelo Waysman. Foi decidido que ele precisava refatorar algumas coisas.
+</p>
+
+<p align="justify">
+<b>Compromissos:</b> Terá uma reunião dia 01/04 com urgência, onde a participação de todos será obrigatória. Todos os artefatos que deveriam ter sido entregues nesta reunião, deverão ser entregues na próxima.
+</p>

@@ -11,6 +11,9 @@ pages:
          - 'Referências': 'pos-rastreabilidade/referencias.md'
      - Elicitação:
          - 'About': 'elicitacao/elicitacao.md'
+         - 'Técnicas Elicitação': 'elicitacao/tec_elicitacao.md'
+         - 'Storytelling': 'elicitacao/storytelling.md'
+         - 'Técnicas Priorização': 'elicitacao/tec_priorizacao.md'
          - 'MoSCoW': 'elicitacao/moscow.md'
          - 'First Things First': 'elicitacao/first_things_first.md'
          - 'Referências': 'elicitacao/referencias.md'
@@ -28,3 +31,8 @@ theme:
     name: simplex
 extra_css:
   - 'stylesheets/main.css'
+  - 'stylesheets/fancybox-style/jquery.fancybox.css'
+  - 'stylesheets/fancybox-style/jquery.fancybox.min.css'
+extra_javascript:
+  - 'stylesheets/fancybox-style/jquery.fancybox.js'
+  - 'stylesheets/fancybox-style/jquery.fancybox.min.js'
