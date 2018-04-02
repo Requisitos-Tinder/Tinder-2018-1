@@ -16,7 +16,7 @@ A argumentação é uma forma utilizada para que um conjunto de pessoas que disc
 
 <br>
 
-<a data-fancybox="gallery" href="../../img/argumentacao01.png"><img src="../../img/argumentacao01-mini.png"></a>
+<a data-fancybox="gallery" href="../../img/argumentacao/argumentacao01.png"><img src="../../img/argumentacao/argumentacao01-mini.png"></a>
 
 <br>
 
@@ -36,7 +36,7 @@ A argumentação é uma forma utilizada para que um conjunto de pessoas que disc
 
 <br>
 
-<a data-fancybox="gallery" href="../../img/argumentacao02.png"><img src="../../img/argumentacao02-mini.png"></a>
+<a data-fancybox="gallery" href="../../img/argumentacao/argumentacao02.png"><img src="../../img/argumentacao/argumentacao02-mini.png"></a>
 
 <br>
 
@@ -60,7 +60,7 @@ A argumentação é uma forma utilizada para que um conjunto de pessoas que disc
 
 <br>
 
-<a data-fancybox="gallery" href="../../img/argumentacao03.png"><img src="../../img/argumentacao03-mini.png"></a>
+<a data-fancybox="gallery" href="../../img/argumentacao/argumentacao03.png"><img src="../../img/argumentacao/argumentacao03-mini.png"></a>
 
 <br>
 
