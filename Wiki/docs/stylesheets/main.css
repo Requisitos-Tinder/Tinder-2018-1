@@ -7,20 +7,8 @@ h1 {
 
 }
 
-h2 {
+h2, h3, h4 {
 	color: #FF444D;
-}
-
-h3 {
-	color: #FF5864;
-	display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 7.6%;
-}
-
-h4 {
-	color: #FF5864;
 }
 
 img {

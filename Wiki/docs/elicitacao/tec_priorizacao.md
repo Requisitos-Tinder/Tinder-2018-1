@@ -1,10 +1,15 @@
-## Priorização
-### Técnicas Utilizadas:
+# Priorização
+
+<br>
+
+## Técnicas Utilizadas:
 
 - [MoSCoW](moscow/)
 - [First Things First](first_things_first/)
 
-### Resultado:
+<br>
+## Resultado:
+<br>
 
 #### Requisitos vitais para o projeto:
 - O usuário deve ser capaz de editar perfil
@@ -24,6 +29,8 @@
 - O usuário deve ser capaz de dar um like
 - O usuário deve ser capaz de dar um deslike
 - O usuário deve ser capaz de enviar mensagem
+
+<br>
 
 #### Requisitos não vitais para o projeto (ordenados por prioridade):
 

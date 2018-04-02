@@ -1,5 +1,10 @@
 # Técnicas de Elicitação
+
+<br>
+
 Para a coleta de fatos foram realizadas as seguintes técnicas:
+
+<br>
 
 ## Observação Participativa - Versão 1
 
@@ -75,7 +80,8 @@ Vou editar o meu perfil. Primeira coisa que consigo editar são as fotos, consig
 Vou editar as configurações. Nessa parte consigo colocar minha localização, a distância máxima das pessoas que eu vou dar like, o gênero e a faixa etária delas. Tenho a opção de mostrar o meu perfil no tinder ou não. Consigo configurar o conteúdo que eu compartilho no meu perfil. Consigo ver o meu perfil web, ver meu nome de usuário e compartilhar minha url. Consigo fazer o controle das notificações, quais que eu quero receber ou não. O resto das configurações são tópicos de ajuda e essas coisas.“
 </p>
 
-<b>Resultado</b>
+<br>
+#### **Resultado:**
 
 
 | Número | Requisito                                                    |
@@ -105,6 +111,7 @@ Vou editar as configurações. Nessa parte consigo colocar minha localização, 
 | 43     | O sistema deve ser capaz de atualizar o feed com as novas informações do matches. |
 | 51     | O sistema deve enviar uma notificação ao realizar um match.  |
 
+<br>
 
 ## Análise de Discurso - Versão 1
 
@@ -234,7 +241,9 @@ Embora eu ache que a implementação não gerasse tanto risco na aplicação, o 
 
 - Complemento
 
-### Resultado:
+<br>
+
+#### **Resultado:**
 
 | Número | Requisito                                                                                                                                           | Técnica                  |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|

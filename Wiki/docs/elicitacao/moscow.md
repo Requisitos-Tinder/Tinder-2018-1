@@ -1,4 +1,5 @@
 #  MoSCoW Versão 1
+<br>
 
 ## Metodologia
 Para a primeira etapa os requisitos elicitados, serão divididos em quatro categorias _Must_, _Should_, _Could_ e _Would_, onde:
@@ -17,7 +18,8 @@ Para que essa divisão ocorra será realizada uma votação entre os membros do 
 
 ## Execução
 
-### Participantes:
+<br>
+#### Participantes:
 - Amanda Muniz
 - Arthur Assis
 - Calebe Rios
@@ -25,10 +27,12 @@ Para que essa divisão ocorra será realizada uma votação entre os membros do 
 - Vítor Cardoso
 - Waysman Silva
 
-### Data:
+<br>
+#### Data:
 26/03/2018
 
-### Votos:
+<br>
+#### Votos:
 
 (Em breve)
 

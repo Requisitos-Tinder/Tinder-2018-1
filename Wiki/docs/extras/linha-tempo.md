@@ -1,8 +1,11 @@
 # Linha do Tempo
+<br>
+## **Pré-Rastreabilidade**
 
-## Pré-Rastreabilidade
-
+<br>
 ### [Reunião 18/03](reunioes/#reuniao-1803):
+<br>
+
 #### Participantes:
 - Amanda Muniz
 - Arthur Assis
@@ -10,8 +13,12 @@
 - Vítor Cardoso
 - Waysman Silva
 
+<br>
+
 #### Objetivo:
 Juntar RichPicture indviduais em um RichPicture geral e criar Argumentação.
+
+<br>
 
 #### Documentos produzidos para a reunião:
 

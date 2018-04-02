@@ -1,6 +1,8 @@
-# _First Things First_ Versão 1
+# First Things First
+## Versão 1
 
-## Metodologia
+<br>
+### Metodologia
 
 Nesta etapa não serão utilizados todos os requisitos eleicitados, somente os que não foram prioriazados como _Must_, pois eles são essenciais para o projeto e tem que ser implementados assim que possivel. Os requisitos serão avaliados segundo a tabela abaixo:
 
@@ -26,7 +28,9 @@ Onde:
 
 ---
 
+<br>
 ## Execução
+<br>
 
 ### Participantes:
 - Amanda Muniz
@@ -41,7 +45,8 @@ Onde:
 
 ### Tabelas:
 
-#### Amanda Muniz
+<br>
+#### **Amanda Muniz**
 
 
 | Requisitos | Beneficio Relativo | Penalidade Relativa | Valor Total | Valor %     | Custo Relativo | Custo %      | Risco Relativo | Risco %     | Prioridade    |
@@ -85,8 +90,8 @@ Onde:
 | 46         | 5                  | 1                   | 6           | 1,538461538 | 3              | 2,5          | 3              | 2,479338843 | 0,3089690393  |
 | Total      | 223                | 167                 | 390         | 100         | 120            | 100          | 121            | 100         | --            |
 
-
-#### Arthur Assis
+<br>
+#### **Arthur Assis**
 
 | Requisitos | Beneficio Relativo | Penalidade Relativa | Valor Total | Valor %     | Custo Relativo | Custo %      | Risco Relativo | Risco %     | Prioridade   |
 |------------|--------------------|---------------------|-------------|-------------|----------------|--------------|----------------|-------------|--------------|
@@ -129,8 +134,8 @@ Onde:
 | 46         | 4                  | 1                   | 5           | 1,275510204 | 5              | 4,901960784  | 4              | 4,761904762 | 0,1319875776 |
 | Total      | 232                | 160                 | 392         | 100         | 102            | 100          | 84             | 100         | --           |
 
-
-#### Calebe Rios
+<br>
+#### **Calebe Rios**
 
 | Requisitos | Beneficio Relativo | Penalidade Relativa | Valor Total | Valor %     | Custo Relativo | Custo %      | Risco Relativo | Risco %      | Prioridade   |
 |------------|--------------------|---------------------|-------------|-------------|----------------|--------------|----------------|--------------|--------------|
@@ -173,8 +178,8 @@ Onde:
 | 46         | 5                  | 1                   | 6           | 2,033898305 | 6              | 4,081632653  | 4              | 2,580645161  | 0,3052857239 |
 | Total      | 207                | 88                  | 295         | 100         | 147            | 100          | 155            | 100          | --           |
 
-
-#### Luciana Ribeiro
+<br>
+#### **Luciana Ribeiro**
 
 | Requisitos | Beneficio Relativo | Penalidade Relativa | Valor Total | Valor %     | Custo Relativo | Custo %      | Risco Relativo | Risco %      | Prioridade   |
 |------------|--------------------|---------------------|-------------|-------------|----------------|--------------|----------------|--------------|--------------|
@@ -217,8 +222,8 @@ Onde:
 | 46         | 4                  | 2                   | 6           | 1,595744681 | 3              | 2,702702703  | 4              | 3,603603604  | 0,2530395137 |
 | Total      | 202                | 174                 | 376         | 100         | 111            | 100          | 111            | 100          | --           |
 
-
-#### Vítor Cardoso
+<br>
+#### **Vítor Cardoso**
 
 | Requisitos | Beneficio Relativo | Penalidade Relativa | Valor Total | Valor %      | Custo Relativo | Custo %      | Risco Relativo | Risco %      | Prioridade    |
 |------------|--------------------|---------------------|-------------|--------------|----------------|--------------|----------------|--------------|---------------|
@@ -261,8 +266,8 @@ Onde:
 | 46         | 1                  | 1                   | 2           | 0,5305039788 | 4              | 2,836879433  | 5              | 2,994011976  | 0,09098162555 |
 | Total      | 203                | 174                 | 377         | 100          | 141            | 100          | 167            | 100          | --            |
 
-
-#### Waysman Silva
+<br>
+#### **Waysman Silva**
 
 | Requisitos | Beneficio Relativo | Penalidade Relativa | Valor Total | Valor %      | Custo Relativo | Custo % | Risco Relativo | Risco %      | Prioridade   |
 |------------|--------------------|---------------------|-------------|--------------|----------------|---------|----------------|--------------|--------------|
@@ -306,9 +311,11 @@ Onde:
 | Total      | 201                | 173                 | 374         | 100          | 160            | 100     | 173            | 100          | --           |
 
 ---
+<br>
 ## Resultado
 
-### Tabela da equipe:
+<br>
+### **Tabela da equipe:**
 
 | Requisitos | Beneficio Relativo | Penalidade Relativa | Valor Total | Valor %     | Custo Relativo | Custo %      | Risco Relativo | Risco %      | Prioridade   |
 |------------|--------------------|---------------------|-------------|-------------|----------------|--------------|----------------|--------------|--------------|
@@ -352,7 +359,7 @@ Onde:
 | Total      | 194                | 140                 | 334         | 100         | 114            | 100          | 135,1666667    | 100          | --           |
 
 
-
+<br>
 ### Requisitos Ordenados por Prioridade
 
 | Requisitos | Prioridade   |
