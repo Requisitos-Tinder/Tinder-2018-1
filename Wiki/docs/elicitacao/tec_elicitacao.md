@@ -28,7 +28,7 @@ Para a coleta de fatos foram realizadas as seguintes técnicas:
 
 	## Análise de Protocolo Versão 1
 
-	#### Metodologia
+	<b>Metodologia</b>
 
 	<p align="justify">&emsp;
 	Para a análise de protocolo separamos duas pessoas, onde uma delas (Luciana) fez o papel de usuário e narrou sua experiência no fluxo principal do Tinder, enquanto isso, a outra (Amanda) fez o registro dessas atividades. A narração será evidenciada nos próximos parágrafos.
@@ -58,7 +58,8 @@ Para a coleta de fatos foram realizadas as seguintes técnicas:
 	Vou editar as configurações. Nessa parte consigo colocar minha localização, a distância máxima das pessoas que eu vou dar like, o gênero e a faixa etária delas. Tenho a opção de mostrar o meu perfil no tinder ou não. Consigo configurar o conteúdo que eu compartilho no meu perfil. Consigo ver o meu perfil web, ver meu nome de usuário e compartilhar minha url. Consigo fazer o controle das notificações, quais que eu quero receber ou não. O resto das configurações são tópicos de ajuda e essas coisas.“
 	</p>
 
-	#### Resultado
+	<b>Resultado</b>
+
 
 	| Número | Requisito                                                    |
 	| :----- | ------------------------------------------------------------ |
