@@ -31,3 +31,8 @@ theme:
     name: simplex
 extra_css:
   - 'stylesheets/main.css'
+  - 'stylesheets/fancybox-style/jquery.fancybox.css'
+  - 'stylesheets/fancybox-style/jquery.fancybox.min.css'
+extra_javascript:
+  - 'stylesheets/fancybox-style/jquery.fancybox.js'
+  - 'stylesheets/fancybox-style/jquery.fancybox.min.js'
