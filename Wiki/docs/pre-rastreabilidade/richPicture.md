@@ -15,12 +15,14 @@ Esse artefato costuma ser bastante informal e podem ser feitos em conjunto com o
 <br>
 
 ## RP - Versão 01
+<br>
 #### Rich Picture do fluxo principal
 
 <a data-fancybox="gallery" href="../../img/richPicture/RP1-V1.png"><img src="../../img/richPicture/RP1-V1-mini.png"></a>
 
 <br>
 ## RP - Versão 02
+<br>
 #### Rich Picture do fluxo principal
 
 <a data-fancybox="gallery" href="../../img/richPicture/RP1-V2.png"><img src="../../img/richPicture/RP1-V2-mini.png"></a>
@@ -51,3 +53,19 @@ Esse artefato costuma ser bastante informal e podem ser feitos em conjunto com o
 <a data-fancybox="gallery" href="../../img/richPicture/RP6-V2.png"><img src="../../img/richPicture/RP6-V2-mini.png"></a>
 
 <br>
+
+## RP - Versão 03
+<br>
+#### Rich Picture do fluxo do match
+
+<a data-fancybox="gallery" href="../../img/richPicture/RP3-V3.png"><img src="../../img/richPicture/RP3-V3-mini.png"></a>
+
+<br>
+#### Rich Picture do Tinder como empresa
+
+<a data-fancybox="gallery" href="../../img/richPicture/RP5-V3.png"><img src="../../img/richPicture/RP5-V3-mini.png"></a>
+
+<br>
+#### Rich Picture do principais concorrentes do Tinder
+
+<a data-fancybox="gallery" href="../../img/richPicture/RP6-V3.png"><img src="../../img/richPicture/RP6-V3-mini.png"></a>

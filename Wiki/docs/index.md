@@ -48,14 +48,14 @@ Todas essas funcionalidades diferentes transformaram o Tinder em uma opção int
 <p align="justify">
 A equipe é formada por seis alunos de Engenharia de Software da Universidade de Brasília. São eles:
 </p>
-| Nome            | GitHub                                   |
-| --------------- | ---------------------------------------- |
-| Amanda Muniz    | [@AmandaMuniz](https://github.com/AmandaMuniz) |
-| Arthur Assis    | [@arthur0496](https://github.com/arthur0496) |
-| Calebe Rios     | [@CalebeRios](https://github.com/CalebeRios) |
-| Luciana Ribeiro | [@lucianaribeiro](https://github.com/lucianaribeiro) |
-| Vítor Cardoso   | [@vitorcx](https://github.com/vitorcx)   |
-| Waysman Silva   | [@waysman](https://github.com/waysman)   |
+| Nome            | Matrícula  | GitHub                                   |
+| --------------- | ---------- | ---------------------------------------- |
+| Amanda Muniz    | 15/0116136 | [@AmandaMuniz](https://github.com/AmandaMuniz) |
+| Arthur Assis    | 15/0030894 | [@arthur0496](https://github.com/arthur0496) |
+| Calebe Rios     | 15/0120702 | [@CalebeRios](https://github.com/CalebeRios) |
+| Luciana Ribeiro | 15/0016131 | [@lucianaribeiro](https://github.com/lucianaribeiro) |
+| Vítor Cardoso   | 15/0023375 | [@vitorcx](https://github.com/vitorcx)   |
+| Waysman Silva   | 15/0048441 | [@waysman](https://github.com/waysman)   |
 
 <br>
 
