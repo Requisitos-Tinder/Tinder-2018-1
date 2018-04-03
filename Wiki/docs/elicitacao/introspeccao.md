@@ -1,4 +1,4 @@
-# Introspecção Versão 1
+# Introspecção 
 
 ## Metodologia
 A introspecção foi usada na etapa de levantamento de requisitos, onde os integrantes se colocavam no lugar de um usuário realizando dada funcionalidade. Isso facilitou a elicitação dos requisitos funcionais.  

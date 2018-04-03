@@ -1,5 +1,4 @@
 # First Things First
-## Versão 1
 
 <br>
 ### Metodologia

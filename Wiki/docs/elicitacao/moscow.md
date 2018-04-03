@@ -1,4 +1,4 @@
-#  MoSCoW Versão 1
+# MoSCoW 
 <br>
 
 ## Metodologia

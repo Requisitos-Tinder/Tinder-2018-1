@@ -1,12 +1,20 @@
-# Observação Participativa Versão 1
+# Observação Participativa
+
+<br>
 
 ## Metodologia
 
+<p align="justify">&emsp;
 Os integrantes passaram a utilizar o Tinder para conhecer suas funcionalidades e ter a experiência de um usuário. Desde o momento do cadastro até a conversa com outros usuários, onde o fluxo principal do software é finalizado. Assim, puderam ter uma ideia de como as pessoas se comportam quando utilizam o ambiente do Tinder.
-
+</p>
+<p align="justify">&emsp;
 A observação participativa foi a primeira parte da elicitação, pois o grupo precisava conhecer bem o produto, assim, os membros que já não eram usuários, passaram a ser, facilitando assim o entendimento.
-
+</p>
+<p align="justify">&emsp;
 Todos os membros utilizaram como usuários normais, posteriormente em reunião, compartilharam suas experiências.
+</p>
+
+<br>
 
 ---
 
