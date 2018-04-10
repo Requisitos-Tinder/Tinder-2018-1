@@ -26,6 +26,8 @@ pages:
          - 'Referências': 'elicitacao/referencias.md'
      - Modelagem:
          - 'About': 'modelagem/modelagem.md'
+         - 'Léxicos': 'modelagem/lexicos.md'
+         - 'Cenários': 'modelagem/cenarios.md'
          - 'Referências': 'modelagem/referencias.md'
      - Análise:
          - 'About': 'analise/analise.md'
