@@ -134,6 +134,17 @@
 | **Impacto**   	| É na descoberta que o Match acontece.                    	|
 | **Classificação** | Objeto.                                                  	|
 
+<br />
+
+## Descolar
+
+| Nome      	| Descolar                              	|
+| ------------- | ----------------------------------------- |
+| **Sinônimos** 	| Adquirir                              	|
+| **Noção**     	| É possível adquirir boosts e super likes. |
+| **Impacto**   	| O usuário pode descolar super likes.  	|
+| **Classificação** | Ação                                  	|
+
 
 <br />
 
