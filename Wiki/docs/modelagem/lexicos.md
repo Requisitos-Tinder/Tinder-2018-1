@@ -34,6 +34,18 @@
 
 <br />
 
+## Cartão
+
+| Nome      	| Cartão                                                   	|
+| ------------- | ------------------------------------------------------------ |
+| **Sinônimos** 	| Cards, opção de perfis                                   	|
+| **Noção**     	| Os cards são as opções de perfis que aparecem na descoberta. |
+| **Impacto**   	| Um cartão pode ser deslizado.                            	|
+| **Classificação** | Objeto                                                   	|
+
+
+<br />
+
 ## Chat
 
 | Nome      	| Chat                                                     	|
@@ -69,6 +81,14 @@
 
 ## Congelar Conta
 
+| Nome      	| Congelar conta.                                          	|
+| ------------- | ------------------------------------------------------------ |
+| **Sinônimos**	| Esconder conta, pausar conta.                            	|
+| **Noção**     	| Uma conta pausada é aquela que o usuário só tem acesso ao seu perfil. |
+| **Impacto**   	| Congelar conta oculta a descoberta.                      	|
+| **Classificação** | Ação                                                     	|
+
+
 <br />
 
 
@@ -102,6 +122,18 @@
 | **Noção**         | Informar à equipe de suporte algum comportamento/característica inadequado de um determinado usuário. |
 | **Impacto**       | Alguém denunciou um usuário ao observar imagens com conteúdo ofensivo em seu perfil. |
 | **Classificação** | Verbo                                    |
+
+<br />
+
+## Descoberta
+
+| Nome      	| Descoberta                                               	|
+| ------------- | ------------------------------------------------------------ |
+| **Sinônimos** 	| Página principal, main page, tela principal              	|
+| **Noção**     	| A tela principal é a que abriga os cartões para que os usuários possam dar likes e nopes. |
+| **Impacto**   	| É na descoberta que o Match acontece.                    	|
+| **Classificação** | Objeto.                                                  	|
+
 
 <br />
 
@@ -366,3 +398,270 @@
 | **Noção**         | Avisos ao usuário de atividades relacionadas ao seu perfil, como mensagens, matchs, etc. |
 | **Impacto**       | O usuário recebeu a notificação de que teve um novo Match. |
 | **Classificação** | Objeto                                   |
+
+<br />
+
+## Oculto
+
+| Nome      	| Oculto                                                   	|
+| ------------- | ------------------------------------------------------------ |
+| **Sinônimos** 	| Escondido                                                	|
+| **Noção**     	| A maior parte das funcionalidades podem ficar escondidas quando o perfil está congelado. |
+| **Impacto**   	| Os cartões ficam ocultos em uma conta congelada.         	|
+| **Classificação** | Ação                                                     	|
+
+<br />
+
+## Passaporte
+
+| Nome      	| Passaporte                                               	|
+| ------------- | ------------------------------------------------------------ |
+| **Sinônimos** 	| Bilhete                                                  	|
+| **Noção**     	| O bilhete serve para que o usuário possa dar match com pessoas de todo o mundo. |
+| **Impacto**   	| O Passaporte faz parte do pacote Tinder Plus.            	|
+| **Classificação** | Objeto.                                                  	|
+
+
+<br />
+
+## Perfil Web
+
+| Nome      	| Perfil Web                                               	|
+| ------------- | ------------------------------------------------------------ |
+| **Sinônimos** 	| Nome de usuário, username                                	|
+| **Noção**     	| Username é uma identificação do usuário para torná-lo acessível aos usuários de todas as partes do mundo. |
+| **Impacto**   	| O perfil web pode ser criado pelo usuário.               	|
+| **Classificação** | Objeto                                                   	|
+
+<br />
+
+## Plano Gold
+
+| Nome              | Plano gold                               |
+| ----------------- | ---------------------------------------- |
+| **Sinônimos**     | Gold, Plano, Planos, Plano Pago          |
+| **Noção**         | Plano pago que fornece likes ilimitados, Rewinds, maior número de super likes por dia, boost mensais e a habilidade de ver os usuários que deram like seu perfil, para os usuários que o assinam |
+| **Impacto**       | O usuário assina o plano gold       |
+| **Classificação** | Objeto                                   |
+
+<br />
+
+## Plano Pago
+
+| Nome      	| Plano pago                                               	|
+| ------------- | ------------------------------------------------------------ |
+| **Sinônimos** 	| Planos pagos, plano, planos.                             	|
+| **Noção**     	| Planos que oferecem benefícios para os usuários que os assinam |
+| **Impacto**   	| O plano pago pode ser Tinder Plus<br/>O plano pago pode ser Tinder Gold |
+| **Classificação** | Objeto                                                   	|
+
+<br />
+
+## Plano Plus
+
+| Nome              | Plano plus                               |
+| ----------------- | ---------------------------------------- |
+| **Sinônimos**     | Plus, Plano, Planos, Plano Pago          |
+| **Noção**         | Plano pago que fornece likes ilimitados, Rewinds, maior número de super likes por dia e boost mensais, para os usuários que o assinam |
+| **Impacto**       | O usuário assina o plano plus            |
+| **Classificação** | Objeto                                   |
+
+<br />
+
+## Recomendar Usuário
+
+| Nome              | Recomendar Usuário                       |
+| ----------------- | ---------------------------------------- |
+| **Sinônimos**     | Recomendar a um amigo                    |
+| **Noção**         | Quando um usuário recomenda o perfil a um amigo |
+| **Impacto**       | O usuário pode recomendar acessando o perfil de interesse |
+| **Classificação** | Verbo                                    |
+
+<br />
+
+## Regras da Comunidade
+
+| Nome      	| Regras da Comunidade.                                    	|
+| ------------- | ------------------------------------------------------------ |
+| **Sinônimos** 	| Community guidelines.                                    	|
+| **Noção**   	| Documento que define comportamentos recomendados e impróprios para usuários da aplicação. |
+| **Impacto**   	| O usuário acessa as regras da comunidade.                	|
+| **Classificação** | Objeto                                                   	|
+
+<br />
+
+## Reported
+
+| Nome              | Reported                                 |
+| ----------------- | ---------------------------------------- |
+| **Sinônimos**     | Reportado, reportar, denunciado          |
+| **Noção**         | Quando o perfil de um usuário é denunciado por outro usuário, essa denúncia é reportada |
+| **Impacto**       | Uma denuncia pode ser reportada no perfil do usuário a ser denunciado ou na tela de mensagens |
+| **Classificação** | Estado                                   |
+
+<br />
+
+## Restaurar Compra
+
+| Nome      	| Restaurar compra.                                        	|
+| ------------- | ------------------------------------------------------------ |
+| **Sinônimos** 	| Restore purchase.                                        	|
+| **Noção**     	| Ação de recuperar acesso a um serviço pago da aplicação previamente assinado, ao trocar de telefone. |
+| **Impacto**   	| O usuário restaura a compra do seu plano pago em seu novo aparelho. |
+| **Classificação** | Verbo                                                    	|
+
+<br />
+
+## Rewind
+
+| Nome              | Rewind                                   |
+| ----------------- | ---------------------------------------- |
+| **Sinônimos**     | Reverter, refazer, voltar, desfazer      |
+| **Noção**         | Quando um usuário quer reverter um deslike |
+| **Impacto**       | O usuário pode reverter um deslike no catálogo de perfis |
+| **Classificação** | Verbo                                    |
+
+<br />
+
+## Sexo
+
+| Nome              | Sexo                                   |
+| ----------------- | -------------------------------------- |
+| **Sinônimos**     | Gênero                                 |
+| **Noção**         | O gênero do usuário (Homem ou Mulher)  |
+| **Impacto**       | O usuário informa se é Homem ou Mulher |
+| **Classificação** | objeto                                 |
+
+<br />
+
+## Smart Photos
+
+| Nome      	| Smart Photos                                             	|
+| ------------- | ------------------------------------------------------------ |
+| **Sinônimos** 	| Fotos inteligentes                                       	|
+| **Noção**     	| Sistema que gerencia as fotos do usuário de acordo com a maior chance de receber like** |
+| **Impacto**   	| O smart photos pode ser habilitado na tela de configuração do perfil |
+| **Classificação** | Objeto                                                   	|
+
+<br />
+
+## Sobre Mim
+
+| Nome              | Sobre Mim                                |
+| ----------------- | ---------------------------------------- |
+| **Sinônimos**     | Informação pessoal, dados pessoais, biografia, sobre. |
+| **Noção**         | Dados básicos e públicos presentes no perfil de um usuário do Tinder, tais como: Descrição, Empresa, Cargo, Escolaridade, Sexo, Idade, Nome. |
+| **Impacto**       | Os usuários podem encontrar e editar informações dos seus perfis na seção "Sobre mim" na página de editar perfil. |
+| **Classificação** | Objeto                                   |
+
+<br />
+
+## Spotify
+
+| Nome      	| Spotify                                                  	|
+| ------------- | ------------------------------------------------------------ |
+| **Sinônimos** 	| Aplicativo de streaming, rede social.                    	|
+| **Noção**     	| Aplicativo de streaming de músicas que possui muitos usuários em comum com o Tinder. |
+| **Impacto**   	| Um usuário conecta sua conta do Tinder ao spotify para poder compartilhar suas músicas em seu perfil do Tinder. |
+| **Classificação** | Objeto                                                   	|
+
+<br />
+
+## Sticker
+
+| Nome              | Sticker                                  |
+| ----------------- | ---------------------------------------- |
+| **Sinônimos**     | Figuras, figura, sticker.                |
+| **Noção**         | Uma tipo de imagem/figura que pode se mover ou não. |
+| **Impacto**       | O usuário envia um sticker para outro.   |
+| **Classificação** | Objeto                                   |
+
+<br />
+
+## Super Like
+
+| Nome      	| Super Like                                               	|
+| ------------- | ------------------------------------------------------------ |
+| **Sinônimos** 	| Super curtida                                            	|
+| **Noção**     	| Uma super curtida garante que o usuário vai aparecer para o perfil desejado. |
+| **Impacto**   	| Um usuário pode dar um super like.                       	|
+| **Classificação** | Verbo                                                    	|
+
+<br />
+
+## Swipe
+
+| Nome      	| Swipe                               	|
+| ------------- | --------------------------------------- |
+| **Sinônimos** 	| Deslizar, arrastar                  	|
+| **Noção**     	| Deslizar é a ação de arrastar o perfil. |
+| **Impacto**   	| Um usuário dá um swipe em um cartão.	|
+| **Classificação** | Verbo                               	|
+
+<br />
+
+## Termos de Serviço
+
+| Nome              | Termos de serviço.                       |
+| ----------------- | ---------------------------------------- |
+| **Sinônimos**     | Terms of service, termos.                |
+| **Noção**         | Termos que o usuário deve concordar para usar a aplicação. |
+| **Impacto**       | O usuário acessa os termos de serviço. <br />O usuário aceita os termos de serviço. |
+| **Classificação** | Objeto                                   |
+
+<br />
+
+## Tinder
+
+| Nome              | Tinder                                   |
+| ----------------- | ---------------------------------------- |
+| **Sinônimos**     | Sistema, aplicação, aplicativo           |
+| **Noção**         | Tinder é um aplicativo de encontros.     |
+| **Impacto**       | No Tinder é possível dar match.O Tinder permite conhecer novas pessoas. |
+| **Classificação** | tem que ser um dos abaixo:Verbo Objeto Estado Sujeito |
+
+<br />
+
+## Usuário
+
+| Nome              | Usuário                                  |
+| ----------------- | ---------------------------------------- |
+| **Sinônimos**     | User, user, usuários, usuários, usuário, users, users. |
+| **Noção**         | Qualquer pessoa que seja cadastrada e utilize o tinder |
+| **Impacto**       | O usuário dá like no perfil de outro usuário. <br />O usuário dá dislike. <br />O usuário conversa com outro usuário. <br />O usuário altera seu perfil. |
+| **Classificação** | Sujeito                                  |
+
+<br />
+
+## Usuário Gold
+
+
+| Nome              | Usuário Gold                             |
+| ----------------- | ---------------------------------------- |
+| **Sinônimos**     | Usuário gold, Gold user, Gold users.     |
+| **Noção**         | Usuário que fez assinatura do plano Gold. |
+| **Impacto**       | O usuário free se transforma em um usuário gold |
+| **Classificação** | Sujeito                                  |
+
+
+<br/>
+
+## Usuário Não Cadastrado
+
+| Nome              | Usuário Não Cadastrado                   |
+| ----------------- | ---------------------------------------- |
+| **Sinônimos**     | Usuário não cadastrado, usuários não cadastrados, usuários não cadastrados, unregistered user, unregistered users, unregistered user, não-usuário, não-usuário. |
+| **Noção**         | Pessoas no processo de cadastro no tinder |
+| **Impacto**       | O usuário não cadastrado se transforma em um usuário. <br />O sistema cria um perfil para o usuário não cadastrado |
+| **Classificação** | Sujeito                                  |
+
+<br />
+
+## Usuário Plus
+
+| Nome      	| Usuário plus                                             	|
+| ------------- | ------------------------------------------------------------ |
+| **Sinônimos** 	| Usuário plus, plus user, plus users.                     	|
+| **Noção**     	| O plus user é aquele que paga para ter certas vantagens no uso do Tinder. |
+| **Impacto**   	| O usuário plus pode dar rewind.                          	|
+| **Classificação** | Sujeito                                                  	|
