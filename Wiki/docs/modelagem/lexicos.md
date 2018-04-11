@@ -435,6 +435,18 @@
 
 <br />
 
+## Perfil
+
+| Nome      	| Perfil                                             	|
+| ------------- | ------------------------------------------------------------ |
+| **Sinônimos** 	| Profile                               	|
+| **Noção**     	| É o local em que todos as informações do usário ficam salvas. |
+| **Impacto**   	|  O sistema cria um perfil para o novo usuário com as informações seu perfil do facebook. <br> O usuário dá _like_ no perfil.  <br> O perfil é retirado da tela do usuário.             	|
+| **Classificação** | Objeto                                                   	|
+
+
+<br />
+
 ## Perfil Web
 
 | Nome      	| Perfil Web                                               	|
@@ -633,7 +645,7 @@
 
 <br />
 
-## Usuario
+## Usuário
 
 | Nome              | Usuário                                  |
 | ----------------- | ---------------------------------------- |
@@ -643,6 +655,19 @@
 | **Classificação** | Sujeito                                  |
 
 <br />
+
+## Usuário Free
+
+
+| Nome              | Usuário Free                             |
+| ----------------- | ---------------------------------------- |
+| **Sinônimos**     | Free user.     |
+| **Noção**         | Usuário que não fez a assinatura de de nenhum serviço pago do tinder. |
+| **Impacto**       | O usuário free se transforma em um usuário gold <br> O usuário free se transforma em um usuário plus <br> O usuário free atinge seu limite de likes |
+| **Classificação** | Sujeito                                  |
+
+
+<br/>
 
 ## Usuário Gold
 
