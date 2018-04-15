@@ -6,8 +6,8 @@
 | Nome      	| Assinar                                                  	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Subscribe, assinatura.  |
-| **Noção**    	| O ato de assinar um Plano pago do tinder                 	|
-| **Impacto**   	| O usuário free assina o plano plus<br/>O usuário free assina o plano gold |
+| **Noção**    	| O ato de assinar um [Plano pago](/modelagem/lexicos#plano-pago) do [tinder](/modelagem/lexicos#tinder)              	|
+| **Impacto**   	| O [usuário free](/modelagem/lexicos#usuario-free) assina o [plano plus](/modelagem/lexicos#plano-plus)<br/>O [usuário free](/modelagem/lexicos#usuario-free) assina o [plano gold](/modelagem/lexicos#plano-gold) |
 | **Classificação** | verbo                                                    	|
 
 <br />
@@ -17,8 +17,8 @@
 | Nome              | Boost                                    |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Fura-fila                                |
-| **Noção**         | Aparecer mais vezes para a pessoa que recebeu o like do usuário |
-| **Impacto**       | O usuário pode usar o boost no catálogo de perfis |
+| **Noção**         | Aparecer mais vezes para a pessoa que recebeu o [like](/modelagem/lexicos#like) do [usuário](/modelagem/lexicos#usuario) |
+| **Impacto**       | O [usuário](/modelagem/lexicos#usuario) pode usar o boost no catálogo de [perfis](/modelagem/lexicos#perfil) |
 | **Classificação** | Verbo                                    |
 
 <br />
@@ -29,7 +29,7 @@
 | ------------- | ----------------------------------------------- |
 |** Sinônimos** 	| Desfazer                                    	|
 | **Noção**     	| Ação de desistir ou se desfazer de um processo. |
-| **Impacto**   	| Um usuário cancela a adição de fotos no perfil  |
+| **Impacto**   	| Um [usuário](/modelagem/lexicos#usuario) cancela a adição de fotos no perfil  |
 | **Classificação** | Verbo                                       	|
 
 <br />
@@ -38,8 +38,8 @@
 
 | Nome      	| Cartão                                                   	|
 | ------------- | ------------------------------------------------------------ |
-| **Sinônimos** 	| Cards, opção de perfis                                   	|
-| **Noção**     	| Os cards são as opções de perfis que aparecem na descoberta. |
+| **Sinônimos** 	| Cards, opção de [perfis](/modelagem/lexicos#perfil)                                   	|
+| **Noção**     	| Os cards são as opções de [perfis](/modelagem/lexicos#perfil) que aparecem na [descoberta](/modelagem/lexicos#descoberta). |
 | **Impacto**   	| Um cartão pode ser deslizado.                            	|
 | **Classificação** | Objeto                                                   	|
 
@@ -51,8 +51,8 @@
 | Nome      	| Chat                                                     	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Conversas, bate-papo                                     	|
-| **Noção**     	| Tela em que o usuário pode manter conversa com outros usuários |
-| **Impacto**   	| O usuário pode manter conversa na tela de Mensagens e Feed   |
+| **Noção**     	| Tela em que o [usuário](/modelagem/lexicos#usuario) pode manter conversa com outros [usuários](/modelagem/lexicos#usuario) |
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) pode manter conversa na tela de [Mensagens](/modelagem/lexicos#mensagem) e [Feed](/modelagem/lexicos#feed)   |
 | **Classificação** | Objeto                                                   	|
 
 <br />
