@@ -61,9 +61,9 @@
 
 | Nome              | compartilhar                             |
 | ----------------- | ---------------------------------------- |
-| **Sinônimos**     | Compartilha, share, shered, compartilhado, compartilhou. |
-| **Noção**         | O ato de compartilhar fotos, videos, áudios, gifs e stickers com outros usuários no chat |
-| **Impacto**       | 1. O usuário compartilha fotos com outro usuário <br />2. O usuário compartilha gifs com outro usuário <br />3.O usuário compartilha stickers com outro usuário |
+| **Sinônimos**     | Compartilha, share, shared, compartilhado, compartilhou. |
+| **Noção**         | O ato de compartilhar fotos, videos, áudios, [gifs](/modelagem/lexicos#gif) e [stickers](/modelagem/lexicos#sticker) com outros [usuários](/modelagem/lexicos#usuario) no [chat](/modelagem/lexicos#chat) |
+| **Impacto**       | 1. O [usuário](/modelagem/lexicos#usuario) compartilha fotos com outro [usuário](/modelagem/lexicos#usuario) <br />2. O [usuário](/modelagem/lexicos#usuario) compartilha [gifs](/modelagem/lexicos#gif) com outro [usuário](/modelagem/lexicos#usuario) <br />3. O [usuário](/modelagem/lexicos#usuario) compartilha [stickers](/modelagem/lexicos#sticker) com outro [usuário](/modelagem/lexicos#usuario) |
 | **Classificação** | Verbo                                    |
 
 <br />
@@ -72,9 +72,9 @@
 
 | Nome      	| Compartilhar minha URL                                   	|
 | ------------- | ------------------------------------------------------------ |
-| **Sinônimos** 	| Compartilhar meu link, compartilhar meu perfil.          	|
-| **Noção**     	| Compartilhamento do perfil do usuário através de um link para uma página web. |
-|**Impacto**   	| O usuário pode compartilhar um link de uma página com o seu perfil web para outras pessoas poderem dar like. |
+| **Sinônimos** 	| Compartilhar meu link, compartilhar meu [perfil](/modelagem/lexicos#perfil).          	|
+| **Noção**     	| Compartilhamento do [perfil](/modelagem/lexicos#perfil) do [usuário](/modelagem/lexicos#usuario) através de um link para uma página web. |
+|**Impacto**   	| O [usuário](/modelagem/lexicos#usuario) pode compartilhar um link de uma página com o seu [perfil](/modelagem/lexicos#usuario) web para outras pessoas poderem dar [like](/modelagem/lexicos#like). |
 |**Classificação**| Objeto                                                   	|
 
 <br />
@@ -84,8 +84,8 @@
 | Nome      	| Congelar conta.                                          	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos**	| Esconder conta, pausar conta.                            	|
-| **Noção**     	| Uma conta pausada é aquela que o usuário só tem acesso ao seu perfil. |
-| **Impacto**   	| Congelar conta oculta a descoberta.                      	|
+| **Noção**     	| Uma conta pausada é aquela que o [usuário](/modelagem/lexicos#usuario) só tem acesso ao seu [perfil](/modelagem/lexicos#perfil). |
+| **Impacto**   	| Congelar conta oculta a [descoberta](/modelagem/lexicos#descoberta).                      	|
 | **Classificação** | Ação                                                     	|
 
 
@@ -97,8 +97,8 @@
 | Nome              | Contatos em comum                        |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Amigos em comum.                         |
-| **Noção**         | Amigos que o usuário possui em comum no facebook com o perfil apresentado. |
-| **Impacto**       | O usuário saberá quais amigos em comum ele possui com o perfil apresentado. |
+| **Noção**         | Amigos que o [usuário](/modelagem/lexicos#usuario) possui em comum no [facebook](/modelagem/lexicos#facebook) com o [perfil](/modelagem/lexicos#perfil) apresentado. |
+| **Impacto**       | O [usuário](/modelagem/lexicos#usuario) saberá quais amigos em comum ele possui com o [perfil](/modelagem/lexicos#perfil) apresentado. |
 | **Classificação** | Sujeito                                  |
 
 <br />
@@ -107,20 +107,20 @@
 
 | Nome      	| Curtir mensagem                                          	|
 | ------------- | ------------------------------------------------------------ |
-| **Sinônimos** 	| Like em mensagem, like na mensagem, coração na mensagem. 	|
-| **Noção**     	| O usuário pode reagir de forma positiva à alguma mensagem recebida com a sinalização de um coração. |
-| **Impacto**   	| O usuário curtiu a mensagem recebida.                    	|
+| **Sinônimos** 	| [Like](/modelagem/lexicos#like) em mensagem, [like](/modelagem/lexicos#like) na [mensagem](/modelagem/lexicos#mensagem), coração na [mensagem](/modelagem/lexicos#mensagem). 	|
+| **Noção**     	| O [usuário](/modelagem/lexicos#usuario) pode reagir de forma positiva à alguma [mensagem](/modelagem/lexicos#mensagem) recebida com a sinalização de um coração. |
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) curtiu a [mensagem](/modelagem/lexicos#mensagem) recebida.                    	|
 | **Classificação** | Objeto                                                   	|
 
 <br />
 
 ## Denunciar Usuário
 
-| Nome              | Denunciar Usuário                        |
+| Nome              | Denunciar [Usuário](/modelagem/lexicos#usuario)                        |
 | ----------------- | ---------------------------------------- |
-| **Sinônimos**     | Reportar usuário, Denunciar.             |
-| **Noção**         | Informar à equipe de suporte algum comportamento/característica inadequado de um determinado usuário. |
-| **Impacto**       | Alguém denunciou um usuário ao observar imagens com conteúdo ofensivo em seu perfil. |
+| **Sinônimos**     | Reportar [usuário](/modelagem/lexicos#usuario), Denunciar.             |
+| **Noção**         | Informar à equipe de suporte algum comportamento/característica inadequado de um determinado [usuário](/modelagem/lexicos#usuario). |
+| **Impacto**       | Alguém denunciou um [usuário](/modelagem/lexicos#usuario) ao observar imagens com conteúdo ofensivo em seu [perfil](/modelagem/lexicos#perfil). |
 | **Classificação** | Verbo                                    |
 
 <br />
@@ -130,8 +130,8 @@
 | Nome      	| Descoberta                                               	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Página principal, main page, tela principal              	|
-| **Noção**     	| A tela principal é a que abriga os cartões para que os usuários possam dar likes e nopes. |
-| **Impacto**   	| É na descoberta que o Match acontece.                    	|
+| **Noção**     	| A tela principal é a que abriga os [cartões](/modelagem/lexicos#cartao) para que os [usuários](/modelagem/lexicos#usuario) possam dar [likes](/modelagem/lexicos#like) e nopes. |
+| **Impacto**   	| É na descoberta que o [Match](/modelagem/lexicos#match) acontece.                    	|
 | **Classificação** | Objeto.                                                  	|
 
 <br />
@@ -141,8 +141,8 @@
 | Nome      	| Descolar                              	|
 | ------------- | ----------------------------------------- |
 | **Sinônimos** 	| Adquirir                              	|
-| **Noção**     	| É possível adquirir boosts e super likes. |
-| **Impacto**   	| O usuário pode descolar super likes.  	|
+| **Noção**     	| É possível adquirir [boosts](/modelagem/lexicos#boost) e [super likes](/modelagem/lexicos#super-like). |
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) pode descolar [super likes](/modelagem/lexicos#super-like).  	|
 | **Classificação** | Ação                                  	|
 
 
@@ -153,8 +153,8 @@
 | Nome      	| Desfazer Match                                           	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Desfazer Match, Unmatch, Unmatched                       	|
-| **Noção**     	| Quando um usuário quer desfazer um match dado com outro usuário |
-| **Impacto**   	| O usuário pode desfazer o match nas conversas e no feed  	|
+| **Noção**     	| Quando um [usuário](/modelagem/lexicos#usuario) quer desfazer um match dado com outro [usuário](/modelagem/lexicos#usuario) |
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) pode desfazer o match nas conversas e no [feed](/modelagem/lexicos#feed)  	|
 | **Classificação** | Verbo                                                    	|
 
 <br />
@@ -163,9 +163,9 @@
 
 | Nome              | Deslike                                  |
 | ----------------- | ---------------------------------------- |
-| **Sinônimos**     | Descurtir, não curtir                    |
-| **Noção**         | O usuário pode descurtir o perfil de outras pessoas. |
-| **Impacto**       | Quando o usuário deslizar a tela para a esquerda ou apertar o ícone de x, ele vai descurtir o perfil daquela pessoa. |
+| **Sinônimos**     | Descurtir, não [curtir](/modelagem/lexicos#like)                    |
+| **Noção**         | O [usuário](/modelagem/lexicos#usuario) pode descurtir o [perfil](/modelagem/lexicos#perfil) de outras [pessoas](/modelagem/lexicos#usuario). |
+| **Impacto**       | Quando o [usuário](/modelagem/lexicos#usuario) deslizar a tela para a esquerda ou apertar o ícone de x, ele vai descurtir o [perfil](/modelagem/lexicos#perfil) daquela [pessoa](/modelagem/lexicos#usuario). |
 | **Classificação** | Verbo                                    |
 
 <br />
@@ -175,8 +175,8 @@
 | Nome      	| Dicas de segurança.                                      	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Safety tips.                                             	|
-| **Noção**     	| Documento que instrui os usuários em como usar a aplicação de forma segura. |
-| **Impacto**   	| O usuário restaura a compra do seu plano pago em seu novo aparelho. |
+| **Noção**     	| Documento que instrui os [usuários](/modelagem/lexicos#usuario) em como usar a [aplicação](/modelagem/lexicos#tinder) de forma segura. |
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) restaura a compra do seu [plano pago](/modelagem/lexicos#plano-pago) em seu novo aparelho. |
 | **Classificação** | Verbo                                                    	|
 
 <br />
@@ -186,8 +186,8 @@
 | Nome      	| Distância                                              	|
 | ------------- | ---------------------------------------------------------- |
 | **Sinônimos** 	| Afastamento, longe, distante.                          	|
-| **Noção**     	| Mostra o quão longe uma pessoa está do usuário no momento. |
-| **Impacto**   	| O usuário vê a distância entre ele e o perfil visualizado. |
+| **Noção**     	| Mostra o quão longe uma pessoa está do [usuário](/modelagem/lexicos#usuario) no momento. |
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) vê a distância entre ele e o [perfil](/modelagem/lexicos#perfil) visualizado. |
 | **Classificação** | Objeto                                                 	|
 
 <br />
@@ -197,8 +197,8 @@
 | Nome              | Distância Máxima                         |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Espaço Máximo                            |
-| **Noção**         | Espaço físico máximo possível de posicionamento entre usuários. |
-| **Impacto**       | Um usuário define a distância máxima dos usuários que quer visualizar. |
+| **Noção**         | Espaço físico máximo possível de posicionamento entre [usuários](/modelagem/lexicos#usuario). |
+| **Impacto**       | Um [usuário](/modelagem/lexicos#usuario) define a [distância](/modelagem/lexicos#distancia) máxima dos [usuários](/modelagem/lexicos#usuario) que quer visualizar. |
 | **Classificação** | Objeto                                   |
 
 <br />
