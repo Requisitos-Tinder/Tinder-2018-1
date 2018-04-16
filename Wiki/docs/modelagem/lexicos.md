@@ -50,7 +50,7 @@
 
 | Nome      	| Chat                                                     	|
 | ------------- | ------------------------------------------------------------ |
-| **Sinônimos** 	| Conversas, bate-papo                                     	|
+| **Sinônimos** 	| conversas, bate-papo                                     	|
 | **Noção**     	| Tela em que o [usuário](/modelagem/lexicos#usuario) pode manter conversa com outros [usuários](/modelagem/lexicos#usuario) |
 | **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) pode manter conversa na tela de [Mensagens](/modelagem/lexicos#mensagem) e [Feed](/modelagem/lexicos#feed)   |
 | **Classificação** | Objeto                                                   	|
@@ -154,7 +154,7 @@
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Desfazer Match, Unmatch, Unmatched                       	|
 | **Noção**     	| Quando um [usuário](/modelagem/lexicos#usuario) quer desfazer um match dado com outro [usuário](/modelagem/lexicos#usuario) |
-| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) pode desfazer o match nas conversas e no [feed](/modelagem/lexicos#feed)  	|
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) pode desfazer o match nas [conversas](/modelagem/lexicos#chat) e no [feed](/modelagem/lexicos#feed)  	|
 | **Classificação** | Verbo                                                    	|
 
 <br />
@@ -209,7 +209,7 @@
 | ------------- | ----------------------------------------------------- |
 | **Sinônimos** 	| Pictograma, emoticon, smiley.                     	|
 | **Noção**     	| Figuras que representam um objeto, conceito ou emoção |
-| **Impacto**   	| O usuário pode enviar emojis para outro.          	|
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) pode enviar emojis para outro.          	|
 | **Classificação** | Objeto                                            	|
 
 <br />
@@ -219,8 +219,8 @@
 | Nome              | Facebook                                 |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Rede social                              |
-| **Noção**         | Rede social que possui muitos usuários em comum com o Tinder. |
-| **Impacto**       | Um usuário se cadastra por meio de sua conta do facebook. Um usuário viu que seu match possuía muitos amigos em comum no facebook. O sistema importa dados da conta de um usuário no facebook após o cadastro. |
+| **Noção**         | Rede social que possui muitos [usuários](/modelagem/lexicos#usuario) em comum com o [Tinder](/modelagem/lexicos#tinder). |
+| **Impacto**       | Um [usuário](/modelagem/lexicos#usuario) se cadastra por meio de sua conta do [facebook](/modelagem/lexicos#facebook). Um [usuário](/modelagem/lexicos#usuario) viu que seu [match](/modelagem/lexicos#match) possuía muitos amigos em comum no [facebook](/modelagem/lexicos#facebook). O [sistema](/modelagem/lexicos#tinder) importa dados da conta de um [usuário](/modelagem/lexicos#usuario) no [facebook](/modelagem/lexicos#facebook) após o cadastro. |
 | **Classificação** | Objeto                                   |
 
 <br />
@@ -230,8 +230,8 @@
 | Nome      	| Faixa Etária                                             	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Faixa de idade. intervalo de idades.                     	|
-| **Noção**     	| O intervalo de idades que o usuário deseja que os perfis visualizados possuam. |
-| **Impacto**   	| O usuário escolhe a faixa etária dos perfis visualizados.	|
+| **Noção**     	| O intervalo de idades que o [usuário](/modelagem/lexicos#usuario) deseja que os [perfis](/modelagem/lexicos#perfil) visualizados possuam. |
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) escolhe a faixa etária dos [perfis](/modelagem/lexicos#perfil) visualizados.	|
 | **Classificação** | Objeto                                                   	|
 
 <br />
@@ -241,8 +241,8 @@
 | Nome              | Feed                                     |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Timeline, atualizações                   |
-| **Noção**         | Tela em que o usuário recebe atualizações sobre seus matches |
-| **Impacto**       | O usuário pode acessar o feed na tela de conversas |
+| **Noção**         | Tela em que o [usuário](/modelagem/lexicos#usuario) recebe atualizações sobre seus [matches](/modelagem/lexicos#match) |
+| **Impacto**       | O [usuário](/modelagem/lexicos#usuario) pode acessar o feed na tela de [conversas](/modelagem/lexicos#chat) |
 | **Classificação** | Objeto                                   |
 
 <br />
@@ -252,8 +252,8 @@
 | Nome      	| Gênero                                                   	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Sexo                                                     	|
-| **Noção**     	| Sexo das pessoas que aparecerão para o usuário.          	|
-| **Impacto**   	| O usuário escolhe o gênero dos perfis que aparecerão: homens, mulheres ou ambos. |
+| **Noção**     	| Sexo das pessoas que aparecerão para o [usuário](/modelagem/lexicos#usuario).          	|
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) escolhe o [gênero](/modelagem/lexicos#genero) dos [perfis](/modelagem/lexicos#perfil) que aparecerão: homens, mulheres ou ambos. |
 | **Classificação** | Objeto                                                   	|
 
 <br />
@@ -264,7 +264,7 @@
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Animation, animação                      |
 | **Noção**         | GIF é um formato de imagem que compacta várias imagens de forma a deixá-la animada. |
-| **Impacto**       | GIFs podem ser mandados dentro de uma conversa. |
+| **Impacto**       | GIFs podem ser mandados dentro de uma [conversa](/modelagem/lexicos#chat). |
 | **Classificação** | Objeto                                   |
 
 <br />
@@ -273,9 +273,9 @@
 
 | Nome      	| Info                                                     	|
 | ------------- | ------------------------------------------------------------ |
-| **Sinônimos** 	| Informações, perfil.                                     	|
-| **Noção**     	| Informações pessoais do usuário.                         	|
-| **Impacto**   	| O usuário deve escolher quais informações pessoais ele vai compartilhar com outros perfis |
+| **Sinônimos** 	| Informações, [perfil](/modelagem/lexicos#perfil).                                     	|
+| **Noção**     	| Informações pessoais do [usuário](/modelagem/lexicos#usuario).                         	|
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) deve escolher quais informações pessoais ele vai compartilhar com outros [perfis](/modelagem/lexicos#perfil) |
 | **Classificação** | Objeto                                                   	|
 
 <br />
@@ -285,8 +285,8 @@
 | Nome              | Instagram                                |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Rede Social                              |
-| **Noção**         | Rede social de fotos que possui muitos usuários em comum com o Tinder. |
-| **Impacto**       | O usuário integra sua conta do Tinder ao instagram para importar as fotos. <br />Um usuário consegue ver as fotos do instagram de outro usuário cuja conta esteja integrada ao Instagram |
+| **Noção**         | Rede social de fotos que possui muitos [usuários](/modelagem/lexicos#usuario) em comum com o [Tinder](/modelagem/lexicos#tinder). |
+| **Impacto**       | O [usuário](/modelagem/lexicos#usuario) integra sua conta do [Tinder](/modelagem/lexicos#tinder) ao instagram para importar as fotos. <br />Um [usuário](/modelagem/lexicos#usuario) consegue ver as fotos do instagram de outro [usuário](/modelagem/lexicos#usuario) cuja conta esteja integrada ao Instagram) |
 | **Classificação** | Objeto                                   |
 
 <br />
@@ -296,7 +296,7 @@
 | Nome      	| Interesses                                               	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Interesse                                                	|
-| **Noção**     	| Quando o sistema cruza interesses em comum entre usuários gerados a partir da integração com o Facebook |
+| **Noção**     	| Quando o [sistema](/modelagem/lexicos#tinder) cruza interesses em comum entre [usuários](/modelagem/lexicos#usuario) gerados a partir da integração com o [Facebook](/modelagem/lexicos#facebook) |
 | **Impacto**   	| Os interesses podem ser visualizados no perfil do usuário	|
 | **Classificação** | Sujeito                                                  	|
 
@@ -307,8 +307,8 @@
 | Nome              | Like                                     |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Curtir, curtida, curtido                 |
-| **Noção**         | O usuário pode curtir os perfis que são exibidos para ele. |
-| **Impacto**       | Quando a tela é deslizada para a direita ou o botão de coração é pressionadao, o usuário está curtindo o perfil de outra pessoa. |
+| **Noção**         | O [usuário](/modelagem/lexicos#usuario) pode curtir os [perfis](/modelagem/lexicos#perfil) que são exibidos para ele. |
+| **Impacto**       | Quando a tela é deslizada para a direita ou o botão de coração é pressionadao, o [usuário](/modelagem/lexicos#usuario) está curtindo o [perfil](/modelagem/lexicos#perfil) de outra pessoa. |
 | **Classificação** | Verbo                                    |
 
 <br />
@@ -318,8 +318,8 @@
 | Nome      	| Localização                                              	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Lugar, local                                             	|
-| **Noção**     	| É o lugar em que o usuário se encontra em determinado momento. |
-| **Impacto**   	| O local do usuário é utilizado para definir os perfis que aparecerão para ele. |
+| **Noção**     	| É o lugar em que o [usuário](/modelagem/lexicos#usuario) se encontra em determinado momento. |
+| **Impacto**   	| O local do [usuário](/modelagem/lexicos#usuario) é utilizado para definir os [perfis](/modelagem/lexicos#perfil) que aparecerão para ele. |
 | **Classificação** | Objeto                                                   	|
 
 <br />
@@ -329,8 +329,8 @@
 | Nome              | Match                                    |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Interesse mútuo                          |
-| **Noção**         | O Match é quando duas ou mais pessoas possuem interesses entre si. |
-| **Impacto**       | Para o interesse mútuo acontecer dois usuários precisam trocar likes entre si. |
+| **Noção**         | O Match é quando duas ou mais [pessoas](/modelagem/lexicos#usuario) possuem interesses entre si. |
+| **Impacto**       | Para o interesse mútuo acontecer dois [usuários](/modelagem/lexicos#usuario) precisam trocar [likes](/modelagem/lexicos#like) entre si. |
 | **Classificação** | Estado                                   |
 
 <br />
@@ -340,8 +340,8 @@
 | Nome      	| Mensagem                                                 	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Textos                                                  	|
-| **Noção**     	| Textos enviados no chat por usuários que deram match.    	|
-| **Impacto**   	| O usuário curtiu a mensagem recebida.<br/>O usuário envia uma mensagem. |
+| **Noção**     	| Textos enviados no [chat](/modelagem/lexicos#chat) por [usuários](/modelagem/lexicos#usuario) que deram [match](/modelagem/lexicos#match).    	|
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) curtiu a mensagem recebida.<br/>O [usuário](/modelagem/lexicos#usuario) envia uma mensagem. |
 | **Classificação** | Objeto                                                   	|
 
 <br />
@@ -351,8 +351,8 @@
 | Nome      	| Meus Artistas Preferidos.                                	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Top Artists                                              	|
-| **Noção**     	| Lista dos artistas preferidos de um usuário que fica disponível em seu perfil. |
-| **Impacto**   	| O usuário define quais de seus artistas preferidos serão mostrados em seu perfil. |
+| **Noção**     	| Lista dos artistas preferidos de um [usuário](/modelagem/lexicos#usuario) que fica disponível em seu [perfil](/modelagem/lexicos#perfil). |
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) define quais de seus artistas preferidos serão mostrados em seu [perfil](/modelagem/lexicos#perfil). |
 | **Classificação** | Objeto                                                   	|
 
 <br />
@@ -362,8 +362,8 @@
 | Nome              | Minha Música                             |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Música preferida, música mais tocada.    |
-| **Noção**         | Música escolhida para aparecer no perfil do usuário. |
-| **Impacto**       | Aparecerá no perfil do usuário uma música que ele escolher como sua preferida. |
+| **Noção**         | Música escolhida para aparecer no [perfil](/modelagem/lexicos#perfil) do [usuário](/modelagem/lexicos#usuario). |
+| **Impacto**       | Aparecerá no [perfil](/modelagem/lexicos#perfil) do [usuário](/modelagem/lexicos#usuario) uma música que ele escolher como sua preferida. |
 | **Classificação** | Objeto                                   |
 
 <br />
@@ -374,29 +374,29 @@
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Work mode                                |
 | **Noção**         | Modo da versão web aplicação que simula um ambiente de trabalho. |
-| **Impacto**       | O usuário ativa modo de trabalho.<br />O usuário desativa modo de trabalho. |
+| **Impacto**       | O [usuário](/modelagem/lexicos#usuario) ativa modo de trabalho.<br />O [usuário](/modelagem/lexicos#usuario) desativa modo de trabalho. |
 | **Classificação** | Estado                                   |
 
 <br />
 
 ## Mostrar-me no Tinder
 
-| Nome              | Mostrar-me no Tinder.                    |
+| Nome              | Mostrar-me no [Tinder](/modelagem/lexicos#tinder).                    |
 | ----------------- | ---------------------------------------- |
-| **Sinônimos**     | Esconder perfil, não ser visualizado.    |
-| **Noção**         | O Usuário pode escolher que seu perfil seja visualizado ou não por outros usuários. |
-| **Impacto**       | O usuário desativou a opção mostrar-me no tinder. |
+| **Sinônimos**     | Esconder [perfil](/modelagem/lexicos#perfil), não ser visualizado.    |
+| **Noção**         | O [Usuário](/modelagem/lexicos#usuario) pode escolher que seu [perfil](/modelagem/lexicos#perfil) seja visualizado ou não por outros [usuários](/modelagem/lexicos#usuario). |
+| **Impacto**       | O [usuário](/modelagem/lexicos#usuario) desativou a opção mostrar-me no [tinder](/modelagem/lexicos#tinder). |
 | **Classificação** | Objeto                                   |
 
 <br />
 
 ## Nome de Usuário
 
-| Nome              | Nome de usuário                          |
+| Nome              | Nome de [usuário](/modelagem/lexicos#usuario)                          |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Nickname, Nick, @.                       |
-| **Noção**         | Nome único que o usuário pode escolher para poder compartilhar seu perfil. |
-| **Impacto**       | O usuário passa a poder compartilhar seu perfil através da função *Compartilhar minha URL*. |
+| **Noção**         | Nome único que o [usuário](/modelagem/lexicos#usuario) pode escolher para poder [compartilhar](/modelagem/lexicos#compartilhar) seu [perfil](/modelagem/lexicos#perfil). |
+| **Impacto**       | O [usuário](/modelagem/lexicos#usuario) passa a poder [compartilhar](/modelagem/lexicos#compartilhar) seu [perfil](/modelagem/lexicos#perfil) através da função *Compartilhar minha URL*. |
 | **Classificação** | Objeto                                   |
 
 <br />
@@ -406,8 +406,8 @@
 | Nome              | Notificações                             |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Notificação, Aviso.                      |
-| **Noção**         | Avisos ao usuário de atividades relacionadas ao seu perfil, como mensagens, matchs, etc. |
-| **Impacto**       | O usuário recebeu a notificação de que teve um novo Match. |
+| **Noção**         | Avisos ao [usuário](/modelagem/lexicos#usuario) de atividades relacionadas ao seu [perfil](/modelagem/lexicos#perfil), como [mensagens](/modelagem/lexicos#mensagem), [matchs](/modelagem/lexicos#match), etc. |
+| **Impacto**       | O [usuário](/modelagem/lexicos#usuario) recebeu a notificação de que teve um novo [Match](/modelagem/lexicos#match). |
 | **Classificação** | Objeto                                   |
 
 <br />
@@ -417,8 +417,8 @@
 | Nome      	| Oculto                                                   	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Escondido                                                	|
-| **Noção**     	| A maior parte das funcionalidades podem ficar escondidas quando o perfil está congelado. |
-| **Impacto**   	| Os cartões ficam ocultos em uma conta congelada.         	|
+| **Noção**     	| A maior parte das funcionalidades podem ficar escondidas quando o [perfil](/modelagem/lexicos#perfil) está congelado. |
+| **Impacto**   	| Os [cartões](/modelagem/lexicos#cartao) ficam ocultos em uma [conta congelada](/modelagem/lexicos#congelar-conta).         	|
 | **Classificação** | Ação                                                     	|
 
 <br />
@@ -428,8 +428,8 @@
 | Nome      	| Passaporte                                               	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Bilhete                                                  	|
-| **Noção**     	| O bilhete serve para que o usuário possa dar match com pessoas de todo o mundo. |
-| **Impacto**   	| O Passaporte faz parte do pacote Tinder Plus.            	|
+| **Noção**     	| O bilhete serve para que o [usuário](/modelagem/lexicos#usuario) possa dar [match](/modelagem/lexicos#match) com [pessoas](/modelagem/lexicos#usuario) de todo o mundo. |
+| **Impacto**   	| O Passaporte faz parte do pacote [Tinder Plus](/modelagem/lexicos#plano-plus).            	|
 | **Classificação** | Objeto.                                                  	|
 
 
@@ -440,8 +440,8 @@
 | Nome      	| Perfil                                             	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Profile                               	|
-| **Noção**     	| É o local em que todos as informações do usário ficam salvas. |
-| **Impacto**   	|  O sistema cria um perfil para o novo usuário com as informações seu perfil do facebook. <br> O usuário dá _like_ no perfil.  <br> O perfil é retirado da tela do usuário.             	|
+| **Noção**     	| É o local em que todos as [informações](/modelagem/lexicos#info) do [usuário](/modelagem/lexicos#usuario) ficam salvas. |
+| **Impacto**   	|  O [sistema](/modelagem/lexicos#tinder) cria um perfil para o novo [usuário](/modelagem/lexicos#usuario) com as informações seu perfil do [facebook](/modelagem/lexicos#facebook). <br> O [usuário](/modelagem/lexicos#usuario) dá [like](/modelagem/lexicos#like) no perfil.  <br> O perfil é retirado da tela do [usuário](/modelagem/lexicos#usuario).             	|
 | **Classificação** | Objeto                                                   	|
 
 
@@ -449,11 +449,11 @@
 
 ## Perfil Web
 
-| Nome      	| Perfil Web                                               	|
+| Nome      	| [Perfil](/modelagem/lexicos#perfil) Web                                               	|
 | ------------- | ------------------------------------------------------------ |
-| **Sinônimos** 	| Nome de usuário, username                                	|
-| **Noção**     	| Username é uma identificação do usuário para torná-lo acessível aos usuários de todas as partes do mundo. |
-| **Impacto**   	| O perfil web pode ser criado pelo usuário.               	|
+| **Sinônimos** 	| Nome de [usuário](/modelagem/lexicos#usuario), username                                	|
+| **Noção**     	| Username é uma identificação do [usuário](/modelagem/lexicos#usuario) para torná-lo acessível aos [usuários](/modelagem/lexicos#usuario) de todas as partes do mundo. |
+| **Impacto**   	| O perfil web pode ser criado pelo [usuário](/modelagem/lexicos#usuario).               	|
 | **Classificação** | Objeto                                                   	|
 
 <br />
@@ -463,8 +463,8 @@
 | Nome              | Plano gold                               |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Gold, Plano, Planos, Plano Pago          |
-| **Noção**         | Plano pago que fornece likes ilimitados, Rewinds, maior número de super likes por dia, boost mensais e a habilidade de ver os usuários que deram like seu perfil, para os usuários que o assinam |
-| **Impacto**       | O usuário assina o plano gold       |
+| **Noção**         | [Plano pago](/modelagem/lexicos#plano-pago) que fornece [likes](/modelagem/lexicos#like) ilimitados, [Rewinds](/modelagem/lexicos#rewind), maior número de [super likes](/modelagem/lexicos#super-like) por dia, [boost](/modelagem/lexicos#boost) mensais e a habilidade de ver os [usuários](/modelagem/lexicos#usuario) que deram [like](/modelagem/lexicos#like) seu [perfil](/modelagem/lexicos#perfil), para os [usuários](/modelagem/lexicos#usuario) que o [assinam](/modelagem/lexicos#assinar) |
+| **Impacto**       | O [usuário](/modelagem/lexicos#usuario) [assina](/modelagem/lexicos#assinar) o plano gold       |
 | **Classificação** | Objeto                                   |
 
 <br />
@@ -474,8 +474,8 @@
 | Nome      	| Plano pago                                               	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Planos pagos, plano, planos.                             	|
-| **Noção**     	| Planos que oferecem benefícios para os usuários que os assinam |
-| **Impacto**   	| O plano pago pode ser Tinder Plus<br/>O plano pago pode ser Tinder Gold |
+| **Noção**     	| Planos que oferecem benefícios para os [usuários](/modelagem/lexicos#usuario) que os [assinam](/modelagem/lexicos#assinar) |
+| **Impacto**   	| O plano pago pode ser [Tinder Plus](/modelagem/lexicos#plano-plus)<br/>O plano pago pode ser [Tinder Gold](/modelagem/lexicos#plano-gold) |
 | **Classificação** | Objeto                                                   	|
 
 <br />
@@ -484,20 +484,20 @@
 
 | Nome              | Plano plus                               |
 | ----------------- | ---------------------------------------- |
-| **Sinônimos**     | Plus, Plano, Planos, Plano Pago          |
-| **Noção**         | Plano pago que fornece likes ilimitados, Rewinds, maior número de super likes por dia e boost mensais, para os usuários que o assinam |
-| **Impacto**       | O usuário assina o plano plus            |
+| **Sinônimos**     | Plus, Plano, Planos, [Plano Pago](/modelagem/lexicos#plano-pago)          |
+| **Noção**         | [Plano pago](/modelagem/lexicos#plano-pago) que fornece [likes](/modelagem/lexicos#like) ilimitados, [Rewinds](/modelagem/lexicos#rewind), maior número de [super likes](/modelagem/lexicos#super-like) por dia e [boost](/modelagem/lexicos#boost) mensais, para os [usuários](/modelagem/lexicos#usuario) que o [assinam](/modelagem/lexicos#assinar) |
+| **Impacto**       | O [usuário](/modelagem/lexicos#usuario) [assina](/modelagem/lexicos#assinar) o plano plus            |
 | **Classificação** | Objeto                                   |
 
 <br />
 
 ## Recomendar Usuário
 
-| Nome              | Recomendar Usuário                       |
+| Nome              | Recomendar [Usuário](/modelagem/lexicos#usuario)                       |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Recomendar a um amigo                    |
-| **Noção**         | Quando um usuário recomenda o perfil a um amigo |
-| **Impacto**       | O usuário pode recomendar acessando o perfil de interesse |
+| **Noção**         | Quando um [usuário](/modelagem/lexicos#usuario) recomenda o [perfil](/modelagem/lexicos#perfil) a um amigo |
+| **Impacto**       | O [usuário](/modelagem/lexicos#usuario) pode recomendar acessando o [perfil](/modelagem/lexicos#perfil) de [interesse](/modelagem/lexicos#interesses) |
 | **Classificação** | Verbo                                    |
 
 <br />
@@ -507,8 +507,8 @@
 | Nome      	| Regras da Comunidade.                                    	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Community guidelines.                                    	|
-| **Noção**   	| Documento que define comportamentos recomendados e impróprios para usuários da aplicação. |
-| **Impacto**   	| O usuário acessa as regras da comunidade.                	|
+| **Noção**   	| Documento que define comportamentos recomendados e impróprios para [usuários](/modelagem/lexicos#usuario) da [aplicação](/modelagem/lexicos#tinder). |
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) acessa as regras da comunidade.                	|
 | **Classificação** | Objeto                                                   	|
 
 <br />
@@ -518,8 +518,8 @@
 | Nome              | Reported                                 |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Reportado, reportar, denunciado          |
-| **Noção**         | Quando o perfil de um usuário é denunciado por outro usuário, essa denúncia é reportada |
-| **Impacto**       | Uma denuncia pode ser reportada no perfil do usuário a ser denunciado ou na tela de mensagens |
+| **Noção**         | Quando o [perfil](/modelagem/lexicos#perfil) de um [usuário](/modelagem/lexicos#usuario) é [denunciado](/modelagem/lexicos#denunciar-usuario) por outro [usuário](/modelagem/lexicos#usuario), essa [denúncia](/modelagem/lexicos#denunciar-usuario) é reportada |
+| **Impacto**       | Uma [denuncia](/modelagem/lexicos#denunciar-usuario) pode ser reportada no [perfil](/modelagem/lexicos#perfil) do [usuário](/modelagem/lexicos#usuario) a ser [denunciado](/modelagem/lexicos#denunciar-usuario) ou na tela de [mensagens](/modelagem/lexicos#mensagem) |
 | **Classificação** | Estado                                   |
 
 <br />
@@ -529,8 +529,8 @@
 | Nome      	| Restaurar compra.                                        	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Restore purchase.                                        	|
-| **Noção**     	| Ação de recuperar acesso a um serviço pago da aplicação previamente assinado, ao trocar de telefone. |
-| **Impacto**   	| O usuário restaura a compra do seu plano pago em seu novo aparelho. |
+| **Noção**     	| Ação de recuperar acesso a um serviço pago da [aplicação](/modelagem/lexicos#tinder) previamente [assinado](/modelagem/lexicos#assinar), ao trocar de telefone. |
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) restaura a compra do seu [plano pago](/modelagem/lexicos#plano-pago) em seu novo aparelho. |
 | **Classificação** | Verbo                                                    	|
 
 <br />
@@ -540,8 +540,8 @@
 | Nome              | Rewind                                   |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Reverter, refazer, voltar, desfazer      |
-| **Noção**         | Quando um usuário quer reverter um deslike |
-| **Impacto**       | O usuário pode reverter um deslike no catálogo de perfis |
+| **Noção**         | Quando um [usuário](/modelagem/lexicos#usuario) quer reverter um [deslike](/modelagem/lexicos#deslike) |
+| **Impacto**       | O [usuário](/modelagem/lexicos#usuario) pode reverter um [deslike](/modelagem/lexicos#deslike) no catálogo de [perfis](/modelagem/lexicos#perfil) |
 | **Classificação** | Verbo                                    |
 
 <br />
@@ -550,9 +550,9 @@
 
 | Nome              | Sexo                                   |
 | ----------------- | -------------------------------------- |
-| **Sinônimos**     | Gênero                                 |
-| **Noção**         | O gênero do usuário (Homem ou Mulher)  |
-| **Impacto**       | O usuário informa se é Homem ou Mulher |
+| **Sinônimos**     | [Gênero](/modelagem/lexicos#genero)                                 |
+| **Noção**         | O [gênero](/modelagem/lexicos#genero) do [usuário](/modelagem/lexicos#usuario) (Homem ou Mulher)  |
+| **Impacto**       | O [usuário](/modelagem/lexicos#usuario) informa se é Homem ou Mulher |
 | **Classificação** | objeto                                 |
 
 <br />
@@ -562,8 +562,8 @@
 | Nome      	| Smart Photos                                             	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Fotos inteligentes                                       	|
-| **Noção**     	| Sistema que gerencia as fotos do usuário de acordo com a maior chance de receber like** |
-| **Impacto**   	| O smart photos pode ser habilitado na tela de configuração do perfil |
+| **Noção**     	| Sistema que gerencia as fotos do [usuário](/modelagem/lexicos#usuario) de acordo com a maior chance de receber [like](/modelagem/lexicos#like)** |
+| **Impacto**   	| O smart photos pode ser habilitado na tela de configuração do [perfil](/modelagem/lexicos#perfil) |
 | **Classificação** | Objeto                                                   	|
 
 <br />
@@ -573,8 +573,8 @@
 | Nome              | Sobre Mim                                |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Informação pessoal, dados pessoais, biografia, sobre. |
-| **Noção**         | Dados básicos e públicos presentes no perfil de um usuário do Tinder, tais como: Descrição, Empresa, Cargo, Escolaridade, Sexo, Idade, Nome. |
-| **Impacto**       | Os usuários podem encontrar e editar informações dos seus perfis na seção "Sobre mim" na página de editar perfil. |
+| **Noção**         | Dados básicos e públicos presentes no [perfil](/modelagem/lexicos#perfil) de um [usuário](/modelagem/lexicos#usuario) do [Tinder](/modelagem/lexicos#tinder), tais como: Descrição, Empresa, Cargo, Escolaridade, [Sexo](/modelagem/lexicos#sexo), Idade, Nome. |
+| **Impacto**       | Os [usuários](/modelagem/lexicos#usuario) podem encontrar e editar [informações](/modelagem/lexicos#info) dos seus [perfis](/modelagem/lexicos#perfil) na seção "Sobre mim" na página de editar [perfil](/modelagem/lexicos#perfil). |
 | **Classificação** | Objeto                                   |
 
 <br />
@@ -584,8 +584,8 @@
 | Nome      	| Spotify                                                  	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Aplicativo de streaming, rede social.                    	|
-| **Noção**     	| Aplicativo de streaming de músicas que possui muitos usuários em comum com o Tinder. |
-| **Impacto**   	| Um usuário conecta sua conta do Tinder ao spotify para poder compartilhar suas músicas em seu perfil do Tinder. |
+| **Noção**     	| Aplicativo de streaming de músicas que possui muitos [usuários](/modelagem/lexicos#usuario) em comum com o [Tinder](/modelagem/lexicos#tinder). |
+| **Impacto**   	| Um [usuário](/modelagem/lexicos#usuario) conecta sua conta do [Tinder](/modelagem/lexicos#tinder) ao spotify para poder compartilhar suas músicas em seu [perfil](/modelagem/lexicos#perfil) do [Tinder](/modelagem/lexicos#tinder). |
 | **Classificação** | Objeto                                                   	|
 
 <br />
@@ -596,7 +596,7 @@
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Figuras, figura, sticker.                |
 | **Noção**         | Uma tipo de imagem/figura que pode se mover ou não. |
-| **Impacto**       | O usuário envia um sticker para outro.   |
+| **Impacto**       | O [usuário](/modelagem/lexicos#usuario) envia um sticker para outro.   |
 | **Classificação** | Objeto                                   |
 
 <br />
@@ -606,8 +606,8 @@
 | Nome      	| Super Like                                               	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Super curtida                                            	|
-| **Noção**     	| Uma super curtida garante que o usuário vai aparecer para o perfil desejado. |
-| **Impacto**   	| Um usuário pode dar um super like.                       	|
+| **Noção**     	| Uma super curtida garante que o usuário vai aparecer para o [perfil](/modelagem/lexicos#perfil) desejado. |
+| **Impacto**   	| Um [usuário](/modelagem/lexicos#usuario) pode dar um super like.                       	|
 | **Classificação** | Verbo                                                    	|
 
 <br />
@@ -617,8 +617,8 @@
 | Nome      	| Swipe                               	|
 | ------------- | --------------------------------------- |
 | **Sinônimos** 	| Deslizar, arrastar                  	|
-| **Noção**     	| Deslizar é a ação de arrastar o perfil. |
-| **Impacto**   	| Um usuário dá um swipe em um cartão.	|
+| **Noção**     	| Deslizar é a ação de arrastar o [perfil](/modelagem/lexicos#perfil). |
+| **Impacto**   	| Um [usuário](/modelagem/lexicos#usuario) dá um swipe em um [cartão](/modelagem/lexicos#cartao).	|
 | **Classificação** | Verbo                               	|
 
 <br />
@@ -628,8 +628,8 @@
 | Nome              | Termos de serviço.                       |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Terms of service, termos.                |
-| **Noção**         | Termos que o usuário deve concordar para usar a aplicação. |
-| **Impacto**       | O usuário acessa os termos de serviço. <br />O usuário aceita os termos de serviço. |
+| **Noção**         | Termos que o [usuário](/modelagem/lexicos#usuario) deve concordar para usar a [aplicação](/modelagem/lexicos#aplicacao). |
+| **Impacto**       | O [usuário](/modelagem/lexicos#usuario) acessa os termos de serviço. <br />O [usuário](/modelagem/lexicos#usuario) aceita os termos de serviço. |
 | **Classificação** | Objeto                                   |
 
 <br />
@@ -640,8 +640,8 @@
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Sistema, aplicação, aplicativo           |
 | **Noção**         | Tinder é um aplicativo de encontros.     |
-| **Impacto**       | No Tinder é possível dar match.O Tinder permite conhecer novas pessoas. |
-| **Classificação** | tem que ser um dos abaixo:Verbo Objeto Estado Sujeito |
+| **Impacto**       | No Tinder é possível dar [match](/modelagem/lexicos#match).O Tinder permite conhecer novas pessoas. |
+| **Classificação** | objeto
 
 <br />
 
@@ -650,8 +650,8 @@
 | Nome              | Usuário                                  |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | User, user, usuários, usuários, usuário, users, users. |
-| **Noção**         | Qualquer pessoa que seja cadastrada e utilize o tinder |
-| **Impacto**       | O usuário dá like no perfil de outro usuário. <br />O usuário dá dislike. <br />O usuário conversa com outro usuário. <br />O usuário altera seu perfil. |
+| **Noção**         | Qualquer pessoa que seja cadastrada e utilize o [tinder](/modelagem/lexicos#tinder) |
+| **Impacto**       | O usuário dá like no [perfil](/modelagem/lexicos#perfil) de outro usuário. <br />O usuário dá [deslike](/modelagem/lexicos#deslike). <br />O usuário [conversa](/modelagem/lexicos#chat) com outro usuário. <br />O usuário altera seu [perfil](/modelagem/lexicos#perfil). |
 | **Classificação** | Sujeito                                  |
 
 <br />
@@ -662,8 +662,8 @@
 | Nome              | Usuário Free                             |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Free user.     |
-| **Noção**         | Usuário que não fez a assinatura de de nenhum serviço pago do tinder. |
-| **Impacto**       | O usuário free se transforma em um usuário gold <br> O usuário free se transforma em um usuário plus <br> O usuário free atinge seu limite de likes |
+| **Noção**         | [Usuário](/modelagem/lexicos#usuario) que não fez a [assinatura](/modelagem/lexicos#assinar) de de nenhum [serviço pago](/modelagem/lexicos#plano-pago) do [tinder](/modelagem/lexicos#tinder). |
+| **Impacto**       | O [usuário](/modelagem/lexicos#usuario) free se transforma em um [usuário gold](/modelagem/lexicos#usuario-gold) <br> O usuário free se transforma em um [usuário plus](/modelagem/lexicos#usuario-plus) <br> O usuário free atinge seu limite de [likes](/modelagem/lexicos#like) |
 | **Classificação** | Sujeito                                  |
 
 
@@ -675,8 +675,8 @@
 | Nome              | Usuário Gold                             |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Usuário gold, Gold user, Gold users.     |
-| **Noção**         | Usuário que fez assinatura do plano Gold. |
-| **Impacto**       | O usuário free se transforma em um usuário gold |
+| **Noção**         | [Usuário](/modelagem/lexicos#usuario) que fez assinatura do [plano Gold](/modelagem/lexicos#plano-gold). |
+| **Impacto**       | O [usuário free](/modelagem/lexicos#usuario-free) se transforma em um usuário gold |
 | **Classificação** | Sujeito                                  |
 
 
@@ -687,8 +687,8 @@
 | Nome              | Usuário Não Cadastrado                   |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Usuário não cadastrado, usuários não cadastrados, usuários não cadastrados, unregistered user, unregistered users, unregistered user, não-usuário, não-usuário. |
-| **Noção**         | Pessoas no processo de cadastro no tinder |
-| **Impacto**       | O usuário não cadastrado se transforma em um usuário. <br />O sistema cria um perfil para o usuário não cadastrado |
+| **Noção**         | Pessoas no processo de cadastro no [tinder](/modelagem/lexicos#tinder) |
+| **Impacto**       | O usuário não cadastrado se transforma em um [usuário](/modelagem/lexicos#usuario). <br />O [sistema](/modelagem/lexicos#tinder) cria um [perfil](/modelagem/lexicos#perfil) para o usuário não cadastrado |
 | **Classificação** | Sujeito                                  |
 
 <br />
@@ -698,6 +698,6 @@
 | Nome      	| Usuário plus                                             	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Usuário plus, plus user, plus users.                     	|
-| **Noção**     	| O plus user é aquele que paga para ter certas vantagens no uso do Tinder. |
-| **Impacto**   	| O usuário plus pode dar rewind.                          	|
+| **Noção**     	| O plus user é aquele que [paga](/modelagem/lexicos#assinar) para ter certas vantagens no uso do [Tinder](/modelagem/lexicos#tinder). |
+| **Impacto**   	| O usuário plus pode dar [rewind](/modelagem/lexicos#rewind).                          	|
 | **Classificação** | Sujeito                                                  	|
