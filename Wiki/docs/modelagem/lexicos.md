@@ -324,6 +324,17 @@
 
 <br />
 
+## Logar
+
+| Nome      	| Login                                              	|
+| ------------- | ------------------------------------------------------------ |
+| **Sinônimos** 	| Logar, Logado, Logando, Entrar                                          	|
+| **Noção**     	| Quando o [usuário](/modelagem/lexicos#usuario) entra com a sua conta na [aplicação](/modelagem/lexicos#tinder) |
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) pode logar ao abrir o [aplicação](/modelagem/lexicos#tinder) se já for cadastrado |
+| **Classificação** | Verbo                                                   	|
+
+<br />
+
 ## Match
 
 | Nome              | Match                                    |
