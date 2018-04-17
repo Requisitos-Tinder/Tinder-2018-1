@@ -1,4 +1,4 @@
-site_name: Wiki 
+site_name: Wiki
 pages:
      - Home: index.md
      - Pré-Rastreabilidade:
@@ -70,6 +70,8 @@ pages:
          - 'Cenario 31': 'modelagem/cenarios/cenario31.md'
          - 'Cenario 32': 'modelagem/cenarios/cenario32.md'
          - 'Cenario 33': 'modelagem/cenarios/cenario33.md'
+         - 'Cenario 34': 'modelagem/cenarios/cenario34.md'
+
 theme:
     name: simplex
 extra_css:

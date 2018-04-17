@@ -68,3 +68,5 @@
 ###32. [Denunciar Usuário pelo Feed](../modelagem/cenarios/cenario32.md)
 <br />
 ###33. [Definir Minha Música](../modelagem/cenarios/cenario33.md)
+<br />
+###34. [Denunciar Usuário pela Conversa](../modelagem/cenarios/cenario34.md)
