@@ -4,7 +4,7 @@
 
 |Título|Enviar [Mensagem](/modelagem/lexicos#mensagem) pelo [Feed](/modelagem/lexicos#feed)|
 |------|-------------------------|
-|**Objetivo**|O [usuário](/modelagem/lexicos#usuario) pode acessar uma [conversa](/modelagem/lexicos#chat) pelo [feed](/modelagem/lexicos#feed).|
+|**Objetivo**|O [usuário](/modelagem/lexicos#usuario) pode enviar uma [conversa](/modelagem/lexicos#chat) pelo [feed](/modelagem/lexicos#feed).|
 |**Contexto**|**Pré-condição:**<br/>1. Estar logado.<br/>2. Ter dado [match](/modelagem/lexicos#match).<br/>**Pós-condição:**<br/>1. A [mensagem](/modelagem/lexicos#mensagem) será enviada.|
 |**Atores**|[Usuário](/modelagem/lexicos#usuario)<br/>[Sistema](/modelagem/lexicos#tinder)|
 |**Recursos**|Acesso à Internet.|

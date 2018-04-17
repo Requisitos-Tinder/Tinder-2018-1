@@ -72,3 +72,5 @@
 ###34. [Denunciar Usuário pela Conversa](../modelagem/cenarios/cenario34.md)
 <br />
 ###35. [Enviar Mensagem pelo Feed](../modelagem/cenarios/cenario35.md)
+<br />
+###36. [Abrir Conversa pelo Feed](../modelagem/cenarios/cenario36.md)
