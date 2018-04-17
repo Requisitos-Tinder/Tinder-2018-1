@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
-        <title>Cenario 33 - Wiki</title>
+        <title>Cenario 34 - Wiki</title>
         <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome-4.5.0.css" rel="stylesheet">
         <link href="../../../css/base.css" rel="stylesheet">
@@ -329,12 +329,12 @@
     <a href="../cenario32/">Cenario 32</a>
 </li>
                             
-<li class="active">
-    <a href="./">Cenario 33</a>
+<li >
+    <a href="../cenario33/">Cenario 33</a>
 </li>
                             
-<li >
-    <a href="../cenario34/">Cenario 34</a>
+<li class="active">
+    <a href="./">Cenario 34</a>
 </li>
                         </ul>
                     </li>
@@ -347,12 +347,12 @@
                     </a>
                 </li>
                     <li >
-                        <a rel="next" href="../cenario32/">
+                        <a rel="next" href="../cenario33/">
                             <i class="fa fa-arrow-left"></i> Previous
                         </a>
                     </li>
-                    <li >
-                        <a rel="prev" href="../cenario34/">
+                    <li class="disabled">
+                        <a rel="prev" >
                             Next <i class="fa fa-arrow-right"></i>
                         </a>
                     </li>
@@ -364,48 +364,48 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#definir-minha-musica">Definir Minha Música</a></li>
+        <li class="main active"><a href="#denunciar-usuario-pela-conversa">Denunciar Usuário pela Conversa</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="definir-minha-musica">Definir Minha Música</h1>
+<h1 id="denunciar-usuario-pela-conversa">Denunciar Usuário pela Conversa</h1>
 <p><br /></p>
 <table>
 <thead>
 <tr>
 <th>Título</th>
-<th>Definir <a href="../../../modelagem/lexicos#minha-musica">Minha Música</a>.</th>
+<th><a href="../../../modelagem/lexicos#denunciar-usuario">Denunciar Usuário</a> pela <a href="../../../modelagem/lexicos#chat">Conversa</a></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>Objetivo</strong></td>
-<td>Exibir música escolhida no <a href="../../../modelagem/lexicos#perfil">perfil</a> do <a href="../../../modelagem/lexicos#usuario">usuário</a>.</td>
+<td>O <a href="../../../modelagem/lexicos#usuario">usuário</a> pode <a href="../../../modelagem/lexicos#denunciar-usuario">denunciar</a> o <a href="../../../modelagem/lexicos#perfil">perfil</a> pela <a href="../../../modelagem/lexicos#chat">conversa</a>.</td>
 </tr>
 <tr>
 <td><strong>Contexto</strong></td>
-<td><strong>Pré-condições:</strong><br/>1. Estar logado no <a href="../../../modelagem/lexicos#tinder">sistema</a>.<br/>2. Possuir uma conta no <a href="../../../modelagem/lexicos#spotify">Spotify</a>.<br/><strong>Pós-condição:</strong><br/>1. A música escolhida será exibida no <a href="../../../modelagem/lexicos#perfil">perfil</a> do <a href="../../../modelagem/lexicos#usuario">usuário</a>.</td>
+<td><strong>Pré-condição:</strong><br/>1. Estar logado<br/>2. <a href="../../../modelagem/lexicos#match">Match</a> entre os <a href="../../../modelagem/lexicos#usuario">usuários</a><strong>Pós-condição:</strong><br/>1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> não poderá ver o <a href="../../../modelagem/lexicos#perfil">perfil</a> denunciado e a <a href="../../../modelagem/lexicos#tinder">aplicação</a> deverá tomar providências em relação a <a href="../../../modelagem/lexicos#denunciar-usuario">denúncia</a>.</td>
 </tr>
 <tr>
 <td><strong>Atores</strong></td>
-<td><a href="../../../modelagem/lexicos#usuario">Usuário</a>.</td>
+<td><a href="../../../modelagem/lexicos#usuario">Usuário</a><br/><a href="../../../modelagem/lexicos#tinder">Sistema</a></td>
 </tr>
 <tr>
 <td><strong>Recursos</strong></td>
-<td>Conexão estável com a internet.</td>
+<td>Acesso à Internet</td>
 </tr>
 <tr>
 <td><strong>Episódios</strong></td>
-<td>1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> clica no ícone de <a href="../../../modelagem/lexicos#perfil">perfil</a> no topo da tela.<br/>2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> clica em "Editar <a href="../../../modelagem/lexicos#perfil">perfil</a>".<br/>3. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona "Escolher <a href="../../../modelagem/lexicos#minha-musica">minha música</a>".<br/>4. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona a música através da lista de músicas populares ou pela barra de pesquisa.</td>
+<td>1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> abre a <a href="../../../modelagem/lexicos#tinder">aplicação</a>.<br/>2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> abre a aba <a href="../../../modelagem/lexicos#feed">feed</a> e <a href="../../../modelagem/lexicos#mensagem">mensagens</a>.<br/>3. O <a href="../../../modelagem/lexicos#usuario">usuário</a> abre a <a href="../../../modelagem/lexicos#chat">conversa</a> do <a href="../../../modelagem/lexicos#perfil">perfil</a> que quer <a href="../../../modelagem/lexicos#denunciar-usuario">denunciar</a>.<br/>4. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona o ícone de bandeira.<br/>5. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona <a href="../../../modelagem/lexicos#denunciar-usuario">report</a> o <a href="../../../modelagem/lexicos#perfil">perfil</a>.<br/>6. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona o motivo.<br/>7. O <a href="../../../modelagem/lexicos#tinder">sistema</a> exibe uma <a href="../../../modelagem/lexicos#mensagem">mensagem</a> de <a href="../../../modelagem/lexicos#reported">reported</a>.</td>
 </tr>
 <tr>
 <td><strong>Restrições</strong></td>
-<td>Fluxo intuitivo.</td>
+<td></td>
 </tr>
 <tr>
 <td><strong>Exceção</strong></td>
-<td>1. A música não estar disponível no <a href="../../../modelagem/lexicos#spotify">Spotify</a>.<br/>2. A internet parar de funcionar no meio da ação.<br/>3. O <a href="../../../modelagem/lexicos#usuario">usuário</a> fechar o <a href="../../../modelagem/lexicos#tinder">aplicativo</a> antes de terminar a ação.</td>
+<td>1. A internet parar de funcionar no meio da ação.<br/>2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> fechar o <a href="../../../modelagem/lexicos#tinder">aplicativo</a> antes de terminar a ação.</td>
 </tr>
 </tbody>
 </table></div>

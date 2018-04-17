@@ -902,7 +902,7 @@
         }, 
         {
             "location": "/modelagem/cenarios/", 
-            "text": "Cen\u00e1rios\n\n\n\n\n\n\n1. \nCadastrar Usu\u00e1rio com o Facebook\n\n\n\n\n2. \nCadastrar Usu\u00e1rio com N\u00famero de Celular\n\n\n\n\n3. \n Login com Facebook\n\n\n\n\n4. \nLogin com N\u00famero de Celular.\n\n\n\n\n5. \nEscolher Fotos de Perfil\n\n\n\n\n6. \nSmart Photos\n\n\n\n\n7. \nConectar Perfil com Instagram\n\n\n\n\n8. \nConectar Perfil com Spotify.\n\n\n\n\n9. \nSobre Mim\n\n\n\n\n10. \nAvaliar Perfil de Outros Usu\u00e1rios\n\n\n\n\n11. \nAvaliar com Like Outros Perfis\n\n\n\n\n12. \nAvaliar com Deslike Outros Perfis\n\n\n\n\n13. \nAvaliar com Super Like Outros Perfis\n\n\n\n\n14. \nDenunciar Perfil de Outros Usu\u00e1rios\n\n\n\n\n15. \nRecomendar um Perfil\n\n\n\n\n16. \nRealizar um Match entre Usu\u00e1rios\n\n\n\n\n17. \nConversas com Outros Usu\u00e1rios\n\n\n\n\n18. \nAcessar o Feed\n\n\n\n\n19. \nComprar Boost\n\n\n\n\n20. \nComprar Super Like\n\n\n\n\n21. \nComprar Tinder Plus\n\n\n\n\n22. \nComprar Tinder Gold\n\n\n\n\n23. \nAcessar Lista de Matches\n\n\n\n\n24. \nConfigura\u00e7\u00e3o de Descoberta\n\n\n\n\n25. \nConfigura\u00e7\u00e3o do Feed\n\n\n\n\n26. \nConfigura\u00e7\u00e3o do Perfil Web\n\n\n\n\n27. \nConfigura\u00e7\u00e3o de Notifica\u00e7\u00e3o\n\n\n\n\n28. \nDeletar Conta\n\n\n\n\n29. \nCongelar Conta\n\n\n\n\n30. \nDesfazer um Match Existente pelo Feed\n\n\n\n\n31. \nDesfazer Match pela Conversa\n\n\n\n\n32. \nDenunciar Usu\u00e1rio pelo Feed\n\n\n\n\n33. \nDefinir Minha M\u00fasica", 
+            "text": "Cen\u00e1rios\n\n\n\n\n\n\n1. \nCadastrar Usu\u00e1rio com o Facebook\n\n\n\n\n2. \nCadastrar Usu\u00e1rio com N\u00famero de Celular\n\n\n\n\n3. \n Login com Facebook\n\n\n\n\n4. \nLogin com N\u00famero de Celular.\n\n\n\n\n5. \nEscolher Fotos de Perfil\n\n\n\n\n6. \nSmart Photos\n\n\n\n\n7. \nConectar Perfil com Instagram\n\n\n\n\n8. \nConectar Perfil com Spotify.\n\n\n\n\n9. \nSobre Mim\n\n\n\n\n10. \nAvaliar Perfil de Outros Usu\u00e1rios\n\n\n\n\n11. \nAvaliar com Like Outros Perfis\n\n\n\n\n12. \nAvaliar com Deslike Outros Perfis\n\n\n\n\n13. \nAvaliar com Super Like Outros Perfis\n\n\n\n\n14. \nDenunciar Perfil de Outros Usu\u00e1rios\n\n\n\n\n15. \nRecomendar um Perfil\n\n\n\n\n16. \nRealizar um Match entre Usu\u00e1rios\n\n\n\n\n17. \nConversas com Outros Usu\u00e1rios\n\n\n\n\n18. \nAcessar o Feed\n\n\n\n\n19. \nComprar Boost\n\n\n\n\n20. \nComprar Super Like\n\n\n\n\n21. \nComprar Tinder Plus\n\n\n\n\n22. \nComprar Tinder Gold\n\n\n\n\n23. \nAcessar Lista de Matches\n\n\n\n\n24. \nConfigura\u00e7\u00e3o de Descoberta\n\n\n\n\n25. \nConfigura\u00e7\u00e3o do Feed\n\n\n\n\n26. \nConfigura\u00e7\u00e3o do Perfil Web\n\n\n\n\n27. \nConfigura\u00e7\u00e3o de Notifica\u00e7\u00e3o\n\n\n\n\n28. \nDeletar Conta\n\n\n\n\n29. \nCongelar Conta\n\n\n\n\n30. \nDesfazer um Match Existente pelo Feed\n\n\n\n\n31. \nDesfazer Match pela Conversa\n\n\n\n\n32. \nDenunciar Usu\u00e1rio pelo Feed\n\n\n\n\n33. \nDefinir Minha M\u00fasica\n\n\n\n\n34. \nDenunciar Usu\u00e1rio pela Conversa", 
             "title": "Cen\u00e1rios"
         }, 
         {
@@ -1074,6 +1074,11 @@
             "location": "/modelagem/cenarios/#33-definir-minha-musica", 
             "text": "", 
             "title": "33. Definir Minha M\u00fasica"
+        }, 
+        {
+            "location": "/modelagem/cenarios/#34-denunciar-usuario-pela-conversa", 
+            "text": "", 
+            "title": "34. Denunciar Usu\u00e1rio pela Conversa"
         }, 
         {
             "location": "/modelagem/referencias/", 
@@ -1754,6 +1759,16 @@
             "location": "/modelagem/cenarios/cenario33/#definir-minha-musica", 
             "text": "T\u00edtulo  Definir  Minha M\u00fasica .      Objetivo  Exibir m\u00fasica escolhida no  perfil  do  usu\u00e1rio .    Contexto  Pr\u00e9-condi\u00e7\u00f5es: 1. Estar logado no  sistema . 2. Possuir uma conta no  Spotify . P\u00f3s-condi\u00e7\u00e3o: 1. A m\u00fasica escolhida ser\u00e1 exibida no  perfil  do  usu\u00e1rio .    Atores  Usu\u00e1rio .    Recursos  Conex\u00e3o est\u00e1vel com a internet.    Epis\u00f3dios  1. O  usu\u00e1rio  clica no \u00edcone de  perfil  no topo da tela. 2. O  usu\u00e1rio  clica em \"Editar  perfil \". 3. O  usu\u00e1rio  seleciona \"Escolher  minha m\u00fasica \". 4. O  usu\u00e1rio  seleciona a m\u00fasica atrav\u00e9s da lista de m\u00fasicas populares ou pela barra de pesquisa.    Restri\u00e7\u00f5es  Fluxo intuitivo.    Exce\u00e7\u00e3o  1. A m\u00fasica n\u00e3o estar dispon\u00edvel no  Spotify . 2. A internet parar de funcionar no meio da a\u00e7\u00e3o. 3. O  usu\u00e1rio  fechar o  aplicativo  antes de terminar a a\u00e7\u00e3o.", 
             "title": "Definir Minha M\u00fasica"
+        }, 
+        {
+            "location": "/modelagem/cenarios/cenario34/", 
+            "text": "Denunciar Usu\u00e1rio pela Conversa\n\n\n\n\n\n\n\n\n\n\nT\u00edtulo\n\n\nDenunciar Usu\u00e1rio\n pela \nConversa\n\n\n\n\n\n\n\n\n\n\nObjetivo\n\n\nO \nusu\u00e1rio\n pode \ndenunciar\n o \nperfil\n pela \nconversa\n.\n\n\n\n\n\n\nContexto\n\n\nPr\u00e9-condi\u00e7\u00e3o:\n1. Estar logado\n2. \nMatch\n entre os \nusu\u00e1rios\nP\u00f3s-condi\u00e7\u00e3o:\n1. O \nusu\u00e1rio\n n\u00e3o poder\u00e1 ver o \nperfil\n denunciado e a \naplica\u00e7\u00e3o\n dever\u00e1 tomar provid\u00eancias em rela\u00e7\u00e3o a \nden\u00fancia\n.\n\n\n\n\n\n\nAtores\n\n\nUsu\u00e1rio\nSistema\n\n\n\n\n\n\nRecursos\n\n\nAcesso \u00e0 Internet\n\n\n\n\n\n\nEpis\u00f3dios\n\n\n1. O \nusu\u00e1rio\n abre a \naplica\u00e7\u00e3o\n.\n2. O \nusu\u00e1rio\n abre a aba \nfeed\n e \nmensagens\n.\n3. O \nusu\u00e1rio\n abre a \nconversa\n do \nperfil\n que quer \ndenunciar\n.\n4. O \nusu\u00e1rio\n seleciona o \u00edcone de bandeira.\n5. O \nusu\u00e1rio\n seleciona \nreport\n o \nperfil\n.\n6. O \nusu\u00e1rio\n seleciona o motivo.\n7. O \nsistema\n exibe uma \nmensagem\n de \nreported\n.\n\n\n\n\n\n\nRestri\u00e7\u00f5es\n\n\n\n\n\n\n\n\nExce\u00e7\u00e3o\n\n\n1. A internet parar de funcionar no meio da a\u00e7\u00e3o.\n2. O \nusu\u00e1rio\n fechar o \naplicativo\n antes de terminar a a\u00e7\u00e3o.", 
+            "title": "Cenario 34"
+        }, 
+        {
+            "location": "/modelagem/cenarios/cenario34/#denunciar-usuario-pela-conversa", 
+            "text": "T\u00edtulo  Denunciar Usu\u00e1rio  pela  Conversa      Objetivo  O  usu\u00e1rio  pode  denunciar  o  perfil  pela  conversa .    Contexto  Pr\u00e9-condi\u00e7\u00e3o: 1. Estar logado 2.  Match  entre os  usu\u00e1rios P\u00f3s-condi\u00e7\u00e3o: 1. O  usu\u00e1rio  n\u00e3o poder\u00e1 ver o  perfil  denunciado e a  aplica\u00e7\u00e3o  dever\u00e1 tomar provid\u00eancias em rela\u00e7\u00e3o a  den\u00fancia .    Atores  Usu\u00e1rio Sistema    Recursos  Acesso \u00e0 Internet    Epis\u00f3dios  1. O  usu\u00e1rio  abre a  aplica\u00e7\u00e3o . 2. O  usu\u00e1rio  abre a aba  feed  e  mensagens . 3. O  usu\u00e1rio  abre a  conversa  do  perfil  que quer  denunciar . 4. O  usu\u00e1rio  seleciona o \u00edcone de bandeira. 5. O  usu\u00e1rio  seleciona  report  o  perfil . 6. O  usu\u00e1rio  seleciona o motivo. 7. O  sistema  exibe uma  mensagem  de  reported .    Restri\u00e7\u00f5es     Exce\u00e7\u00e3o  1. A internet parar de funcionar no meio da a\u00e7\u00e3o. 2. O  usu\u00e1rio  fechar o  aplicativo  antes de terminar a a\u00e7\u00e3o.", 
+            "title": "Denunciar Usu\u00e1rio pela Conversa"
         }
     ]
 }
