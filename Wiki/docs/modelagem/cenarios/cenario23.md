@@ -2,12 +2,12 @@
 
 <br />
 
-|Título|Acessar Lista de _Matches_|
+|Título|Acessar Lista de [_Matches_](/modelagem/lexicos#match)|
 |------|--------------------------|
-|**Objetivo**|Ganhar a acesso a uma lista com todos os _matches_ do usuário|
-|**Contexto**|**Pré-condição:** Possuir matches.<br /> **Pós-condição:** O usuário terá acesso a uma lista com todos os seus _matches_.|
-|**Atores**|Usuário.|
+|**Objetivo**|Ganhar a acesso a uma lista com todos os [_matches_](/modelagem/lexicos#match) do [usuário](/modelagem/lexicos#usuario)|
+|**Contexto**|**Pré-condição:** Possuir [matches](/modelagem/lexicos#match).<br /> **Pós-condição:** O [usuário](/modelagem/lexicos#usuario) terá acesso a uma lista com todos os seus [_matches_](/modelagem/lexicos#match).|
+|**Atores**|[Usuário](/modelagem/lexicos#usuario).|
 |**Recursos**|1. Conexão estável com a internet.|
-|**Episódios**|1. O usuário acessa o aplicativo do Tinder.<br />2. O usuário realiza _Login_.<br />3. O usuário clica no ícone de _chat_ no topo da tela.<br />4. O usuário visualiza uma lista com todos os seus _matches_.|
-|**Restrições**|1. A lista deve estar em ordem cronológica<br />2. A lista deve apresentar a imagem e o nome do perfil de cada _matche_.|
-|**Exceção**|1. A internet parar de funcionar no meio da ação.<br />2. O usuário fechar o aplicativo antes de terminar a ação.|
+|**Episódios**|1. O [usuário](/modelagem/lexicos#usuario) acessa o [aplicativo](/modelagem/lexicos#usuario).<br />2. O [usuário](/modelagem/lexicos#usuario) realiza _Login_.<br />3. O [usuário](/modelagem/lexicos#usuario) clica no ícone de [_chat_](/modelagem/lexicos#chat) no topo da tela.<br />4. O [usuário](/modelagem/lexicos#usuario) visualiza uma lista com todos os seus [_matches_](/modelagem/lexicos#match).|
+|**Restrições**|1. A lista deve estar em ordem cronológica<br />2. A lista deve apresentar a imagem e o nome do [perfil](/modelagem/lexicos#perfil) de cada [_match_](/modelagem/lexicos#match).|
+|**Exceção**|1. A internet parar de funcionar no meio da ação.<br />2. O [usuário](/modelagem/lexicos#usuario) fechar o [aplicativo](/modelagem/lexicos#tinder) antes de terminar a ação.|
