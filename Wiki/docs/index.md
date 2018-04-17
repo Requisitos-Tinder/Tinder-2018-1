@@ -58,6 +58,28 @@ A equipe é formada por seis alunos de Engenharia de Software da Universidade de
 
 <br>
 
+## Ferramentas Utilizadas
+
+- ### [Github](https://github.com/Requisitos-Tinder/Tinder-2018-1)
+O Github foi utilizado pela equipe para a armazenar todos os documentos produzidos e para manter o versionamento e a rastreabilidade do projeto.
+
+- ### Google Drive
+O Google Drive foi a ferramenta utilizada para a criação de todos os documentos da equipe. Todos os arquivos foram primeiramente armazenados no Drive e posteriormente enviados para a Wiki da equipe.
+
+- ### Google Hangouts
+O Google Hangouts serviu para a realização de grande parte das reuniões entre os membros do projeto.
+
+- ### MeisterTask
+Para o controle das tarefas da equipe, foi utilizado o MeisterTask, onde dividimos todas as tarefas a serem realizadas pelos membros. 
+
+- ### MindMeister
+Devido à dificuldade de conciliação de horário dos membros, foi utilizado o MindMeister para que os requisitos fossem levantados, onde todos os membros podiam adicionar requisitos e os demais pudiam votar se concordavam ou não, além de ser possível abrir uma discussão à respeito desse requisito. 
+
+- ### Telegram
+O Telegram foi o principal meio de comunicação entre a equipe por meio de mensagens.
+
+<br>
+
 
 ## Referências
 
