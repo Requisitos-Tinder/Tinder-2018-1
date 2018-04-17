@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
-        <title>Cenario 29 - Wiki</title>
+        <title>Cenario 35 - Wiki</title>
         <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome-4.5.0.css" rel="stylesheet">
         <link href="../../../css/base.css" rel="stylesheet">
@@ -313,8 +313,8 @@
     <a href="../cenario28/">Cenario 28</a>
 </li>
                             
-<li class="active">
-    <a href="./">Cenario 29</a>
+<li >
+    <a href="../cenario29/">Cenario 29</a>
 </li>
                             
 <li >
@@ -337,8 +337,8 @@
     <a href="../cenario34/">Cenario 34</a>
 </li>
                             
-<li >
-    <a href="../cenario35/">Cenario 35</a>
+<li class="active">
+    <a href="./">Cenario 35</a>
 </li>
                         </ul>
                     </li>
@@ -351,12 +351,12 @@
                     </a>
                 </li>
                     <li >
-                        <a rel="next" href="../cenario28/">
+                        <a rel="next" href="../cenario34/">
                             <i class="fa fa-arrow-left"></i> Previous
                         </a>
                     </li>
-                    <li >
-                        <a rel="prev" href="../cenario30/">
+                    <li class="disabled">
+                        <a rel="prev" >
                             Next <i class="fa fa-arrow-right"></i>
                         </a>
                     </li>
@@ -368,48 +368,48 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#congelar-conta">Congelar Conta</a></li>
+        <li class="main active"><a href="#denunciar-usuario-pela-conversa">Denunciar Usuário pela Conversa</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="congelar-conta">Congelar Conta</h1>
+<h1 id="denunciar-usuario-pela-conversa">Denunciar Usuário pela Conversa</h1>
 <p><br /></p>
 <table>
 <thead>
 <tr>
 <th>Título</th>
-<th><a href="../../../modelagem/lexicos#congelar-conta">Congelar Conta</a></th>
+<th>Enviar <a href="../../../modelagem/lexicos#mensagem">Mensagem</a> pelo <a href="../../../modelagem/lexicos#feed">Feed</a></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>Objetivo</strong></td>
-<td>Manter a conta sem mostrá-la para outros <a href="../../../modelagem/lexicos#usuario">usuários</a>, apenas as configurações de <a href="../../../modelagem/lexicos#perfil">perfil</a> podem ser acessadas pelo <a href="../../../modelagem/lexicos#usuario">usuário</a>.</td>
+<td>O <a href="../../../modelagem/lexicos#usuario">usuário</a> pode acessar uma <a href="../../../modelagem/lexicos#chat">conversa</a> pelo <a href="../../../modelagem/lexicos#feed">feed</a>.</td>
 </tr>
 <tr>
 <td><strong>Contexto</strong></td>
-<td><strong>Pré-condição:</strong> O <a href="../../../modelagem/lexicos#usuario">usuário</a> deve possuir um <a href="../../../modelagem/lexicos#perfil">perfil</a> e estar logado.<br/><strong>Pós-condição:</strong> A conta do <a href="../../../modelagem/lexicos#usuario">usuário</a> terá sido <a href="../../../modelagem/lexicos#congelar-conta">congelada</a> e estará oculta para outros <a href="../../../modelagem/lexicos#usuario">usuários</a>.</td>
+<td><strong>Pré-condição:</strong><br/>1. Estar logado.<br/>2. Ter dado <a href="../../../modelagem/lexicos#match">match</a>.<br/><strong>Pós-condição:</strong><br/>1. A <a href="../../../modelagem/lexicos#mensagem">mensagem</a> será enviada.</td>
 </tr>
 <tr>
 <td><strong>Atores</strong></td>
-<td><a href="../../../modelagem/lexicos#usuario">Usuário</a> <a href="../../../modelagem/lexicos#tinder">Sistema</a></td>
+<td><a href="../../../modelagem/lexicos#usuario">Usuário</a><br/><a href="../../../modelagem/lexicos#tinder">Sistema</a></td>
 </tr>
 <tr>
 <td><strong>Recursos</strong></td>
-<td>Acesso à Internet</td>
+<td>Acesso à Internet.</td>
 </tr>
 <tr>
 <td><strong>Episódios</strong></td>
-<td>1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> abre o <a href="../../../modelagem/lexicos#tinder">aplicativo</a>.<br/>2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> abre a aba <a href="../../../modelagem/lexicos#perfil">perfil</a>.<br/>3. O <a href="../../../modelagem/lexicos#usuario">usuário</a> clica em configurações.<br/>4. O <a href="../../../modelagem/lexicos#usuario">usuário</a> desliza a página até a opção deletar conta.<br/>5. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona deletar conta.<br/>6. O <a href="../../../modelagem/lexicos#usuario">usuário</a> escolhe a opção <a href="../../../modelagem/lexicos#congelar-conta">congelar a minha conta</a>.<br/>7. O <a href="../../../modelagem/lexicos#tinder">sistema</a> abre a tela principal.<br/>8. O <a href="../../../modelagem/lexicos#tinder">sistema</a> exibe a <a href="../../../modelagem/lexicos#mensagem">mensagem</a> ‘Seu <a href="../../../modelagem/lexicos#cartao">cartão</a> está oculto’.<br/>9. O <a href="../../../modelagem/lexicos#tinder">sistema</a> exibe opção de ativar <a href="../../../modelagem/lexicos#descoberta">descoberta</a>.</td>
+<td>1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> abre o <a href="../../../modelagem/lexicos#tinder">aplicativo</a>.<br/>2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> vai para a aba de <a href="../../../modelagem/lexicos#feed">feed</a>.<br/>3. O <a href="../../../modelagem/lexicos#usuario">usuário</a> clica ícone de balão no <a href="../../../modelagem/lexicos#cartao">cartão</a> do <a href="../../../modelagem/lexicos#perfil">perfil</a>.<br/>4. O <a href="../../../modelagem/lexicos#usuario">usuário</a> escreve a <a href="../../../modelagem/lexicos#mensagem">mensagem</a>.<br/>5. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona enviar.<br/>6. O <a href="../../../modelagem/lexicos#tinder">sistema</a> exibe a <a href="../../../modelagem/lexicos#mensagem">mensagem</a> enviada.</td>
 </tr>
 <tr>
 <td><strong>Restrições</strong></td>
-<td>O fluxo não ser intuitivo</td>
+<td>1. <a href="../../../modelagem/lexicos#usuario">Usuários</a> que dão continuidade a <a href="../../../modelagem/lexicos#chat">conversa</a>.<br/>2. <a href="../../../modelagem/lexicos#usuario">Usuários</a> interessados.</td>
 </tr>
 <tr>
 <td><strong>Exceção</strong></td>
-<td>1. A internet pode cair durante a execução da ação.<br/>2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> pode fechar a <a href="../../../modelagem/lexicos#tinder">aplicação</a> antes de completar a ação.</td>
+<td>1. A internet parar de funcionar no meio da ação.<br/>2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> fechar o <a href="../../../modelagem/lexicos#tinder">aplicativo</a> durante a ação.</td>
 </tr>
 </tbody>
 </table></div>
