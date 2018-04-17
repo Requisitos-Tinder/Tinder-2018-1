@@ -1,5 +1,7 @@
 # **Resultado Final das Técnicas de Elicitação:**
 
+### **Requisitos Funcionais**  
+
 | Número | Requisito                                                                                                                                           | Técnica                  |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
 | 1      | O usuário deve ser capaz de editar perfil.                                                                                                          | [Introspecção](introspeccao)             |
@@ -57,3 +59,19 @@
 | 53     | O usuário deve ser capaz de recomendar um perfil para alguém.                                                                                       | [Observação Participativa](observacao_participativa/) |
 | 54     | O sistema deve atualizar o feed com as novas informações dos matches.                                                                               | [Observação Participativa](observacao_participativa/) |
 | 55     | O sistema deve oferecer perfis para super like. (função super likeable)                                                                             | [Observação Participativa](observacao_participativa/) |
+
+### **Requisitos Não Funcionais**  
+
+| Número | Requisito                                                                                                                                           | Categoria                 |
+|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+|1 |Suporte à plataforma Android |Compatibilidade|
+|2 |Suporte à plataforma IOS |Compatibilidade|
+|3 |Suporte à plataforma Web |Compatibilidade|
+|4 |Tempo mínimo de resposta entre cada perfil avaliado |Desempenho|
+|5 |Tempo mínimo de respostas quando houver o match |Desempenho|
+|6 |Segurança ao guardar os dados do usuário |Segurança|
+|7 |Segurança ao realizar a integração com as redes sociais (Facebook, Instragram, Spotify) |Segurança|
+|8 |Linguagem de fácil entendimento |Usabilidade|
+|9 |Compatibilidade com versões de browser (Google Chrome, Mozilla Firefox, etc) |Compatibilidade
+|10 |Compatibilidade com versões de sistemas operacionais móveis |Compatibilidade
+|11 |Interface intuítiva e de fácil compreensão |Usabilidade
