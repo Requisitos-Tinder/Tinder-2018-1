@@ -163,7 +163,15 @@
 </li>
                             
 <li >
+    <a href="../../DiagCasoDeUso/">Diagramas de Caso de Uso</a>
+</li>
+                            
+<li >
     <a href="../">Casos de Uso</a>
+</li>
+                            
+<li >
+    <a href="../../EspSuplementar/">Especificação Suplementar</a>
 </li>
                             
 <li >
@@ -476,11 +484,149 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#uc01-cadastrar-usuario">UC01 - Cadastrar Usuário</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-</div>
+<h2 id="uc01-cadastrar-usuario">UC01 - Cadastrar Usuário</h2>
+<p><br />
+<strong>Descrição</strong>: Este caso de uso permite ao <a href="../../../modelagem/lexicos#usuario">usuário</a> se cadastrar na aplicação. Esse cadastro poderá ser feito com uma conta do <a href="../../../modelagem/lexicos#facebook">Facebook</a> ou com o uso do número de celular.</p>
+<p><strong>Ator principal</strong>: Não-usuário.
+<br /></p>
+<p><strong>Pré-requisitos</strong>:  O <a href="../../../modelagem/lexicos#usuario">usuário</a> deve estar desconectado de uma conta.
+<br /></p>
+<p><strong>Fluxo Principal</strong>:
+<br /> 1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> não cadastrado acessa o <a href="../../../modelagem/lexicos#tinder">Tinder</a>.
+<br /> 2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> não cadastrado seleciona a opção "Entrar com <a href="../../../modelagem/lexicos#facebook">Facebook</a>".
+<br /> 4. O <a href="../../../modelagem/lexicos#usuario">usuário</a> não cadastrado concede a permissão para o que <a href="../../../modelagem/lexicos#tinder">Tinder</a> receba informações do seu perfil do <a href="../../../modelagem/lexicos#facebook">Facebook</a>.
+<br /> 5. O <a href="../../../modelagem/lexicos#tinder">sistema</a> cria um perfil para o novo <a href="../../../modelagem/lexicos#usuario">usuário</a> com as informações seu perfil do <a href="../../../modelagem/lexicos#facebook">Facebook</a>.
+<br /> 6. O <a href="../../../modelagem/lexicos#usuario">usuário</a> não cadastrado passa a ser um usuário.</p>
+<p><br /></p>
+<p><strong>Regras de Negócio 01</strong>:</p>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Formato</th>
+<th>Obrigatoriedade</th>
+<th>Valor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Conta no <a href="../../../modelagem/lexicos#facebook">Facebook</a></td>
+<td></td>
+<td>Sim</td>
+<td>Conta válida no <a href="../../../modelagem/lexicos#facebook">Facebook</a></td>
+</tr>
+<tr>
+<td>Foto</td>
+<td></td>
+<td>Sim</td>
+<td>No mínimo uma foto</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p><strong>Fluxo Alternativo</strong>:
+<br /> 1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> não cadastrado acessa o <a href="../../../modelagem/lexicos#tinder">Tinder</a>.
+<br /> 2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> não cadastrado seleciona a opção "Entrar com número de telefone".
+<br /> 3. O <a href="../../../modelagem/lexicos#usuario">usuário</a> não cadastrado insere seu o numero do seu celular e seleciona o botão "Continuar".
+<br /> 4. O <a href="../../../modelagem/lexicos#tinder">sistema</a> envia um sms com o código validador para o <a href="../../../modelagem/lexicos#usuario">usuário</a> não cadastrado.
+<br /> 5. O <a href="../../../modelagem/lexicos#usuario">usuário</a> não cadastrado insere o código validador no campo indicado e seleciona a opção "Continuar".
+<br /> 6. O <a href="../../../modelagem/lexicos#usuario">usuário</a> não cadastrado insere o seu email.
+<br /> 7. O <a href="../../../modelagem/lexicos#usuario">usuário</a> cadastrado insere o seu nome.
+<br /> 8. O <a href="../../../modelagem/lexicos#usuario">usuário</a> cadastrado insere o sua data de nascimento.
+<br /> 9. O <a href="../../../modelagem/lexicos#usuario">usuário</a> não cadastrado insere o seu sexo.
+<br /> 10. O <a href="../../../modelagem/lexicos#usuario">usuário</a> não cadastrado escolhe o gênero das pessoas de seu interesse.
+<br /> 11. O <a href="../../../modelagem/lexicos#usuario">usuário</a> não cadastrado insere uma foto no campo indicado e seleciona a opção "Continuar".</p>
+<p><br />
+<strong>Regras de negócio 02</strong>:</p>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Formato</th>
+<th>Obrigatoriedade</th>
+<th>Valor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Número de celular</td>
+<td>Varia de acordo com os países.</td>
+<td>Sim</td>
+<td>Número de celular válido</td>
+</tr>
+<tr>
+<td>Email</td>
+<td>exemplo@exemplo.com ou exemplo@exemplo.com.br</td>
+<td>Sim</td>
+<td>O e-mail não pode ser igual a um já registrado e deve estar no formato aceito.</td>
+</tr>
+<tr>
+<td>Foto</td>
+<td></td>
+<td>Sim</td>
+<td>No mínimo uma foto</td>
+</tr>
+<tr>
+<td>Código</td>
+<td>Número</td>
+<td>Sim</td>
+<td></td>
+</tr>
+<tr>
+<td>Nome</td>
+<td>String</td>
+<td>Sim</td>
+<td></td>
+</tr>
+<tr>
+<td>Data de Nascimento</td>
+<td>dd/mm/aaaa</td>
+<td>Sim</td>
+<td>A data de nascimento irá indicar a idade do usuário em seu perfil</td>
+</tr>
+<tr>
+<td>Sexo</td>
+<td>F/M</td>
+<td>Sim</td>
+<td>Indica o gênero do usuário</td>
+</tr>
+<tr>
+<td>Gênero</td>
+<td>Homem, mulher ou ambos</td>
+<td>Sim</td>
+<td>Gênero das pessoas que irão aparecer na descoberta do usuário</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p><strong>Fluxo de Exceção 01</strong>: Conta do <a href="../../../modelagem/lexicos#facebook">Facebook</a> já cadastrada
+<br /> 1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> não cadastrado acessa o <a href="../../../modelagem/lexicos#tinder">Tinder</a>.
+<br /> 2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> não cadastrado seleciona a opção "Entrar com Facebook".
+<br /> 3. O <a href="../../../modelagem/lexicos#usuario">usuário</a> não cadastrado concede a permissão para que o Tinder receba informações do seu perfil do <a href="../../../modelagem/lexicos#facebook">Facebook</a>.
+<br /> 4. Já existe um cadastro com a conta do <a href="../../../modelagem/lexicos#facebook">Facebook</a>.
+<br /> 5. O <a href="../../../modelagem/lexicos#tinder">sistema</a> retorna ao passo 2 do fluxo principal.</p>
+<p><br /></p>
+<p><strong>Fluxo de Exceção 02</strong>: Conta do Facebook inválida
+<br /> 1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> não cadastrado acessa o <a href="../../../modelagem/lexicos#tinder">Tinder</a>.
+<br /> 2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> não cadastrado seleciona a opção "Entrar com <a href="../../../modelagem/lexicos#facebook">Facebook</a>".
+<br /> 3. A conta do Facebook não é válida.
+<br /> 4. O <a href="../../../modelagem/lexicos#tinder">sistema</a> retorna ao passo 2 do fluxo principal</p>
+<p><br /></p>
+<p><strong>Fluxo de Exceção 03</strong>: Dados inválidos
+<br /> 1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona a opção de entrar com o número de telefone.
+<br /> 2. O <a href="../../../modelagem/lexicos#tinder">sistema</a> disponibiliza uma tela com os campos que precisam ser inseridos.
+<br /> 3. O <a href="../../../modelagem/lexicos#usuario">usuário</a> preenche os campos com as informações necessárias.
+<br /> 4. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona a opção de salvar cadastro.
+<br /> 5. O <a href="../../../modelagem/lexicos#tinder">sistema</a> identifica campos preenchidos incorretamente
+<br /> 6. O <a href="../../../modelagem/lexicos#tinder">sistema</a> retorna ao passo 2 do fluxo principal
+<br /> 7. O <a href="../../../modelagem/lexicos#tinder">sistema</a> indica os campos que foram preenchidos incorretamente.</p>
+<p><br />
+<strong>Pós-condição</strong>: É criado um perfil para o <a href="../../../modelagem/lexicos#usuario">usuário</a>.</p></div>
         </div>
 
         <footer class="col-md-12">

@@ -163,7 +163,15 @@
 </li>
                             
 <li >
+    <a href="../../DiagCasoDeUso/">Diagramas de Caso de Uso</a>
+</li>
+                            
+<li >
     <a href="../">Casos de Uso</a>
+</li>
+                            
+<li >
+    <a href="../../EspSuplementar/">Especificação Suplementar</a>
 </li>
                             
 <li >
@@ -476,11 +484,68 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#uc02-login-do-usuario">UC02 - Login do Usuário</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-</div>
+<h2 id="uc02-login-do-usuario">UC02 - Login do Usuário</h2>
+<p><br />
+<strong>Descrição</strong>: Este caso de uso permite que o <a href="../../../modelagem/lexicos#usuario">usuário</a> possa se conectar ao <a href="../../../modelagem/lexicos#tinder">sistema</a>. Isso pode ser feito tanto pelo <a href="../../../modelagem/lexicos#facebook">Facebook</a> quanto pelo número de celular.
+<br /></p>
+<p><strong>Ator principal</strong>: <a href="../../../modelagem/lexicos#usuario">Usuário</a>
+<br /></p>
+<p><strong>Pré-Requisitos</strong>: O <a href="../../../modelagem/lexicos#usuario">usuário</a> não deve estar <a href="../../../modelagem/lexicos#logar">logado</a> em uma conta.
+<br /></p>
+<p><strong>Fluxo Principal</strong>: <a href="../../../modelagem/lexicos#logar">Login</a> com <a href="../../../modelagem/lexicos#facebook">Facebook</a>:
+<br /> 1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> acessa o aplicativo do <a href="../../../modelagem/lexicos#tinder">Tinder</a>.
+<br /> 2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona a opção de “entrar com <a href="../../../modelagem/lexicos#facebook">Facebook</a>".
+<br /> 3. Os dados do <a href="../../../modelagem/lexicos#facebook">Facebook</a> são importados para o perfil do <a href="../../../modelagem/lexicos#tinder">Tinder</a>.
+<br /></p>
+<p><strong>Fluxo Alternativo</strong>: <a href="../../../modelagem/lexicos#logar">Login</a> com número de celular:
+<br /> 1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> acessa o aplicativo do <a href="../../../modelagem/lexicos#tinder">Tinder</a>.
+<br /> 2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona a opção de “entrar com número de celular”.
+<br /> 3. O <a href="../../../modelagem/lexicos#usuario">usuário</a> é redirecionado para a <a href="../../../modelagem/lexicos#descoberta">descoberta</a>.</p>
+<p><br /></p>
+<p><strong>Regras de Negócio 01</strong>
+<br /></p>
+<table>
+<thead>
+<tr>
+<th>Campo</th>
+<th>Formato</th>
+<th>Obrigatoriedade</th>
+<th>Valor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Número de celular</td>
+<td>Varia de acordo com os países.</td>
+<td>Sim</td>
+<td>O <a href="../../../modelagem/lexicos#usuario">usuário</a> não consegue acessar sua conta sem o número de celular.</td>
+</tr>
+<tr>
+<td>Email</td>
+<td>exemplo@exemplo.com ou exemplo@exemplo.com.br</td>
+<td>Sim</td>
+<td>O e-mail deve ser válido e deve já ter sido cadastrado</td>
+</tr>
+<tr>
+<td><br /></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Fluxo de exceção</strong>: Conta do <a href="../../../modelagem/lexicos#facebook">Facebook</a> removida:
+<br /> 1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> acessa o aplicativo do <a href="../../../modelagem/lexicos#tinder">Tinder</a>.
+<br /> 2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona a opção de “entrar com <a href="../../../modelagem/lexicos#facebook">Facebook</a>".
+<br /> 3. O conta do <a href="../../../modelagem/lexicos#facebook">Facebook</a> não existe mais.
+<br /> 4. O <a href="../../../modelagem/lexicos#tinder">sistema</a> volta para o passo 2 do fluxo principal.</p>
+<p><br /></p>
+<p><strong>Pós-condição</strong>: <a href="../../../modelagem/lexicos#usuario">usuário</a> <a href="../../../modelagem/lexicos#logar">logado</a> no <a href="../../../modelagem/lexicos#tinder">sistema</a>.</p></div>
         </div>
 
         <footer class="col-md-12">

@@ -163,7 +163,15 @@
 </li>
                             
 <li >
+    <a href="../../DiagCasoDeUso/">Diagramas de Caso de Uso</a>
+</li>
+                            
+<li >
     <a href="../">Casos de Uso</a>
+</li>
+                            
+<li >
+    <a href="../../EspSuplementar/">Especificação Suplementar</a>
 </li>
                             
 <li >
@@ -476,11 +484,42 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#uc03-deletar-conta">UC03 - Deletar Conta</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-</div>
+<h2 id="uc03-deletar-conta">UC03 - Deletar Conta</h2>
+<p><br />
+<strong>Descrição</strong>: Este caso de uso permite que o <a href="../../../modelagem/lexicos#usuario">usuário</a> possa ser capaz de excluir sua conta.</p>
+<p><strong>Ator principal</strong>: <a href="../../../modelagem/lexicos#usuario">Usuário</a> e <a href="../../../modelagem/lexicos#tinder">sistema</a>.
+<br /></p>
+<p><strong>Pré-Requisitos</strong>: O <a href="../../../modelagem/lexicos#usuario">usuário</a> deve possuir um perfil e precisa estar <a href="../../../modelagem/lexicos#logar">logado</a>.
+<br /></p>
+<p><strong>Fluxo Principal</strong>:
+<br /> 1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> abre o aplicativo.
+<br /> 2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona aba perfil.
+<br /> 3. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona a opção de configurações.
+<br /> 4. O <a href="../../../modelagem/lexicos#usuario">usuário</a> <a href="../../../modelagem/lexicos#swipe">desliza</a> a tela até a opção deletar conta.
+<br /> 5. O <a href="../../../modelagem/lexicos#tinder">sistema</a> exibe a tela de desativar.
+<br /> 6. O <a href="../../../modelagem/lexicos#usuario">usuário</a> escolhe a opção de excluir minha conta.
+<br /> 7. O <a href="../../../modelagem/lexicos#tinder">sistema</a> exibe a tela de deletar conta.
+<br /> 8. O <a href="../../../modelagem/lexicos#usuario">usuário</a> escolhe o motivo da exclusão da conta.
+<br /> 9. O <a href="../../../modelagem/lexicos#tinder">sistema</a> mostra a mensagem de confirmação para excluir a conta.
+<br /> 10. O <a href="../../../modelagem/lexicos#tinder">sistema</a> deleta a conta.
+<br /> 11. O <a href="../../../modelagem/lexicos#tinder">sistema</a> exibe uma mensagem confirmando a exclusão da conta.</p>
+<p><strong>Fluxo Alternativo</strong>: <a href="../../../modelagem/lexicos#congelar-conta">Congelar Conta</a>
+<br /> 1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> abre o aplicativo.
+<br /> 2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> abre a aba perfil.
+<br /> 3. O <a href="../../../modelagem/lexicos#usuario">usuário</a> clica em configurações.
+<br /> 4. O <a href="../../../modelagem/lexicos#usuario">usuário</a> <a href="../../../modelagem/lexicos#swipe">desliza</a> a página até a opção deletar conta.
+<br /> 5. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona deletar conta.
+<br /> 6. O <a href="../../../modelagem/lexicos#usuario">usuário</a> escolhe a opção <a href="../../../modelagem/lexicos#congelar-conta">congelar a minha conta</a>.
+<br /> 7. O <a href="../../../modelagem/lexicos#tinder">sistema</a> abre a tela principal.
+<br /> 8. O <a href="../../../modelagem/lexicos#tinder">sistema</a> exibe a mensagem ‘Seu cartão está oculto’.
+<br /> 9. O <a href="../../../modelagem/lexicos#tinder">sistema</a> exibe opção de ativar <a href="../../../modelagem/lexicos#descoberta">descoberta</a>.</p>
+<p><strong>Fluxo de exceção</strong>: ---</p>
+<p><strong>Pós-condição</strong>: O perfil do <a href="../../../modelagem/lexicos#usuario">usuário</a> não existira mais.</p></div>
         </div>
 
         <footer class="col-md-12">

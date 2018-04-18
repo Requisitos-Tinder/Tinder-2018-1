@@ -163,7 +163,15 @@
 </li>
                             
 <li >
+    <a href="../../DiagCasoDeUso/">Diagramas de Caso de Uso</a>
+</li>
+                            
+<li >
     <a href="../">Casos de Uso</a>
+</li>
+                            
+<li >
+    <a href="../../EspSuplementar/">Especificação Suplementar</a>
 </li>
                             
 <li >
@@ -476,11 +484,31 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#uc12-adquirir-servicos-pagos">UC12 - Adquirir Serviços Pagos</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-</div>
+<h2 id="uc12-adquirir-servicos-pagos">UC12 - Adquirir Serviços Pagos</h2>
+<p><br />
+<strong>Descrição</strong>: Esse caso de uso permite que o <a href="../../../modelagem/lexicos#usuario">usuário</a> possa comprar diversos serviços pagos.</p>
+<p><strong>Ator principal</strong>: <a href="../../../modelagem/lexicos#usuario">Usuário</a></p>
+<p><strong>Pré-requisito</strong>:
+<br /> 1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> deve ter cartão de crédito ou créditos na Play Store ou App Store
+<br /> 2. Realizar a compra apenas pelo aplicativo</p>
+<p><strong>Fluxo principal</strong>:
+<br /> 1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> abre o <a href="../../../modelagem/lexicos#tinder">aplicativo</a>.
+<br /> 2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> navega até as configurações de perfil.
+<br /> 4. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona a forma de pagamento.
+<br /> 5. O pagamento é realizado.</p>
+<p><strong>Fluxo alternativo</strong>: ---</p>
+<p><strong>Fluxo de exceção</strong>: Cartão de crédito recusado
+<br /> 1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> abre o <a href="../../../modelagem/lexicos#tinder">aplicativo</a>.
+<br /> 3. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona o serviço que quer comprar
+<br /> 4. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona a forma de pagamento.
+<br /> 5. A emissora do cartão recusa o pagamento.
+<br /> 6. O sistema volta para o passo 4 do fluxo principal.</p>
+<p>Pós-condição: O <a href="../../../modelagem/lexicos#usuario">usuário</a> terá comprado um serviço pago.</p></div>
         </div>
 
         <footer class="col-md-12">

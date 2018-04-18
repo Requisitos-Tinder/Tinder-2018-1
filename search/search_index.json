@@ -1186,6 +1186,31 @@
             "title": "39. Acessar Configura\u00e7\u00f5es"
         },
         {
+            "location": "/modelagem/DiagCasoDeUso/",
+            "text": "Diagramas de Caso de Uso\n\n\nIntegra\u00e7\u00e3o com Redes Sociais\n\n\n\n\n\n\nAdquirir Servicos Pagos\n\n\n\n\n\n\nMatch",
+            "title": "Diagramas de Caso de Uso"
+        },
+        {
+            "location": "/modelagem/DiagCasoDeUso/#diagramas-de-caso-de-uso",
+            "text": "",
+            "title": "Diagramas de Caso de Uso"
+        },
+        {
+            "location": "/modelagem/DiagCasoDeUso/#integracao-com-redes-sociais",
+            "text": "",
+            "title": "Integra\u00e7\u00e3o com Redes Sociais"
+        },
+        {
+            "location": "/modelagem/DiagCasoDeUso/#adquirir-servicos-pagos",
+            "text": "",
+            "title": "Adquirir Servicos Pagos"
+        },
+        {
+            "location": "/modelagem/DiagCasoDeUso/#match",
+            "text": "",
+            "title": "Match"
+        },
+        {
             "location": "/modelagem/casosUso/",
             "text": "Casos de Uso\n\n\n\n\n\n\nUC01 - Cadastrar Usu\u00e1rio\n\n\nUC02 - Login do Usu\u00e1rio\n\n\nUC03 - Deletar Conta\n\n\nUC04 - Conectar com as Redes Sociais\n\n\nUC05 - Conectar com Spotify\n\n\nUC06 - Conectar com Instagram\n\n\nUC07 - Desfazer Match\n\n\nUC08 - Enviar Mensagem\n\n\nUC09 - Dar Match\n\n\nUC10 - Visualizar Perfil\n\n\nUC11 - Adquirir Servi\u00e7os Pagos\n\n\nUC12 - Denunciar Perfil\n\n\nUC13 - Manter Perfil\n\n\nUC14 - Acessar Conversas\n\n\nUC15 - Acessar Feed\n\n\nUC16 - Manter Configura\u00e7\u00f5es\n\n\nUC17 - Manter Configura\u00e7\u00f5es de Descoberta\n\n\nUC18 - Manter Configura\u00e7\u00f5es de Feed\n\n\nUC19 - Manter Configura\u00e7\u00f5es do Perfil Web\n\n\nUC20 - Manter Configura\u00e7\u00f5es de Notifica\u00e7\u00e3o\n\n\nUC21 - Desconectar Conta\n\n\nUC22 - Acessar Matches",
             "title": "Casos de Uso"
@@ -1304,6 +1329,126 @@
             "location": "/modelagem/casosUso/#uc22-acessar-matches",
             "text": "",
             "title": "UC22 - Acessar Matches"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/",
+            "text": "Especifica\u00e7\u00e3o Suplementar\n\n\n\n\nFinalidade:\n\n\n\u2003\nEsta especifica\u00e7\u00e3o suplementar busca tratar os requisitos n\u00e3o-funcionais n\u00e3o capturados pelos casos de uso.\n\n\n\n\n\nEscopo:\n\n\n\u2003\nEsta especifica\u00e7\u00e3o suplementar se aplica ao sistema do Tinder, em um estudo sobre modelagem de requisitos.\n\n\n\n\u2003\nO Tinder \u00e9 um aplicativo de relacionamento no qual pessoas avaliam outras pessoas por meio de fotos e breves descri\u00e7\u00f5es. Possibilitando posteriormente a intera\u00e7\u00e3o entre pessoas que se avaliaram positivamente.\n\n\n\n\n\nUsabilidade:\n\n\nLinguagem de f\u00e1cil entendimento:\n\n\n\u2003\nA linguagem utilizada em todas as telas e funcionalidades do sistema deve se encaixar no vocabul\u00e1rio do perfil de usu\u00e1rio mais comum que, de acordo com o question\u00e1rio, s\u00e3o pessoas com idade de 18 \u00e0 25 anos.\n\n\n\nInterface intuitiva e de f\u00e1cil compreens\u00e3o:\n\n\n\u2003\nAs telas do sistema devem possuir poucas op\u00e7\u00f5es de navega\u00e7\u00e3o, tornando-as simples e f\u00e1ceis. As op\u00e7\u00f5es de navega\u00e7\u00e3o assim como os demais bot\u00f5es devem estar dispostos de maneira a minimizar riscos. Ex: bot\u00e3o de assinar servi\u00e7o pago deve ser distante do bot\u00e3o de deletar conta.\n\u00cdcones devem ser claros em rela\u00e7\u00e3o \u00e0 seus objetivos.\n\n\n\n\n\nConfiabilidade:\n\n\nSeguran\u00e7a ao guardar os dados do usu\u00e1rio:\n\n\n\u2003\nOs dados do usu\u00e1rio referentes \u00e0 autentica\u00e7\u00e3o e relacionamento com outras pessoas dentro do Tinder devem ser privados e consequentemente bem protegidos na base dados da empresa.\n\n\n\nSeguran\u00e7a ao realizar a integra\u00e7\u00e3o com as redes sociais (Facebook, Instagram, Spotify):\n\n\n\u2003\nAo solicitar integra\u00e7\u00e3o de seu perfil com algum outro sistema, apenas os dados do sistema a ser integrado dever\u00e3o ser importados, de forma que nenhuma informa\u00e7\u00e3o sobre o comportamento ou se quer a exist\u00eancia de um usu\u00e1rio no tinder.\n\n\n\n\n\nDesempenho:\n\n\nTempo m\u00ednimo de resposta entre cada perfil avaliado:\n\n\nA atividade de avaliar perfil consiste em arrastar cards para o lado direito ou esquerdo em caso de like ou deslike respectivamente. Logo \u00e9 necess\u00e1rio que outro card substitua o card que foi arrastado para o lado. Caso o tempo de carregamento desse novo card seja lento, a principal tela do aplicativo se tornaria in\u00fatil durante esse tempo, piorando significativamente a experi\u00eancia do usu\u00e1rio.\n        Medidas de tempo?\n\n\nTempo m\u00ednimo de respostas quando houver o match:\n\n\n\u2003\nA tela que notifica o usu\u00e1rio que o match aconteceu, deve aparecer rapidamente e de forma invasiva, pois ela representa o objetivo da principal fun\u00e7\u00e3o do sistema(avaliar perfis) ser alcan\u00e7ado. Com isso o usu\u00e1rio tem no\u00e7\u00e3o em tempo real das consequ\u00eancias de suas avalia\u00e7\u00f5es.\n\n\n\n\n\nCompatibilidade:\n\n\nSuporte \u00e0 plataforma Android:\n\n\n\u2003\nDeve existir uma vers\u00e3o est\u00e1vel e otimizada para dispositivos m\u00f3veis que utilizam o sistema operacional Android.\n\n\n\nSuporte \u00e0 plataforma IOS:\n\n\n\u2003\nDeve existir uma vers\u00e3o est\u00e1vel e otimizada para dispositivos m\u00f3veis que utilizam o sistema operacional IOS.\n\n\n\nSuporte \u00e0 plataforma Web:\n\n\n\u2003\nO sistema deve ser acess\u00edvel em navegadores web por meio de uma vers\u00e3o espec\u00edfica para eles.\n\n\n\nCompatibilidade com vers\u00f5es de browser (Google Chrome, Mozilla Firefox, etc):\n\n\n\u2003\nO sistema deve se comportar de forma id\u00eantica em qualquer navegador web comum.\n\n\n\nCompatibilidade com vers\u00f5es de sistemas operacionais m\u00f3veis:\n\n\n\u2003\nO sistema deve estar dispon\u00edvel para diversas vers\u00f5es de um sistema operacional como Android ou IOS. Deve-se levar em conta as limita\u00e7\u00f5es das vers\u00f5es mais antigas, que ocasionaram em diferen\u00e7as entre vers\u00f5es do Tinder. Limita\u00e7\u00f5es do sistema operacional que interfiram de forma significativa nas principais fun\u00e7\u00f5es do Tinder ter\u00e3o como consequ\u00eancia a n\u00e3o exist\u00eancia de uma vers\u00e3o do tinder para esta vers\u00e3o do sistema operacional.\n\n\n\n\n\nRestri\u00e7\u00f5es de Design?:\n\n\n\n\nInterfaces de Comunica\u00e7\u00f5es:\n\n\nInterface de comunica\u00e7\u00e3o com o facebook, instagram e spotify?\n\n\n\n\nPadr\u00f5es aplic\u00e1veis:\n\n\n\u2003\nPaleta de cores?\n\n\n\n\u2003\nAs cores predominantes nas telas s\u00e3o: Tons de Laranja, branco e cinza. Detalhes em Verde claro, azul claro, roxo, amarelo e dourado.\n\n\n\n\u2003\nNavega\u00e7\u00e3o entre p\u00e1ginas por meio de abas.\n\n\n\n\n\nRequisitos de Licenciamento\n\n\nLicen\u00e7as presentes no sistema:\n\n\nApache 2.0:\n- Google Play Services\n- Android InApp Billing v3\n- Facebook Android SDK\n- GSON\n- OkHTTP\n- okio\n- libphonenumber\n- EventBus\n- Dagger\n- AndroidSVG\n- SVG-Android\n- Volley\n- Glide\n- ViewPageIndicator\n- RxAndroid\n- Retrofit\n- Android Image Cropper\n- LicensesDialog\n\n\nStetho\nRebound\nStreamSupport",
+            "title": "Especifica\u00e7\u00e3o Suplementar"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#especificacao-suplementar",
+            "text": "",
+            "title": "Especifica\u00e7\u00e3o Suplementar"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#finalidade",
+            "text": "Esta especifica\u00e7\u00e3o suplementar busca tratar os requisitos n\u00e3o-funcionais n\u00e3o capturados pelos casos de uso.",
+            "title": "Finalidade:"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#escopo",
+            "text": "Esta especifica\u00e7\u00e3o suplementar se aplica ao sistema do Tinder, em um estudo sobre modelagem de requisitos.  \u2003\nO Tinder \u00e9 um aplicativo de relacionamento no qual pessoas avaliam outras pessoas por meio de fotos e breves descri\u00e7\u00f5es. Possibilitando posteriormente a intera\u00e7\u00e3o entre pessoas que se avaliaram positivamente.",
+            "title": "Escopo:"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#usabilidade",
+            "text": "",
+            "title": "Usabilidade:"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#linguagem-de-facil-entendimento",
+            "text": "A linguagem utilizada em todas as telas e funcionalidades do sistema deve se encaixar no vocabul\u00e1rio do perfil de usu\u00e1rio mais comum que, de acordo com o question\u00e1rio, s\u00e3o pessoas com idade de 18 \u00e0 25 anos.",
+            "title": "Linguagem de f\u00e1cil entendimento:"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#interface-intuitiva-e-de-facil-compreensao",
+            "text": "As telas do sistema devem possuir poucas op\u00e7\u00f5es de navega\u00e7\u00e3o, tornando-as simples e f\u00e1ceis. As op\u00e7\u00f5es de navega\u00e7\u00e3o assim como os demais bot\u00f5es devem estar dispostos de maneira a minimizar riscos. Ex: bot\u00e3o de assinar servi\u00e7o pago deve ser distante do bot\u00e3o de deletar conta.\n\u00cdcones devem ser claros em rela\u00e7\u00e3o \u00e0 seus objetivos.",
+            "title": "Interface intuitiva e de f\u00e1cil compreens\u00e3o:"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#confiabilidade",
+            "text": "",
+            "title": "Confiabilidade:"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#seguranca-ao-guardar-os-dados-do-usuario",
+            "text": "Os dados do usu\u00e1rio referentes \u00e0 autentica\u00e7\u00e3o e relacionamento com outras pessoas dentro do Tinder devem ser privados e consequentemente bem protegidos na base dados da empresa.",
+            "title": "Seguran\u00e7a ao guardar os dados do usu\u00e1rio:"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#seguranca-ao-realizar-a-integracao-com-as-redes-sociais-facebook-instagram-spotify",
+            "text": "Ao solicitar integra\u00e7\u00e3o de seu perfil com algum outro sistema, apenas os dados do sistema a ser integrado dever\u00e3o ser importados, de forma que nenhuma informa\u00e7\u00e3o sobre o comportamento ou se quer a exist\u00eancia de um usu\u00e1rio no tinder.",
+            "title": "Seguran\u00e7a ao realizar a integra\u00e7\u00e3o com as redes sociais (Facebook, Instagram, Spotify):"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#desempenho",
+            "text": "",
+            "title": "Desempenho:"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#tempo-minimo-de-resposta-entre-cada-perfil-avaliado",
+            "text": "A atividade de avaliar perfil consiste em arrastar cards para o lado direito ou esquerdo em caso de like ou deslike respectivamente. Logo \u00e9 necess\u00e1rio que outro card substitua o card que foi arrastado para o lado. Caso o tempo de carregamento desse novo card seja lento, a principal tela do aplicativo se tornaria in\u00fatil durante esse tempo, piorando significativamente a experi\u00eancia do usu\u00e1rio.\n        Medidas de tempo?",
+            "title": "Tempo m\u00ednimo de resposta entre cada perfil avaliado:"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#tempo-minimo-de-respostas-quando-houver-o-match",
+            "text": "A tela que notifica o usu\u00e1rio que o match aconteceu, deve aparecer rapidamente e de forma invasiva, pois ela representa o objetivo da principal fun\u00e7\u00e3o do sistema(avaliar perfis) ser alcan\u00e7ado. Com isso o usu\u00e1rio tem no\u00e7\u00e3o em tempo real das consequ\u00eancias de suas avalia\u00e7\u00f5es.",
+            "title": "Tempo m\u00ednimo de respostas quando houver o match:"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#compatibilidade",
+            "text": "",
+            "title": "Compatibilidade:"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#suporte-a-plataforma-android",
+            "text": "Deve existir uma vers\u00e3o est\u00e1vel e otimizada para dispositivos m\u00f3veis que utilizam o sistema operacional Android.",
+            "title": "Suporte \u00e0 plataforma Android:"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#suporte-a-plataforma-ios",
+            "text": "Deve existir uma vers\u00e3o est\u00e1vel e otimizada para dispositivos m\u00f3veis que utilizam o sistema operacional IOS.",
+            "title": "Suporte \u00e0 plataforma IOS:"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#suporte-a-plataforma-web",
+            "text": "O sistema deve ser acess\u00edvel em navegadores web por meio de uma vers\u00e3o espec\u00edfica para eles.",
+            "title": "Suporte \u00e0 plataforma Web:"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#compatibilidade-com-versoes-de-browser-google-chrome-mozilla-firefox-etc",
+            "text": "O sistema deve se comportar de forma id\u00eantica em qualquer navegador web comum.",
+            "title": "Compatibilidade com vers\u00f5es de browser (Google Chrome, Mozilla Firefox, etc):"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#compatibilidade-com-versoes-de-sistemas-operacionais-moveis",
+            "text": "O sistema deve estar dispon\u00edvel para diversas vers\u00f5es de um sistema operacional como Android ou IOS. Deve-se levar em conta as limita\u00e7\u00f5es das vers\u00f5es mais antigas, que ocasionaram em diferen\u00e7as entre vers\u00f5es do Tinder. Limita\u00e7\u00f5es do sistema operacional que interfiram de forma significativa nas principais fun\u00e7\u00f5es do Tinder ter\u00e3o como consequ\u00eancia a n\u00e3o exist\u00eancia de uma vers\u00e3o do tinder para esta vers\u00e3o do sistema operacional.",
+            "title": "Compatibilidade com vers\u00f5es de sistemas operacionais m\u00f3veis:"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#restricoes-de-design",
+            "text": "",
+            "title": "Restri\u00e7\u00f5es de Design?:"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#interfaces-de-comunicacoes",
+            "text": "Interface de comunica\u00e7\u00e3o com o facebook, instagram e spotify?",
+            "title": "Interfaces de Comunica\u00e7\u00f5es:"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#padroes-aplicaveis",
+            "text": "Paleta de cores?  \u2003\nAs cores predominantes nas telas s\u00e3o: Tons de Laranja, branco e cinza. Detalhes em Verde claro, azul claro, roxo, amarelo e dourado.  \u2003\nNavega\u00e7\u00e3o entre p\u00e1ginas por meio de abas.",
+            "title": "Padr\u00f5es aplic\u00e1veis:"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#requisitos-de-licenciamento",
+            "text": "",
+            "title": "Requisitos de Licenciamento"
+        },
+        {
+            "location": "/modelagem/EspSuplementar/#licencas-presentes-no-sistema",
+            "text": "Apache 2.0:\n- Google Play Services\n- Android InApp Billing v3\n- Facebook Android SDK\n- GSON\n- OkHTTP\n- okio\n- libphonenumber\n- EventBus\n- Dagger\n- AndroidSVG\n- SVG-Android\n- Volley\n- Glide\n- ViewPageIndicator\n- RxAndroid\n- Retrofit\n- Android Image Cropper\n- LicensesDialog  Stetho\nRebound\nStreamSupport",
+            "title": "Licen\u00e7as presentes no sistema:"
         },
         {
             "location": "/modelagem/referencias/",
@@ -2047,63 +2192,123 @@
         },
         {
             "location": "/modelagem/casosUso/UC01/",
-            "text": "",
+            "text": "UC01 - Cadastrar Usu\u00e1rio\n\n\n\n\nDescri\u00e7\u00e3o\n: Este caso de uso permite ao \nusu\u00e1rio\n se cadastrar na aplica\u00e7\u00e3o. Esse cadastro poder\u00e1 ser feito com uma conta do \nFacebook\n ou com o uso do n\u00famero de celular.\n\n\nAtor principal\n: N\u00e3o-usu\u00e1rio.\n\n\n\nPr\u00e9-requisitos\n:  O \nusu\u00e1rio\n deve estar desconectado de uma conta.\n\n\n\nFluxo Principal\n:\n\n 1. O \nusu\u00e1rio\n n\u00e3o cadastrado acessa o \nTinder\n.\n\n 2. O \nusu\u00e1rio\n n\u00e3o cadastrado seleciona a op\u00e7\u00e3o \"Entrar com \nFacebook\n\".\n\n 4. O \nusu\u00e1rio\n n\u00e3o cadastrado concede a permiss\u00e3o para o que \nTinder\n receba informa\u00e7\u00f5es do seu perfil do \nFacebook\n.\n\n 5. O \nsistema\n cria um perfil para o novo \nusu\u00e1rio\n com as informa\u00e7\u00f5es seu perfil do \nFacebook\n.\n\n 6. O \nusu\u00e1rio\n n\u00e3o cadastrado passa a ser um usu\u00e1rio.\n\n\n\n\nRegras de Neg\u00f3cio 01\n:\n\n\n\n\n\n\n\n\nCampo\n\n\nFormato\n\n\nObrigatoriedade\n\n\nValor\n\n\n\n\n\n\n\n\n\n\nConta no \nFacebook\n\n\n\n\nSim\n\n\nConta v\u00e1lida no \nFacebook\n\n\n\n\n\n\nFoto\n\n\n\n\nSim\n\n\nNo m\u00ednimo uma foto\n\n\n\n\n\n\n\n\n\n\nFluxo Alternativo\n:\n\n 1. O \nusu\u00e1rio\n n\u00e3o cadastrado acessa o \nTinder\n.\n\n 2. O \nusu\u00e1rio\n n\u00e3o cadastrado seleciona a op\u00e7\u00e3o \"Entrar com n\u00famero de telefone\".\n\n 3. O \nusu\u00e1rio\n n\u00e3o cadastrado insere seu o numero do seu celular e seleciona o bot\u00e3o \"Continuar\".\n\n 4. O \nsistema\n envia um sms com o c\u00f3digo validador para o \nusu\u00e1rio\n n\u00e3o cadastrado.\n\n 5. O \nusu\u00e1rio\n n\u00e3o cadastrado insere o c\u00f3digo validador no campo indicado e seleciona a op\u00e7\u00e3o \"Continuar\".\n\n 6. O \nusu\u00e1rio\n n\u00e3o cadastrado insere o seu email.\n\n 7. O \nusu\u00e1rio\n cadastrado insere o seu nome.\n\n 8. O \nusu\u00e1rio\n cadastrado insere o sua data de nascimento.\n\n 9. O \nusu\u00e1rio\n n\u00e3o cadastrado insere o seu sexo.\n\n 10. O \nusu\u00e1rio\n n\u00e3o cadastrado escolhe o g\u00eanero das pessoas de seu interesse.\n\n 11. O \nusu\u00e1rio\n n\u00e3o cadastrado insere uma foto no campo indicado e seleciona a op\u00e7\u00e3o \"Continuar\".\n\n\n\n\nRegras de neg\u00f3cio 02\n:\n\n\n\n\n\n\n\n\nCampo\n\n\nFormato\n\n\nObrigatoriedade\n\n\nValor\n\n\n\n\n\n\n\n\n\n\nN\u00famero de celular\n\n\nVaria de acordo com os pa\u00edses.\n\n\nSim\n\n\nN\u00famero de celular v\u00e1lido\n\n\n\n\n\n\nEmail\n\n\nexemplo@exemplo.com ou exemplo@exemplo.com.br\n\n\nSim\n\n\nO e-mail n\u00e3o pode ser igual a um j\u00e1 registrado e deve estar no formato aceito.\n\n\n\n\n\n\nFoto\n\n\n\n\nSim\n\n\nNo m\u00ednimo uma foto\n\n\n\n\n\n\nC\u00f3digo\n\n\nN\u00famero\n\n\nSim\n\n\n\n\n\n\n\n\nNome\n\n\nString\n\n\nSim\n\n\n\n\n\n\n\n\nData de Nascimento\n\n\ndd/mm/aaaa\n\n\nSim\n\n\nA data de nascimento ir\u00e1 indicar a idade do usu\u00e1rio em seu perfil\n\n\n\n\n\n\nSexo\n\n\nF/M\n\n\nSim\n\n\nIndica o g\u00eanero do usu\u00e1rio\n\n\n\n\n\n\nG\u00eanero\n\n\nHomem, mulher ou ambos\n\n\nSim\n\n\nG\u00eanero das pessoas que ir\u00e3o aparecer na descoberta do usu\u00e1rio\n\n\n\n\n\n\n\n\n\n\nFluxo de Exce\u00e7\u00e3o 01\n: Conta do \nFacebook\n j\u00e1 cadastrada\n\n 1. O \nusu\u00e1rio\n n\u00e3o cadastrado acessa o \nTinder\n.\n\n 2. O \nusu\u00e1rio\n n\u00e3o cadastrado seleciona a op\u00e7\u00e3o \"Entrar com Facebook\".\n\n 3. O \nusu\u00e1rio\n n\u00e3o cadastrado concede a permiss\u00e3o para que o Tinder receba informa\u00e7\u00f5es do seu perfil do \nFacebook\n.\n\n 4. J\u00e1 existe um cadastro com a conta do \nFacebook\n.\n\n 5. O \nsistema\n retorna ao passo 2 do fluxo principal.\n\n\n\n\nFluxo de Exce\u00e7\u00e3o 02\n: Conta do Facebook inv\u00e1lida\n\n 1. O \nusu\u00e1rio\n n\u00e3o cadastrado acessa o \nTinder\n.\n\n 2. O \nusu\u00e1rio\n n\u00e3o cadastrado seleciona a op\u00e7\u00e3o \"Entrar com \nFacebook\n\".\n\n 3. A conta do Facebook n\u00e3o \u00e9 v\u00e1lida.\n\n 4. O \nsistema\n retorna ao passo 2 do fluxo principal\n\n\n\n\nFluxo de Exce\u00e7\u00e3o 03\n: Dados inv\u00e1lidos\n\n 1. O \nusu\u00e1rio\n seleciona a op\u00e7\u00e3o de entrar com o n\u00famero de telefone.\n\n 2. O \nsistema\n disponibiliza uma tela com os campos que precisam ser inseridos.\n\n 3. O \nusu\u00e1rio\n preenche os campos com as informa\u00e7\u00f5es necess\u00e1rias.\n\n 4. O \nusu\u00e1rio\n seleciona a op\u00e7\u00e3o de salvar cadastro.\n\n 5. O \nsistema\n identifica campos preenchidos incorretamente\n\n 6. O \nsistema\n retorna ao passo 2 do fluxo principal\n\n 7. O \nsistema\n indica os campos que foram preenchidos incorretamente.\n\n\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: \u00c9 criado um perfil para o \nusu\u00e1rio\n.",
             "title": "UC 01"
         },
         {
+            "location": "/modelagem/casosUso/UC01/#uc01-cadastrar-usuario",
+            "text": "Descri\u00e7\u00e3o : Este caso de uso permite ao  usu\u00e1rio  se cadastrar na aplica\u00e7\u00e3o. Esse cadastro poder\u00e1 ser feito com uma conta do  Facebook  ou com o uso do n\u00famero de celular.  Ator principal : N\u00e3o-usu\u00e1rio.  Pr\u00e9-requisitos :  O  usu\u00e1rio  deve estar desconectado de uma conta.  Fluxo Principal :  1. O  usu\u00e1rio  n\u00e3o cadastrado acessa o  Tinder .  2. O  usu\u00e1rio  n\u00e3o cadastrado seleciona a op\u00e7\u00e3o \"Entrar com  Facebook \".  4. O  usu\u00e1rio  n\u00e3o cadastrado concede a permiss\u00e3o para o que  Tinder  receba informa\u00e7\u00f5es do seu perfil do  Facebook .  5. O  sistema  cria um perfil para o novo  usu\u00e1rio  com as informa\u00e7\u00f5es seu perfil do  Facebook .  6. O  usu\u00e1rio  n\u00e3o cadastrado passa a ser um usu\u00e1rio.   Regras de Neg\u00f3cio 01 :     Campo  Formato  Obrigatoriedade  Valor      Conta no  Facebook   Sim  Conta v\u00e1lida no  Facebook    Foto   Sim  No m\u00ednimo uma foto      Fluxo Alternativo :  1. O  usu\u00e1rio  n\u00e3o cadastrado acessa o  Tinder .  2. O  usu\u00e1rio  n\u00e3o cadastrado seleciona a op\u00e7\u00e3o \"Entrar com n\u00famero de telefone\".  3. O  usu\u00e1rio  n\u00e3o cadastrado insere seu o numero do seu celular e seleciona o bot\u00e3o \"Continuar\".  4. O  sistema  envia um sms com o c\u00f3digo validador para o  usu\u00e1rio  n\u00e3o cadastrado.  5. O  usu\u00e1rio  n\u00e3o cadastrado insere o c\u00f3digo validador no campo indicado e seleciona a op\u00e7\u00e3o \"Continuar\".  6. O  usu\u00e1rio  n\u00e3o cadastrado insere o seu email.  7. O  usu\u00e1rio  cadastrado insere o seu nome.  8. O  usu\u00e1rio  cadastrado insere o sua data de nascimento.  9. O  usu\u00e1rio  n\u00e3o cadastrado insere o seu sexo.  10. O  usu\u00e1rio  n\u00e3o cadastrado escolhe o g\u00eanero das pessoas de seu interesse.  11. O  usu\u00e1rio  n\u00e3o cadastrado insere uma foto no campo indicado e seleciona a op\u00e7\u00e3o \"Continuar\".   Regras de neg\u00f3cio 02 :     Campo  Formato  Obrigatoriedade  Valor      N\u00famero de celular  Varia de acordo com os pa\u00edses.  Sim  N\u00famero de celular v\u00e1lido    Email  exemplo@exemplo.com ou exemplo@exemplo.com.br  Sim  O e-mail n\u00e3o pode ser igual a um j\u00e1 registrado e deve estar no formato aceito.    Foto   Sim  No m\u00ednimo uma foto    C\u00f3digo  N\u00famero  Sim     Nome  String  Sim     Data de Nascimento  dd/mm/aaaa  Sim  A data de nascimento ir\u00e1 indicar a idade do usu\u00e1rio em seu perfil    Sexo  F/M  Sim  Indica o g\u00eanero do usu\u00e1rio    G\u00eanero  Homem, mulher ou ambos  Sim  G\u00eanero das pessoas que ir\u00e3o aparecer na descoberta do usu\u00e1rio      Fluxo de Exce\u00e7\u00e3o 01 : Conta do  Facebook  j\u00e1 cadastrada  1. O  usu\u00e1rio  n\u00e3o cadastrado acessa o  Tinder .  2. O  usu\u00e1rio  n\u00e3o cadastrado seleciona a op\u00e7\u00e3o \"Entrar com Facebook\".  3. O  usu\u00e1rio  n\u00e3o cadastrado concede a permiss\u00e3o para que o Tinder receba informa\u00e7\u00f5es do seu perfil do  Facebook .  4. J\u00e1 existe um cadastro com a conta do  Facebook .  5. O  sistema  retorna ao passo 2 do fluxo principal.   Fluxo de Exce\u00e7\u00e3o 02 : Conta do Facebook inv\u00e1lida  1. O  usu\u00e1rio  n\u00e3o cadastrado acessa o  Tinder .  2. O  usu\u00e1rio  n\u00e3o cadastrado seleciona a op\u00e7\u00e3o \"Entrar com  Facebook \".  3. A conta do Facebook n\u00e3o \u00e9 v\u00e1lida.  4. O  sistema  retorna ao passo 2 do fluxo principal   Fluxo de Exce\u00e7\u00e3o 03 : Dados inv\u00e1lidos  1. O  usu\u00e1rio  seleciona a op\u00e7\u00e3o de entrar com o n\u00famero de telefone.  2. O  sistema  disponibiliza uma tela com os campos que precisam ser inseridos.  3. O  usu\u00e1rio  preenche os campos com as informa\u00e7\u00f5es necess\u00e1rias.  4. O  usu\u00e1rio  seleciona a op\u00e7\u00e3o de salvar cadastro.  5. O  sistema  identifica campos preenchidos incorretamente  6. O  sistema  retorna ao passo 2 do fluxo principal  7. O  sistema  indica os campos que foram preenchidos incorretamente.   P\u00f3s-condi\u00e7\u00e3o : \u00c9 criado um perfil para o  usu\u00e1rio .",
+            "title": "UC01 - Cadastrar Usu\u00e1rio"
+        },
+        {
             "location": "/modelagem/casosUso/UC02/",
-            "text": "",
+            "text": "UC02 - Login do Usu\u00e1rio\n\n\n\n\nDescri\u00e7\u00e3o\n: Este caso de uso permite que o \nusu\u00e1rio\n possa se conectar ao \nsistema\n. Isso pode ser feito tanto pelo \nFacebook\n quanto pelo n\u00famero de celular.\n\n\n\nAtor principal\n: \nUsu\u00e1rio\n\n\n\n\nPr\u00e9-Requisitos\n: O \nusu\u00e1rio\n n\u00e3o deve estar \nlogado\n em uma conta.\n\n\n\nFluxo Principal\n: \nLogin\n com \nFacebook\n:\n\n 1. O \nusu\u00e1rio\n acessa o aplicativo do \nTinder\n.\n\n 2. O \nusu\u00e1rio\n seleciona a op\u00e7\u00e3o de \u201centrar com \nFacebook\n\".\n\n 3. Os dados do \nFacebook\n s\u00e3o importados para o perfil do \nTinder\n.\n\n\n\nFluxo Alternativo\n: \nLogin\n com n\u00famero de celular:\n\n 1. O \nusu\u00e1rio\n acessa o aplicativo do \nTinder\n.\n\n 2. O \nusu\u00e1rio\n seleciona a op\u00e7\u00e3o de \u201centrar com n\u00famero de celular\u201d.\n\n 3. O \nusu\u00e1rio\n \u00e9 redirecionado para a \ndescoberta\n.\n\n\n\n\nRegras de Neg\u00f3cio 01\n\n\n\n\n\n\n\n\n\n\nCampo\n\n\nFormato\n\n\nObrigatoriedade\n\n\nValor\n\n\n\n\n\n\n\n\n\n\nN\u00famero de celular\n\n\nVaria de acordo com os pa\u00edses.\n\n\nSim\n\n\nO \nusu\u00e1rio\n n\u00e3o consegue acessar sua conta sem o n\u00famero de celular.\n\n\n\n\n\n\nEmail\n\n\nexemplo@exemplo.com ou exemplo@exemplo.com.br\n\n\nSim\n\n\nO e-mail deve ser v\u00e1lido e deve j\u00e1 ter sido cadastrado\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFluxo de exce\u00e7\u00e3o\n: Conta do \nFacebook\n removida:\n\n 1. O \nusu\u00e1rio\n acessa o aplicativo do \nTinder\n.\n\n 2. O \nusu\u00e1rio\n seleciona a op\u00e7\u00e3o de \u201centrar com \nFacebook\n\".\n\n 3. O conta do \nFacebook\n n\u00e3o existe mais.\n\n 4. O \nsistema\n volta para o passo 2 do fluxo principal.\n\n\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: \nusu\u00e1rio\n \nlogado\n no \nsistema\n.",
             "title": "UC 02"
         },
         {
+            "location": "/modelagem/casosUso/UC02/#uc02-login-do-usuario",
+            "text": "Descri\u00e7\u00e3o : Este caso de uso permite que o  usu\u00e1rio  possa se conectar ao  sistema . Isso pode ser feito tanto pelo  Facebook  quanto pelo n\u00famero de celular.  Ator principal :  Usu\u00e1rio   Pr\u00e9-Requisitos : O  usu\u00e1rio  n\u00e3o deve estar  logado  em uma conta.  Fluxo Principal :  Login  com  Facebook :  1. O  usu\u00e1rio  acessa o aplicativo do  Tinder .  2. O  usu\u00e1rio  seleciona a op\u00e7\u00e3o de \u201centrar com  Facebook \".  3. Os dados do  Facebook  s\u00e3o importados para o perfil do  Tinder .  Fluxo Alternativo :  Login  com n\u00famero de celular:  1. O  usu\u00e1rio  acessa o aplicativo do  Tinder .  2. O  usu\u00e1rio  seleciona a op\u00e7\u00e3o de \u201centrar com n\u00famero de celular\u201d.  3. O  usu\u00e1rio  \u00e9 redirecionado para a  descoberta .   Regras de Neg\u00f3cio 01      Campo  Formato  Obrigatoriedade  Valor      N\u00famero de celular  Varia de acordo com os pa\u00edses.  Sim  O  usu\u00e1rio  n\u00e3o consegue acessar sua conta sem o n\u00famero de celular.    Email  exemplo@exemplo.com ou exemplo@exemplo.com.br  Sim  O e-mail deve ser v\u00e1lido e deve j\u00e1 ter sido cadastrado           Fluxo de exce\u00e7\u00e3o : Conta do  Facebook  removida:  1. O  usu\u00e1rio  acessa o aplicativo do  Tinder .  2. O  usu\u00e1rio  seleciona a op\u00e7\u00e3o de \u201centrar com  Facebook \".  3. O conta do  Facebook  n\u00e3o existe mais.  4. O  sistema  volta para o passo 2 do fluxo principal.   P\u00f3s-condi\u00e7\u00e3o :  usu\u00e1rio   logado  no  sistema .",
+            "title": "UC02 - Login do Usu\u00e1rio"
+        },
+        {
             "location": "/modelagem/casosUso/UC03/",
-            "text": "",
+            "text": "UC03 - Deletar Conta\n\n\n\n\nDescri\u00e7\u00e3o\n: Este caso de uso permite que o \nusu\u00e1rio\n possa ser capaz de excluir sua conta.\n\n\nAtor principal\n: \nUsu\u00e1rio\n e \nsistema\n.\n\n\n\nPr\u00e9-Requisitos\n: O \nusu\u00e1rio\n deve possuir um perfil e precisa estar \nlogado\n.\n\n\n\nFluxo Principal\n:\n\n 1. O \nusu\u00e1rio\n abre o aplicativo.\n\n 2. O \nusu\u00e1rio\n seleciona aba perfil.\n\n 3. O \nusu\u00e1rio\n seleciona a op\u00e7\u00e3o de configura\u00e7\u00f5es.\n\n 4. O \nusu\u00e1rio\n \ndesliza\n a tela at\u00e9 a op\u00e7\u00e3o deletar conta.\n\n 5. O \nsistema\n exibe a tela de desativar.\n\n 6. O \nusu\u00e1rio\n escolhe a op\u00e7\u00e3o de excluir minha conta.\n\n 7. O \nsistema\n exibe a tela de deletar conta.\n\n 8. O \nusu\u00e1rio\n escolhe o motivo da exclus\u00e3o da conta.\n\n 9. O \nsistema\n mostra a mensagem de confirma\u00e7\u00e3o para excluir a conta.\n\n 10. O \nsistema\n deleta a conta.\n\n 11. O \nsistema\n exibe uma mensagem confirmando a exclus\u00e3o da conta.\n\n\nFluxo Alternativo\n: \nCongelar Conta\n\n\n 1. O \nusu\u00e1rio\n abre o aplicativo.\n\n 2. O \nusu\u00e1rio\n abre a aba perfil.\n\n 3. O \nusu\u00e1rio\n clica em configura\u00e7\u00f5es.\n\n 4. O \nusu\u00e1rio\n \ndesliza\n a p\u00e1gina at\u00e9 a op\u00e7\u00e3o deletar conta.\n\n 5. O \nusu\u00e1rio\n seleciona deletar conta.\n\n 6. O \nusu\u00e1rio\n escolhe a op\u00e7\u00e3o \ncongelar a minha conta\n.\n\n 7. O \nsistema\n abre a tela principal.\n\n 8. O \nsistema\n exibe a mensagem \u2018Seu cart\u00e3o est\u00e1 oculto\u2019.\n\n 9. O \nsistema\n exibe op\u00e7\u00e3o de ativar \ndescoberta\n.\n\n\nFluxo de exce\u00e7\u00e3o\n: ---\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: O perfil do \nusu\u00e1rio\n n\u00e3o existira mais.",
             "title": "UC 03"
         },
         {
+            "location": "/modelagem/casosUso/UC03/#uc03-deletar-conta",
+            "text": "Descri\u00e7\u00e3o : Este caso de uso permite que o  usu\u00e1rio  possa ser capaz de excluir sua conta.  Ator principal :  Usu\u00e1rio  e  sistema .  Pr\u00e9-Requisitos : O  usu\u00e1rio  deve possuir um perfil e precisa estar  logado .  Fluxo Principal :  1. O  usu\u00e1rio  abre o aplicativo.  2. O  usu\u00e1rio  seleciona aba perfil.  3. O  usu\u00e1rio  seleciona a op\u00e7\u00e3o de configura\u00e7\u00f5es.  4. O  usu\u00e1rio   desliza  a tela at\u00e9 a op\u00e7\u00e3o deletar conta.  5. O  sistema  exibe a tela de desativar.  6. O  usu\u00e1rio  escolhe a op\u00e7\u00e3o de excluir minha conta.  7. O  sistema  exibe a tela de deletar conta.  8. O  usu\u00e1rio  escolhe o motivo da exclus\u00e3o da conta.  9. O  sistema  mostra a mensagem de confirma\u00e7\u00e3o para excluir a conta.  10. O  sistema  deleta a conta.  11. O  sistema  exibe uma mensagem confirmando a exclus\u00e3o da conta.  Fluxo Alternativo :  Congelar Conta   1. O  usu\u00e1rio  abre o aplicativo.  2. O  usu\u00e1rio  abre a aba perfil.  3. O  usu\u00e1rio  clica em configura\u00e7\u00f5es.  4. O  usu\u00e1rio   desliza  a p\u00e1gina at\u00e9 a op\u00e7\u00e3o deletar conta.  5. O  usu\u00e1rio  seleciona deletar conta.  6. O  usu\u00e1rio  escolhe a op\u00e7\u00e3o  congelar a minha conta .  7. O  sistema  abre a tela principal.  8. O  sistema  exibe a mensagem \u2018Seu cart\u00e3o est\u00e1 oculto\u2019.  9. O  sistema  exibe op\u00e7\u00e3o de ativar  descoberta .  Fluxo de exce\u00e7\u00e3o : ---  P\u00f3s-condi\u00e7\u00e3o : O perfil do  usu\u00e1rio  n\u00e3o existira mais.",
+            "title": "UC03 - Deletar Conta"
+        },
+        {
             "location": "/modelagem/casosUso/UC04/",
-            "text": "",
+            "text": "UC04 - Conectar com as redes sociais\n\n\n\n\nDescri\u00e7\u00e3o\n: Este caso de uso procura garantir que o \nsistema\n ser\u00e1 capaz de se integrar com diferentes redes sociais.\n\n\n\nAtores\n: \nUsu\u00e1rio\n e \nSistema\n.\n\n\n\nPr\u00e9-Requisitos\n: O \nusu\u00e1rio\n deve permitir que o \nsistema\n acesse essas redes sociais.\n\n\n\nFluxo Principal\n:\n\n 1. O \nusu\u00e1rio\n escolhe qual rede social quer conectar.\n\n 2. O \nsistema\n pede permiss\u00e3o.\n\n 3. O \nusu\u00e1rio\n aceita.\n\n 4. O \nsistema\n se conecta com a rede social.\n\n\n\nFluxo Alternativo\n: ---\n\n\n\nFluxo de exce\u00e7\u00e3o\n: Permiss\u00e3o negada\n\n 1. O \nusu\u00e1rio\n escolhe qual rede social quer conectar.\n\n 2. O \nsistema\n pede permiss\u00e3o.\n\n 3. O \nusu\u00e1rio\n nega.\n\n 4. O \nsistema\n volta para o passo 1 do fluxo principal.\n\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: O \nsistema\n estar\u00e1 integrado com diferentes redes sociais.",
             "title": "UC 04"
         },
         {
+            "location": "/modelagem/casosUso/UC04/#uc04-conectar-com-as-redes-sociais",
+            "text": "Descri\u00e7\u00e3o : Este caso de uso procura garantir que o  sistema  ser\u00e1 capaz de se integrar com diferentes redes sociais.  Atores :  Usu\u00e1rio  e  Sistema .  Pr\u00e9-Requisitos : O  usu\u00e1rio  deve permitir que o  sistema  acesse essas redes sociais.  Fluxo Principal :  1. O  usu\u00e1rio  escolhe qual rede social quer conectar.  2. O  sistema  pede permiss\u00e3o.  3. O  usu\u00e1rio  aceita.  4. O  sistema  se conecta com a rede social.  Fluxo Alternativo : ---  Fluxo de exce\u00e7\u00e3o : Permiss\u00e3o negada  1. O  usu\u00e1rio  escolhe qual rede social quer conectar.  2. O  sistema  pede permiss\u00e3o.  3. O  usu\u00e1rio  nega.  4. O  sistema  volta para o passo 1 do fluxo principal.  P\u00f3s-condi\u00e7\u00e3o : O  sistema  estar\u00e1 integrado com diferentes redes sociais.",
+            "title": "UC04 - Conectar com as redes sociais"
+        },
+        {
             "location": "/modelagem/casosUso/UC05/",
-            "text": "",
+            "text": "UC05 - Conectar com \nSpotify\n\n\n\n\nDescri\u00e7\u00e3o\n: Este caso de uso permite que o \nusu\u00e1rio\n consiga conectar uma conta do \nSpotify\n ao seu perfil.\n\n\nAtor Principal\n: \nUsu\u00e1rio\n.\n\n\nPr\u00e9-requisitos\n:\n1. O \nusu\u00e1rio\n possui um perfil, que n\u00e3o est\u00e1 conectado com o \nSpotify\n.\n2. Possuir uma conta no \nSpotify\n.\n\n\nFluxo principal\n:\n\n 1. O \nusu\u00e1rio\n seleciona o \u00edcone de perfil no topo da tela.\n\n 2. O \nusu\u00e1rio\n seleciona \"Editar perfil\".\n\n 3. O \nusu\u00e1rio\n desliza at\u00e9 a sess\u00e3o \"Meus artistas preferidos\".\n\n 4. O \nusu\u00e1rio\n seleciona em \"Conectar perfil com \nSpotify\n\".\n\n 5. O \nusu\u00e1rio\n permite que o sistema colete dados do \nSpotify\n.\n\n\nFluxo alternativo\n: -\n\n\nFluxo de exce\u00e7\u00e3o\n: \nSpotify\n j\u00e1 integrado com uma conta\n\n 1. O \nusu\u00e1rio\n seleciona o \u00edcone de perfil no topo da tela.\n\n 2. O \nusu\u00e1rio\n seleciona \"Editar perfil\".\n\n 3. O \nusu\u00e1rio\n desliza at\u00e9 a sess\u00e3o \"Meus artistas preferidos\".\n\n 4. O \nusu\u00e1rio\n seleciona em \"Conectar perfil com \nSpotify\n\".\n\n 5. A conta do \nSpotify\n j\u00e1 est\u00e1 conectada com outra conta.\n\n 6. O sistema volta para o passo 3 do fluxo principal.\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: O perfil do \nusu\u00e1rio\n vai estar conectado ao \nSpotify\n.",
             "title": "UC 05"
         },
         {
+            "location": "/modelagem/casosUso/UC05/#uc05-conectar-com-spotify",
+            "text": "Descri\u00e7\u00e3o : Este caso de uso permite que o  usu\u00e1rio  consiga conectar uma conta do  Spotify  ao seu perfil.  Ator Principal :  Usu\u00e1rio .  Pr\u00e9-requisitos :\n1. O  usu\u00e1rio  possui um perfil, que n\u00e3o est\u00e1 conectado com o  Spotify .\n2. Possuir uma conta no  Spotify .  Fluxo principal :  1. O  usu\u00e1rio  seleciona o \u00edcone de perfil no topo da tela.  2. O  usu\u00e1rio  seleciona \"Editar perfil\".  3. O  usu\u00e1rio  desliza at\u00e9 a sess\u00e3o \"Meus artistas preferidos\".  4. O  usu\u00e1rio  seleciona em \"Conectar perfil com  Spotify \".  5. O  usu\u00e1rio  permite que o sistema colete dados do  Spotify .  Fluxo alternativo : -  Fluxo de exce\u00e7\u00e3o :  Spotify  j\u00e1 integrado com uma conta  1. O  usu\u00e1rio  seleciona o \u00edcone de perfil no topo da tela.  2. O  usu\u00e1rio  seleciona \"Editar perfil\".  3. O  usu\u00e1rio  desliza at\u00e9 a sess\u00e3o \"Meus artistas preferidos\".  4. O  usu\u00e1rio  seleciona em \"Conectar perfil com  Spotify \".  5. A conta do  Spotify  j\u00e1 est\u00e1 conectada com outra conta.  6. O sistema volta para o passo 3 do fluxo principal.  P\u00f3s-condi\u00e7\u00e3o : O perfil do  usu\u00e1rio  vai estar conectado ao  Spotify .",
+            "title": "UC05 - Conectar com Spotify"
+        },
+        {
             "location": "/modelagem/casosUso/UC06/",
-            "text": "",
+            "text": "UC06 - Conectar Perfil com \nInstagram\n\n\n\n\nDescri\u00e7\u00e3o\n: Este caso de uso permite que o \nusu\u00e1rio\n crie conex\u00e3o entre perfis do \nInstagram\n e \nTinder\n, para que possa compartilhar suas fotos no perfil do \nTinder\n.\n\n\nAtor principal\n: \nUsu\u00e1rio\n\n\nPr\u00e9-requisitos\n:\n1. Possuir uma conta no \nInstagram\n.\n2. Estar \nlogado\n no \nTinder\n\n\nFluxo Principal\n:\n\n 1. O \nusu\u00e1rio\n acessa o aplicativo do \nTinder\n.\n\n 2. O \nusu\u00e1rio\n entra em Perfil.\n\n 3. O \nusu\u00e1rio\n seleciona \"Editar perfil\".\n\n 4. O \nusu\u00e1rio\n seleciona \"Conectar com \nInstagram\n\".\n\n 5. O \nusu\u00e1rio\n permite que o sistema receba os dados do \nInstagram\n.\n\n\nFluxo Alternativo\n: ---\n\n\nFluxo de exce\u00e7\u00e3o\n: Conta do \nInstagram\n j\u00e1 vinculada\n\n  1. O \nusu\u00e1rio\n acessa o aplicativo do \nTinder\n.\n\n  2. O \nusu\u00e1rio\n entra em Perfil.\n\n  3. O \nusu\u00e1rio\n seleciona \"Editar perfil\".\n\n  4. O \nusu\u00e1rio\n seleciona \"Conectar com \nInstagram\n\".\n\n  5. A conta do \nInstagram\n j\u00e1 est\u00e1 conectada com um perfil.\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: o perfil do \nusu\u00e1rio\n vai estar integrado com o \nInstagram\n.",
             "title": "UC 06"
         },
         {
+            "location": "/modelagem/casosUso/UC06/#uc06-conectar-perfil-com-instagram",
+            "text": "Descri\u00e7\u00e3o : Este caso de uso permite que o  usu\u00e1rio  crie conex\u00e3o entre perfis do  Instagram  e  Tinder , para que possa compartilhar suas fotos no perfil do  Tinder .  Ator principal :  Usu\u00e1rio  Pr\u00e9-requisitos :\n1. Possuir uma conta no  Instagram .\n2. Estar  logado  no  Tinder  Fluxo Principal :  1. O  usu\u00e1rio  acessa o aplicativo do  Tinder .  2. O  usu\u00e1rio  entra em Perfil.  3. O  usu\u00e1rio  seleciona \"Editar perfil\".  4. O  usu\u00e1rio  seleciona \"Conectar com  Instagram \".  5. O  usu\u00e1rio  permite que o sistema receba os dados do  Instagram .  Fluxo Alternativo : ---  Fluxo de exce\u00e7\u00e3o : Conta do  Instagram  j\u00e1 vinculada   1. O  usu\u00e1rio  acessa o aplicativo do  Tinder .   2. O  usu\u00e1rio  entra em Perfil.   3. O  usu\u00e1rio  seleciona \"Editar perfil\".   4. O  usu\u00e1rio  seleciona \"Conectar com  Instagram \".   5. A conta do  Instagram  j\u00e1 est\u00e1 conectada com um perfil.  P\u00f3s-condi\u00e7\u00e3o : o perfil do  usu\u00e1rio  vai estar integrado com o  Instagram .",
+            "title": "UC06 - Conectar Perfil com Instagram"
+        },
+        {
             "location": "/modelagem/casosUso/UC07/",
-            "text": "",
+            "text": "UC07 - Desfazer Match\n\n\n\n\nDescri\u00e7\u00e3o\n: Este caso de uso permite que o \nusu\u00e1rio\n possa \ndesfazer um match\n. O \nmatch\n pode ser desfeito tanto pela conversa quanto pelo \nfeed\n.\n\n\nAtor principal\n: \nUsu\u00e1rio\n\n\nPr\u00e9-requisitos\n:\n\n 1. Possuir algum \nmatch\n.\n\n 2. Estar em uma p\u00e1gina de conversa com este \nmatch\n.\n\n\nFluxo principal\n:\n\n 1. O \nusu\u00e1rio\n acessa a p\u00e1gina de conversas.\n\n 2. O \nusu\u00e1rio\n seleciona o \nmatch\n que quer desfazer.\n\n 3. O \nusu\u00e1rio\n \u00e9 redirecionado para p\u00e1gina de conversa com o \nmatch\n.\n\n 4. O \nusu\u00e1rio\n clica no \u00edcone no canto superior direito da tela.\n\n 5. O \nusu\u00e1rio\n seleciona a op\u00e7\u00e3o de desfazer \nmatch\n.\n\n\n\n\nFluxo Alternativo\n: Desfazer \nmatch\n pelo \nfeed\n\n\n 1. O \nusu\u00e1rio\n abre a \naplica\u00e7\u00e3o\n.\n\n 2. O \nusu\u00e1rio\n abre a aba \nfeed\n e mensagens.\n\n 3. O \nusu\u00e1rio\n seleciona o \nmatch\n que quer \ndenunciar\n.\n\n 4. O \nusu\u00e1rio\n seleciona o \u00edcone de tr\u00eas pontos.\n\n 5. O \nusu\u00e1rio\n seleciona \ndenunciar\n o perfil.\n\n 6. O \nusu\u00e1rio\n seleciona o motivo.\n\n 7. O sistema exibe uma mensagem de \nreported\n.\n\n\n\n\nFluxo de Exce\u00e7\u00e3o\n: ---\n\n\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: O \nusu\u00e1rio\n n\u00e3o poder\u00e1 ver o perfil denunciado e a \naplica\u00e7\u00e3o\n dever\u00e1 tomar provid\u00eancias em rela\u00e7\u00e3o a \nden\u00fancia\n.",
             "title": "UC 07"
         },
         {
+            "location": "/modelagem/casosUso/UC07/#uc07-desfazer-match",
+            "text": "Descri\u00e7\u00e3o : Este caso de uso permite que o  usu\u00e1rio  possa  desfazer um match . O  match  pode ser desfeito tanto pela conversa quanto pelo  feed .  Ator principal :  Usu\u00e1rio  Pr\u00e9-requisitos :  1. Possuir algum  match .  2. Estar em uma p\u00e1gina de conversa com este  match .  Fluxo principal :  1. O  usu\u00e1rio  acessa a p\u00e1gina de conversas.  2. O  usu\u00e1rio  seleciona o  match  que quer desfazer.  3. O  usu\u00e1rio  \u00e9 redirecionado para p\u00e1gina de conversa com o  match .  4. O  usu\u00e1rio  clica no \u00edcone no canto superior direito da tela.  5. O  usu\u00e1rio  seleciona a op\u00e7\u00e3o de desfazer  match .   Fluxo Alternativo : Desfazer  match  pelo  feed   1. O  usu\u00e1rio  abre a  aplica\u00e7\u00e3o .  2. O  usu\u00e1rio  abre a aba  feed  e mensagens.  3. O  usu\u00e1rio  seleciona o  match  que quer  denunciar .  4. O  usu\u00e1rio  seleciona o \u00edcone de tr\u00eas pontos.  5. O  usu\u00e1rio  seleciona  denunciar  o perfil.  6. O  usu\u00e1rio  seleciona o motivo.  7. O sistema exibe uma mensagem de  reported .   Fluxo de Exce\u00e7\u00e3o : ---   P\u00f3s-condi\u00e7\u00e3o : O  usu\u00e1rio  n\u00e3o poder\u00e1 ver o perfil denunciado e a  aplica\u00e7\u00e3o  dever\u00e1 tomar provid\u00eancias em rela\u00e7\u00e3o a  den\u00fancia .",
+            "title": "UC07 - Desfazer Match"
+        },
+        {
             "location": "/modelagem/casosUso/UC08/",
-            "text": "",
+            "text": "UC08 - Enviar Mensagem\n\n\n\n\nDescri\u00e7\u00e3o\n: Este caso de uso permite que o \nusu\u00e1rio\n envie mensagens para o \nmatch\n.\n\n\nAtor principal\n: \nUsu\u00e1rio\n\n\nPr\u00e9-requisitos\n: \u00c9 preciso estar \nlogado\n na \naplica\u00e7\u00e3o\n e ter dado \nmatch\n com o outro \nusu\u00e1rio\n.\n\n\nFluxo Principal\n:\n\n 1. O \nusu\u00e1rio\n abre o \naplicativo\n.\n\n 2. O \nusu\u00e1rio\n ir\u00e1 visualizar perfis que deu \nmatch\n.\n\n 3. O \nusu\u00e1rio\n escolhe um \nusu\u00e1rio\n para conversar.\n\n 4. O \nusu\u00e1rio\n envia uma mensagem.\n\n 5. O \nsistema\n exibe a mensagem enviada.\n\n\nFluxo alternativo\n: Enviar mensagem pelo \nfeed\n\n\n 1. O \nusu\u00e1rio\n abre o aplicativo.\n\n 2. O \nusu\u00e1rio\n vai para a aba de \nfeed\n.\n\n 3. O \nusu\u00e1rio\n clica \u00edcone de bal\u00e3o no cart\u00e3o do perfil.\n\n 4. O \nusu\u00e1rio\n escreve a mensagem.\n\n 5. O \nusu\u00e1rio\n seleciona enviar.\n\n 6. O \nsistema\n exibe a mensagem enviada.\n\n\nFluxo de exce\u00e7\u00e3o\n: Falha no envio da mensagem\n\n 1. O \nusu\u00e1rio\n abre o \naplicativo\n.\n\n 2. O \nusu\u00e1rio\n ir\u00e1 visualizar perfis que deu \nmatch\n.\n\n 3. O \nusu\u00e1rio\n escolhe um \nusu\u00e1rio\n para conversar.\n\n 4. O \nusu\u00e1rio\n envia uma mensagem.\n\n 5. H\u00e1 uma falha no envio da mensagem.\n\n 6. O \nsistema\n n\u00e3o exibe que a mensagem foi enviada.\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: O \nusu\u00e1rio\n \u00e9 capaz de manter conversa com outros \nusu\u00e1rios\n.",
             "title": "UC 08"
         },
         {
+            "location": "/modelagem/casosUso/UC08/#uc08-enviar-mensagem",
+            "text": "Descri\u00e7\u00e3o : Este caso de uso permite que o  usu\u00e1rio  envie mensagens para o  match .  Ator principal :  Usu\u00e1rio  Pr\u00e9-requisitos : \u00c9 preciso estar  logado  na  aplica\u00e7\u00e3o  e ter dado  match  com o outro  usu\u00e1rio .  Fluxo Principal :  1. O  usu\u00e1rio  abre o  aplicativo .  2. O  usu\u00e1rio  ir\u00e1 visualizar perfis que deu  match .  3. O  usu\u00e1rio  escolhe um  usu\u00e1rio  para conversar.  4. O  usu\u00e1rio  envia uma mensagem.  5. O  sistema  exibe a mensagem enviada.  Fluxo alternativo : Enviar mensagem pelo  feed   1. O  usu\u00e1rio  abre o aplicativo.  2. O  usu\u00e1rio  vai para a aba de  feed .  3. O  usu\u00e1rio  clica \u00edcone de bal\u00e3o no cart\u00e3o do perfil.  4. O  usu\u00e1rio  escreve a mensagem.  5. O  usu\u00e1rio  seleciona enviar.  6. O  sistema  exibe a mensagem enviada.  Fluxo de exce\u00e7\u00e3o : Falha no envio da mensagem  1. O  usu\u00e1rio  abre o  aplicativo .  2. O  usu\u00e1rio  ir\u00e1 visualizar perfis que deu  match .  3. O  usu\u00e1rio  escolhe um  usu\u00e1rio  para conversar.  4. O  usu\u00e1rio  envia uma mensagem.  5. H\u00e1 uma falha no envio da mensagem.  6. O  sistema  n\u00e3o exibe que a mensagem foi enviada.  P\u00f3s-condi\u00e7\u00e3o : O  usu\u00e1rio  \u00e9 capaz de manter conversa com outros  usu\u00e1rios .",
+            "title": "UC08 - Enviar Mensagem"
+        },
+        {
             "location": "/modelagem/casosUso/UC09/",
-            "text": "",
+            "text": "UC09 - Dar Match\n\n\n\n\nDescri\u00e7\u00e3o\n: Este caso de uso permite realizar o \nmatch\n entre perfis que se avaliaram positivamente.\n\n\nAtor principal\n: \nSistema\n e \nusu\u00e1rio\n\n\nPr\u00e9-requisitos\n: Dois \nusu\u00e1rios\n distintos precisam ter se dado \nlike\n.\n\n\nFluxo-principal\n:\n\n 1. Ap\u00f3s o \nlike\n ou \nsuper like\n no perfil, se o \nusu\u00e1rio\n foi avaliado positivamente,\n\n 2. Aparece a mensagem \u2018It\u2019s a \nMatch\n.\n\n 3. O \nusu\u00e1rio\n tem a op\u00e7\u00e3o de continuar avaliando os outros perfis ou conversar com esse \nmatch\n.\n\n\nFluxo alternativo\n: Dar \ndeslike\n em um perfil\n\n 1. O \nusu\u00e1rio\n acessa o aplicativo do \nTinder\n.\n\n 2. O \nusu\u00e1rio\n visualiza o perfil de outro \nusu\u00e1rio\n.\n\n 3. O \nusu\u00e1rio\n d\u00e1 \ndeslike\n no perfil.\n\n 4. O \nusu\u00e1rio\n continua avaliando outros perfis.\n\n\nFluxo de exce\u00e7\u00e3o\n: ---\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: O \nusu\u00e1rio\n passa a ter acesso ao \nfeed\n e a conversa com seu \nmatch\n.",
             "title": "UC 09"
         },
         {
+            "location": "/modelagem/casosUso/UC09/#uc09-dar-match",
+            "text": "Descri\u00e7\u00e3o : Este caso de uso permite realizar o  match  entre perfis que se avaliaram positivamente.  Ator principal :  Sistema  e  usu\u00e1rio  Pr\u00e9-requisitos : Dois  usu\u00e1rios  distintos precisam ter se dado  like .  Fluxo-principal :  1. Ap\u00f3s o  like  ou  super like  no perfil, se o  usu\u00e1rio  foi avaliado positivamente,  2. Aparece a mensagem \u2018It\u2019s a  Match .  3. O  usu\u00e1rio  tem a op\u00e7\u00e3o de continuar avaliando os outros perfis ou conversar com esse  match .  Fluxo alternativo : Dar  deslike  em um perfil  1. O  usu\u00e1rio  acessa o aplicativo do  Tinder .  2. O  usu\u00e1rio  visualiza o perfil de outro  usu\u00e1rio .  3. O  usu\u00e1rio  d\u00e1  deslike  no perfil.  4. O  usu\u00e1rio  continua avaliando outros perfis.  Fluxo de exce\u00e7\u00e3o : ---  P\u00f3s-condi\u00e7\u00e3o : O  usu\u00e1rio  passa a ter acesso ao  feed  e a conversa com seu  match .",
+            "title": "UC09 - Dar Match"
+        },
+        {
             "location": "/modelagem/casosUso/UC10/",
-            "text": "",
+            "text": "UC10 - Avaliar Outros Perfis\n\n\n\n\nDescri\u00e7\u00e3o\n: Este caso de uso permite que o \nusu\u00e1rio\n avalie o perfil de outros \nusu\u00e1rio\n de acordo com suas prefer\u00eancias, como: \nlike\n, \nsuper like\n e \ndeslike\n.\n\n\nAtor Principal\n: \nusu\u00e1rio\n\n\nPr\u00e9-requisitos\n: \u00c9 preciso estar \nlogado\n na \naplica\u00e7\u00e3o\n.\n\n\nFluxo principal\n:\n\n 1. O \nusu\u00e1rio\n acessa o aplicativo do \nTinder\n.\n\n 2. O \nusu\u00e1rio\n ir\u00e1 visualizar o primeiro perfil.\n\n 3. O \nusu\u00e1rio\n poder\u00e1 avaliar o perfil com um \nlike\n, \ndeslike\n ou \nsuper like\n.\n\n\nFluxo alternativo 01\n: Dar \nlike\n\n\n 1. O \nusu\u00e1rio\n acessa o aplicativo do \nTinder\n.\n\n 2. O \nusu\u00e1rio\n visualiza o perfil de outro usu\u00e1rio.\n\n 3. O \nusu\u00e1rio\n d\u00e1 \nlike\n no perfil.\n\n\nFluxo alternativo 02\n: Dar \ndeslike\n\n\n 1. O \nusu\u00e1rio\n acessa o aplicativo do \nTinder\n.\n\n 2. O \nusu\u00e1rio\n visualiza o perfil de outro \nusu\u00e1rio\n.\n\n 3. O \nusu\u00e1rio\n d\u00e1 \ndeslike\n no perfil.\n\n 4.s O \nusu\u00e1rio\n continua avaliando outros perfis.\n\n\nFluxo alternativo 03\n: Dar super like](/modelagem/lexicos#super-like)\n\n 1. O \nusu\u00e1rio\n abre a \naplica\u00e7\u00e3o\n.\n\n 2. O \nusu\u00e1rio\n visualiza o perfil de outro \nusu\u00e1rio\n.\n\n 3. O \nusu\u00e1rio\n visualiza um perfil de grande interesse.\n\n 4. O \nusu\u00e1rio\n d\u00e1 \nsuper like\n no perfil.\n\n 5. O \nusu\u00e1rio\n continua avaliando outros perfis.\n\n\nFluxo de exce\u00e7\u00e3o\n: ---\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: Ap\u00f3s avaliar o perfil, o \nusu\u00e1rio\n dever\u00e1 ser capaz de avaliar outros perfis.",
             "title": "UC 10"
         },
         {
+            "location": "/modelagem/casosUso/UC10/#uc10-avaliar-outros-perfis",
+            "text": "Descri\u00e7\u00e3o : Este caso de uso permite que o  usu\u00e1rio  avalie o perfil de outros  usu\u00e1rio  de acordo com suas prefer\u00eancias, como:  like ,  super like  e  deslike .  Ator Principal :  usu\u00e1rio  Pr\u00e9-requisitos : \u00c9 preciso estar  logado  na  aplica\u00e7\u00e3o .  Fluxo principal :  1. O  usu\u00e1rio  acessa o aplicativo do  Tinder .  2. O  usu\u00e1rio  ir\u00e1 visualizar o primeiro perfil.  3. O  usu\u00e1rio  poder\u00e1 avaliar o perfil com um  like ,  deslike  ou  super like .  Fluxo alternativo 01 : Dar  like   1. O  usu\u00e1rio  acessa o aplicativo do  Tinder .  2. O  usu\u00e1rio  visualiza o perfil de outro usu\u00e1rio.  3. O  usu\u00e1rio  d\u00e1  like  no perfil.  Fluxo alternativo 02 : Dar  deslike   1. O  usu\u00e1rio  acessa o aplicativo do  Tinder .  2. O  usu\u00e1rio  visualiza o perfil de outro  usu\u00e1rio .  3. O  usu\u00e1rio  d\u00e1  deslike  no perfil.  4.s O  usu\u00e1rio  continua avaliando outros perfis.  Fluxo alternativo 03 : Dar super like](/modelagem/lexicos#super-like)  1. O  usu\u00e1rio  abre a  aplica\u00e7\u00e3o .  2. O  usu\u00e1rio  visualiza o perfil de outro  usu\u00e1rio .  3. O  usu\u00e1rio  visualiza um perfil de grande interesse.  4. O  usu\u00e1rio  d\u00e1  super like  no perfil.  5. O  usu\u00e1rio  continua avaliando outros perfis.  Fluxo de exce\u00e7\u00e3o : ---  P\u00f3s-condi\u00e7\u00e3o : Ap\u00f3s avaliar o perfil, o  usu\u00e1rio  dever\u00e1 ser capaz de avaliar outros perfis.",
+            "title": "UC10 - Avaliar Outros Perfis"
+        },
+        {
             "location": "/modelagem/casosUso/UC11/",
-            "text": "",
+            "text": "UC11 - Visualizar perfil\n\n\n\n\nDescri\u00e7\u00e3o\n: Esse caso de uso permite que o \nusu\u00e1rio\n acesse o perfil de outros \nusu\u00e1rio\n.\n\n\nAtor principal: \nUsu\u00e1rio\n\n\nPr\u00e9-condi\u00e7\u00e3o\n: Estar \nlogado\n no \nTinder\n.\n\n\nFluxo principal\n:\nO \nusu\u00e1rio\n abre o \nTinder\n.\nNa aba de descoberta, o \nusu\u00e1rio\n clica no \u00edcone de seta para baixo presente no \ncart\u00e3o\n.\nO \nsistema\n abre o perfil do \ncart\u00e3o\n.\n\n\nFluxo alternativo\n: Abrir perfil pelo \nfeed\n\n\n 1. O \nusu\u00e1rio\n abre o \naplicativo\n.\n\n 2. O \nusu\u00e1rio\n vai para a aba de \nfeed\n.\n\n 3. O \nusu\u00e1rio\n clica \u00edcone de pontos ao lado do nome do perfil.\n\n 4. O \nusu\u00e1rio\n seleciona a op\u00e7\u00e3o abrir perfil.\n\n\nFluxo de exce\u00e7\u00e3o\n: ---\n\n\nP\u00f3s-condi\u00e7\u00e3o: o perfil ser\u00e1 aberto.",
             "title": "UC 11"
         },
         {
+            "location": "/modelagem/casosUso/UC11/#uc11-visualizar-perfil",
+            "text": "Descri\u00e7\u00e3o : Esse caso de uso permite que o  usu\u00e1rio  acesse o perfil de outros  usu\u00e1rio .  Ator principal:  Usu\u00e1rio  Pr\u00e9-condi\u00e7\u00e3o : Estar  logado  no  Tinder .  Fluxo principal :\nO  usu\u00e1rio  abre o  Tinder .\nNa aba de descoberta, o  usu\u00e1rio  clica no \u00edcone de seta para baixo presente no  cart\u00e3o .\nO  sistema  abre o perfil do  cart\u00e3o .  Fluxo alternativo : Abrir perfil pelo  feed   1. O  usu\u00e1rio  abre o  aplicativo .  2. O  usu\u00e1rio  vai para a aba de  feed .  3. O  usu\u00e1rio  clica \u00edcone de pontos ao lado do nome do perfil.  4. O  usu\u00e1rio  seleciona a op\u00e7\u00e3o abrir perfil.  Fluxo de exce\u00e7\u00e3o : ---  P\u00f3s-condi\u00e7\u00e3o: o perfil ser\u00e1 aberto.",
+            "title": "UC11 - Visualizar perfil"
+        },
+        {
             "location": "/modelagem/casosUso/UC12/",
-            "text": "",
+            "text": "UC12 - Adquirir Servi\u00e7os Pagos\n\n\n\n\nDescri\u00e7\u00e3o\n: Esse caso de uso permite que o \nusu\u00e1rio\n possa comprar diversos servi\u00e7os pagos.\n\n\nAtor principal\n: \nUsu\u00e1rio\n\n\nPr\u00e9-requisito\n:\n\n 1. O \nusu\u00e1rio\n deve ter cart\u00e3o de cr\u00e9dito ou cr\u00e9ditos na Play Store ou App Store\n\n 2. Realizar a compra apenas pelo aplicativo\n\n\nFluxo principal\n:\n\n 1. O \nusu\u00e1rio\n abre o \naplicativo\n.\n\n 2. O \nusu\u00e1rio\n navega at\u00e9 as configura\u00e7\u00f5es de perfil.\n\n 4. O \nusu\u00e1rio\n seleciona a forma de pagamento.\n\n 5. O pagamento \u00e9 realizado.\n\n\nFluxo alternativo\n: ---\n\n\nFluxo de exce\u00e7\u00e3o\n: Cart\u00e3o de cr\u00e9dito recusado\n\n 1. O \nusu\u00e1rio\n abre o \naplicativo\n.\n\n 3. O \nusu\u00e1rio\n seleciona o servi\u00e7o que quer comprar\n\n 4. O \nusu\u00e1rio\n seleciona a forma de pagamento.\n\n 5. A emissora do cart\u00e3o recusa o pagamento.\n\n 6. O sistema volta para o passo 4 do fluxo principal.\n\n\nP\u00f3s-condi\u00e7\u00e3o: O \nusu\u00e1rio\n ter\u00e1 comprado um servi\u00e7o pago.",
             "title": "UC 12"
+        },
+        {
+            "location": "/modelagem/casosUso/UC12/#uc12-adquirir-servicos-pagos",
+            "text": "Descri\u00e7\u00e3o : Esse caso de uso permite que o  usu\u00e1rio  possa comprar diversos servi\u00e7os pagos.  Ator principal :  Usu\u00e1rio  Pr\u00e9-requisito :  1. O  usu\u00e1rio  deve ter cart\u00e3o de cr\u00e9dito ou cr\u00e9ditos na Play Store ou App Store  2. Realizar a compra apenas pelo aplicativo  Fluxo principal :  1. O  usu\u00e1rio  abre o  aplicativo .  2. O  usu\u00e1rio  navega at\u00e9 as configura\u00e7\u00f5es de perfil.  4. O  usu\u00e1rio  seleciona a forma de pagamento.  5. O pagamento \u00e9 realizado.  Fluxo alternativo : ---  Fluxo de exce\u00e7\u00e3o : Cart\u00e3o de cr\u00e9dito recusado  1. O  usu\u00e1rio  abre o  aplicativo .  3. O  usu\u00e1rio  seleciona o servi\u00e7o que quer comprar  4. O  usu\u00e1rio  seleciona a forma de pagamento.  5. A emissora do cart\u00e3o recusa o pagamento.  6. O sistema volta para o passo 4 do fluxo principal.  P\u00f3s-condi\u00e7\u00e3o: O  usu\u00e1rio  ter\u00e1 comprado um servi\u00e7o pago.",
+            "title": "UC12 - Adquirir Servi\u00e7os Pagos"
         },
         {
             "location": "/modelagem/casosUso/UC13/",
