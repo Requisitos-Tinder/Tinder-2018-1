@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
-        <title>Cenario 01 - Wiki</title>
+        <title>Cenario 38 - Wiki</title>
         <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome-4.5.0.css" rel="stylesheet">
         <link href="../../../css/base.css" rel="stylesheet">
@@ -201,8 +201,8 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             
-<li class="active">
-    <a href="./">Cenario 01</a>
+<li >
+    <a href="../cenario01/">Cenario 01</a>
 </li>
                             
 <li >
@@ -349,8 +349,8 @@
     <a href="../cenario37/">Cenario 37</a>
 </li>
                             
-<li >
-    <a href="../cenario38/">Cenario 38</a>
+<li class="active">
+    <a href="./">Cenario 38</a>
 </li>
                         </ul>
                     </li>
@@ -363,12 +363,12 @@
                     </a>
                 </li>
                     <li >
-                        <a rel="next" href="../../../extras/apresentacoes/">
+                        <a rel="next" href="../cenario37/">
                             <i class="fa fa-arrow-left"></i> Previous
                         </a>
                     </li>
-                    <li >
-                        <a rel="prev" href="../cenario02/">
+                    <li class="disabled">
+                        <a rel="prev" >
                             Next <i class="fa fa-arrow-right"></i>
                         </a>
                     </li>
@@ -380,48 +380,48 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#cadastrar-usuario-com-o-facebook">Cadastrar Usuário com o Facebook</a></li>
+        <li class="main active"><a href="#abrir-perfil-pelo-feed">Abrir Perfil pelo feed</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="cadastrar-usuario-com-o-facebook">Cadastrar Usuário com o <a href="../../../modelagem/lexicos#facebook">Facebook</a></h1>
+<h1 id="abrir-perfil-pelo-feed">Abrir Perfil pelo feed</h1>
 <p><br /></p>
 <table>
 <thead>
 <tr>
 <th>Título</th>
-<th>Cadastrar <a href="../../../modelagem/lexicos#usuario">Usuário</a> com o <a href="../../../modelagem/lexicos#facebook">Facebook</a></th>
+<th>Desconectar da Conta</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>Objetivo</strong></td>
-<td>Criar um <a href="../../../modelagem/lexicos#perfil">perfil</a> conectado com o <a href="../../../modelagem/lexicos#facebook">Facebook</a> para um <a href="../../../modelagem/lexicos#usuario">usuário</a> no <a href="../../../modelagem/lexicos#tinder">tinder</a>.</td>
+<td>O  <a href="../../../modelagem/lexicos#usuario">usuário</a> pode desconectar de sua conta a qualquer momento.</td>
 </tr>
 <tr>
 <td><strong>Contexto</strong></td>
-<td><strong>Pré-condição:</strong> Possuir uma conta no <a href="../../../modelagem/lexicos#facebook">Facebook</a><br /><strong>Pós-condição:</strong> É criado um <a href="../../../modelagem/lexicos#perfil">perfil</a> conectado com o <a href="../../../modelagem/lexicos#facebook">Facebook</a> para o <a href="../../../modelagem/lexicos#usuario">usuário</a> no <a href="../../../modelagem/lexicos#tinder">aplicativo</a>.</td>
+<td><strong>Pré-condição:</strong><br/>1. Possuir um conta.<br/>2. Estar logado.<br/><strong>Pós-condição:</strong><br/>1. A conta será desconectada.<br/>2. A tela de login será exibida.</td>
 </tr>
 <tr>
 <td><strong>Atores</strong></td>
-<td>1. <a href="../../../modelagem/lexicos#usuario-nao-cadastrado">Não-usuário</a><br />2. <a href="../../../modelagem/lexicos#tinder">Sistema</a></td>
+<td><a href="../../../modelagem/lexicos#usuario">Usuário</a><br/><a href="../../../modelagem/lexicos#sistema">Sistema</a></td>
 </tr>
 <tr>
 <td><strong>Recursos</strong></td>
-<td>Acesso à internet</td>
+<td>Acesso à Internet.</td>
 </tr>
 <tr>
 <td><strong>Episódios</strong></td>
-<td>1. O <a href="../../../modelagem/lexicos#usuario-nao-cadastrado">usuário não cadastrado</a> acessa o <a href="../../../modelagem/lexicos#tinder">Tinder</a>.<br />2. O <a href="../../../modelagem/lexicos#usuario-nao-cadastrado">usuário não cadastrado</a> seleciona a opção "Entrar com <a href="../../../modelagem/lexicos#facebook">Facebook</a>".<br />4. O <a href="../../../modelagem/lexicos#usuario-nao-cadastrado">usuário não cadastrado</a> concede a permissão para o que <a href="../../../modelagem/lexicos#tinder">Tinder</a> receba informações do seu <a href="../../../modelagem/lexicos#perfil">perfil</a> do <a href="../../../modelagem/lexicos#facebook">Facebook</a>.<br />5. O <a href="../../../modelagem/lexicos#tinder">sistema</a> cria um <a href="../../../modelagem/lexicos#perfil">perfil</a> para o novo <a href="../../../modelagem/lexicos#usuario">usuário</a> com as informações seu <a href="../../../modelagem/lexicos#perfil">perfil</a> do <a href="../../../modelagem/lexicos#facebook">Facebook</a>.<br />6. O <a href="../../../modelagem/lexicos#usuario-nao-cadastrado">usuário não cadastrado</a> passa a ser um <a href="../../../modelagem/lexicos#usuario-free">usuário free</a>.</td>
+<td>1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> abre o <a href="../../../modelagem/lexicos#tinder">aplicativo</a>.<br/>2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> vai para a aba de <a href="../../../modelagem/lexicos#perfil">perfil</a>.<br/>3. O <a href="../../../modelagem/lexicos#usuario">usuário</a> acessa as configurações;<br/>4. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona a opção de sair.<br/>5. O <a href="../../../modelagem/lexicos#tinder">sistema</a> exibe uma <a href="../../../modelagem/lexicos#mensagem">mensagem</a> de confirmação.<br/>6. O <a href="../../../modelagem/lexicos#usuario">usuário</a> confirma que deseja sair.</td>
 </tr>
 <tr>
 <td><strong>Restrições</strong></td>
-<td>Possuir imagens</td>
+<td>Fluxo interativo.</td>
 </tr>
 <tr>
 <td><strong>Exceção</strong></td>
-<td>1. Conta no <a href="../../../modelagem/lexicos#facebook">Facebook</a> já cadastrada no <a href="../../../modelagem/lexicos#tinder">tinder</a>.</td>
+<td>1. A internet parar de funcionar no meio da ação.<br/>2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> fechar o <a href="../../../modelagem/lexicos#tinder">aplicativo</a> durante a ação.</td>
 </tr>
 </tbody>
 </table></div>
