@@ -29,6 +29,7 @@ pages:
          - 'Léxicos': 'modelagem/lexicos.md'
          - 'Cenários': 'modelagem/cenarios.md'
          - 'Casos de Uso': 'modelagem/casosUso.md'
+         - 'Documentação Suplementar': 'modelagem/docSuplementar.md'
          - 'Referências': 'modelagem/referencias.md'
      - Análise:
          - 'About': 'analise/analise.md'
