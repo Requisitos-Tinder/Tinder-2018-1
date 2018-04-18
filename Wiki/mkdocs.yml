@@ -101,7 +101,11 @@ pages:
          - 'UC 20': 'modelagem/casosUso/UC20.md'
          - 'UC 21': 'modelagem/casosUso/UC21.md'
          - 'UC 22': 'modelagem/casosUso/UC22.md'
-
+         - 'UC 23': 'modelagem/casosUso/UC23.md'
+         - 'UC 24': 'modelagem/casosUso/UC24.md'
+         - 'UC 25': 'modelagem/casosUso/UC25.md'
+         - 'UC 26': 'modelagem/casosUso/UC26.md'
+         - 'UC 27': 'modelagem/casosUso/UC27.md'
 theme:
     name: simplex
 extra_css:
