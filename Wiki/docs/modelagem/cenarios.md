@@ -78,3 +78,5 @@
 ###37. [Abrir Perfil pelo Feed](../modelagem/cenarios/cenario37.md)
 <br />
 ###38. [Desconectar da Conta](../modelagem/cenarios/cenario38.md)
+<br />
+###39. [Acessar Configurações](../modelagem/cenarios/cenario39.md)
