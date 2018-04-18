@@ -64,14 +64,14 @@
 
 | Número | Requisito | Categoria | Técnica |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|--------|
-|1 |Suporte à plataforma Android |Compatibilidade| Questionário |
-|2 |Suporte à plataforma IOS |Compatibilidade| Questionário |
-|3 |Suporte à plataforma Web |Compatibilidade| Questionário |
-|4 |Tempo mínimo de resposta entre cada perfil avaliado |Desempenho| Questionário |
-|5 |Tempo mínimo de respostas quando houver o match |Desempenho| Questionário |
-|6 |Segurança ao guardar os dados do usuário |Segurança| Questionário |
-|7 |Segurança ao realizar a integração com as redes sociais (Facebook, Instragram, Spotify) |Segurança| Storytelling |
-|8 |Linguagem de fácil entendimento |Usabilidade| Questionário |
-|9 |Compatibilidade com versões de browser (Google Chrome, Mozilla Firefox, etc) |Compatibilidade| Questionário |
-|10 |Compatibilidade com versões de sistemas operacionais móveis |Compatibilidade| Questionário |
-|11 |Interface intuítiva e de fácil compreensão |Usabilidade| Questionário |
+|1 |Suporte à plataforma Android |Compatibilidade| [Questionário](questionario/) |
+|2 |Suporte à plataforma IOS |Compatibilidade| [Questionário](questionario/) |
+|3 |Suporte à plataforma Web |Compatibilidade| [Questionário](questionario/) |
+|4 |Tempo mínimo de resposta entre cada perfil avaliado |Desempenho| [Questionário](questionario/) |
+|5 |Tempo mínimo de respostas quando houver o match |Desempenho| [Questionário](questionario/) |
+|6 |Segurança ao guardar os dados do usuário |Segurança| [Questionário](questionario/) |
+|7 |Segurança ao realizar a integração com as redes sociais (Facebook, Instragram, Spotify) |Segurança| [Storytelling](storytelling/) |
+|8 |Linguagem de fácil entendimento |Usabilidade| [Questionário](questionario/) |
+|9 |Compatibilidade com versões de browser (Google Chrome, Mozilla Firefox, etc) |Compatibilidade| [Questionário](questionario/) |
+|10 |Compatibilidade com versões de sistemas operacionais móveis |Compatibilidade| [Questionário](questionario/) |
+|11 |Interface intuítiva e de fácil compreensão |Usabilidade| [Questionário](questionario/) |
