@@ -62,16 +62,16 @@
 
 ### **Requisitos Não Funcionais**  
 
-| Número | Requisito                                                                                                                                           | Categoria                 |
-|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
-|1 |Suporte à plataforma Android |Compatibilidade|
-|2 |Suporte à plataforma IOS |Compatibilidade|
-|3 |Suporte à plataforma Web |Compatibilidade|
-|4 |Tempo mínimo de resposta entre cada perfil avaliado |Desempenho|
-|5 |Tempo mínimo de respostas quando houver o match |Desempenho|
-|6 |Segurança ao guardar os dados do usuário |Segurança|
-|7 |Segurança ao realizar a integração com as redes sociais (Facebook, Instragram, Spotify) |Segurança|
-|8 |Linguagem de fácil entendimento |Usabilidade|
-|9 |Compatibilidade com versões de browser (Google Chrome, Mozilla Firefox, etc) |Compatibilidade
-|10 |Compatibilidade com versões de sistemas operacionais móveis |Compatibilidade
-|11 |Interface intuítiva e de fácil compreensão |Usabilidade
+| Número | Requisito | Categoria | Técnica |
+|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|--------|
+|1 |Suporte à plataforma Android |Compatibilidade| Questionário |
+|2 |Suporte à plataforma IOS |Compatibilidade| Questionário |
+|3 |Suporte à plataforma Web |Compatibilidade| Questionário |
+|4 |Tempo mínimo de resposta entre cada perfil avaliado |Desempenho| Questionário |
+|5 |Tempo mínimo de respostas quando houver o match |Desempenho| Questionário |
+|6 |Segurança ao guardar os dados do usuário |Segurança| Questionário |
+|7 |Segurança ao realizar a integração com as redes sociais (Facebook, Instragram, Spotify) |Segurança| Storytelling |
+|8 |Linguagem de fácil entendimento |Usabilidade| Questionário |
+|9 |Compatibilidade com versões de browser (Google Chrome, Mozilla Firefox, etc) |Compatibilidade| Questionário |
+|10 |Compatibilidade com versões de sistemas operacionais móveis |Compatibilidade| Questionário |
+|11 |Interface intuítiva e de fácil compreensão |Usabilidade| Questionário |
