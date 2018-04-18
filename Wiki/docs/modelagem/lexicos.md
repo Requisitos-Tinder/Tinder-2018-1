@@ -455,6 +455,17 @@
 
 <br />
 
+## Padrão
+
+| Nome              | Padrão |
+|-------------------|--------|
+| **Sinônimos**     | |
+| **Noção**         | Padrão é o modelo que algum artefato segue caso não seja singular, diferente. |
+| **Impacto**       | No [Tinder](/modelagem/lexicos#tinder) os perfis seguem um padrão definido pelo [sistema](/modelagem/lexicos#tinder), com foto, nome, idade, descrição, etc. |
+| **Classificação** | Objeto |
+
+<br />
+
 ## Passaporte
 
 | Nome      	| Passaporte                                               	|
