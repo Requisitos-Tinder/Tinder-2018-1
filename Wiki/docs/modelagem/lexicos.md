@@ -12,6 +12,16 @@
 
 <br />
 
+## Atualização
+
+| Nome      	| Atualização                                                  	|
+| ------------- | ------------------------------------------------------------ |
+| **Sinônimos** 	| Atualizações, atualizar |
+| **Noção**    	| Quando o [usuário](/modelagem/lexicos#usuario-free) atualiza seus dados ou suas preferências              	|
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario-free) recebe a opção de atualizar suas preferências ao esgotar os perfis compatíveis com suas escolhas  |
+| **Classificação** | Verbo                                                    	|
+
+<br />
 ## Boost
 
 | Nome              | Boost                                    |
@@ -167,6 +177,17 @@
 | **Noção**         | O [usuário](/modelagem/lexicos#usuario) pode descurtir o [perfil](/modelagem/lexicos#perfil) de outras [pessoas](/modelagem/lexicos#usuario). |
 | **Impacto**       | Quando o [usuário](/modelagem/lexicos#usuario) deslizar a tela para a esquerda ou apertar o ícone de x, ele vai descurtir o [perfil](/modelagem/lexicos#perfil) daquela [pessoa](/modelagem/lexicos#usuario). |
 | **Classificação** | Verbo                                    |
+
+<br />
+
+## Destaque
+
+| Nome      	| Destaque                                                  	|
+| ------------- | ------------------------------------------------------------ |
+| **Sinônimos** 	| Destacar |
+| **Noção**    	| Quando o [usuário](/modelagem/lexicos#usuario) se destaca para outros perfis            	|
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) aparece em destaque para outros perfis quando compra [Super Likes](/modelagem/lexicos#super-like)  |
+| **Classificação** | Verbo                                                    	|
 
 <br />
 
@@ -564,7 +585,18 @@
 | **Sinônimos**     | [Gênero](/modelagem/lexicos#genero)                                 |
 | **Noção**         | O [gênero](/modelagem/lexicos#genero) do [usuário](/modelagem/lexicos#usuario) (Homem ou Mulher)  |
 | **Impacto**       | O [usuário](/modelagem/lexicos#usuario) informa se é Homem ou Mulher |
-| **Classificação** | objeto                                 |
+| **Classificação** | Objeto                                 |
+
+<br />
+
+## Sing Up
+
+| Nome              | Sing up                                   |
+| ----------------- | -------------------------------------- |
+| **Sinônimos**     | Cadastro, cadastrar, cadastrando                                 |
+| **Noção**         |Quando o usuário cria sua conta no Tinder |
+| **Impacto**       | O usuário irá realizar o cadastro ao acessar pela primeira vez a aplicação |
+| **Classificação** | Verbo                                 |
 
 <br />
 
