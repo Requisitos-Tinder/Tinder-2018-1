@@ -942,7 +942,7 @@
         }, 
         {
             "location": "/modelagem/cenarios/", 
-            "text": "Cen\u00e1rios\n\n\n\n\n\n\n1. \nCadastrar Usu\u00e1rio com o Facebook\n\n\n\n\n2. \nCadastrar Usu\u00e1rio com N\u00famero de Celular\n\n\n\n\n3. \n Login com Facebook\n\n\n\n\n4. \nLogin com N\u00famero de Celular.\n\n\n\n\n5. \nEscolher Fotos de Perfil\n\n\n\n\n6. \nSmart Photos\n\n\n\n\n7. \nConectar Perfil com Instagram\n\n\n\n\n8. \nConectar Perfil com Spotify.\n\n\n\n\n9. \nSobre Mim\n\n\n\n\n10. \nAvaliar Perfil de Outros Usu\u00e1rios\n\n\n\n\n11. \nAvaliar com Like Outros Perfis\n\n\n\n\n12. \nAvaliar com Deslike Outros Perfis\n\n\n\n\n13. \nAvaliar com Super Like Outros Perfis\n\n\n\n\n14. \nDenunciar Perfil de Outros Usu\u00e1rios\n\n\n\n\n15. \nRecomendar um Perfil\n\n\n\n\n16. \nRealizar um Match entre Usu\u00e1rios\n\n\n\n\n17. \nConversas com Outros Usu\u00e1rios\n\n\n\n\n18. \nAcessar o Feed\n\n\n\n\n19. \nComprar Boost\n\n\n\n\n20. \nComprar Super Like\n\n\n\n\n21. \nComprar Tinder Plus\n\n\n\n\n22. \nComprar Tinder Gold\n\n\n\n\n23. \nAcessar Lista de Matches\n\n\n\n\n24. \nConfigura\u00e7\u00e3o de Descoberta\n\n\n\n\n25. \nConfigura\u00e7\u00e3o do Feed\n\n\n\n\n26. \nConfigura\u00e7\u00e3o do Perfil Web\n\n\n\n\n27. \nConfigura\u00e7\u00e3o de Notifica\u00e7\u00e3o\n\n\n\n\n28. \nDeletar Conta\n\n\n\n\n29. \nCongelar Conta\n\n\n\n\n30. \nDesfazer um Match Existente pelo Feed\n\n\n\n\n31. \nDesfazer Match pela Conversa\n\n\n\n\n32. \nDenunciar Usu\u00e1rio pelo Feed\n\n\n\n\n33. \nDefinir Minha M\u00fasica\n\n\n\n\n34. \nDenunciar Usu\u00e1rio pela Conversa\n\n\n\n\n35. \nEnviar Mensagem pelo Feed\n\n\n\n\n36. \nAbrir Conversa pelo Feed", 
+            "text": "Cen\u00e1rios\n\n\n\n\n\n\n1. \nCadastrar Usu\u00e1rio com o Facebook\n\n\n\n\n2. \nCadastrar Usu\u00e1rio com N\u00famero de Celular\n\n\n\n\n3. \n Login com Facebook\n\n\n\n\n4. \nLogin com N\u00famero de Celular.\n\n\n\n\n5. \nEscolher Fotos de Perfil\n\n\n\n\n6. \nSmart Photos\n\n\n\n\n7. \nConectar Perfil com Instagram\n\n\n\n\n8. \nConectar Perfil com Spotify.\n\n\n\n\n9. \nSobre Mim\n\n\n\n\n10. \nAvaliar Perfil de Outros Usu\u00e1rios\n\n\n\n\n11. \nAvaliar com Like Outros Perfis\n\n\n\n\n12. \nAvaliar com Deslike Outros Perfis\n\n\n\n\n13. \nAvaliar com Super Like Outros Perfis\n\n\n\n\n14. \nDenunciar Perfil de Outros Usu\u00e1rios\n\n\n\n\n15. \nRecomendar um Perfil\n\n\n\n\n16. \nRealizar um Match entre Usu\u00e1rios\n\n\n\n\n17. \nConversas com Outros Usu\u00e1rios\n\n\n\n\n18. \nAcessar o Feed\n\n\n\n\n19. \nComprar Boost\n\n\n\n\n20. \nComprar Super Like\n\n\n\n\n21. \nComprar Tinder Plus\n\n\n\n\n22. \nComprar Tinder Gold\n\n\n\n\n23. \nAcessar Lista de Matches\n\n\n\n\n24. \nConfigura\u00e7\u00e3o de Descoberta\n\n\n\n\n25. \nConfigura\u00e7\u00e3o do Feed\n\n\n\n\n26. \nConfigura\u00e7\u00e3o do Perfil Web\n\n\n\n\n27. \nConfigura\u00e7\u00e3o de Notifica\u00e7\u00e3o\n\n\n\n\n28. \nDeletar Conta\n\n\n\n\n29. \nCongelar Conta\n\n\n\n\n30. \nDesfazer um Match Existente pelo Feed\n\n\n\n\n31. \nDesfazer Match pela Conversa\n\n\n\n\n32. \nDenunciar Usu\u00e1rio pelo Feed\n\n\n\n\n33. \nDefinir Minha M\u00fasica\n\n\n\n\n34. \nDenunciar Usu\u00e1rio pela Conversa\n\n\n\n\n35. \nEnviar Mensagem pelo Feed\n\n\n\n\n36. \nAbrir Conversa pelo Feed\n\n\n\n\n37. \nAbrir Perfil pelo Feed", 
             "title": "Cen\u00e1rios"
         }, 
         {
@@ -1129,6 +1129,11 @@
             "location": "/modelagem/cenarios/#36-abrir-conversa-pelo-feed", 
             "text": "", 
             "title": "36. Abrir Conversa pelo Feed"
+        }, 
+        {
+            "location": "/modelagem/cenarios/#37-abrir-perfil-pelo-feed", 
+            "text": "", 
+            "title": "37. Abrir Perfil pelo Feed"
         }, 
         {
             "location": "/modelagem/referencias/", 
@@ -1839,6 +1844,16 @@
             "location": "/modelagem/cenarios/cenario36/#abrir-conversa-pelo-feed", 
             "text": "T\u00edtulo  Abrir  Conversa  pelo  Feed      Objetivo  O  usu\u00e1rio  pode acessar uma  conversa  pelo  feed .    Contexto  Pr\u00e9-condi\u00e7\u00e3o: 1. Estar logado. 2. Ter dado  match . P\u00f3s-condi\u00e7\u00e3o: 1. A  conversa  ser\u00e1 aberta.    Atores  Usu\u00e1rio    Recursos  Acesso \u00e0 Internet.    Epis\u00f3dios  1. O  usu\u00e1rio  abre o  aplicativo . 2. O  usu\u00e1rio  vai para a aba de  feed . 3. O  usu\u00e1rio  clica no \u00edcone de pontos ao lado do nome do  perfil . 4. O  usu\u00e1rio  seleciona a op\u00e7\u00e3o abrir  mensagem .    Restri\u00e7\u00f5es     Exce\u00e7\u00e3o  1. A internet parar de funcionar no meio da a\u00e7\u00e3o. 2. O  usu\u00e1rio  fechar o  aplicativo  durante a a\u00e7\u00e3o.", 
             "title": "Abrir Conversa pelo feed"
+        }, 
+        {
+            "location": "/modelagem/cenarios/cenario37/", 
+            "text": "Abrir Perfil pelo feed\n\n\n\n\n\n\n\n\n\n\nT\u00edtulo\n\n\nAbrir \nperfil\n pelo \nFeed\n\n\n\n\n\n\n\n\n\n\nObjetivo\n\n\nO \nusu\u00e1rio\n pode acessar um \nperfil\n pelo \nfeed\n.\n\n\n\n\n\n\nContexto\n\n\nPr\u00e9-condi\u00e7\u00e3o:\n1. Estar logado.\n2. Ter dado \nmatch\n.\nP\u00f3s-condi\u00e7\u00e3o:\n1. O \nperfil\n ser\u00e1 aberto.\n\n\n\n\n\n\nAtores\n\n\nUsu\u00e1rio\n\n\n\n\n\n\nRecursos\n\n\nAcesso \u00e0 Internet.\n\n\n\n\n\n\nEpis\u00f3dios\n\n\n1. O \nusu\u00e1rio\n abre o \naplicativo\n.\n2. O \nusu\u00e1rio\n vai para a aba de \nfeed\n.\n3. O \nusu\u00e1rio\n clica \u00edcone de pontos ao lado do nome do \nperfil\n.\n4. O \nusu\u00e1rio\n seleciona a op\u00e7\u00e3o abrir \nperfil\n.\n\n\n\n\n\n\nRestri\u00e7\u00f5es\n\n\n\n\n\n\n\n\nExce\u00e7\u00e3o\n\n\n1. A internet parar de funcionar no meio da a\u00e7\u00e3o.\n2. O \nusu\u00e1rio\n fechar o \naplicativo\n durante a a\u00e7\u00e3o.", 
+            "title": "Cenario 37"
+        }, 
+        {
+            "location": "/modelagem/cenarios/cenario37/#abrir-perfil-pelo-feed", 
+            "text": "T\u00edtulo  Abrir  perfil  pelo  Feed      Objetivo  O  usu\u00e1rio  pode acessar um  perfil  pelo  feed .    Contexto  Pr\u00e9-condi\u00e7\u00e3o: 1. Estar logado. 2. Ter dado  match . P\u00f3s-condi\u00e7\u00e3o: 1. O  perfil  ser\u00e1 aberto.    Atores  Usu\u00e1rio    Recursos  Acesso \u00e0 Internet.    Epis\u00f3dios  1. O  usu\u00e1rio  abre o  aplicativo . 2. O  usu\u00e1rio  vai para a aba de  feed . 3. O  usu\u00e1rio  clica \u00edcone de pontos ao lado do nome do  perfil . 4. O  usu\u00e1rio  seleciona a op\u00e7\u00e3o abrir  perfil .    Restri\u00e7\u00f5es     Exce\u00e7\u00e3o  1. A internet parar de funcionar no meio da a\u00e7\u00e3o. 2. O  usu\u00e1rio  fechar o  aplicativo  durante a a\u00e7\u00e3o.", 
+            "title": "Abrir Perfil pelo feed"
         }
     ]
 }

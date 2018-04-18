@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
-        <title>Cenario 12 - Wiki</title>
+        <title>Cenario 37 - Wiki</title>
         <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome-4.5.0.css" rel="stylesheet">
         <link href="../../../css/base.css" rel="stylesheet">
@@ -245,8 +245,8 @@
     <a href="../cenario11/">Cenario 11</a>
 </li>
                             
-<li class="active">
-    <a href="./">Cenario 12</a>
+<li >
+    <a href="../cenario12/">Cenario 12</a>
 </li>
                             
 <li >
@@ -345,8 +345,8 @@
     <a href="../cenario36/">Cenario 36</a>
 </li>
                             
-<li >
-    <a href="../cenario37/">Cenario 37</a>
+<li class="active">
+    <a href="./">Cenario 37</a>
 </li>
                         </ul>
                     </li>
@@ -359,12 +359,12 @@
                     </a>
                 </li>
                     <li >
-                        <a rel="next" href="../cenario11/">
+                        <a rel="next" href="../cenario36/">
                             <i class="fa fa-arrow-left"></i> Previous
                         </a>
                     </li>
-                    <li >
-                        <a rel="prev" href="../cenario13/">
+                    <li class="disabled">
+                        <a rel="prev" >
                             Next <i class="fa fa-arrow-right"></i>
                         </a>
                     </li>
@@ -376,32 +376,32 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#avaliar-com-deslike-outros-perfis">Avaliar com Deslike Outros Perfis</a></li>
+        <li class="main active"><a href="#abrir-perfil-pelo-feed">Abrir Perfil pelo feed</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h1 id="avaliar-com-deslike-outros-perfis">Avaliar com Deslike Outros Perfis</h1>
+<h1 id="abrir-perfil-pelo-feed">Abrir Perfil pelo feed</h1>
 <p><br /></p>
 <table>
 <thead>
 <tr>
 <th>Título</th>
-<th>Avaliar com <em><a href="../../../modelagem/lexicos#deslike">Deslike</a></em> Outros Perfis</th>
+<th>Abrir <a href="../../../modelagem/lexicos#perfil">perfil</a> pelo <a href="../../../modelagem/lexicos#feed">Feed</a></th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td><strong>Objetivo</strong></td>
-<td>O <a href="../../../modelagem/lexicos#usuario">usuário</a> pode dar <em><a href="../../../modelagem/lexicos#deslike">deslike</a></em> em outros perfis.</td>
+<td>O <a href="../../../modelagem/lexicos#usuario">usuário</a> pode acessar um <a href="../../../modelagem/lexicos#perfil">perfil</a> pelo <a href="../../../modelagem/lexicos#feed">feed</a>.</td>
 </tr>
 <tr>
 <td><strong>Contexto</strong></td>
-<td><strong>Pré-condição:</strong> É preciso estar logado na <a href="../../../modelagem/lexicos#tinder">aplicação</a>.<br /><strong>Pós-condição:</strong> Após dar <em><a href="../../../modelagem/lexicos#deslike">deslike</a></em>.</td>
+<td><strong>Pré-condição:</strong><br/>1. Estar logado.<br/>2. Ter dado <a href="../../../modelagem/lexicos#match">match</a>.<br/><strong>Pós-condição:</strong><br/>1. O <a href="../../../modelagem/lexicos#perfil">perfil</a> será aberto.</td>
 </tr>
 <tr>
 <td><strong>Atores</strong></td>
-<td><a href="../../../modelagem/lexicos#usuario">Usuário</a>.</td>
+<td><a href="../../../modelagem/lexicos#usuario">Usuário</a></td>
 </tr>
 <tr>
 <td><strong>Recursos</strong></td>
@@ -409,15 +409,15 @@
 </tr>
 <tr>
 <td><strong>Episódios</strong></td>
-<td>1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> acessa o aplicativo do <a href="../../../modelagem/lexicos#tinder">Tinder</a>.<br />2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> visualiza o perfil de outro usuário.<br />3. O <a href="../../../modelagem/lexicos#usuario">usuário</a> dá <em><a href="../../../modelagem/lexicos#deslike">deslike</a></em> no perfil.<br />4.s O <a href="../../../modelagem/lexicos#usuario">usuário</a> continua avaliando outros perfis.</td>
+<td>1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> abre o <a href="../../../modelagem/lexicos#tinder">aplicativo</a>.<br/>2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> vai para a aba de <a href="../../../modelagem/lexicos#feed">feed</a>.<br/>3. O <a href="../../../modelagem/lexicos#usuario">usuário</a> clica ícone de pontos ao lado do nome do <a href="../../../modelagem/lexicos#perfil">perfil</a>.<br/>4. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona a opção abrir <a href="../../../modelagem/lexicos#perfil">perfil</a>.</td>
 </tr>
 <tr>
 <td><strong>Restrições</strong></td>
-<td>O <em><a href="../../../modelagem/lexicos#swipe">swipe</a></em>  entre perfis deve ser simples e intuitivo.</td>
+<td></td>
 </tr>
 <tr>
 <td><strong>Exceção</strong></td>
-<td>1. A internet parar de funcionar no meio da ação.<br />2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> fechar o aplicativo antes de terminar a ação.</td>
+<td>1. A internet parar de funcionar no meio da ação.<br/>2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> fechar o <a href="../../../modelagem/lexicos#tinder">aplicativo</a> durante a ação.</td>
 </tr>
 </tbody>
 </table></div>
