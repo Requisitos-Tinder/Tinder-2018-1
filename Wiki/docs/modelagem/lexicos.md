@@ -12,6 +12,16 @@
 
 <br />
 
+## Atualização
+
+| Nome      	| Atualização                                                  	|
+| ------------- | ------------------------------------------------------------ |
+| **Sinônimos** 	| Atualizações, atualizar |
+| **Noção**    	| Quando o [usuário](/modelagem/lexicos#usuario-free) atualiza seus dados ou suas preferências              	|
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario-free) recebe a opção de atualizar suas preferências ao esgotar os perfis compatíveis com suas escolhas  |
+| **Classificação** | Verbo                                                    	|
+
+<br />
 ## Boost
 
 | Nome              | Boost                                    |
@@ -170,6 +180,17 @@
 
 <br />
 
+## Destaque
+
+| Nome      	| Destaque                                                  	|
+| ------------- | ------------------------------------------------------------ |
+| **Sinônimos** 	| Destacar |
+| **Noção**    	| Quando o [usuário](/modelagem/lexicos#usuario) se destaca para outros perfis            	|
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) aparece em destaque para outros perfis quando compra [Super Likes](/modelagem/lexicos#super-like)  |
+| **Classificação** | Verbo                                                    	|
+
+<br />
+
 ## Dicas de Segurança
 
 | Nome      	| Dicas de segurança.                                      	|
@@ -247,6 +268,19 @@
 
 <br />
 
+## Foto Inapropriada
+
+| Nome              | **Foto Inapropriada**                                        |
+| ----------------- | ------------------------------------------------------------ |
+| **Sinônimos**     | Foto proibida                                                |
+| **Noção**         |Fotos que estão em desacordo com as políticas de [usuário](/modelagem/lexicos#usuario) do [Tinder](/modelagem/lexicos#tinder).|
+| **Impacto**       | Quando o [usuário](/modelagem/lexicos#usuario) vê uma foto inapropriada ele pode [denunciar o usuário](/modelagem/lexicos#denunciar-usuario) |
+| **Classificação** | Objeto                                                       |
+
+
+
+<br />
+
 ## Gênero
 
 | Nome      	| Gênero                                                   	|
@@ -302,6 +336,17 @@
 
 <br />
 
+## Licença
+
+| Nome              | Licença                                                      |
+| ----------------- | ------------------------------------------------------------ |
+| **Sinônimos**     |                                                              |
+| **Noção**         | O [usuário](/modelagem/lexicos#usuario) pode ver os códigos e projetos utilizados para o desenvolvimento do [Tinder](/modelagem/lexicos#tinder). |
+| **Impacto**       | O [usuário](/modelagem/lexicos#usuario) sabe quais os aplicativos ou APIs foram utilizadas na composição do [aplicativo](/modelagem/lexicos#tinder). |
+| **Classificação** | Verbo                                                        |
+
+<br />
+
 ## Like
 
 | Nome              | Like                                     |
@@ -354,6 +399,17 @@
 | **Noção**     	| Textos enviados no [chat](/modelagem/lexicos#chat) por [usuários](/modelagem/lexicos#usuario) que deram [match](/modelagem/lexicos#match).    	|
 | **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) curtiu a mensagem recebida.<br/>O [usuário](/modelagem/lexicos#usuario) envia uma mensagem. |
 | **Classificação** | Objeto                                                   	|
+
+<br />
+
+## Mensagem Inapropriada
+
+| Nome              | **Mensagem Inapropriada**                                        |
+| ----------------- | ------------------------------------------------------------ |
+| **Sinônimos**     | Mensagem ofensiva                                                |
+| **Noção**         |[Mensagens](/modelagem/lexicos#mensagem) que estão em desacordo com as políticas de [usuário](/modelagem/lexicos#usuario) do [Tinder](/modelagem/lexicos#tinder).|
+| **Impacto**       | Quando um [usuário](/modelagem/lexicos#usuario) recebe uma [mensagem](/modelagem/lexicos#mensagem) que o faça se sentir ofendido, ele pode [denunciar o usuário](/modelagem/lexicos#denunciar-usuario).|
+| **Classificação** | Objeto                                                       |
 
 <br />
 
@@ -431,6 +487,17 @@
 | **Noção**     	| A maior parte das funcionalidades podem ficar escondidas quando o [perfil](/modelagem/lexicos#perfil) está congelado. |
 | **Impacto**   	| Os [cartões](/modelagem/lexicos#cartao) ficam ocultos em uma [conta congelada](/modelagem/lexicos#congelar-conta).         	|
 | **Classificação** | Ação                                                     	|
+
+<br />
+
+## Padrão
+
+| Nome              | Padrão |
+|-------------------|--------|
+| **Sinônimos**     | |
+| **Noção**         | Padrão é o modelo que algum artefato segue caso não seja singular, diferente. |
+| **Impacto**       | No [Tinder](/modelagem/lexicos#tinder) os perfis seguem um padrão definido pelo [sistema](/modelagem/lexicos#tinder), com foto, nome, idade, descrição, etc. |
+| **Classificação** | Objeto |
 
 <br />
 
@@ -564,7 +631,18 @@
 | **Sinônimos**     | [Gênero](/modelagem/lexicos#genero)                                 |
 | **Noção**         | O [gênero](/modelagem/lexicos#genero) do [usuário](/modelagem/lexicos#usuario) (Homem ou Mulher)  |
 | **Impacto**       | O [usuário](/modelagem/lexicos#usuario) informa se é Homem ou Mulher |
-| **Classificação** | objeto                                 |
+| **Classificação** | Objeto                                 |
+
+<br />
+
+## Sing Up
+
+| Nome              | Sing up                                   |
+| ----------------- | -------------------------------------- |
+| **Sinônimos**     | Cadastro, cadastrar, cadastrando                                 |
+| **Noção**         |Quando o usuário cria sua conta no Tinder |
+| **Impacto**       | O usuário irá realizar o cadastro ao acessar pela primeira vez a aplicação |
+| **Classificação** | Verbo                                 |
 
 <br />
 
