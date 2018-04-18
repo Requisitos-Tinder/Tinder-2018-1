@@ -268,6 +268,19 @@
 
 <br />
 
+## Foto Inapropriada
+
+| Nome              | **Foto Inapropriada**                                        |
+| ----------------- | ------------------------------------------------------------ |
+| **Sinônimos**     | Foto proibida                                                |
+| **Noção**         |Fotos que estão em desacordo com as políticas de [usuário](/modelagem/lexicos#usuario) do [Tinder](/modelagem/lexicos#tinder).|
+| **Impacto**       | Quando o [usuário](/modelagem/lexicos#usuario) vê uma foto inapropriada ele pode [denunciar o usuário](/modelagem/lexicos#denunciar-usuario) |
+| **Classificação** | Objeto                                                       |
+
+
+
+<br />
+
 ## Gênero
 
 | Nome      	| Gênero                                                   	|
@@ -323,6 +336,17 @@
 
 <br />
 
+## Licença
+
+| Nome              | Licença                                                      |
+| ----------------- | ------------------------------------------------------------ |
+| **Sinônimos**     |                                                              |
+| **Noção**         | O [usuário](/modelagem/lexicos#usuario) pode ver os códigos e projetos utilizados para o desenvolvimento do [Tinder](/modelagem/lexicos#tinder). |
+| **Impacto**       | O [usuário](/modelagem/lexicos#usuario) sabe quais os aplicativos ou APIs foram utilizadas na composição do [aplicativo](/modelagem/lexicos#tinder). |
+| **Classificação** | Verbo                                                        |
+
+<br />
+
 ## Like
 
 | Nome              | Like                                     |
@@ -375,6 +399,17 @@
 | **Noção**     	| Textos enviados no [chat](/modelagem/lexicos#chat) por [usuários](/modelagem/lexicos#usuario) que deram [match](/modelagem/lexicos#match).    	|
 | **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) curtiu a mensagem recebida.<br/>O [usuário](/modelagem/lexicos#usuario) envia uma mensagem. |
 | **Classificação** | Objeto                                                   	|
+
+<br />
+
+## Mensagem Inapropriada
+
+| Nome              | **Mensagem Inapropriada**                                        |
+| ----------------- | ------------------------------------------------------------ |
+| **Sinônimos**     | Mensagem ofensiva                                                |
+| **Noção**         |[Mensagens](/modelagem/lexicos#mensagem) que estão em desacordo com as políticas de [usuário](/modelagem/lexicos#usuario) do [Tinder](/modelagem/lexicos#tinder).|
+| **Impacto**       | Quando um [usuário](/modelagem/lexicos#usuario) recebe uma [mensagem](/modelagem/lexicos#mensagem) que o faça se sentir ofendido, ele pode [denunciar o usuário](/modelagem/lexicos#denunciar-usuario).|
+| **Classificação** | Objeto                                                       |
 
 <br />
 
