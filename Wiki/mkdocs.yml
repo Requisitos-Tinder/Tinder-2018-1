@@ -28,6 +28,7 @@ pages:
          - 'About': 'modelagem/modelagem.md'
          - 'Léxicos': 'modelagem/lexicos.md'
          - 'Cenários': 'modelagem/cenarios.md'
+         - 'Diagramas de Caso de Uso' : 'modelagem/DiagCasoDeUso.md'
          - 'Casos de Uso': 'modelagem/casosUso.md'
          - 'Especificação Suplementar': 'modelagem/EspSuplementar.md'
          - 'Referências': 'modelagem/referencias.md'
