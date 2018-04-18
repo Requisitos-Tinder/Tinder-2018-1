@@ -74,6 +74,8 @@ pages:
          - 'Cenario 35': 'modelagem/cenarios/cenario35.md'
          - 'Cenario 36': 'modelagem/cenarios/cenario36.md'
          - 'Cenario 37': 'modelagem/cenarios/cenario37.md'
+         - 'Cenario 38': 'modelagem/cenarios/cenario38.md'
+
 
 theme:
     name: simplex
