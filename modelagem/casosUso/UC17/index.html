@@ -456,6 +456,26 @@
 <li >
     <a href="../UC22/">UC 22</a>
 </li>
+                            
+<li >
+    <a href="../UC23/">UC 23</a>
+</li>
+                            
+<li >
+    <a href="../UC24/">UC 24</a>
+</li>
+                            
+<li >
+    <a href="../UC25/">UC 25</a>
+</li>
+                            
+<li >
+    <a href="../UC26/">UC 26</a>
+</li>
+                            
+<li >
+    <a href="../UC27/">UC 27</a>
+</li>
                         </ul>
                     </li>
                 </ul>
@@ -484,11 +504,49 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#uc17-denunciar-perfil">UC17 - Denunciar Perfil</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-</div>
+<h2 id="uc17-denunciar-perfil">UC17 - <a href="../../../modelagem/lexicos#denunciar-usuario">Denunciar</a> Perfil</h2>
+<p><br />
+<strong>Descrição</strong>: Esse caso de uso permite o <a href="../../../modelagem/lexicos#usuario">usuário</a> denunciar perfis.</p>
+<p><br />
+<strong>Ator principal</strong>: <a href="../../../modelagem/lexicos#usuario">usuário</a> e <a href="../../../modelagem/lexicos#tinder">sistema</a>.</p>
+<p><br />
+<strong>Pré-Requisitos</strong>: É preciso estar <a href="../../../modelagem/lexicos#logar">logado</a> na <a href="../../../modelagem/lexicos#tinder">aplicação</a></p>
+<p><br />
+<strong>Fluxo principal</strong>:
+<br /> 1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> abre o <a href="../../../modelagem/lexicos#tinder">aplicativo</a>.
+<br /> 2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> irá visualizar o perfil a ser denunciado.
+<br /> <br /> 3. O <a href="../../../modelagem/lexicos#usuario">usuário</a> escolhe o motivo da denúncia: <a href="../../../modelagem/lexicos#mensagem-inapropriada">Mensagens inapropriadas</a>, Fotos inapropriadas, Parece <a href="../../../modelagem/lexicos#spam">spam</a>, Outra.
+<br /> 4. O <a href="../../../modelagem/lexicos#tinder">Tinder</a> apresenta uma mensagem de reported.
+<br /> 5. O perfil é retirado da tela do <a href="../../../modelagem/lexicos#usuario">usuário</a>.</p>
+<p><br />
+<strong>Fluxo alternativo</strong>: <a href="../../../modelagem/lexicos#denunciar-usuario">Denunciar</a> pelo <a href="../../../modelagem/lexicos#feed">feed</a>
+<br /> 1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> abre a <a href="../../../modelagem/lexicos#tinder">aplicação</a>.
+<br /> 2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> abre a aba feed e mensagens.
+<br /> 3. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona o <a href="../../../modelagem/lexicos#match">match</a> que quer <a href="../../../modelagem/lexicos#denunciar-usuario">denunciar</a>.
+<br /> 4. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona o ícone de três pontos.
+<br /> 5. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona <a href="../../../modelagem/lexicos#denunciar-usuario">denunciar</a> o perfil.
+<br /> 6. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona o motivo.
+<br /> 7. O <a href="../../../modelagem/lexicos#tinder">sistema</a> exibe uma mensagem de reported.</p>
+<p><br />
+<strong>Fluxo alternativo 02</strong>: <a href="../../../modelagem/lexicos#denunciar-usuario">Denunciar</a> pela conversa
+<br /> 1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> abre a <a href="../../../modelagem/lexicos#tinder">aplicação</a>.
+<br /> 2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> abre a aba <a href="../../../modelagem/lexicos#feed">feed</a> e mensagens.
+<br /> 3. O <a href="../../../modelagem/lexicos#usuario">usuário</a> abre a conversa do perfil que quer <a href="../../../modelagem/lexicos#denunciar-usuario">denunciar</a>.
+<br /> 4. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona o ícone de bandeira.
+<br /> 5. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona report o perfil.
+<br /> 6. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona o motivo.
+<br /> 7. O <a href="../../../modelagem/lexicos#tinder">sistema</a> exibe uma mensagem de <a href="../../../modelagem/lexicos#reported">reported</a>.</p>
+<p><br />
+<strong>Fluxo de exceção</strong>: ---</p>
+<p><br />
+<strong>Pós-condição</strong>:
+<br /> 1. Após <a href="../../../modelagem/lexicos#denunciar-usuario">denunciar</a> o perfil, o <a href="../../../modelagem/lexicos#usuario">usuário</a> não deverá visualizar mais o perfil denunciado.
+<br /> 2. O <a href="../../../modelagem/lexicos#tinder">Tinder</a> deve tomar providências de acordo com o tipo de denúncia.</p></div>
         </div>
 
         <footer class="col-md-12">

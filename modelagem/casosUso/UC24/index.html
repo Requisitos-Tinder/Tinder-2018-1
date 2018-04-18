@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
-        <title>UC 21 - Wiki</title>
+        <title>UC 24 - Wiki</title>
         <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome-4.5.0.css" rel="stylesheet">
         <link href="../../../css/base.css" rel="stylesheet">
@@ -449,8 +449,8 @@
     <a href="../UC20/">UC 20</a>
 </li>
                             
-<li class="active">
-    <a href="./">UC 21</a>
+<li >
+    <a href="../UC21/">UC 21</a>
 </li>
                             
 <li >
@@ -461,8 +461,8 @@
     <a href="../UC23/">UC 23</a>
 </li>
                             
-<li >
-    <a href="../UC24/">UC 24</a>
+<li class="active">
+    <a href="./">UC 24</a>
 </li>
                             
 <li >
@@ -487,12 +487,12 @@
                     </a>
                 </li>
                     <li >
-                        <a rel="next" href="../UC20/">
+                        <a rel="next" href="../UC23/">
                             <i class="fa fa-arrow-left"></i> Previous
                         </a>
                     </li>
                     <li >
-                        <a rel="prev" href="../UC22/">
+                        <a rel="prev" href="../UC25/">
                             Next <i class="fa fa-arrow-right"></i>
                         </a>
                     </li>
@@ -504,29 +504,37 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#uc21-manter-configuracoes">UC21 - Manter configurações</a></li>
+        <li class="main active"><a href="#uc24-manter-configuracoes-do-perfil-web">UC24 - Manter configurações do perfil web</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h2 id="uc21-manter-configuracoes">UC21 - Manter configurações</h2>
-<p><br />
-<strong>Descrição</strong>: esse caso de uso permite que o usuário tenha acesso às configurações.</p>
-<p><br />
-<strong>Ator principal</strong>: usuário</p>
-<p><br />
-<strong>Pré-requisitos</strong>: Estar logado.</p>
-<p><br />
-<strong>Fluxo principal</strong>:
-<br /> 1. O usuário abre o aplicativo.
-<br /> 2. O usuário vai para a aba de perfil.
-<br /> 3. O usuário seleciona a opção de configurações.</p>
-<p><br />
-<strong>Fluxo alternativo</strong>: ---</p>
-<p><br />
-<strong>Fluxo de exceção</strong>: ---</p>
-<p><br />
-<strong>Pós-condição</strong>: A tela de configurações será exibida.</p></div>
+<h2 id="uc24-manter-configuracoes-do-perfil-web">UC24 - Manter configurações do perfil web</h2>
+<p><br /></p>
+<p><strong>Descrição</strong>: esse caso de uso permite que o usuário acesse e edite suas configurações de perfil web. O perfil web é um nome de usuário.
+<br /></p>
+<p><strong>Ator principal</strong>: usuário e sistema
+<br /></p>
+<p><strong>Pré-requisitos</strong>:
+<br /> 1. O usuário deve possuir um perfil e estar logado.
+<br /> 2. O nome de usuário deve ser único.</p>
+<p><strong>Fluxo principal</strong>:
+<br /> 1. O usuário acessa as configurações.
+<br /> 2. O usuário desliza a tela até a seção de perfil web.
+<br /> 3. O usuário clica na opção de nome de usuário.
+<br /> 4. O usuário preenche o campo com o seu nome de usuário.
+<br /> 5. O usuário clica em confirmar.
+<br /> 6. O sistema verifica se o nome está disponível.
+<br /> 7. A aplicação volta para a tela de configurações.
+<br /></p>
+<p><strong>Fluxo Alternativo</strong>: ---
+<br /></p>
+<p><strong>Fluxo de Exceção</strong>: ---
+<br /></p>
+<p><strong>Pós-condição</strong>:
+<br /> 1. O usuário possuirá um perfil web e poderá compartilhar sua url.
+<br /> 2. A opção ver meu perfil web terá aparecido na seção perfil web.
+<br /> 3. A opção compartilhar minha url terá aparecido na seção perfil web.</p></div>
         </div>
 
         <footer class="col-md-12">

@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
-        <title>UC 21 - Wiki</title>
+        <title>UC 27 - Wiki</title>
         <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome-4.5.0.css" rel="stylesheet">
         <link href="../../../css/base.css" rel="stylesheet">
@@ -449,8 +449,8 @@
     <a href="../UC20/">UC 20</a>
 </li>
                             
-<li class="active">
-    <a href="./">UC 21</a>
+<li >
+    <a href="../UC21/">UC 21</a>
 </li>
                             
 <li >
@@ -473,8 +473,8 @@
     <a href="../UC26/">UC 26</a>
 </li>
                             
-<li >
-    <a href="../UC27/">UC 27</a>
+<li class="active">
+    <a href="./">UC 27</a>
 </li>
                         </ul>
                     </li>
@@ -487,12 +487,12 @@
                     </a>
                 </li>
                     <li >
-                        <a rel="next" href="../UC20/">
+                        <a rel="next" href="../UC26/">
                             <i class="fa fa-arrow-left"></i> Previous
                         </a>
                     </li>
-                    <li >
-                        <a rel="prev" href="../UC22/">
+                    <li class="disabled">
+                        <a rel="prev" >
                             Next <i class="fa fa-arrow-right"></i>
                         </a>
                     </li>
@@ -504,29 +504,34 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#uc21-manter-configuracoes">UC21 - Manter configurações</a></li>
+        <li class="main active"><a href="#uc27-acessar-matches">UC27 - Acessar matches</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h2 id="uc21-manter-configuracoes">UC21 - Manter configurações</h2>
-<p><br />
-<strong>Descrição</strong>: esse caso de uso permite que o usuário tenha acesso às configurações.</p>
-<p><br />
-<strong>Ator principal</strong>: usuário</p>
-<p><br />
-<strong>Pré-requisitos</strong>: Estar logado.</p>
-<p><br />
-<strong>Fluxo principal</strong>:
-<br /> 1. O usuário abre o aplicativo.
-<br /> 2. O usuário vai para a aba de perfil.
-<br /> 3. O usuário seleciona a opção de configurações.</p>
-<p><br />
-<strong>Fluxo alternativo</strong>: ---</p>
-<p><br />
-<strong>Fluxo de exceção</strong>: ---</p>
-<p><br />
-<strong>Pós-condição</strong>: A tela de configurações será exibida.</p></div>
+<h2 id="uc27-acessar-matches">UC27 - Acessar matches</h2>
+<p><br /></p>
+<p><strong>Descrição</strong>: esse caso de uso permite que o usuário tenha acesso a sua lista de matches.
+<br /></p>
+<p><strong>Ator principal</strong>: usuário
+<br /></p>
+<p><strong>Pré-requisito</strong>: possuir matches
+<br /></p>
+<p><strong>Fluxo principal</strong>:
+<br /> 1. O usuário acessa o aplicativo.
+<br /> 2. O usuário realiza Login.
+<br /> 3. O usuário clica no ícone de chat no topo da tela.
+<br /> 4. O usuário visualiza uma lista com todos os seus matches.
+<br /></p>
+<p><strong>Fluxo alternativo</strong>: ---
+<br /></p>
+<p><strong>Fluxo de exceção</strong>: Lista nao atualizada
+<br /> 1. O usuário acessa o aplicativo.
+<br /> 2. O usuário realiza Login.
+<br /> 3. O usuário clica no ícone de chat no topo da tela.
+<br /> 4. A lista não exibe os novos matches.
+<br /></p>
+<p><strong>Pós-condição</strong>: O usuário terá acesso a uma lista com todos os seus matches.</p></div>
         </div>
 
         <footer class="col-md-12">

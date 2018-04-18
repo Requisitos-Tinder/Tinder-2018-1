@@ -8,7 +8,7 @@
         
         
         <link rel="shortcut icon" href="../../../img/favicon.ico">
-        <title>UC 21 - Wiki</title>
+        <title>UC 23 - Wiki</title>
         <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
         <link href="../../../css/font-awesome-4.5.0.css" rel="stylesheet">
         <link href="../../../css/base.css" rel="stylesheet">
@@ -449,16 +449,16 @@
     <a href="../UC20/">UC 20</a>
 </li>
                             
-<li class="active">
-    <a href="./">UC 21</a>
+<li >
+    <a href="../UC21/">UC 21</a>
 </li>
                             
 <li >
     <a href="../UC22/">UC 22</a>
 </li>
                             
-<li >
-    <a href="../UC23/">UC 23</a>
+<li class="active">
+    <a href="./">UC 23</a>
 </li>
                             
 <li >
@@ -487,12 +487,12 @@
                     </a>
                 </li>
                     <li >
-                        <a rel="next" href="../UC20/">
+                        <a rel="next" href="../UC22/">
                             <i class="fa fa-arrow-left"></i> Previous
                         </a>
                     </li>
                     <li >
-                        <a rel="prev" href="../UC22/">
+                        <a rel="prev" href="../UC24/">
                             Next <i class="fa fa-arrow-right"></i>
                         </a>
                     </li>
@@ -504,29 +504,37 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#uc21-manter-configuracoes">UC21 - Manter configurações</a></li>
+        <li class="main active"><a href="#uc23-manter-configuracoes-de-feed">UC23 - Manter configurações de feed</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h2 id="uc21-manter-configuracoes">UC21 - Manter configurações</h2>
-<p><br />
-<strong>Descrição</strong>: esse caso de uso permite que o usuário tenha acesso às configurações.</p>
-<p><br />
-<strong>Ator principal</strong>: usuário</p>
-<p><br />
-<strong>Pré-requisitos</strong>: Estar logado.</p>
-<p><br />
-<strong>Fluxo principal</strong>:
-<br /> 1. O usuário abre o aplicativo.
-<br /> 2. O usuário vai para a aba de perfil.
-<br /> 3. O usuário seleciona a opção de configurações.</p>
-<p><br />
-<strong>Fluxo alternativo</strong>: ---</p>
-<p><br />
-<strong>Fluxo de exceção</strong>: ---</p>
-<p><br />
-<strong>Pós-condição</strong>: A tela de configurações será exibida.</p></div>
+<h2 id="uc23-manter-configuracoes-de-feed">UC23 - Manter configurações de feed</h2>
+<p><br /></p>
+<p><strong>Descrição</strong>: esse caso de uso permite que o usuário acesse e edite suas configurações de feed.
+<br /></p>
+<p><strong>Ator principal</strong>: usuário e sistema
+<br /></p>
+<p><strong>Pré-requisitos</strong>: O usuário deve possuir um perfil e estar logado.
+<br /></p>
+<p><strong>Fluxo principal</strong>:
+<br /> 1. O usuário acessa as configurações.
+<br /> 2. O usuário desliza a tela até a seção de configurações do feed.
+<br /> 3. O usuário seleciona opção de conteúdo compartilhado.
+<br /> 4. O usuário escolhe se quer compartilhar seu feed.
+<br /> 5. Se sua escolha for afirmativa o sistema abre uma sessão de conteúdo compartilhado.
+<br /> 6. O usuário escolhe se quer compartilhar suas fotos.
+<br /> 7. O usuário escolhe se quer compartilhar suas músicas do Spotify.
+<br /> 8. O usuário escolhe se quer compartilhar seus artistas preferidos do Spotify.
+<br /> 9. O usuário clica em voltar.
+<br /> 10. O usuário clica em ok para salvar suas modificações.
+<br /> 11. A tela volta para a aba perfil.
+<br /></p>
+<p><strong>Fluxo Alternativo</strong>: ---
+<br /></p>
+<p><strong>Fluxo de Exceção</strong>: ---
+<br /></p>
+<p><strong>Pós-condição</strong>: As atualizações do usuário aparecerão no feed dos seus matches.</p></div>
         </div>
 
         <footer class="col-md-12">

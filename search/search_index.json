@@ -1212,7 +1212,7 @@
         },
         {
             "location": "/modelagem/casosUso/",
-            "text": "Casos de Uso\n\n\n\n\n\n\nUC01 - Cadastrar Usu\u00e1rio\n\n\nUC02 - Login do Usu\u00e1rio\n\n\nUC03 - Deletar Conta\n\n\nUC04 - Conectar com as Redes Sociais\n\n\nUC05 - Conectar com Spotify\n\n\nUC06 - Conectar com Instagram\n\n\nUC07 - Desfazer Match\n\n\nUC08 - Enviar Mensagem\n\n\nUC09 - Dar Match\n\n\nUC10 - Visualizar Perfil\n\n\nUC11 - Adquirir Servi\u00e7os Pagos\n\n\nUC12 - Denunciar Perfil\n\n\nUC13 - Manter Perfil\n\n\nUC14 - Acessar Conversas\n\n\nUC15 - Acessar Feed\n\n\nUC16 - Manter Configura\u00e7\u00f5es\n\n\nUC17 - Manter Configura\u00e7\u00f5es de Descoberta\n\n\nUC18 - Manter Configura\u00e7\u00f5es de Feed\n\n\nUC19 - Manter Configura\u00e7\u00f5es do Perfil Web\n\n\nUC20 - Manter Configura\u00e7\u00f5es de Notifica\u00e7\u00e3o\n\n\nUC21 - Desconectar Conta\n\n\nUC22 - Acessar Matches",
+            "text": "Casos de Uso\n\n\n\n\n\n\nUC01 - Cadastrar Usu\u00e1rio\n\n\nUC02 - Login do Usu\u00e1rio\n\n\nUC03 - Deletar Conta\n\n\nUC04 - Conectar com as Redes Sociais\n\n\nUC05 - Conectar com Spotify\n\n\nUC06 - Conectar com Instagram\n\n\nUC07 - Desfazer Match\n\n\nUC08 - Enviar Mensagem\n\n\nUC09 - Dar Match\n\n\nUC11 - Visualizar Perfil\n\n\nUC12 - Adquirir Servi\u00e7os Pagos\n\n\nUC13 - Assinar Tinder Plus\n\n\nUC14 - Assinar Tinder Gold\n\n\nUC15 - Adquirir Super Likes\n\n\nUC16 - Adquirir Boost\n\n\nUC17 - Denunciar Perfil\n\n\nUC18 - Manter Perfil\n\n\nUC19 - Acessar Conversas\n\n\nUC20 - Acessar Feed\n\n\nUC21 - Manter Configura\u00e7\u00f5es\n\n\nUC22 - Manter Configura\u00e7\u00f5es de Descoberta\n\n\nUC23 - Manter Configura\u00e7\u00f5es de Feed\n\n\nUC24 - Manter Configura\u00e7\u00f5es do Perfil Web\n\n\nUC25 - Manter Configura\u00e7\u00f5es de Notifica\u00e7\u00e3o\n\n\nUC26 - Desconectar Conta\n\n\nUC27 - Acessar Matches",
             "title": "Casos de Uso"
         },
         {
@@ -1266,69 +1266,89 @@
             "title": "UC09 - Dar Match"
         },
         {
-            "location": "/modelagem/casosUso/#uc10-visualizar-perfil",
+            "location": "/modelagem/casosUso/#uc11-visualizar-perfil",
             "text": "",
-            "title": "UC10 - Visualizar Perfil"
+            "title": "UC11 - Visualizar Perfil"
         },
         {
-            "location": "/modelagem/casosUso/#uc11-adquirir-servicos-pagos",
+            "location": "/modelagem/casosUso/#uc12-adquirir-servicos-pagos",
             "text": "",
-            "title": "UC11 - Adquirir Servi\u00e7os Pagos"
+            "title": "UC12 - Adquirir Servi\u00e7os Pagos"
         },
         {
-            "location": "/modelagem/casosUso/#uc12-denunciar-perfil",
+            "location": "/modelagem/casosUso/#uc13-assinar-tinder-plus",
             "text": "",
-            "title": "UC12 - Denunciar Perfil"
+            "title": "UC13 - Assinar Tinder Plus"
         },
         {
-            "location": "/modelagem/casosUso/#uc13-manter-perfil",
+            "location": "/modelagem/casosUso/#uc14-assinar-tinder-gold",
             "text": "",
-            "title": "UC13 - Manter Perfil"
+            "title": "UC14 - Assinar Tinder Gold"
         },
         {
-            "location": "/modelagem/casosUso/#uc14-acessar-conversas",
+            "location": "/modelagem/casosUso/#uc15-adquirir-super-likes",
             "text": "",
-            "title": "UC14 - Acessar Conversas"
+            "title": "UC15 - Adquirir Super Likes"
         },
         {
-            "location": "/modelagem/casosUso/#uc15-acessar-feed",
+            "location": "/modelagem/casosUso/#uc16-adquirir-boost",
             "text": "",
-            "title": "UC15 - Acessar Feed"
+            "title": "UC16 - Adquirir Boost"
         },
         {
-            "location": "/modelagem/casosUso/#uc16-manter-configuracoes",
+            "location": "/modelagem/casosUso/#uc17-denunciar-perfil",
             "text": "",
-            "title": "UC16 - Manter Configura\u00e7\u00f5es"
+            "title": "UC17 - Denunciar Perfil"
         },
         {
-            "location": "/modelagem/casosUso/#uc17-manter-configuracoes-de-descoberta",
+            "location": "/modelagem/casosUso/#uc18-manter-perfil",
             "text": "",
-            "title": "UC17 - Manter Configura\u00e7\u00f5es de Descoberta"
+            "title": "UC18 - Manter Perfil"
         },
         {
-            "location": "/modelagem/casosUso/#uc18-manter-configuracoes-de-feed",
+            "location": "/modelagem/casosUso/#uc19-acessar-conversas",
             "text": "",
-            "title": "UC18 - Manter Configura\u00e7\u00f5es de Feed"
+            "title": "UC19 - Acessar Conversas"
         },
         {
-            "location": "/modelagem/casosUso/#uc19-manter-configuracoes-do-perfil-web",
+            "location": "/modelagem/casosUso/#uc20-acessar-feed",
             "text": "",
-            "title": "UC19 - Manter Configura\u00e7\u00f5es do Perfil Web"
+            "title": "UC20 - Acessar Feed"
         },
         {
-            "location": "/modelagem/casosUso/#uc20-manter-configuracoes-de-notificacao",
+            "location": "/modelagem/casosUso/#uc21-manter-configuracoes",
             "text": "",
-            "title": "UC20 - Manter Configura\u00e7\u00f5es de Notifica\u00e7\u00e3o"
+            "title": "UC21 - Manter Configura\u00e7\u00f5es"
         },
         {
-            "location": "/modelagem/casosUso/#uc21-desconectar-conta",
+            "location": "/modelagem/casosUso/#uc22-manter-configuracoes-de-descoberta",
             "text": "",
-            "title": "UC21 - Desconectar Conta"
+            "title": "UC22 - Manter Configura\u00e7\u00f5es de Descoberta"
         },
         {
-            "location": "/modelagem/casosUso/#uc22-acessar-matches",
+            "location": "/modelagem/casosUso/#uc23-manter-configuracoes-de-feed",
             "text": "",
-            "title": "UC22 - Acessar Matches"
+            "title": "UC23 - Manter Configura\u00e7\u00f5es de Feed"
+        },
+        {
+            "location": "/modelagem/casosUso/#uc24-manter-configuracoes-do-perfil-web",
+            "text": "",
+            "title": "UC24 - Manter Configura\u00e7\u00f5es do Perfil Web"
+        },
+        {
+            "location": "/modelagem/casosUso/#uc25-manter-configuracoes-de-notificacao",
+            "text": "",
+            "title": "UC25 - Manter Configura\u00e7\u00f5es de Notifica\u00e7\u00e3o"
+        },
+        {
+            "location": "/modelagem/casosUso/#uc26-desconectar-conta",
+            "text": "",
+            "title": "UC26 - Desconectar Conta"
+        },
+        {
+            "location": "/modelagem/casosUso/#uc27-acessar-matches",
+            "text": "",
+            "title": "UC27 - Acessar Matches"
         },
         {
             "location": "/modelagem/EspSuplementar/",
@@ -2302,38 +2322,63 @@
         },
         {
             "location": "/modelagem/casosUso/UC12/",
-            "text": "UC12 - Adquirir Servi\u00e7os Pagos\n\n\n\n\nDescri\u00e7\u00e3o\n: Esse caso de uso permite que o \nusu\u00e1rio\n possa comprar diversos servi\u00e7os pagos.\n\n\nAtor principal\n: \nUsu\u00e1rio\n\n\nPr\u00e9-requisito\n:\n\n 1. O \nusu\u00e1rio\n deve ter cart\u00e3o de cr\u00e9dito ou cr\u00e9ditos na Play Store ou App Store\n\n 2. Realizar a compra apenas pelo aplicativo\n\n\nFluxo principal\n:\n\n 1. O \nusu\u00e1rio\n abre o \naplicativo\n.\n\n 2. O \nusu\u00e1rio\n navega at\u00e9 as configura\u00e7\u00f5es de perfil.\n\n 4. O \nusu\u00e1rio\n seleciona a forma de pagamento.\n\n 5. O pagamento \u00e9 realizado.\n\n\nFluxo alternativo\n: ---\n\n\nFluxo de exce\u00e7\u00e3o\n: Cart\u00e3o de cr\u00e9dito recusado\n\n 1. O \nusu\u00e1rio\n abre o \naplicativo\n.\n\n 3. O \nusu\u00e1rio\n seleciona o servi\u00e7o que quer comprar\n\n 4. O \nusu\u00e1rio\n seleciona a forma de pagamento.\n\n 5. A emissora do cart\u00e3o recusa o pagamento.\n\n 6. O sistema volta para o passo 4 do fluxo principal.\n\n\nP\u00f3s-condi\u00e7\u00e3o: O \nusu\u00e1rio\n ter\u00e1 comprado um servi\u00e7o pago.",
+            "text": "UC12 - Adquirir Servi\u00e7os Pagos\n\n\n\n\nDescri\u00e7\u00e3o\n: Esse caso de uso permite que o \nusu\u00e1rio\n possa comprar diversos servi\u00e7os pagos.\n\n\nAtor principal\n: \nUsu\u00e1rio\n\n\nPr\u00e9-requisito\n:\n\n 1. O \nusu\u00e1rio\n deve ter cart\u00e3o de cr\u00e9dito ou cr\u00e9ditos na Play Store ou App Store\n\n 2. Realizar a compra apenas pelo \naplicativo\n\n\nFluxo principal\n:\n\n 1. O \nusu\u00e1rio\n abre o \naplicativo\n.\n\n 2. O \nusu\u00e1rio\n navega at\u00e9 as configura\u00e7\u00f5es de perfil.\n\n 4. O \nusu\u00e1rio\n seleciona a forma de pagamento.\n\n 5. O pagamento \u00e9 realizado.\n\n\nFluxo alternativo\n: ---\n\n\nFluxo de exce\u00e7\u00e3o\n: Cart\u00e3o de cr\u00e9dito recusado\n\n 1. O \nusu\u00e1rio\n abre o \naplicativo\n.\n\n 3. O \nusu\u00e1rio\n seleciona o servi\u00e7o que quer comprar\n\n 4. O \nusu\u00e1rio\n seleciona a forma de pagamento.\n\n 5. A emissora do cart\u00e3o recusa o pagamento.\n\n 6. O \nsistema\n volta para o passo 4 do fluxo principal.\n\n\nP\u00f3s-condi\u00e7\u00e3o: O \nusu\u00e1rio\n ter\u00e1 comprado um \nservi\u00e7o pago\n.",
             "title": "UC 12"
         },
         {
             "location": "/modelagem/casosUso/UC12/#uc12-adquirir-servicos-pagos",
-            "text": "Descri\u00e7\u00e3o : Esse caso de uso permite que o  usu\u00e1rio  possa comprar diversos servi\u00e7os pagos.  Ator principal :  Usu\u00e1rio  Pr\u00e9-requisito :  1. O  usu\u00e1rio  deve ter cart\u00e3o de cr\u00e9dito ou cr\u00e9ditos na Play Store ou App Store  2. Realizar a compra apenas pelo aplicativo  Fluxo principal :  1. O  usu\u00e1rio  abre o  aplicativo .  2. O  usu\u00e1rio  navega at\u00e9 as configura\u00e7\u00f5es de perfil.  4. O  usu\u00e1rio  seleciona a forma de pagamento.  5. O pagamento \u00e9 realizado.  Fluxo alternativo : ---  Fluxo de exce\u00e7\u00e3o : Cart\u00e3o de cr\u00e9dito recusado  1. O  usu\u00e1rio  abre o  aplicativo .  3. O  usu\u00e1rio  seleciona o servi\u00e7o que quer comprar  4. O  usu\u00e1rio  seleciona a forma de pagamento.  5. A emissora do cart\u00e3o recusa o pagamento.  6. O sistema volta para o passo 4 do fluxo principal.  P\u00f3s-condi\u00e7\u00e3o: O  usu\u00e1rio  ter\u00e1 comprado um servi\u00e7o pago.",
+            "text": "Descri\u00e7\u00e3o : Esse caso de uso permite que o  usu\u00e1rio  possa comprar diversos servi\u00e7os pagos.  Ator principal :  Usu\u00e1rio  Pr\u00e9-requisito :  1. O  usu\u00e1rio  deve ter cart\u00e3o de cr\u00e9dito ou cr\u00e9ditos na Play Store ou App Store  2. Realizar a compra apenas pelo  aplicativo  Fluxo principal :  1. O  usu\u00e1rio  abre o  aplicativo .  2. O  usu\u00e1rio  navega at\u00e9 as configura\u00e7\u00f5es de perfil.  4. O  usu\u00e1rio  seleciona a forma de pagamento.  5. O pagamento \u00e9 realizado.  Fluxo alternativo : ---  Fluxo de exce\u00e7\u00e3o : Cart\u00e3o de cr\u00e9dito recusado  1. O  usu\u00e1rio  abre o  aplicativo .  3. O  usu\u00e1rio  seleciona o servi\u00e7o que quer comprar  4. O  usu\u00e1rio  seleciona a forma de pagamento.  5. A emissora do cart\u00e3o recusa o pagamento.  6. O  sistema  volta para o passo 4 do fluxo principal.  P\u00f3s-condi\u00e7\u00e3o: O  usu\u00e1rio  ter\u00e1 comprado um  servi\u00e7o pago .",
             "title": "UC12 - Adquirir Servi\u00e7os Pagos"
         },
         {
             "location": "/modelagem/casosUso/UC13/",
-            "text": "",
+            "text": "UC13 - Assinar \nTinder Plus\n\n\n\n\nDescri\u00e7\u00e3o\n: esse caso de uso permite que o \nusu\u00e1rio\n possa comprar o \nTinder Plus\n.\n\n\n\n\nAtor principal\n: \nUsu\u00e1rio\n\n\n\n\nPr\u00e9-requisitos\n: O \nusu\u00e1rio\n deve ter cart\u00e3o de cr\u00e9dito ou cr\u00e9ditos na Play Store ou App Store.\n\n\nFluxo principal\n:\n\n 1. O \nusu\u00e1rio\n abre o aplicativo.\n\n 2. O \nusu\u00e1rio\n navega at\u00e9 as configura\u00e7\u00f5es de perfil.\n\n 3. O \nusu\u00e1rio\n seleciona a op\u00e7\u00e3o Tinder+.\n\n 4. O \nusu\u00e1rio\n seleciona a quantidade de meses que deseja assinar o \nTinder Plus\n.\n\n 5. O \nusu\u00e1rio\n seleciona a forma de pagamento.\n\n 6. O pagamento \u00e9 realizado.\n\n\n\n\nFluxo alternativo\n: ---\n\n\n\n\nFluxo de exce\u00e7\u00e3o\n: Cart\u00e3o Recusado\n\n 1. O \nusu\u00e1rio\n abre o aplicativo.\n\n 2. O \nusu\u00e1rio\n navega at\u00e9 as configura\u00e7\u00f5es de perfil.\n\n 3. O \nusu\u00e1rio\n seleciona a op\u00e7\u00e3o Tinder+.\n\n 4. O \nusu\u00e1rio\n seleciona a quantidade de meses que deseja assinar o \nTinder Plus\n.\n\n 5. O \nusu\u00e1rio\n seleciona a forma de pagamento.\n\n 6. A emissora do cart\u00e3o recusa o pagamento.\n\n 7. O sistema volta para o passo 5 do fluxo principal.\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: O \nusu\u00e1rio\n passa a ter as vantagens de uma conta \nTinder Plus",
             "title": "UC 13"
         },
         {
+            "location": "/modelagem/casosUso/UC13/#uc13-assinar-tinder-plus",
+            "text": "Descri\u00e7\u00e3o : esse caso de uso permite que o  usu\u00e1rio  possa comprar o  Tinder Plus .   Ator principal :  Usu\u00e1rio   Pr\u00e9-requisitos : O  usu\u00e1rio  deve ter cart\u00e3o de cr\u00e9dito ou cr\u00e9ditos na Play Store ou App Store.  Fluxo principal :  1. O  usu\u00e1rio  abre o aplicativo.  2. O  usu\u00e1rio  navega at\u00e9 as configura\u00e7\u00f5es de perfil.  3. O  usu\u00e1rio  seleciona a op\u00e7\u00e3o Tinder+.  4. O  usu\u00e1rio  seleciona a quantidade de meses que deseja assinar o  Tinder Plus .  5. O  usu\u00e1rio  seleciona a forma de pagamento.  6. O pagamento \u00e9 realizado.   Fluxo alternativo : ---   Fluxo de exce\u00e7\u00e3o : Cart\u00e3o Recusado  1. O  usu\u00e1rio  abre o aplicativo.  2. O  usu\u00e1rio  navega at\u00e9 as configura\u00e7\u00f5es de perfil.  3. O  usu\u00e1rio  seleciona a op\u00e7\u00e3o Tinder+.  4. O  usu\u00e1rio  seleciona a quantidade de meses que deseja assinar o  Tinder Plus .  5. O  usu\u00e1rio  seleciona a forma de pagamento.  6. A emissora do cart\u00e3o recusa o pagamento.  7. O sistema volta para o passo 5 do fluxo principal.  P\u00f3s-condi\u00e7\u00e3o : O  usu\u00e1rio  passa a ter as vantagens de uma conta  Tinder Plus",
+            "title": "UC13 - Assinar Tinder Plus"
+        },
+        {
             "location": "/modelagem/casosUso/UC14/",
-            "text": "",
+            "text": "UC14 - Assinar \nTinder Gold\n.\n\n\n\n\nDescri\u00e7\u00e3o\n: esse caso de uso permite que o \nusu\u00e1rio\n possa comprar o \nTinder Gold\n.\n\n\n\n\nPr\u00e9-requisito\n: O \nusu\u00e1rio\n deve ter cart\u00e3o de cr\u00e9dito ou cr\u00e9ditos na Play Store ou App Store.\n\n\n\n\nFluxo principal\n:\n\n 1. O \nusu\u00e1rio\n abre o aplicativo.\n\n 2. O \nusu\u00e1rio\n navega at\u00e9 as configura\u00e7\u00f5es de perfil.\n\n 3. O \nusu\u00e1rio\n seleciona a op\u00e7\u00e3o \nTinder Gold\n.\n\n 4. O \nusu\u00e1rio\n seleciona a quantidade de meses que deseja o \nTinder Gold\n.\n\n 5. O \nusu\u00e1rio\n seleciona a forma de pagamento.\n\n 6. O pagamento \u00e9 realizado.\n\n\n\n\nFluxo alternativo\n: ---\n\n\n\n\nFluxo de exce\u00e7\u00e3o\n: Cart\u00e3o recusado\n\n 1. O \nusu\u00e1rio\n abre o aplicativo.\n\n 2. O \nusu\u00e1rio\n navega at\u00e9 as configura\u00e7\u00f5es de perfil.\n\n 3. O \nusu\u00e1rio\n seleciona a op\u00e7\u00e3o \nTinder Gold\n.\n\n 4. O \nusu\u00e1rio\n seleciona a quantidade de meses que deseja o \nTinder Gold\n\n\n 5. O \nusu\u00e1rio\n seleciona a forma de pagamento.\n\n 6. A emissora do cart\u00e3o recusa o pagamento.\n\n 7. O sistema volta para o passo 5 do fluxo principal.\n\n\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: O \nusu\u00e1rio\n passa a possuir as vantagens de uma conta \nTinder Gold\n.",
             "title": "UC 14"
         },
         {
+            "location": "/modelagem/casosUso/UC14/#uc14-assinar-tinder-gold",
+            "text": "Descri\u00e7\u00e3o : esse caso de uso permite que o  usu\u00e1rio  possa comprar o  Tinder Gold .   Pr\u00e9-requisito : O  usu\u00e1rio  deve ter cart\u00e3o de cr\u00e9dito ou cr\u00e9ditos na Play Store ou App Store.   Fluxo principal :  1. O  usu\u00e1rio  abre o aplicativo.  2. O  usu\u00e1rio  navega at\u00e9 as configura\u00e7\u00f5es de perfil.  3. O  usu\u00e1rio  seleciona a op\u00e7\u00e3o  Tinder Gold .  4. O  usu\u00e1rio  seleciona a quantidade de meses que deseja o  Tinder Gold .  5. O  usu\u00e1rio  seleciona a forma de pagamento.  6. O pagamento \u00e9 realizado.   Fluxo alternativo : ---   Fluxo de exce\u00e7\u00e3o : Cart\u00e3o recusado  1. O  usu\u00e1rio  abre o aplicativo.  2. O  usu\u00e1rio  navega at\u00e9 as configura\u00e7\u00f5es de perfil.  3. O  usu\u00e1rio  seleciona a op\u00e7\u00e3o  Tinder Gold .  4. O  usu\u00e1rio  seleciona a quantidade de meses que deseja o  Tinder Gold   5. O  usu\u00e1rio  seleciona a forma de pagamento.  6. A emissora do cart\u00e3o recusa o pagamento.  7. O sistema volta para o passo 5 do fluxo principal.   P\u00f3s-condi\u00e7\u00e3o : O  usu\u00e1rio  passa a possuir as vantagens de uma conta  Tinder Gold .",
+            "title": "UC14 - Assinar Tinder Gold."
+        },
+        {
             "location": "/modelagem/casosUso/UC15/",
-            "text": "",
+            "text": "UC15 - Adquirir super likes\n\n\n\n\nDescri\u00e7\u00e3o\n: esse caso de uso permite que o \nusu\u00e1rio\n possa comprar \nsuper like\n para aumentar sua chance de Match.\n\n\n\n\nAtor principal\n: \nUsu\u00e1rio\n\n\n\n\nPr\u00e9-requisitos\n: O \nusu\u00e1rio\n deve ter cart\u00e3o de cr\u00e9dito ou cr\u00e9ditos na Play Store ou App Store\n\n\n\n\nFluxo principal\n:\n\n 1. O \nusu\u00e1rio\n abre o \naplicativo\n.\n\n 2. O \nusu\u00e1rio\n navega at\u00e9 as configura\u00e7\u00f5es de perfil.\n\n 3. O \nusu\u00e1rio\n seleciona a op\u00e7\u00e3o \u201c\nDescolar\n \nSuper Likes\n\u201d.\n\n 4. O \nusu\u00e1rio\n seleciona a quantidade de \nsuper likes\n que deseja comprar.\n\n 5. O \nusu\u00e1rio\n seleciona a forma de pagamento.\n\n 6. O pagamento \u00e9 realizado.\n\n\n\n\nFluxo alternativo\n: ---\n\n\n\n \nFluxo de exce\u00e7\u00e3o\n: Cart\u00e3o Recusado\n\n 1. O \nusu\u00e1rio\n abre o \naplicativo\n.\n\n 2. O \nusu\u00e1rio\n navega at\u00e9 as configura\u00e7\u00f5es de perfil.\n\n 3. O \nusu\u00e1rio\n seleciona a op\u00e7\u00e3o \u201c\nDescolar\n \nSuper Likes\n\u201d.\n\n 4. O \nusu\u00e1rio\n seleciona a quantidade de \nsuper likes\n que deseja comprar.\n\n 5. O \nusu\u00e1rio\n seleciona a forma de pagamento.\n\n 6. A emissora do cart\u00e3o recusa o pagamento.\n\n 7. O \nsistema\n volta para o passo 5 do fluxo principal.\n\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: O \nusu\u00e1rio\n poder dar \nsuper likes\n em outros perfis.",
             "title": "UC 15"
         },
         {
+            "location": "/modelagem/casosUso/UC15/#uc15-adquirir-super-likes",
+            "text": "Descri\u00e7\u00e3o : esse caso de uso permite que o  usu\u00e1rio  possa comprar  super like  para aumentar sua chance de Match.   Ator principal :  Usu\u00e1rio   Pr\u00e9-requisitos : O  usu\u00e1rio  deve ter cart\u00e3o de cr\u00e9dito ou cr\u00e9ditos na Play Store ou App Store   Fluxo principal :  1. O  usu\u00e1rio  abre o  aplicativo .  2. O  usu\u00e1rio  navega at\u00e9 as configura\u00e7\u00f5es de perfil.  3. O  usu\u00e1rio  seleciona a op\u00e7\u00e3o \u201c Descolar   Super Likes \u201d.  4. O  usu\u00e1rio  seleciona a quantidade de  super likes  que deseja comprar.  5. O  usu\u00e1rio  seleciona a forma de pagamento.  6. O pagamento \u00e9 realizado.   Fluxo alternativo : ---    Fluxo de exce\u00e7\u00e3o : Cart\u00e3o Recusado  1. O  usu\u00e1rio  abre o  aplicativo .  2. O  usu\u00e1rio  navega at\u00e9 as configura\u00e7\u00f5es de perfil.  3. O  usu\u00e1rio  seleciona a op\u00e7\u00e3o \u201c Descolar   Super Likes \u201d.  4. O  usu\u00e1rio  seleciona a quantidade de  super likes  que deseja comprar.  5. O  usu\u00e1rio  seleciona a forma de pagamento.  6. A emissora do cart\u00e3o recusa o pagamento.  7. O  sistema  volta para o passo 5 do fluxo principal.  P\u00f3s-condi\u00e7\u00e3o : O  usu\u00e1rio  poder dar  super likes  em outros perfis.",
+            "title": "UC15 - Adquirir super likes"
+        },
+        {
             "location": "/modelagem/casosUso/UC16/",
-            "text": "",
+            "text": "UC 16 - Adquirir \nBoost\n\n\n\n\nDescri\u00e7\u00e3o\n: esse caso de uso permite que o \nusu\u00e1rio\n posso comprar \nboosts\n.\n\n\n\nAtor principal\n: \nusu\u00e1rio\n\n\n\n\nPr\u00e9-requisitos\n:\n\n 1. O \nusu\u00e1rio\n deve ter cart\u00e3o de cr\u00e9dito ou cr\u00e9ditos na Play Store ou App Store\n\n 2. Realizar a compra apenas pelo \naplicativo\n\n\n\n\nFluxo principal\n:\n\n 1. O \nusu\u00e1rio\n abre o \naplicativo\n.\n\n 2. O \nusu\u00e1rio\n navega at\u00e9 as configura\u00e7\u00f5es de perfil.\n\n 3. O \nusu\u00e1rio\n seleciona a op\u00e7\u00e3o \"\nDescolar\n \nBoosts\n\"\n\n 4. O \nusu\u00e1rio\n seleciona a quantidade de \nboosts\n que deseja comprar\n\n 5. O \nusu\u00e1rio\n seleciona a forma de pagamento.\n\n 6. O pagamento \u00e9 realizado\n\n\n\n\nFluxo alternativo\n: ---\n\n\n\n\nFluxo de exce\u00e7\u00e3o\n:\n\n 1. O \nusu\u00e1rio\n abre o \naplicativo\n.\n\n 2. O \nusu\u00e1rio\n navega at\u00e9 as configura\u00e7\u00f5es de perfil.\n\n 3. O \nusu\u00e1rio\n seleciona a op\u00e7\u00e3o \u201c\nDescolar\n \nBoosts\n\u201d\n\n 4. O \nusu\u00e1rio\n seleciona a quantidade de \nboosts\n que deseja comprar\n\n 5. O \nusu\u00e1rio\n seleciona a forma de pagamento.\n\n 6. A emissora do cart\u00e3o recusa o pagamento.\n\n 7. O \nsistema\n volta para o passo 5 do fluxo principal.\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: 1. O \nusu\u00e1rio\n pode usar a fun\u00e7\u00e3o \nboost\n.",
             "title": "UC 16"
         },
         {
+            "location": "/modelagem/casosUso/UC16/#uc-16-adquirir-boost",
+            "text": "Descri\u00e7\u00e3o : esse caso de uso permite que o  usu\u00e1rio  posso comprar  boosts .  Ator principal :  usu\u00e1rio   Pr\u00e9-requisitos :  1. O  usu\u00e1rio  deve ter cart\u00e3o de cr\u00e9dito ou cr\u00e9ditos na Play Store ou App Store  2. Realizar a compra apenas pelo  aplicativo   Fluxo principal :  1. O  usu\u00e1rio  abre o  aplicativo .  2. O  usu\u00e1rio  navega at\u00e9 as configura\u00e7\u00f5es de perfil.  3. O  usu\u00e1rio  seleciona a op\u00e7\u00e3o \" Descolar   Boosts \"  4. O  usu\u00e1rio  seleciona a quantidade de  boosts  que deseja comprar  5. O  usu\u00e1rio  seleciona a forma de pagamento.  6. O pagamento \u00e9 realizado   Fluxo alternativo : ---   Fluxo de exce\u00e7\u00e3o :  1. O  usu\u00e1rio  abre o  aplicativo .  2. O  usu\u00e1rio  navega at\u00e9 as configura\u00e7\u00f5es de perfil.  3. O  usu\u00e1rio  seleciona a op\u00e7\u00e3o \u201c Descolar   Boosts \u201d  4. O  usu\u00e1rio  seleciona a quantidade de  boosts  que deseja comprar  5. O  usu\u00e1rio  seleciona a forma de pagamento.  6. A emissora do cart\u00e3o recusa o pagamento.  7. O  sistema  volta para o passo 5 do fluxo principal.  P\u00f3s-condi\u00e7\u00e3o : 1. O  usu\u00e1rio  pode usar a fun\u00e7\u00e3o  boost .",
+            "title": "UC 16 - Adquirir Boost"
+        },
+        {
             "location": "/modelagem/casosUso/UC17/",
-            "text": "",
+            "text": "UC17 - \nDenunciar\n Perfil\n\n\n\n\nDescri\u00e7\u00e3o\n: Esse caso de uso permite o \nusu\u00e1rio\n denunciar perfis.\n\n\n\n\nAtor principal\n: \nusu\u00e1rio\n e \nsistema\n.\n\n\n\n\nPr\u00e9-Requisitos\n: \u00c9 preciso estar \nlogado\n na \naplica\u00e7\u00e3o\n\n\n\n\nFluxo principal\n:\n\n 1. O \nusu\u00e1rio\n abre o \naplicativo\n.\n\n 2. O \nusu\u00e1rio\n ir\u00e1 visualizar o perfil a ser denunciado.\n\n \n 3. O \nusu\u00e1rio\n escolhe o motivo da den\u00fancia: \nMensagens inapropriadas\n, Fotos inapropriadas, Parece \nspam\n, Outra.\n\n 4. O \nTinder\n apresenta uma mensagem de reported.\n\n 5. O perfil \u00e9 retirado da tela do \nusu\u00e1rio\n.\n\n\n\n\nFluxo alternativo\n: \nDenunciar\n pelo \nfeed\n\n\n 1. O \nusu\u00e1rio\n abre a \naplica\u00e7\u00e3o\n.\n\n 2. O \nusu\u00e1rio\n abre a aba feed e mensagens.\n\n 3. O \nusu\u00e1rio\n seleciona o \nmatch\n que quer \ndenunciar\n.\n\n 4. O \nusu\u00e1rio\n seleciona o \u00edcone de tr\u00eas pontos.\n\n 5. O \nusu\u00e1rio\n seleciona \ndenunciar\n o perfil.\n\n 6. O \nusu\u00e1rio\n seleciona o motivo.\n\n 7. O \nsistema\n exibe uma mensagem de reported.\n\n\n\n\nFluxo alternativo 02\n: \nDenunciar\n pela conversa\n\n 1. O \nusu\u00e1rio\n abre a \naplica\u00e7\u00e3o\n.\n\n 2. O \nusu\u00e1rio\n abre a aba \nfeed\n e mensagens.\n\n 3. O \nusu\u00e1rio\n abre a conversa do perfil que quer \ndenunciar\n.\n\n 4. O \nusu\u00e1rio\n seleciona o \u00edcone de bandeira.\n\n 5. O \nusu\u00e1rio\n seleciona report o perfil.\n\n 6. O \nusu\u00e1rio\n seleciona o motivo.\n\n 7. O \nsistema\n exibe uma mensagem de \nreported\n.\n\n\n\n\nFluxo de exce\u00e7\u00e3o\n: ---\n\n\n\n\nP\u00f3s-condi\u00e7\u00e3o\n:\n\n 1. Ap\u00f3s \ndenunciar\n o perfil, o \nusu\u00e1rio\n n\u00e3o dever\u00e1 visualizar mais o perfil denunciado.\n\n 2. O \nTinder\n deve tomar provid\u00eancias de acordo com o tipo de den\u00fancia.",
             "title": "UC 17"
+        },
+        {
+            "location": "/modelagem/casosUso/UC17/#uc17-denunciar-perfil",
+            "text": "Descri\u00e7\u00e3o : Esse caso de uso permite o  usu\u00e1rio  denunciar perfis.   Ator principal :  usu\u00e1rio  e  sistema .   Pr\u00e9-Requisitos : \u00c9 preciso estar  logado  na  aplica\u00e7\u00e3o   Fluxo principal :  1. O  usu\u00e1rio  abre o  aplicativo .  2. O  usu\u00e1rio  ir\u00e1 visualizar o perfil a ser denunciado.    3. O  usu\u00e1rio  escolhe o motivo da den\u00fancia:  Mensagens inapropriadas , Fotos inapropriadas, Parece  spam , Outra.  4. O  Tinder  apresenta uma mensagem de reported.  5. O perfil \u00e9 retirado da tela do  usu\u00e1rio .   Fluxo alternativo :  Denunciar  pelo  feed   1. O  usu\u00e1rio  abre a  aplica\u00e7\u00e3o .  2. O  usu\u00e1rio  abre a aba feed e mensagens.  3. O  usu\u00e1rio  seleciona o  match  que quer  denunciar .  4. O  usu\u00e1rio  seleciona o \u00edcone de tr\u00eas pontos.  5. O  usu\u00e1rio  seleciona  denunciar  o perfil.  6. O  usu\u00e1rio  seleciona o motivo.  7. O  sistema  exibe uma mensagem de reported.   Fluxo alternativo 02 :  Denunciar  pela conversa  1. O  usu\u00e1rio  abre a  aplica\u00e7\u00e3o .  2. O  usu\u00e1rio  abre a aba  feed  e mensagens.  3. O  usu\u00e1rio  abre a conversa do perfil que quer  denunciar .  4. O  usu\u00e1rio  seleciona o \u00edcone de bandeira.  5. O  usu\u00e1rio  seleciona report o perfil.  6. O  usu\u00e1rio  seleciona o motivo.  7. O  sistema  exibe uma mensagem de  reported .   Fluxo de exce\u00e7\u00e3o : ---   P\u00f3s-condi\u00e7\u00e3o :  1. Ap\u00f3s  denunciar  o perfil, o  usu\u00e1rio  n\u00e3o dever\u00e1 visualizar mais o perfil denunciado.  2. O  Tinder  deve tomar provid\u00eancias de acordo com o tipo de den\u00fancia.",
+            "title": "UC17 - Denunciar Perfil"
         },
         {
             "location": "/modelagem/casosUso/UC18/",
@@ -2342,23 +2387,93 @@
         },
         {
             "location": "/modelagem/casosUso/UC19/",
-            "text": "",
+            "text": "UC03 - Acessar Conversa\n\n\n\n\nDescri\u00e7\u00e3o\n: Este caso de uso permite que o \nusu\u00e1rio\n possa ser capaz de acessar conversa com outro \nusu\u00e1rio\n.\n\n\nAtor principal\n: \nUsu\u00e1rio\n e \nsistema\n.\n\n\n\nPr\u00e9-Requisitos\n: O \nusu\u00e1rio\n deve possuir um \nperfil\n, precisa estar \nlogado\n e precisa possuir pelo menos um \nmatch\n.\n\n\n\nFluxo Principal\n:\n\n 1. O \nusu\u00e1rio\n abre o aplicativo.\n\n 2. O \nusu\u00e1rio\n seleciona aba conversas.\n\n 3. O \nusu\u00e1rio\n seleciona a conversa que deseja acessar.\n\n\nFluxo Alternativo\n Iniciar Conversa:\n\n 1. O \nusu\u00e1rio\n abre o aplicativo.\n\n 2. O \nusu\u00e1rio\n seleciona aba conversas.\n\n 3. O \nusu\u00e1rio\n seleciona o \nusu\u00e1rio\n como qual deseja conversar.\n\n\nFluxo de exce\u00e7\u00e3o\n: ---\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: O perfil do \nusu\u00e1rio\n tem acesso a pagina de conversa.",
             "title": "UC 19"
         },
         {
+            "location": "/modelagem/casosUso/UC19/#uc03-acessar-conversa",
+            "text": "Descri\u00e7\u00e3o : Este caso de uso permite que o  usu\u00e1rio  possa ser capaz de acessar conversa com outro  usu\u00e1rio .  Ator principal :  Usu\u00e1rio  e  sistema .  Pr\u00e9-Requisitos : O  usu\u00e1rio  deve possuir um  perfil , precisa estar  logado  e precisa possuir pelo menos um  match .  Fluxo Principal :  1. O  usu\u00e1rio  abre o aplicativo.  2. O  usu\u00e1rio  seleciona aba conversas.  3. O  usu\u00e1rio  seleciona a conversa que deseja acessar.  Fluxo Alternativo  Iniciar Conversa:  1. O  usu\u00e1rio  abre o aplicativo.  2. O  usu\u00e1rio  seleciona aba conversas.  3. O  usu\u00e1rio  seleciona o  usu\u00e1rio  como qual deseja conversar.  Fluxo de exce\u00e7\u00e3o : ---  P\u00f3s-condi\u00e7\u00e3o : O perfil do  usu\u00e1rio  tem acesso a pagina de conversa.",
+            "title": "UC03 - Acessar Conversa"
+        },
+        {
             "location": "/modelagem/casosUso/UC20/",
-            "text": "",
+            "text": "UC20 - Acessar \nFeed\n\n\n\n\nDescri\u00e7\u00e3o\n: Esse caso de uso permite que o \nusu\u00e1rio\n consiga acessar o \nfeed\n.\n\n\n\n\nAtor principal\n: O \nusu\u00e1rio\n\n\n\n\nPr\u00e9-requisitos\n:\n\n 1. \u00c9 preciso estar \nlogado\n na \naplica\u00e7\u00e3o\n.\n\n 2. O \nusu\u00e1rio\n deve possuir algum o \nmatch\n.\n\n\n\n\nFluxo principal\n:\n\n 1. O \nusu\u00e1rio\n \ndesliza\n a tela para a direita.\n\n 2. O \nusu\u00e1rio\n clica na aba de \nFeed\n.\n\n 3. O \nusu\u00e1rio\n pode acompanhar as atualiza\u00e7\u00f5es de seus contatos.\n\n\n\n\nFluxo alternativo\n: ---\n\n\n\n\nFluxo de exce\u00e7\u00e3o\n: O \nfeed\n n\u00e3o \u00e9 atualizado\n\n 1. O \nusu\u00e1rio\n \ndesliza\n a tela para a direita.\n\n 2. O \nusu\u00e1rio\n clica na aba de \nFeed\n.\n\n 3. O \nfeed\n n\u00e3o mostra atualiza\u00e7\u00f5es dos \nmatches\n.\n\n\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: O \nusu\u00e1rio\n tem acesso aos seus \u00faltimos \nmatches\n e suas atualiza\u00e7\u00f5es.",
             "title": "UC 20"
         },
         {
+            "location": "/modelagem/casosUso/UC20/#uc20-acessar-feed",
+            "text": "Descri\u00e7\u00e3o : Esse caso de uso permite que o  usu\u00e1rio  consiga acessar o  feed .   Ator principal : O  usu\u00e1rio   Pr\u00e9-requisitos :  1. \u00c9 preciso estar  logado  na  aplica\u00e7\u00e3o .  2. O  usu\u00e1rio  deve possuir algum o  match .   Fluxo principal :  1. O  usu\u00e1rio   desliza  a tela para a direita.  2. O  usu\u00e1rio  clica na aba de  Feed .  3. O  usu\u00e1rio  pode acompanhar as atualiza\u00e7\u00f5es de seus contatos.   Fluxo alternativo : ---   Fluxo de exce\u00e7\u00e3o : O  feed  n\u00e3o \u00e9 atualizado  1. O  usu\u00e1rio   desliza  a tela para a direita.  2. O  usu\u00e1rio  clica na aba de  Feed .  3. O  feed  n\u00e3o mostra atualiza\u00e7\u00f5es dos  matches .   P\u00f3s-condi\u00e7\u00e3o : O  usu\u00e1rio  tem acesso aos seus \u00faltimos  matches  e suas atualiza\u00e7\u00f5es.",
+            "title": "UC20 - Acessar Feed"
+        },
+        {
             "location": "/modelagem/casosUso/UC21/",
-            "text": "",
+            "text": "UC21 - Manter configura\u00e7\u00f5es\n\n\n\n\nDescri\u00e7\u00e3o\n: esse caso de uso permite que o usu\u00e1rio tenha acesso \u00e0s configura\u00e7\u00f5es.\n\n\n\n\nAtor principal\n: usu\u00e1rio\n\n\n\n\nPr\u00e9-requisitos\n: Estar logado.\n\n\n\n\nFluxo principal\n:\n\n 1. O usu\u00e1rio abre o aplicativo.\n\n 2. O usu\u00e1rio vai para a aba de perfil.\n\n 3. O usu\u00e1rio seleciona a op\u00e7\u00e3o de configura\u00e7\u00f5es.\n\n\n\n\nFluxo alternativo\n: ---\n\n\n\n\nFluxo de exce\u00e7\u00e3o\n: ---\n\n\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: A tela de configura\u00e7\u00f5es ser\u00e1 exibida.",
             "title": "UC 21"
         },
         {
+            "location": "/modelagem/casosUso/UC21/#uc21-manter-configuracoes",
+            "text": "Descri\u00e7\u00e3o : esse caso de uso permite que o usu\u00e1rio tenha acesso \u00e0s configura\u00e7\u00f5es.   Ator principal : usu\u00e1rio   Pr\u00e9-requisitos : Estar logado.   Fluxo principal :  1. O usu\u00e1rio abre o aplicativo.  2. O usu\u00e1rio vai para a aba de perfil.  3. O usu\u00e1rio seleciona a op\u00e7\u00e3o de configura\u00e7\u00f5es.   Fluxo alternativo : ---   Fluxo de exce\u00e7\u00e3o : ---   P\u00f3s-condi\u00e7\u00e3o : A tela de configura\u00e7\u00f5es ser\u00e1 exibida.",
+            "title": "UC21 - Manter configura\u00e7\u00f5es"
+        },
+        {
             "location": "/modelagem/casosUso/UC22/",
-            "text": "",
+            "text": "UC22 - Manter configura\u00e7\u00f5es de descoberta\n\n\n\n\nDescri\u00e7\u00e3o\n: esse caso de uso permite que o usu\u00e1rio acesse e edite as configura\u00e7\u00f5es de descoberta.\n\n\n\nAtor principal\n: usu\u00e1rio e sistema\n\n\n\nPr\u00e9-requisitos\n:\n\n 1. O usu\u00e1rio deve possuir um perfil e estar logado.\n\n 2. O usu\u00e1rio deve permitir o uso de sua localiza\u00e7\u00e3o atual\n\n\n\n\nFluxo principal\n:\n\n 1. O usu\u00e1rio acessa as configura\u00e7\u00f5es.\n\n 2. O usu\u00e1rio desliza a p\u00e1gina at\u00e9 a se\u00e7\u00e3o de configura\u00e7\u00e3o de descoberta.\n\n 3. O usu\u00e1rio define a localiza\u00e7\u00e3o dele.\n\n 4. O sistema pede autoriza\u00e7\u00e3o para utilizar a localiza\u00e7\u00e3o atual do usu\u00e1rio.\n\n 5. O usu\u00e1rio permite esse uso.\n\n 6. O usu\u00e1rio define a dist\u00e2ncia m\u00e1xima das pessoas que ser\u00e3o mostradas a ele.\n\n 7. O usu\u00e1rio escolhe o g\u00eanero dessas pessoas.\n\n 8. O usu\u00e1rio escolhe a faixa et\u00e1ria delas.\n\n 9. O usu\u00e1rio escolhe se quer ou n\u00e3o que seu perfil apare\u00e7a para outras pessoas.\n\n 10. O usu\u00e1rio seleciona a op\u00e7\u00e3o Ok para salvar suas altera\u00e7\u00f5es.\n\n 11. A tela volta para a aba de perfil.\n\n\n\n\nFluxo alternativo\n: ---\n\n\n\n\nFluxo de exce\u00e7\u00e3o\n: ---\n\n\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: Somente ser\u00e3o mostrados ao usu\u00e1rio, pessoas que se enquadrem nas escolhas dele.",
             "title": "UC 22"
+        },
+        {
+            "location": "/modelagem/casosUso/UC22/#uc22-manter-configuracoes-de-descoberta",
+            "text": "Descri\u00e7\u00e3o : esse caso de uso permite que o usu\u00e1rio acesse e edite as configura\u00e7\u00f5es de descoberta.  Ator principal : usu\u00e1rio e sistema  Pr\u00e9-requisitos :  1. O usu\u00e1rio deve possuir um perfil e estar logado.  2. O usu\u00e1rio deve permitir o uso de sua localiza\u00e7\u00e3o atual   Fluxo principal :  1. O usu\u00e1rio acessa as configura\u00e7\u00f5es.  2. O usu\u00e1rio desliza a p\u00e1gina at\u00e9 a se\u00e7\u00e3o de configura\u00e7\u00e3o de descoberta.  3. O usu\u00e1rio define a localiza\u00e7\u00e3o dele.  4. O sistema pede autoriza\u00e7\u00e3o para utilizar a localiza\u00e7\u00e3o atual do usu\u00e1rio.  5. O usu\u00e1rio permite esse uso.  6. O usu\u00e1rio define a dist\u00e2ncia m\u00e1xima das pessoas que ser\u00e3o mostradas a ele.  7. O usu\u00e1rio escolhe o g\u00eanero dessas pessoas.  8. O usu\u00e1rio escolhe a faixa et\u00e1ria delas.  9. O usu\u00e1rio escolhe se quer ou n\u00e3o que seu perfil apare\u00e7a para outras pessoas.  10. O usu\u00e1rio seleciona a op\u00e7\u00e3o Ok para salvar suas altera\u00e7\u00f5es.  11. A tela volta para a aba de perfil.   Fluxo alternativo : ---   Fluxo de exce\u00e7\u00e3o : ---   P\u00f3s-condi\u00e7\u00e3o : Somente ser\u00e3o mostrados ao usu\u00e1rio, pessoas que se enquadrem nas escolhas dele.",
+            "title": "UC22 - Manter configura\u00e7\u00f5es de descoberta"
+        },
+        {
+            "location": "/modelagem/casosUso/UC23/",
+            "text": "UC23 - Manter configura\u00e7\u00f5es de feed\n\n\n\n\nDescri\u00e7\u00e3o\n: esse caso de uso permite que o usu\u00e1rio acesse e edite suas configura\u00e7\u00f5es de feed.\n\n\n\nAtor principal\n: usu\u00e1rio e sistema\n\n\n\nPr\u00e9-requisitos\n: O usu\u00e1rio deve possuir um perfil e estar logado.\n\n\n\nFluxo principal\n:\n\n 1. O usu\u00e1rio acessa as configura\u00e7\u00f5es.\n\n 2. O usu\u00e1rio desliza a tela at\u00e9 a se\u00e7\u00e3o de configura\u00e7\u00f5es do feed.\n\n 3. O usu\u00e1rio seleciona op\u00e7\u00e3o de conte\u00fado compartilhado.\n\n 4. O usu\u00e1rio escolhe se quer compartilhar seu feed.\n\n 5. Se sua escolha for afirmativa o sistema abre uma sess\u00e3o de conte\u00fado compartilhado.\n\n 6. O usu\u00e1rio escolhe se quer compartilhar suas fotos.\n\n 7. O usu\u00e1rio escolhe se quer compartilhar suas m\u00fasicas do Spotify.\n\n 8. O usu\u00e1rio escolhe se quer compartilhar seus artistas preferidos do Spotify.\n\n 9. O usu\u00e1rio clica em voltar.\n\n 10. O usu\u00e1rio clica em ok para salvar suas modifica\u00e7\u00f5es.\n\n 11. A tela volta para a aba perfil.\n\n\n\nFluxo Alternativo\n: ---\n\n\n\nFluxo de Exce\u00e7\u00e3o\n: ---\n\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: As atualiza\u00e7\u00f5es do usu\u00e1rio aparecer\u00e3o no feed dos seus matches.",
+            "title": "UC 23"
+        },
+        {
+            "location": "/modelagem/casosUso/UC23/#uc23-manter-configuracoes-de-feed",
+            "text": "Descri\u00e7\u00e3o : esse caso de uso permite que o usu\u00e1rio acesse e edite suas configura\u00e7\u00f5es de feed.  Ator principal : usu\u00e1rio e sistema  Pr\u00e9-requisitos : O usu\u00e1rio deve possuir um perfil e estar logado.  Fluxo principal :  1. O usu\u00e1rio acessa as configura\u00e7\u00f5es.  2. O usu\u00e1rio desliza a tela at\u00e9 a se\u00e7\u00e3o de configura\u00e7\u00f5es do feed.  3. O usu\u00e1rio seleciona op\u00e7\u00e3o de conte\u00fado compartilhado.  4. O usu\u00e1rio escolhe se quer compartilhar seu feed.  5. Se sua escolha for afirmativa o sistema abre uma sess\u00e3o de conte\u00fado compartilhado.  6. O usu\u00e1rio escolhe se quer compartilhar suas fotos.  7. O usu\u00e1rio escolhe se quer compartilhar suas m\u00fasicas do Spotify.  8. O usu\u00e1rio escolhe se quer compartilhar seus artistas preferidos do Spotify.  9. O usu\u00e1rio clica em voltar.  10. O usu\u00e1rio clica em ok para salvar suas modifica\u00e7\u00f5es.  11. A tela volta para a aba perfil.  Fluxo Alternativo : ---  Fluxo de Exce\u00e7\u00e3o : ---  P\u00f3s-condi\u00e7\u00e3o : As atualiza\u00e7\u00f5es do usu\u00e1rio aparecer\u00e3o no feed dos seus matches.",
+            "title": "UC23 - Manter configura\u00e7\u00f5es de feed"
+        },
+        {
+            "location": "/modelagem/casosUso/UC24/",
+            "text": "UC24 - Manter configura\u00e7\u00f5es do perfil web\n\n\n\n\nDescri\u00e7\u00e3o\n: esse caso de uso permite que o usu\u00e1rio acesse e edite suas configura\u00e7\u00f5es de perfil web. O perfil web \u00e9 um nome de usu\u00e1rio.\n\n\n\nAtor principal\n: usu\u00e1rio e sistema\n\n\n\nPr\u00e9-requisitos\n:\n\n 1. O usu\u00e1rio deve possuir um perfil e estar logado.\n\n 2. O nome de usu\u00e1rio deve ser \u00fanico.\n\n\nFluxo principal\n:\n\n 1. O usu\u00e1rio acessa as configura\u00e7\u00f5es.\n\n 2. O usu\u00e1rio desliza a tela at\u00e9 a se\u00e7\u00e3o de perfil web.\n\n 3. O usu\u00e1rio clica na op\u00e7\u00e3o de nome de usu\u00e1rio.\n\n 4. O usu\u00e1rio preenche o campo com o seu nome de usu\u00e1rio.\n\n 5. O usu\u00e1rio clica em confirmar.\n\n 6. O sistema verifica se o nome est\u00e1 dispon\u00edvel.\n\n 7. A aplica\u00e7\u00e3o volta para a tela de configura\u00e7\u00f5es.\n\n\n\nFluxo Alternativo\n: ---\n\n\n\nFluxo de Exce\u00e7\u00e3o\n: ---\n\n\n\nP\u00f3s-condi\u00e7\u00e3o\n:\n\n 1. O usu\u00e1rio possuir\u00e1 um perfil web e poder\u00e1 compartilhar sua url.\n\n 2. A op\u00e7\u00e3o ver meu perfil web ter\u00e1 aparecido na se\u00e7\u00e3o perfil web.\n\n 3. A op\u00e7\u00e3o compartilhar minha url ter\u00e1 aparecido na se\u00e7\u00e3o perfil web.",
+            "title": "UC 24"
+        },
+        {
+            "location": "/modelagem/casosUso/UC24/#uc24-manter-configuracoes-do-perfil-web",
+            "text": "Descri\u00e7\u00e3o : esse caso de uso permite que o usu\u00e1rio acesse e edite suas configura\u00e7\u00f5es de perfil web. O perfil web \u00e9 um nome de usu\u00e1rio.  Ator principal : usu\u00e1rio e sistema  Pr\u00e9-requisitos :  1. O usu\u00e1rio deve possuir um perfil e estar logado.  2. O nome de usu\u00e1rio deve ser \u00fanico.  Fluxo principal :  1. O usu\u00e1rio acessa as configura\u00e7\u00f5es.  2. O usu\u00e1rio desliza a tela at\u00e9 a se\u00e7\u00e3o de perfil web.  3. O usu\u00e1rio clica na op\u00e7\u00e3o de nome de usu\u00e1rio.  4. O usu\u00e1rio preenche o campo com o seu nome de usu\u00e1rio.  5. O usu\u00e1rio clica em confirmar.  6. O sistema verifica se o nome est\u00e1 dispon\u00edvel.  7. A aplica\u00e7\u00e3o volta para a tela de configura\u00e7\u00f5es.  Fluxo Alternativo : ---  Fluxo de Exce\u00e7\u00e3o : ---  P\u00f3s-condi\u00e7\u00e3o :  1. O usu\u00e1rio possuir\u00e1 um perfil web e poder\u00e1 compartilhar sua url.  2. A op\u00e7\u00e3o ver meu perfil web ter\u00e1 aparecido na se\u00e7\u00e3o perfil web.  3. A op\u00e7\u00e3o compartilhar minha url ter\u00e1 aparecido na se\u00e7\u00e3o perfil web.",
+            "title": "UC24 - Manter configura\u00e7\u00f5es do perfil web"
+        },
+        {
+            "location": "/modelagem/casosUso/UC25/",
+            "text": "UC25 - Manter configura\u00e7\u00f5es de notifica\u00e7\u00e3o\n\n\n\n\nDescri\u00e7\u00e3o\n: esse caso de uso permite que o usu\u00e1rio acesse e edite suas configura\u00e7\u00f5es de notifica\u00e7\u00e3o.\n\n\n\nAtor principal\n: usu\u00e1rio e sistema.\n\n\n\nPr\u00e9-requisitos\n:\n\n 1. O usu\u00e1rio deve possuir um perfil e estar logado.\n\n 2. Autoriza\u00e7\u00e3o no dispositivo para enviar as notifica\u00e7\u00f5es.\n\n\nFluxo principal\n:\n\n 1. O usu\u00e1rio acessa as configura\u00e7\u00f5es.\n\n 2. O usu\u00e1rio desliza a tela at\u00e9 a se\u00e7\u00e3o notifica\u00e7\u00f5es.\n\n 3. O usu\u00e1rio escolhe se quer receber notifica\u00e7\u00f5es quando tem novos matches.\n\n 4. O usu\u00e1rio escolhe se quer receber notifica\u00e7\u00f5es quando recebe novas mensagens.\n\n 5. O usu\u00e1rio escolhe se quer receber notifica\u00e7\u00f5es quando recebe curtidas nas mensagens.\n\n 6. O usu\u00e1rio escolhe se quer receber notifica\u00e7\u00f5es quando recebe superlikes.\n\n 7. O usu\u00e1rio escolhe se quer que tenha vibra\u00e7\u00e3o dentro do aplicativo.\n\n 8. O usu\u00e1rio escolhe se quer que tenha sons no aplicativo.\n\n 9. O usu\u00e1rio clica em ok para aplicar as modifica\u00e7\u00f5es.\n\n 10. A tela volta para a aba perfil.\n\n\n\nFluxo Alternativo\n: -\n\n\n\nFluxo de Exce\u00e7\u00e3o\n: -\n\n\n\nP\u00f3s-condi\u00e7\u00e3o\n:\n\n 1. O usu\u00e1rio receber\u00e1 notifica\u00e7\u00f5es quando algo acontecer na aplica\u00e7\u00e3o.",
+            "title": "UC 25"
+        },
+        {
+            "location": "/modelagem/casosUso/UC25/#uc25-manter-configuracoes-de-notificacao",
+            "text": "Descri\u00e7\u00e3o : esse caso de uso permite que o usu\u00e1rio acesse e edite suas configura\u00e7\u00f5es de notifica\u00e7\u00e3o.  Ator principal : usu\u00e1rio e sistema.  Pr\u00e9-requisitos :  1. O usu\u00e1rio deve possuir um perfil e estar logado.  2. Autoriza\u00e7\u00e3o no dispositivo para enviar as notifica\u00e7\u00f5es.  Fluxo principal :  1. O usu\u00e1rio acessa as configura\u00e7\u00f5es.  2. O usu\u00e1rio desliza a tela at\u00e9 a se\u00e7\u00e3o notifica\u00e7\u00f5es.  3. O usu\u00e1rio escolhe se quer receber notifica\u00e7\u00f5es quando tem novos matches.  4. O usu\u00e1rio escolhe se quer receber notifica\u00e7\u00f5es quando recebe novas mensagens.  5. O usu\u00e1rio escolhe se quer receber notifica\u00e7\u00f5es quando recebe curtidas nas mensagens.  6. O usu\u00e1rio escolhe se quer receber notifica\u00e7\u00f5es quando recebe superlikes.  7. O usu\u00e1rio escolhe se quer que tenha vibra\u00e7\u00e3o dentro do aplicativo.  8. O usu\u00e1rio escolhe se quer que tenha sons no aplicativo.  9. O usu\u00e1rio clica em ok para aplicar as modifica\u00e7\u00f5es.  10. A tela volta para a aba perfil.  Fluxo Alternativo : -  Fluxo de Exce\u00e7\u00e3o : -  P\u00f3s-condi\u00e7\u00e3o :  1. O usu\u00e1rio receber\u00e1 notifica\u00e7\u00f5es quando algo acontecer na aplica\u00e7\u00e3o.",
+            "title": "UC25 - Manter configura\u00e7\u00f5es de notifica\u00e7\u00e3o"
+        },
+        {
+            "location": "/modelagem/casosUso/UC26/",
+            "text": "UC26 - Desconectar da conta\n\n\n\n\nDescri\u00e7\u00e3o\n: esse caso de uso permite que o usu\u00e1rio possa desconectar sua conta a qualquer momento.\n\n\n\n\nAtor principal\n: usu\u00e1rio e sistema\n\n\n\n\nPr\u00e9-requisitos\n:\n\n 1. Possuir um conta.\n\n 2. Estar logado.\n\n\n\n\nFluxo principal\n:\n\n 1. O usu\u00e1rio abre o aplicativo.\n\n 2. O usu\u00e1rio vai para a aba de perfil.\n\n 3. O usu\u00e1rio acessa as configura\u00e7\u00f5es;\n\n 4. O usu\u00e1rio seleciona a op\u00e7\u00e3o de sair.\n\n 5. O sistema exibe uma mensagem de confirma\u00e7\u00e3o.\n\n 6. O usu\u00e1rio confirma que deseja sair.\n\n\n\n\nFluxo Alternativo\n: ---\n\n\n\n\nFluxo de Exce\u00e7\u00e3o\n: O usu\u00e1rio cancela a a\u00e7\u00e3o\n\n 1. O usu\u00e1rio abre o aplicativo.\n\n 2. O usu\u00e1rio vai para a aba de perfil.\n\n 3. O usu\u00e1rio acessa as configura\u00e7\u00f5es;\n\n 4. O usu\u00e1rio seleciona a op\u00e7\u00e3o de sair.\n\n 5. O sistema exibe uma mensagem de confirma\u00e7\u00e3o.\n\n 6. O usu\u00e1rio cancela a confirma\u00e7\u00e3o.\n\n 7. O sistema volta para o passo 3 do fluxo principal.\n\n\n\n\nP\u00f3s-condi\u00e7\u00e3o\n:\n\n 1. A conta ser\u00e1 desconectada.\n\n 2. A tela de login ser\u00e1 exibida.",
+            "title": "UC 26"
+        },
+        {
+            "location": "/modelagem/casosUso/UC26/#uc26-desconectar-da-conta",
+            "text": "Descri\u00e7\u00e3o : esse caso de uso permite que o usu\u00e1rio possa desconectar sua conta a qualquer momento.   Ator principal : usu\u00e1rio e sistema   Pr\u00e9-requisitos :  1. Possuir um conta.  2. Estar logado.   Fluxo principal :  1. O usu\u00e1rio abre o aplicativo.  2. O usu\u00e1rio vai para a aba de perfil.  3. O usu\u00e1rio acessa as configura\u00e7\u00f5es;  4. O usu\u00e1rio seleciona a op\u00e7\u00e3o de sair.  5. O sistema exibe uma mensagem de confirma\u00e7\u00e3o.  6. O usu\u00e1rio confirma que deseja sair.   Fluxo Alternativo : ---   Fluxo de Exce\u00e7\u00e3o : O usu\u00e1rio cancela a a\u00e7\u00e3o  1. O usu\u00e1rio abre o aplicativo.  2. O usu\u00e1rio vai para a aba de perfil.  3. O usu\u00e1rio acessa as configura\u00e7\u00f5es;  4. O usu\u00e1rio seleciona a op\u00e7\u00e3o de sair.  5. O sistema exibe uma mensagem de confirma\u00e7\u00e3o.  6. O usu\u00e1rio cancela a confirma\u00e7\u00e3o.  7. O sistema volta para o passo 3 do fluxo principal.   P\u00f3s-condi\u00e7\u00e3o :  1. A conta ser\u00e1 desconectada.  2. A tela de login ser\u00e1 exibida.",
+            "title": "UC26 - Desconectar da conta"
+        },
+        {
+            "location": "/modelagem/casosUso/UC27/",
+            "text": "UC27 - Acessar matches\n\n\n\n\nDescri\u00e7\u00e3o\n: esse caso de uso permite que o usu\u00e1rio tenha acesso a sua lista de matches.\n\n\n\nAtor principal\n: usu\u00e1rio\n\n\n\nPr\u00e9-requisito\n: possuir matches\n\n\n\nFluxo principal\n:\n\n 1. O usu\u00e1rio acessa o aplicativo.\n\n 2. O usu\u00e1rio realiza Login.\n\n 3. O usu\u00e1rio clica no \u00edcone de chat no topo da tela.\n\n 4. O usu\u00e1rio visualiza uma lista com todos os seus matches.\n\n\n\nFluxo alternativo\n: ---\n\n\n\nFluxo de exce\u00e7\u00e3o\n: Lista nao atualizada\n\n 1. O usu\u00e1rio acessa o aplicativo.\n\n 2. O usu\u00e1rio realiza Login.\n\n 3. O usu\u00e1rio clica no \u00edcone de chat no topo da tela.\n\n 4. A lista n\u00e3o exibe os novos matches.\n\n\n\nP\u00f3s-condi\u00e7\u00e3o\n: O usu\u00e1rio ter\u00e1 acesso a uma lista com todos os seus matches.",
+            "title": "UC 27"
+        },
+        {
+            "location": "/modelagem/casosUso/UC27/#uc27-acessar-matches",
+            "text": "Descri\u00e7\u00e3o : esse caso de uso permite que o usu\u00e1rio tenha acesso a sua lista de matches.  Ator principal : usu\u00e1rio  Pr\u00e9-requisito : possuir matches  Fluxo principal :  1. O usu\u00e1rio acessa o aplicativo.  2. O usu\u00e1rio realiza Login.  3. O usu\u00e1rio clica no \u00edcone de chat no topo da tela.  4. O usu\u00e1rio visualiza uma lista com todos os seus matches.  Fluxo alternativo : ---  Fluxo de exce\u00e7\u00e3o : Lista nao atualizada  1. O usu\u00e1rio acessa o aplicativo.  2. O usu\u00e1rio realiza Login.  3. O usu\u00e1rio clica no \u00edcone de chat no topo da tela.  4. A lista n\u00e3o exibe os novos matches.  P\u00f3s-condi\u00e7\u00e3o : O usu\u00e1rio ter\u00e1 acesso a uma lista com todos os seus matches.",
+            "title": "UC27 - Acessar matches"
         }
     ]
 }
