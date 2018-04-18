@@ -28,6 +28,7 @@ pages:
          - 'About': 'modelagem/modelagem.md'
          - 'Léxicos': 'modelagem/lexicos.md'
          - 'Cenários': 'modelagem/cenarios.md'
+         - 'Casos de Uso': 'modelagem/casosUso.md'
          - 'Referências': 'modelagem/referencias.md'
      - Análise:
          - 'About': 'analise/analise.md'
@@ -76,8 +77,28 @@ pages:
          - 'Cenario 37': 'modelagem/cenarios/cenario37.md'
          - 'Cenario 38': 'modelagem/cenarios/cenario38.md'
          - 'Cenario 39': 'modelagem/cenarios/cenario39.md'
-
-
+         - 'UC 01': 'modelagem/casosUso/UC01.md'
+         - 'UC 02': 'modelagem/casosUso/UC02.md'
+         - 'UC 03': 'modelagem/casosUso/UC03.md'
+         - 'UC 04': 'modelagem/casosUso/UC04.md'
+         - 'UC 05': 'modelagem/casosUso/UC05.md'
+         - 'UC 06': 'modelagem/casosUso/UC06.md'
+         - 'UC 07': 'modelagem/casosUso/UC07.md'
+         - 'UC 08': 'modelagem/casosUso/UC08.md'
+         - 'UC 09': 'modelagem/casosUso/UC09.md'
+         - 'UC 10': 'modelagem/casosUso/UC10.md'
+         - 'UC 11': 'modelagem/casosUso/UC11.md'
+         - 'UC 12': 'modelagem/casosUso/UC12.md'
+         - 'UC 13': 'modelagem/casosUso/UC13.md'
+         - 'UC 14': 'modelagem/casosUso/UC14.md'
+         - 'UC 15': 'modelagem/casosUso/UC15.md'
+         - 'UC 16': 'modelagem/casosUso/UC16.md'
+         - 'UC 17': 'modelagem/casosUso/UC17.md'
+         - 'UC 18': 'modelagem/casosUso/UC18.md'
+         - 'UC 19': 'modelagem/casosUso/UC19.md'
+         - 'UC 20': 'modelagem/casosUso/UC20.md'
+         - 'UC 21': 'modelagem/casosUso/UC21.md'
+         - 'UC 22': 'modelagem/casosUso/UC22.md'
 
 theme:
     name: simplex

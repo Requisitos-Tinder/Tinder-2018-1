@@ -31,7 +31,7 @@ Tendo em vista a importância dessa área, existe uma disciplina chamada Requisi
 ## Sobre o Tinder
 
 <p align="justify">&emsp;
-Tinder é um aplicativo de relacionamentos multiplataforma. Inicialmente disponível em versão mobile e para pessoas cadastradas no Facebook, a aplicação ganhou um grande número de usuários e se tornou um dos principais aplicativos do mundo. De acordo com o próprio site do [Tinder](https://gotinder.com), a aplicação recebe 1.6 bilhões de swipes por dia, os usuários têm mais de 1 milhão de dates. A aplicação tem o total de mais de 20 bilhões de matches e se estende por mais de 190 países.
+Tinder é um aplicativo de relacionamentos multiplataforma. Inicialmente disponível em versão mobile e para pessoas cadastradas no Facebook, a aplicação ganhou um grande número de usuários e se tornou um dos principais aplicativos do mundo. De acordo com o próprio site do Tinder, a aplicação recebe 1.6 bilhões de swipes por dia, os usuários têm mais de 1 milhão de dates. A aplicação tem o total de mais de 20 bilhões de matches e se estende por mais de 190 países.
 </p>
 
 <p align="justify">&emsp;
@@ -70,10 +70,10 @@ O Google Drive foi a ferramenta utilizada para a criação de todos os documento
 O Google Hangouts serviu para a realização de grande parte das reuniões entre os membros do projeto.
 
 - ### MeisterTask
-Para o controle das tarefas da equipe, foi utilizado o MeisterTask, onde dividimos todas as tarefas a serem realizadas pelos membros. 
+Para o controle das tarefas da equipe, foi utilizado o MeisterTask, onde dividimos todas as tarefas a serem realizadas pelos membros.
 
 - ### MindMeister
-Devido à dificuldade de conciliação de horário dos membros, foi utilizado o MindMeister para que os requisitos fossem levantados, onde todos os membros podiam adicionar requisitos e os demais pudiam votar se concordavam ou não, além de ser possível abrir uma discussão à respeito desse requisito. 
+Devido à dificuldade de conciliação de horário dos membros, foi utilizado o MindMeister para que os requisitos fossem levantados, onde todos os membros podiam adicionar requisitos e os demais pudiam votar se concordavam ou não, além de ser possível abrir uma discussão à respeito desse requisito.
 
 - ### Telegram
 O Telegram foi o principal meio de comunicação entre a equipe por meio de mensagens.
