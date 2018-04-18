@@ -74,3 +74,7 @@
 ###35. [Enviar Mensagem pelo Feed](../modelagem/cenarios/cenario35.md)
 <br />
 ###36. [Abrir Conversa pelo Feed](../modelagem/cenarios/cenario36.md)
+<br />
+###37. [Abrir Perfil pelo Feed](../modelagem/cenarios/cenario37.md)
+<br />
+###38. [Desconectar da Conta](../modelagem/cenarios/cenario38.md)

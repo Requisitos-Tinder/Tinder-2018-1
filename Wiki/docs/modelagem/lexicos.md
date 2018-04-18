@@ -622,6 +622,17 @@
 
 <br />
 
+## Spam
+
+| Nome | Spam |
+|------|------|
+| **Sinônimos** | [Mensagem](/modelagem/lexicos#mensagem) com propaganda |
+| **Noção** | Spam representa uma [mensagem](/modelagem/lexicos#mensagem) com conteúdo publicitário com objetivo de divulgar algum produto ou serviço. |
+| **Impacto** | No [Tinder](/modelagem/lexicos#tinder) um [usuário](/modelagem/lexicos#usuario) pode receber um spam de um de seus [matches](/modelagem/lexicos#match) |
+| **Classificação** | Objeto |
+
+<br />
+
 ## Spotify
 
 | Nome      	| Spotify                                                  	|
