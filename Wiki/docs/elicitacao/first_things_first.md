@@ -3,7 +3,7 @@
 <br>
 ### Metodologia
 
-Nesta etapa não serão utilizados todos os requisitos eleicitados, somente os que não foram prioriazados como _Must_, pois eles são essenciais para o projeto e tem que ser implementados assim que possivel. Os requisitos serão avaliados segundo a tabela abaixo:
+Nesta etapa não serão utilizados todos os requisitos elicitados, somente os que não foram prioriazados como _Must_, pois eles são essenciais para o projeto e tem que ser implementados assim que possivel. Os requisitos serão avaliados segundo a tabela abaixo:
 
 |  Requisito  | Beneficio Relativo | Penalidade Relativa | Valor Total | Valor % | Custo Relativo | Custo % | Risco Relativo | Risco % | Prioridade |
 |:-----------:|:------------------:|:-------------------:|:-----------:|:-------:|:--------------:|:-------:|:--------------:|:-------:|:----------:|
