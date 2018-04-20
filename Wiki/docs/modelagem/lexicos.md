@@ -173,7 +173,7 @@
 
 | Nome              | Deslike                                  |
 | ----------------- | ---------------------------------------- |
-| **Sinônimos**     | Descurtir, não [curtir](/modelagem/lexicos#like)                    |
+| **Sinônimos**     | Descurtir, não [curtir](/modelagem/lexicos#like), nope                    |
 | **Noção**         | O [usuário](/modelagem/lexicos#usuario) pode descurtir o [perfil](/modelagem/lexicos#perfil) de outras [pessoas](/modelagem/lexicos#usuario). |
 | **Impacto**       | Quando o [usuário](/modelagem/lexicos#usuario) deslizar a tela para a esquerda ou apertar o ícone de x, ele vai descurtir o [perfil](/modelagem/lexicos#perfil) daquela [pessoa](/modelagem/lexicos#usuario). |
 | **Classificação** | Verbo                                    |
@@ -517,7 +517,7 @@
 
 | Nome      	| Perfil                                             	|
 | ------------- | ------------------------------------------------------------ |
-| **Sinônimos** 	| Profile                               	|
+| **Sinônimos** 	| Profile, perfis                               	|
 | **Noção**     	| É o local em que todos as [informações](/modelagem/lexicos#info) do [usuário](/modelagem/lexicos#usuario) ficam salvas. |
 | **Impacto**   	|  O [sistema](/modelagem/lexicos#tinder) cria um perfil para o novo [usuário](/modelagem/lexicos#usuario) com as informações seu perfil do [facebook](/modelagem/lexicos#facebook). <br> O [usuário](/modelagem/lexicos#usuario) dá [like](/modelagem/lexicos#like) no perfil.  <br> O perfil é retirado da tela do [usuário](/modelagem/lexicos#usuario).             	|
 | **Classificação** | Objeto                                                   	|
