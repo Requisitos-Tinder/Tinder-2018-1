@@ -16,11 +16,50 @@ __Término:__ _Sprint_ 2<br/>
 
 |ID|História de Usuário|Pontos|
 |--|-------------------|------|
-|US#01||3|
-|US#03||1|
+|US#01|Realizar login com Facebook|3|
+|US#03|Realizar cadastro com Facebook|1|
 |US#07||5|
 |US#08||5|
 |US#11||5|
+
+  **US01 - Realizar login com Facebook** <br />
+  <p align="justify">&emsp;
+  	Eu, como usuário, desejo realizar login com Facebook para que eu possa utilizar o sistema.
+  </p>
+  	Critérios de Aceitação:<bt />
+  - Deve apresentar o botão para conectar com Facebook
+  - Deve realizar a conexão com Facebook
+
+<br />
+**US03 - Realizar cadastro com Facebook**
+    <p align="justify">&emsp;
+  	Eu, como usuário, desejo realizar cadastro com Facebook para que eu possa ter acesso ao sistema
+    </p>
+  Critérios de Aceitação: <br />
+  - Deve apresentar a opção de entrar com a conta do Facebook
+  - Deve encaminhar o usuário para a confirmação no Facebook
+  - Deve efetuar o cadastro
+<br />
+
+**US04 - Realizar cadastro com número de celular**
+    <p align="justify">&emsp;
+  	Eu, como usuário, desejo realizar cadastro com número de celular para que eu possa ter acesso ao sistema
+    </p>
+  Critérios de Aceitação: <br />
+  - Deve apresentar a opção de entrar com o número de telefone
+  - Deve apresentar o campo para o usuário inserir o número dele
+  - Deve enviar um código de confirmação para o celular do usuário via sms
+  - Deve apresentar a opção de “Não recebi um código”
+  - Deve apresentar a opção de enviar o código novamente
+  - Deve efetuar o cadastro
+  - Deve apresentar a tela para adicionar um email
+  - Deve dar a opção de pular ou fechar essa tela
+  - Deve apresentar a tela para inserir uma senha
+  - Deve apresentar uma tela para inserir o nome
+  - Deve apresentar uma tela para inserir data de aniversário
+  - Deve apresentar uma tela para indicar o gênero
+  - Deve apresentar uma tela para inserir uma foto
+
 
 
 ### Sprint 2
@@ -72,10 +111,22 @@ __Término:__ _Sprint_ 5<br/>
 
 |ID|História de Usuário|Pontos|
 |--|-------------------|------|
-|US#02||3|
-|US#04||5|
+|US#02|Realizar login com numero de celular|3|
+|US#04|Deletar minha conta|5|
 |US#09||8|
 |US#17||5|
+
+  **US02 - Realizar login com numero de celular**<br />
+    <p align="justify">&emsp;
+  	Eu, como usuário, desejo realizar login com número de celular para que eu possa utilizar o sistema.
+    </p>
+  	Critérios de Aceitação: <br />
+  - Deve apresentar a opção de entrar com o número de telefone
+  - Deve apresentar o campo para o usuário inserir o número dele
+  - Deve enviar um código de confirmação para o celular do usuário via sms
+  - Deve apresentar a opção de “Não recebi um código”
+  - Deve apresentar a opção de enviar o código novamente
+  - Deve efetuar o login
 
 
 ### Sprint 5
@@ -83,9 +134,32 @@ __Término:__ _Sprint_ 5<br/>
 |ID|História de Usuário|Pontos|
 |--|-------------------|------|
 |US#05||3|
+|US#06|Congelar minha conta|3|
 |US#14||13|
 |US#15||2|
 |US#24||8|
+
+**US05 - Deletar minha conta**
+    <p align="justify">&emsp;
+  	Eu, como usuário, desejo deletar minha conta para que eu possa remover meus dados do sistema.
+    </p>
+  	Critérios de Aceitação: <br />
+  - Deve apresentar a opção de deletar conta nas configurações
+  - Deve apresentar a opção de congelar conta
+  - Deve apresentar as opções: Preciso dar um tempo do Tinder, Algo não está funcionando, Conheci Alguém, Quero começar de novo, Eu não gosto do Tinder, Outra.
+  - Deve apresentar a confirmação de deletar conta caso o usuário selecione as opções Preciso dar um tempo do Tinder ou Conheci alguém.
+  - Deve encaminhar o usuário para a tela de Enviar Feedback
+  - Deve excluir a conta
+
+**US06 - Congelar minha conta**
+<p align="justify">&emsp;
+  Eu, como usuário, desejo congelar minha conta para que eu possa desativar temporariamente o meu perfil.
+</p>
+  Critérios de Aceitação: <br />
+  - Deve acessar a opção de deletar conta
+  - Deve apresentar a opção de congelar conta
+  - Deve inativar a conta
+  - Deve apresentar a opção de reativar conta 
 
 
 ## Release 3
@@ -135,7 +209,7 @@ __Término:__ _Sprint_ 8<br/>
   - Deve apresentar uma tela para visualizar o feed
   - Deve apresentar no feed os novos matches
   - Deve apresentar as atualizações das combinações: Fotos novas e Novas músicas.    
-  - Deve apresentar as opções de Denunciar usuário, Desfazer match, Abrir Conversa e Abrir Perfil, de qualquer usuário combinado, a partir do feed. 
+  - Deve apresentar as opções de Denunciar usuário, Desfazer match, Abrir Conversa e Abrir Perfil, de qualquer usuário combinado, a partir do feed.
 
 
 ### Sprint 7
