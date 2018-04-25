@@ -66,20 +66,41 @@ __Término:__ _Sprint_ 2<br/>
 
 |ID|História de Usuário|Pontos|
 |--|-------------------|------|
-|US#13||8|
-|US#16||8|
+|US#13|Configurações gerais|8|
+|US#16|Localizar Pessoas Próximas|8|
 |US#20|Verificar combinações entre perfis|8|
 
-  **US20 - Verificar combinações entre perfis** <br />
-    <p align="justify">&emsp;
-    Eu, como usuário, desejo que o sistema verifique minhas combinações para que eu possa descobrir quais outras pessoas combinaram comigo.
-    </p>
-  	Critérios de Aceitação:<br />
+**US13 - Configurações gerais** <br />
+  <p align="justify">&emsp;
+  Eu, como usuário, desejo definir configurações do sistema para que eu possa definir o comportamento do sistema em relação ao meu perfil e minhas preferências.
+  </p>
+  Critérios de Aceitação:<br />
 
-  - Deve verificar se o perfil avaliado também deu like no perfil do usuário
-  - Deve apresentar um popup para o usuário que deu like por último, indicando que ocorreu uma combinação
-  - Deve enviar uma notificação ao usuário que deu like primeiro, indicando que ocorreu uma combinação
-  - Deve enviar um email ao usuário caso ele demore para visualizar a notificação  
+- Devem ser apresentados widgets para edição de: Localização, Faixa etária, Distância máxima, mostrar-me homens ou mulheres, definir nome de usuário para web, habilitar/desabilitar: novos matches, mostrar-me no tinder, mensagens, curtidas de mensagens, super likes, vibração e som no aplicativo. Alterar medida de distância entre Km e Mi.
+- Devem ser apresentados widgets com links para áreas de: Ajuda e suporte, Licenças, políticas de privacidade, termos de serviço.
+- Devem ser apresentados widgets para opções como: compartilhar tinder, restaurar compra, sair, apagar conta, assinar Tinder Gold, assinar Tinder Plus, comprar super likes e comprar boosts.
+- Deve ser apresentado o número da versão atual do sistema.
+
+**US16 - Localizar Pessoas Próximas** <br />
+  <p align="justify">&emsp;
+  Eu, como usuário, desejo que o sistema saiba a minha localização para que eu possa encontrar pessoas próximas a mim.
+  </p>
+  Critérios de Aceitação:<br />
+
+- Deve ser capaz de acessar a localização do celular.
+- Deve procurar pessoas em volta de acordo com o range que o usuário escolheu nas configurações.
+
+
+**US20 - Verificar combinações entre perfis** <br />
+  <p align="justify">&emsp;
+  Eu, como usuário, desejo que o sistema verifique minhas combinações para que eu possa descobrir quais outras pessoas combinaram comigo.
+  </p>
+	Critérios de Aceitação:<br />
+
+- Deve verificar se o perfil avaliado também deu like no perfil do usuário
+- Deve apresentar um popup para o usuário que deu like por último, indicando que ocorreu uma combinação
+- Deve enviar uma notificação ao usuário que deu like primeiro, indicando que ocorreu uma combinação
+- Deve enviar um email ao usuário caso ele demore para visualizar a notificação  
 
 <br />
 
@@ -98,14 +119,14 @@ __Término:__ _Sprint_ 5<br/>
 |US#21|Desfazer uma combinação|2|
 |US#23||13|
 
-  **US21 - Desfazer uma combinação** <br />
-    <p align="justify">&emsp;
-  	Eu, como usuário, desejo desfazer uma combinação para que eu possa deixar de interagir com a pessoa.
-    </p>
-  	Critérios de Aceitação: <br />
-  - Deve apresentar opções para os motivos do usuário querer desfazer a combinação: Mensagens inapropriadas, Fotos inapropriadas, Parece spam, Outra, Sem motivo
-  - Deve apresentar um campo de texto para o usuário escrever o motivo do unmatch, caso tenha selecionado a opção Outra.
-  - Deve retirar o perfil da lista de matches do usuário.
+**US21 - Desfazer uma combinação** <br />
+  <p align="justify">&emsp;
+	Eu, como usuário, desejo desfazer uma combinação para que eu possa deixar de interagir com a pessoa.
+  </p>
+	Critérios de Aceitação: <br />
+- Deve apresentar opções para os motivos do usuário querer desfazer a combinação: Mensagens inapropriadas, Fotos inapropriadas, Parece spam, Outra, Sem motivo
+- Deve apresentar um campo de texto para o usuário escrever o motivo do unmatch, caso tenha selecionado a opção Outra.
+- Deve retirar o perfil da lista de matches do usuário.
 
 <br />
 
@@ -116,19 +137,29 @@ __Término:__ _Sprint_ 5<br/>
 |US#02|Realizar login com numero de celular|3|
 |US#04|Deletar minha conta|5|
 |US#09||8|
-|US#17||5|
+|US#17|Integração com o Instragram|5|
 
-  **US02 - Realizar login com numero de celular**<br />
-    <p align="justify">&emsp;
-  	Eu, como usuário, desejo realizar login com número de celular para que eu possa utilizar o sistema.
-    </p>
-  	Critérios de Aceitação: <br />
-  - Deve apresentar a opção de entrar com o número de telefone
-  - Deve apresentar o campo para o usuário inserir o número dele
-  - Deve enviar um código de confirmação para o celular do usuário via sms
-  - Deve apresentar a opção de “Não recebi um código”
-  - Deve apresentar a opção de enviar o código novamente
-  - Deve efetuar o login
+**US02 - Realizar login com numero de celular**<br />
+  <p align="justify">&emsp;
+	Eu, como usuário, desejo realizar login com número de celular para que eu possa utilizar o sistema.
+  </p>
+	Critérios de Aceitação: <br />
+- Deve apresentar a opção de entrar com o número de telefone
+- Deve apresentar o campo para o usuário inserir o número dele
+- Deve enviar um código de confirmação para o celular do usuário via sms
+- Deve apresentar a opção de “Não recebi um código”
+- Deve apresentar a opção de enviar o código novamente
+- Deve efetuar o login
+
+**US17 - Integração com o Instragram**<br />
+  <p align="justify">&emsp;
+	Eu, como usuário, desejo integrar o Tinder com o Instagram para que eu possa exibir as fotos no perfil.
+  </p>
+	Critérios de Aceitação: <br />
+- O sistema deve exibir um botão para se conectar com o instragram.
+- O sistema deve conectar o perfil do usuário com o perfil do instagram.
+- O sistema deve mostrar algumas fotos do usuário no seu perfil.
+- O sistema deve exibir um botão para abrir o instagram do usuário.
 
 <br />
 
@@ -138,9 +169,8 @@ __Término:__ _Sprint_ 5<br/>
 |--|-------------------|------|
 |US#05||3|
 |US#06|Congelar minha conta|3|
-|US#14||13|
-|US#15||2|
-|US#24||8|
+|US#14|Smart Photos|13|
+|US#15|Compartilhar Perfil Web|2|
 
 **US05 - Deletar minha conta**
     <p align="justify">&emsp;
@@ -166,6 +196,25 @@ Critérios de Aceitação: <br />
   - Deve apresentar a opção de congelar conta
   - Deve inativar a conta
   - Deve apresentar a opção de reativar conta
+
+
+**US14 - Smart Photos**
+<p align="justify">&emsp;
+  Eu, como usuário, desejo que a minha melhor foto fique em destaque para que eu possa ser mais interessante para outras pessoas.
+</p>
+  Critérios de Aceitação: <br />
+  - Deve salvar os likes e deslikes de cada foto.
+  - Deve alternar a ordem das fotos que aparecem para os outros usuários de acordo com os likes e deslikes das fotos.
+
+<br />
+
+**US15 - Compartilhar Perfil Web**
+<p align="justify">&emsp;
+  Eu, como usuário, desejo criar meu nome de usuário para que eu possa compartilhar o meu perfil web.
+</p>
+  Critérios de Aceitação: <br />
+  - Deve salvar o nome de usuário.
+  - Deve criar um rota para mostrar o perfil do usuário.
 
 <br />
 
@@ -295,7 +344,7 @@ __Término:__ _Sprint_ 8<br/>
 
   Critérios de aceitação: <br />
   - Devem ser apresentadas duas caixas de escolha, uma para a opção de mostrar o
-  
+
 <br />
 
 
