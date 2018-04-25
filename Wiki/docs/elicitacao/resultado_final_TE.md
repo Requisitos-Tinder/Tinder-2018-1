@@ -59,6 +59,8 @@
 | 53     | O usuário deve ser capaz de recomendar um perfil para alguém.                                                                                       | [Observação Participativa](observacao_participativa/) |
 | 54     | O sistema deve atualizar o feed com as novas informações dos matches.                                                                               | [Observação Participativa](observacao_participativa/) |
 | 55     | O sistema deve oferecer perfis para super like. (função super likeable)                                                                             | [Observação Participativa](observacao_participativa/) |
+| 56     | O usuário deve ser capaz de realizar login no sistema pelo Facebook                                                                             | [Observação Participativa](observacao_participativa/) |
+| 57     | O usuário deve ser capaz de realizar login no sistema pelo numéro de celular                                                                           | [Observação Participativa](observacao_participativa/) |
 
 ### **Requisitos Não Funcionais**  
 
