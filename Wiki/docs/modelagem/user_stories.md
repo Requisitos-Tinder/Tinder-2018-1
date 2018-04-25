@@ -215,10 +215,8 @@ __Término:__ _Sprint_ 5<br/>
 - Deve efetuar o login<br />
 
 #### **US04 - Realizar cadastro com número de celular**
-    <p align="justify">&emsp;
-  	Eu, como usuário, desejo realizar cadastro com número de celular para que eu possa ter acesso ao sistema
-    </p>
-
+  <p align="justify">&emsp;
+  	Eu, como usuário, desejo realizar cadastro com número de celular para que eu possa ter acesso ao sistema</p>
   **Critérios de Aceitação:** <br />
 
   - Deve apresentar a opção de entrar com o número de telefone<br />
