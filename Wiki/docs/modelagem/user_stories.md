@@ -140,7 +140,7 @@ __Término:__ _Sprint_ 5<br/>
 |US#21|Desfazer uma combinação|2|
 |US#23||13|
 
-**US10 - Denunciar um perfil** <br />
+#### **US10 - Denunciar um perfil** <br />
   <p align="justify">&emsp;
   Eu, como usuário, desejo Denunciar um perfil para que eu possa Reportar comportamento inadequado.
   </p>
@@ -153,7 +153,7 @@ __Término:__ _Sprint_ 5<br/>
 
 <br />
 
-**US12 - Editar as Informações** <br />
+#### **US12 - Editar as Informações** <br />
   <p align="justify">&emsp;
   Eu, como usuário, desejo Editar minhas informações pessoais para que eu possa Mantê-las atualizadas.
   </p>
@@ -166,7 +166,7 @@ __Término:__ _Sprint_ 5<br/>
 
 <br />
 
-**US21 - Desfazer uma combinação** <br />
+#### **US21 - Desfazer uma combinação** <br />
   <p align="justify">&emsp;
 	Eu, como usuário, desejo desfazer uma combinação para que eu possa deixar de interagir com a pessoa.
   </p>
@@ -187,7 +187,7 @@ __Término:__ _Sprint_ 5<br/>
 |US#09|Dar Superlike|8|
 |US#17|Integração com o Instragram|5|
 
-**US02 - Realizar login com numero de celular**<br />
+#### **US02 - Realizar login com numero de celular**<br />
   <p align="justify">&emsp;
 	Eu, como usuário, desejo realizar login com número de celular para que eu possa utilizar o sistema.
   </p>
@@ -200,22 +200,15 @@ __Término:__ _Sprint_ 5<br/>
 - Deve apresentar a opção de enviar o código novamente<br />
 - Deve efetuar o login<br />
 
-**US04 - Realizar cadastro com número de celular**
+#### **US04 - Realizar cadastro com número de celular**
     <p align="justify">&emsp;
   	Eu, como usuário, desejo realizar cadastro com número de celular para que eu possa ter acesso ao sistema
     </p>
-<<<<<<< HEAD
 
-  **Critérios de Aceitação:** <br />
-
-  - Deve apresentar a opção de entrar com o número de telefone<br />
-  - Deve apresentar a opção de entrar com o número de telefone<br />
-=======
   **Critérios de Aceitação:** <br />
 
   - Deve apresentar a opção de entrar com o número de telefone<br />
   - Deve apresentar o campo para o usuário inserir o número dele<br />
->>>>>>> 4733868c304d59eec4d60d5fc6136a6ac1ea639d
   - Deve enviar um código de confirmação para o celular do usuário via sms<br />
   - Deve apresentar a opção de “Não recebi um código”<br />
   - Deve apresentar a opção de enviar o código novamente<br />
@@ -227,13 +220,9 @@ __Término:__ _Sprint_ 5<br/>
   - Deve apresentar uma tela para inserir data de aniversário<br />
   - Deve apresentar uma tela para indicar o gênero<br />
   - Deve apresentar uma tela para inserir uma foto<br />
-<<<<<<< HEAD
-=======
-
->>>>>>> 4733868c304d59eec4d60d5fc6136a6ac1ea639d
 <br />
 
-**US09 - Dar Superlike**<br />
+#### **US09 - Dar Superlike**<br />
   <p align="justify">&emsp;
   Eu, como usuário, desejo Dar SuperLike em perfil para que eu possa Informar ao usuário avaliado que gostei do seu perfil.
   </p>
@@ -247,7 +236,7 @@ __Término:__ _Sprint_ 5<br/>
 
 <br />
 
-**US17 - Integração com o Instragram**<br />
+#### **US17 - Integração com o Instragram**<br />
   <p align="justify">&emsp;
 	Eu, como usuário, desejo integrar o Tinder com o Instagram para que eu possa exibir as fotos no perfil.
   </p>
@@ -269,22 +258,22 @@ __Término:__ _Sprint_ 5<br/>
 |US#14|Smart Photos|13|
 |US#15|Compartilhar Perfil Web|2|
 
-**US05 - Deletar minha conta**
-    <p align="justify">&emsp;
-  	Eu, como usuário, desejo deletar minha conta para que eu possa remover meus dados do sistema.
-    </p>
-  	**Critérios de Aceitação:** <br />
+#### **US05 - Deletar minha conta**
+  <p align="justify">&emsp;
+	Eu, como usuário, desejo deletar minha conta para que eu possa remover meus dados do sistema.
+  </p>
+	**Critérios de Aceitação:** <br />
 
-  - Deve apresentar a opção de deletar conta nas configurações<br />
-  - Deve apresentar a opção de congelar conta<br />
-  - Deve apresentar as opções: Preciso dar um tempo do Tinder, Algo não está funcionando, Conheci Alguém, Quero começar de novo, Eu não gosto do Tinder, Outra.<br />
-  - Deve apresentar a confirmação de deletar conta caso o usuário selecione as opções Preciso dar um tempo do Tinder ou Conheci alguém.<br />
-  - Deve encaminhar o usuário para a tela de Enviar Feedback<br />
-  - Deve excluir a conta<br />
+- Deve apresentar a opção de deletar conta nas configurações<br />
+- Deve apresentar a opção de congelar conta<br />
+- Deve apresentar as opções: Preciso dar um tempo do Tinder, Algo não está funcionando, Conheci Alguém, Quero começar de novo, Eu não gosto do Tinder, Outra.<br />
+- Deve apresentar a confirmação de deletar conta caso o usuário selecione as opções Preciso dar um tempo do Tinder ou Conheci alguém.<br />
+- Deve encaminhar o usuário para a tela de Enviar Feedback<br />
+- Deve excluir a conta<br />
 
 <br />
 
-**US06 - Congelar minha conta**
+#### **US06 - Congelar minha conta**
 <p align="justify">&emsp;
   Eu, como usuário, desejo congelar minha conta para que eu possa desativar temporariamente o meu perfil.
 </p>
@@ -297,7 +286,7 @@ __Término:__ _Sprint_ 5<br/>
   - Deve apresentar a opção de reativar conta<br />
 
 
-**US14 - Smart Photos**
+#### **US14 - Smart Photos**
 <p align="justify">&emsp;
   Eu, como usuário, desejo que a minha melhor foto fique em destaque para que eu possa ser mais interessante para outras pessoas.
 </p>
@@ -308,7 +297,7 @@ __Término:__ _Sprint_ 5<br/>
 
 <br />
 
-**US15 - Compartilhar Perfil Web**
+#### **US15 - Compartilhar Perfil Web**
 <p align="justify">&emsp;
   Eu, como usuário, desejo criar meu nome de usuário para que eu possa compartilhar o meu perfil web.
 </p>
@@ -336,7 +325,7 @@ __Término:__ _Sprint_ 8<br/>
 
 <br />
 
-**US18 - Integrar com Spotify** <br />
+#### **US18 - Integrar com Spotify** <br />
   <p align="justify">&emsp;
   	Eu, como usuário, desejo integrar com Spotify para que eu possa compartilhar meu gosto musical.</p>
   	**Critérios de Aceitação:**<br />
@@ -348,7 +337,7 @@ __Término:__ _Sprint_ 8<br/>
 
 <br />
 
-  **US19 - Escolher uma música preferida** <br />
+#### **US19 - Escolher uma música preferida** <br />
   <p align="justify">&emsp;
   	Eu, como usuário, desejo escolher uma música preferida para que eu possa atrair pessoas com o mesmo gosto.
   </p>
@@ -360,7 +349,7 @@ __Término:__ _Sprint_ 8<br/>
 
 <br />
 
-  **US22 - Ver o feed das combinações** <br />
+#### **US22 - Ver o feed das combinações** <br />
   <p align="justify">&emsp;
   Eu, como usuário, desejo ver o feed das minhas combinações, para que eu possa acompanhar suas atualizações.
   </p>
@@ -386,7 +375,7 @@ __Término:__ _Sprint_ 8<br/>
 
 <br />
 
-**US28 - Limitar Likes** <br />
+#### **US28 - Limitar Likes** <br />
   <p align="justify">&emsp;
   Eu, como empresa tinder desejo limitar o número de likes do usuário para incentivar os usuários a adquirir serviços pagos.
   </p>
@@ -397,7 +386,7 @@ __Término:__ _Sprint_ 8<br/>
 
 <br />
 
-**US29 - Função Rewind** <br />
+#### **US29 - Função Rewind** <br />
   <p align="justify">&emsp;
   Eu, como Usuário Plus desejo poder utilizar a função Rewind para que eu possa desfazer um deslike.
   </p>
@@ -409,7 +398,7 @@ __Término:__ _Sprint_ 8<br/>
 
 <br />
 
-**US33 - Visualizar Likes Recebidos** <br />
+#### **US33 - Visualizar Likes Recebidos** <br />
 <p align="justify">&emsp;
   Eu, como Usuário Gold desejo visualizar quem me deu like para que eu possa saber quem gostou do meu perfil.
 </p>
@@ -429,7 +418,7 @@ __Término:__ _Sprint_ 8<br/>
 |US#32|Visível apenas para quem dei Like|5|
 
 <br />
-**US30 - Escolher Localização** <br />
+#### **US30 - Escolher Localização** <br />
 <p align="justify">&emsp;
   Eu, como Usuário Plus desejo poder escolher minha localização para que eu possa avaliar e ser avaliado em qualquer lugar do mundo.
 </p>
@@ -441,7 +430,7 @@ __Término:__ _Sprint_ 8<br/>
 <br />
 
 
-**US31 - Limitar Informações visualizadas**<br />
+#### **US31 - Limitar Informações visualizadas**<br />
 <p align="justify">&emsp;
   Eu, como Usuário Plus desejo poder Limitar o que os outros veem do meu perfil para que eu possa ter controle sobre meus dados.
 </p>
@@ -453,7 +442,7 @@ __Término:__ _Sprint_ 8<br/>
 <br />
 
 
-**US32 - Visível apenas para quem dei Like** <br />
+#### **US32 - Visível apenas para quem dei Like** <br />
 
 <p align="justify">&emsp;
 Eu, como Usuário Plus desejo ter a opção de ficar visível apenas para quem eu dei like para que eu possa tornar meu perfil mais exclusivo.
