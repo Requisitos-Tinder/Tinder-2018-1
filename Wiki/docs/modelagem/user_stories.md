@@ -26,7 +26,8 @@ __Término:__ _Sprint_ 2<br/>
   <p align="justify">&emsp;
   	Eu, como usuário, desejo realizar login com Facebook para que eu possa utilizar o sistema.
   </p>
-  	Critérios de Aceitação:<bt />
+  	Critérios de Aceitação:<br />
+
   - Deve apresentar o botão para conectar com Facebook
   - Deve realizar a conexão com Facebook
 
@@ -36,29 +37,10 @@ __Término:__ _Sprint_ 2<br/>
   	Eu, como usuário, desejo realizar cadastro com Facebook para que eu possa ter acesso ao sistema
     </p>
   Critérios de Aceitação: <br />
+
   - Deve apresentar a opção de entrar com a conta do Facebook
   - Deve encaminhar o usuário para a confirmação no Facebook
   - Deve efetuar o cadastro
-<br />
-
-**US04 - Realizar cadastro com número de celular**
-    <p align="justify">&emsp;
-  	Eu, como usuário, desejo realizar cadastro com número de celular para que eu possa ter acesso ao sistema
-    </p>
-  Critérios de Aceitação: <br />
-  - Deve apresentar a opção de entrar com o número de telefone
-  - Deve apresentar o campo para o usuário inserir o número dele
-  - Deve enviar um código de confirmação para o celular do usuário via sms
-  - Deve apresentar a opção de “Não recebi um código”
-  - Deve apresentar a opção de enviar o código novamente
-  - Deve efetuar o cadastro
-  - Deve apresentar a tela para adicionar um email
-  - Deve dar a opção de pular ou fechar essa tela
-  - Deve apresentar a tela para inserir uma senha
-  - Deve apresentar uma tela para inserir o nome
-  - Deve apresentar uma tela para inserir data de aniversário
-  - Deve apresentar uma tela para indicar o gênero
-  - Deve apresentar uma tela para inserir uma foto
 
 <br />
 
@@ -124,6 +106,7 @@ __Término:__ _Sprint_ 5<br/>
 	Eu, como usuário, desejo desfazer uma combinação para que eu possa deixar de interagir com a pessoa.
   </p>
 	Critérios de Aceitação: <br />
+
 - Deve apresentar opções para os motivos do usuário querer desfazer a combinação: Mensagens inapropriadas, Fotos inapropriadas, Parece spam, Outra, Sem motivo
 - Deve apresentar um campo de texto para o usuário escrever o motivo do unmatch, caso tenha selecionado a opção Outra.
 - Deve retirar o perfil da lista de matches do usuário.
@@ -135,7 +118,7 @@ __Término:__ _Sprint_ 5<br/>
 |ID|História de Usuário|Pontos|
 |--|-------------------|------|
 |US#02|Realizar login com numero de celular|3|
-|US#04|Deletar minha conta|5|
+|US#04|Realizar cadastro com número de celular|5|
 |US#09||8|
 |US#17|Integração com o Instragram|5|
 
@@ -150,6 +133,25 @@ __Término:__ _Sprint_ 5<br/>
 - Deve apresentar a opção de “Não recebi um código”
 - Deve apresentar a opção de enviar o código novamente
 - Deve efetuar o login
+
+**US04 - Realizar cadastro com número de celular**
+    <p align="justify">&emsp;
+  	Eu, como usuário, desejo realizar cadastro com número de celular para que eu possa ter acesso ao sistema
+    </p>
+  Critérios de Aceitação: <br />
+  - Deve apresentar a opção de entrar com o número de telefone
+  - Deve apresentar o campo para o usuário inserir o número dele
+  - Deve enviar um código de confirmação para o celular do usuário via sms
+  - Deve apresentar a opção de “Não recebi um código”
+  - Deve apresentar a opção de enviar o código novamente
+  - Deve efetuar o cadastro
+  - Deve apresentar a tela para adicionar um email
+  - Deve dar a opção de pular ou fechar essa tela
+  - Deve apresentar a tela para inserir uma senha
+  - Deve apresentar uma tela para inserir o nome
+  - Deve apresentar uma tela para inserir data de aniversário
+  - Deve apresentar uma tela para indicar o gênero
+  - Deve apresentar uma tela para inserir uma foto
 
 **US17 - Integração com o Instragram**<br />
   <p align="justify">&emsp;
@@ -167,7 +169,7 @@ __Término:__ _Sprint_ 5<br/>
 
 |ID|História de Usuário|Pontos|
 |--|-------------------|------|
-|US#05||3|
+|US#05|Deletar minha conta|3|
 |US#06|Congelar minha conta|3|
 |US#14|Smart Photos|13|
 |US#15|Compartilhar Perfil Web|2|
@@ -284,7 +286,7 @@ __Término:__ _Sprint_ 8<br/>
 
 <br />
 
-**US28 Limitar Likes** <br />
+**US28 - Limitar Likes** <br />
   <p align="justify">&emsp;
   Eu, como empresa tinder desejo limitar o número de likes do usuário para incentivar os usuários a adquirir serviços pagos.
   </p>
@@ -295,7 +297,7 @@ __Término:__ _Sprint_ 8<br/>
 
 <br />
 
-**US29 Função Rewind** <br />
+**US29 - Função Rewind** <br />
   <p align="justify">&emsp;
   Eu, como Usuário Plus desejo poder utilizar a função Rewind para que eu possa desfazer um deslike.
   </p>
@@ -307,7 +309,7 @@ __Término:__ _Sprint_ 8<br/>
 
 <br />
 
-**US33 Visualizar Likes Recebidos:** <br />
+**US33 - Visualizar Likes Recebidos** <br />
 <p align="justify">&emsp;
   Eu, como Usuário Gold desejo visualizar quem me deu like para que eu possa saber quem gostou do meu perfil.
 </p>
@@ -326,7 +328,7 @@ __Término:__ _Sprint_ 8<br/>
 |US#32|Visível apenas para quem dei Like|5|
 
 <br />
-**US30 Escolher Localização** <br />
+**US30 - Escolher Localização** <br />
 <p align="justify">&emsp;
   Eu, como Usuário Plus desejo poder escolher minha localização para que eu possa avaliar e ser avaliado em qualquer lugar do mundo.
 </p>
@@ -337,7 +339,7 @@ __Término:__ _Sprint_ 8<br/>
 <br />
 
 
-**US31 Limitar Informações visualizadas**<br />
+**US31 - Limitar Informações visualizadas**<br />
 <p align="justify">&emsp;
   Eu, como Usuário Plus desejo poder Limitar o que os outros veem do meu perfil para que eu possa ter controle sobre meus dados.
 </p>
@@ -348,7 +350,7 @@ __Término:__ _Sprint_ 8<br/>
 <br />
 
 
-**US32 Visível apenas para quem dei Like** <br />
+**US32 - Visível apenas para quem dei Like** <br />
 
 <p align="justify">&emsp;
 Eu, como Usuário Plus desejo ter a opção de ficar visível apenas para quem eu dei like para que eu possa tornar meu perfil mais exclusivo.
