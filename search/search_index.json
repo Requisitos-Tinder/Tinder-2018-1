@@ -1481,6 +1481,81 @@
             "title": "Licen\u00e7as presentes no sistema:"
         }, 
         {
+            "location": "/modelagem/user_stories/", 
+            "text": "User Stories\n\n\nBacklog\n do produto\n\n\n\n\nRoadmap\n\n\nRelease 1\n\n\nDura\u00e7\u00e3o:\n Duas \nSprints\n\n\nIn\u00edcio:\n \nSprint\n 1\n\n\nT\u00e9rmino:\n \nSprint\n 2\n\n\nSprint 1\n\n\n\n\n\n\n\n\nID\n\n\nHist\u00f3ria de Usu\u00e1rio\n\n\nPontos\n\n\n\n\n\n\n\n\n\n\nUS#01\n\n\n\n\n3\n\n\n\n\n\n\nUS#03\n\n\n\n\n1\n\n\n\n\n\n\nUS#07\n\n\n\n\n5\n\n\n\n\n\n\nUS#08\n\n\n\n\n5\n\n\n\n\n\n\nUS#11\n\n\n\n\n5\n\n\n\n\n\n\n\n\nSprint 2\n\n\n\n\n\n\n\n\nID\n\n\nHist\u00f3ria de Usu\u00e1rio\n\n\nPontos\n\n\n\n\n\n\n\n\n\n\nUS#13\n\n\n\n\n8\n\n\n\n\n\n\nUS#16\n\n\n\n\n8\n\n\n\n\n\n\nUS#20\n\n\n\n\n8\n\n\n\n\n\n\n\n\nRelease 2\n\n\nDura\u00e7\u00e3o:\n Tr\u00eas \nSprints\n\n\nIn\u00edcio:\n \nSprint\n 3\n\n\nT\u00e9rmino:\n \nSprint\n 5\n\n\nSprint 3\n\n\n\n\n\n\n\n\nID\n\n\nHist\u00f3ria de Usu\u00e1rio\n\n\nPontos\n\n\n\n\n\n\n\n\n\n\nUS#10\n\n\n\n\n3\n\n\n\n\n\n\nUS#12\n\n\n\n\n3\n\n\n\n\n\n\nUS#21\n\n\n\n\n2\n\n\n\n\n\n\nUS#23\n\n\n\n\n13\n\n\n\n\n\n\n\n\nSprint 4\n\n\n\n\n\n\n\n\nID\n\n\nHist\u00f3ria de Usu\u00e1rio\n\n\nPontos\n\n\n\n\n\n\n\n\n\n\nUS#02\n\n\n\n\n3\n\n\n\n\n\n\nUS#04\n\n\n\n\n5\n\n\n\n\n\n\nUS#09\n\n\n\n\n8\n\n\n\n\n\n\nUS#17\n\n\n\n\n5\n\n\n\n\n\n\n\n\nSprint 5\n\n\n\n\n\n\n\n\nID\n\n\nHist\u00f3ria de Usu\u00e1rio\n\n\nPontos\n\n\n\n\n\n\n\n\n\n\nUS#05\n\n\n\n\n3\n\n\n\n\n\n\nUS#14\n\n\n\n\n13\n\n\n\n\n\n\nUS#15\n\n\n\n\n2\n\n\n\n\n\n\nUS#24\n\n\n\n\n8\n\n\n\n\n\n\n\n\nRelease 3\n\n\nDura\u00e7\u00e3o:\n Tr\u00eas \nSprints\n\n\nIn\u00edcio:\n \nSprint\n 6\n\n\nT\u00e9rmino:\n \nSprint\n 8\n\n\nSprint 6\n\n\n\n\n\n\n\n\nID\n\n\nHist\u00f3ria de Usu\u00e1rio\n\n\nPontos\n\n\n\n\n\n\n\n\n\n\nUS#18\n\n\n\n\n5\n\n\n\n\n\n\nUS#19\n\n\n\n\n5\n\n\n\n\n\n\nUS#22\n\n\n\n\n8\n\n\n\n\n\n\nUS#25\n\n\n\n\n3\n\n\n\n\n\n\n\n\nSprint 7\n\n\n\n\n\n\n\n\nID\n\n\nHist\u00f3ria de Usu\u00e1rio\n\n\nPontos\n\n\n\n\n\n\n\n\n\n\nUS#26\n\n\n\n\n8\n\n\n\n\n\n\nUS#27\n\n\n\n\n3\n\n\n\n\n\n\nUS#28\n\n\n\n\n1\n\n\n\n\n\n\nUS#29\n\n\n\n\n5\n\n\n\n\n\n\nUS#33\n\n\n\n\n3\n\n\n\n\n\n\n\n\nSprint 8\n\n\n\n\n\n\n\n\nID\n\n\nHist\u00f3ria de Usu\u00e1rio\n\n\nPontos\n\n\n\n\n\n\n\n\n\n\nUS#30\n\n\n\n\n13\n\n\n\n\n\n\nUS#31\n\n\n\n\n5\n\n\n\n\n\n\nUS#32\n\n\n\n\n5", 
+            "title": "Historias de Usu\u00e1rio"
+        }, 
+        {
+            "location": "/modelagem/user_stories/#user-stories", 
+            "text": "", 
+            "title": "User Stories"
+        }, 
+        {
+            "location": "/modelagem/user_stories/#backlog-do-produto", 
+            "text": "", 
+            "title": "Backlog do produto"
+        }, 
+        {
+            "location": "/modelagem/user_stories/#roadmap", 
+            "text": "", 
+            "title": "Roadmap"
+        }, 
+        {
+            "location": "/modelagem/user_stories/#release-1", 
+            "text": "Dura\u00e7\u00e3o:  Duas  Sprints  In\u00edcio:   Sprint  1  T\u00e9rmino:   Sprint  2", 
+            "title": "Release 1"
+        }, 
+        {
+            "location": "/modelagem/user_stories/#sprint-1", 
+            "text": "ID  Hist\u00f3ria de Usu\u00e1rio  Pontos      US#01   3    US#03   1    US#07   5    US#08   5    US#11   5", 
+            "title": "Sprint 1"
+        }, 
+        {
+            "location": "/modelagem/user_stories/#sprint-2", 
+            "text": "ID  Hist\u00f3ria de Usu\u00e1rio  Pontos      US#13   8    US#16   8    US#20   8", 
+            "title": "Sprint 2"
+        }, 
+        {
+            "location": "/modelagem/user_stories/#release-2", 
+            "text": "Dura\u00e7\u00e3o:  Tr\u00eas  Sprints  In\u00edcio:   Sprint  3  T\u00e9rmino:   Sprint  5", 
+            "title": "Release 2"
+        }, 
+        {
+            "location": "/modelagem/user_stories/#sprint-3", 
+            "text": "ID  Hist\u00f3ria de Usu\u00e1rio  Pontos      US#10   3    US#12   3    US#21   2    US#23   13", 
+            "title": "Sprint 3"
+        }, 
+        {
+            "location": "/modelagem/user_stories/#sprint-4", 
+            "text": "ID  Hist\u00f3ria de Usu\u00e1rio  Pontos      US#02   3    US#04   5    US#09   8    US#17   5", 
+            "title": "Sprint 4"
+        }, 
+        {
+            "location": "/modelagem/user_stories/#sprint-5", 
+            "text": "ID  Hist\u00f3ria de Usu\u00e1rio  Pontos      US#05   3    US#14   13    US#15   2    US#24   8", 
+            "title": "Sprint 5"
+        }, 
+        {
+            "location": "/modelagem/user_stories/#release-3", 
+            "text": "Dura\u00e7\u00e3o:  Tr\u00eas  Sprints  In\u00edcio:   Sprint  6  T\u00e9rmino:   Sprint  8", 
+            "title": "Release 3"
+        }, 
+        {
+            "location": "/modelagem/user_stories/#sprint-6", 
+            "text": "ID  Hist\u00f3ria de Usu\u00e1rio  Pontos      US#18   5    US#19   5    US#22   8    US#25   3", 
+            "title": "Sprint 6"
+        }, 
+        {
+            "location": "/modelagem/user_stories/#sprint-7", 
+            "text": "ID  Hist\u00f3ria de Usu\u00e1rio  Pontos      US#26   8    US#27   3    US#28   1    US#29   5    US#33   3", 
+            "title": "Sprint 7"
+        }, 
+        {
+            "location": "/modelagem/user_stories/#sprint-8", 
+            "text": "ID  Hist\u00f3ria de Usu\u00e1rio  Pontos      US#30   13    US#31   5    US#32   5", 
+            "title": "Sprint 8"
+        }, 
+        {
             "location": "/modelagem/referencias/", 
             "text": "Refer\u00eancias\n\n\n\n\n\n\nRequirements Modeling. IASA. Dispon\u00edvel em \nhttps://www.iasaglobal.org/itabok/capability-descriptions/requirements-modeling/\n. Acesso em: 10 abril 2018.\n\n\n\n\n\n\nSERRANO, Maur\u00edcio; SERRANO, Milene; Requisitos - Aula 10; Dispon\u00edvel em \nhttps://aprender.ead.unb.br/pluginfile.php/348654/mod_resource/content/3/Requisitos%20-%20Aula%20010.pdf\n.", 
             "title": "Refer\u00eancias"
