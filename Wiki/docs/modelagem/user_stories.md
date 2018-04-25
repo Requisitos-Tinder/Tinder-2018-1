@@ -31,6 +31,18 @@ __Término:__ _Sprint_ 2<br/>
   - Deve realizar a conexão com Facebook.
 
 <br />
+
+**US03 - Realizar cadastro com Facebook**
+    <p align="justify">&emsp;
+  	Eu, como usuário, desejo realizar cadastro com Facebook para que eu possa ter acesso ao sistema
+    </p>
+  **Critérios de Aceitação:** <br />
+
+  - Deve apresentar a opção de entrar com a conta do Facebook <br />
+  - Deve encaminhar o usuário para a confirmação no Facebook<br />
+  - Deve efetuar o cadastro
+<br />
+
   **US07 - Dar Like** <br />
   <p align="justify">&emsp;
   	Eu, como usuário, desejo dar like em um perfil para que eu possa Informar ao sistema que gostei do perfil.
@@ -48,38 +60,6 @@ __Término:__ _Sprint_ 2<br/>
   	**Critérios de Aceitação:**<br />
     - Quando o usuário avalia um perfil com um dislike, esse deve desaparecer da tela.<br />
     - Uma vez que o usuário deu dislike em um perfil, esse não deve aparecer novamente para ser avaliado por um determinado periodo de tempo.<br />
-
-<br />
-**US03 - Realizar cadastro com Facebook**
-    <p align="justify">&emsp;
-  	Eu, como usuário, desejo realizar cadastro com Facebook para que eu possa ter acesso ao sistema
-    </p>
-  **Critérios de Aceitação:** <br />
-
-  - Deve apresentar a opção de entrar com a conta do Facebook <br />
-  - Deve encaminhar o usuário para a confirmação no Facebook<br />
-  - Deve efetuar o cadastro
-<br />
-
-**US04 - Realizar cadastro com número de celular**
-    <p align="justify">&emsp;
-  	Eu, como usuário, desejo realizar cadastro com número de celular para que eu possa ter acesso ao sistema
-    </p>
-  **Critérios de Aceitação:** <br />
-
-  - Deve apresentar a opção de entrar com o número de telefone<br />
-  - Deve apresentar o campo para o usuário inserir o número dele<br />
-  - Deve enviar um código de confirmação para o celular do usuário via sms<br />
-  - Deve apresentar a opção de “Não recebi um código”<br />
-  - Deve apresentar a opção de enviar o código novamente<br />
-  - Deve efetuar o cadastro<br />
-  - Deve apresentar a tela para adicionar um email<br />
-  - Deve dar a opção de pular ou fechar essa tela<br />
-  - Deve apresentar a tela para inserir uma senha<br />
-  - Deve apresentar uma tela para inserir o nome<br />
-  - Deve apresentar uma tela para inserir data de aniversário<br />
-  - Deve apresentar uma tela para indicar o gênero<br />
-  - Deve apresentar uma tela para inserir uma foto<br />
 
 <br />
 
@@ -217,20 +197,23 @@ __Término:__ _Sprint_ 5<br/>
     <p align="justify">&emsp;
   	Eu, como usuário, desejo realizar cadastro com número de celular para que eu possa ter acesso ao sistema
     </p>
-  Critérios de Aceitação: <br />
-  - Deve apresentar a opção de entrar com o número de telefone
-  - Deve apresentar o campo para o usuário inserir o número dele
-  - Deve enviar um código de confirmação para o celular do usuário via sms
-  - Deve apresentar a opção de “Não recebi um código”
-  - Deve apresentar a opção de enviar o código novamente
-  - Deve efetuar o cadastro
-  - Deve apresentar a tela para adicionar um email
-  - Deve dar a opção de pular ou fechar essa tela
-  - Deve apresentar a tela para inserir uma senha
-  - Deve apresentar uma tela para inserir o nome
-  - Deve apresentar uma tela para inserir data de aniversário
-  - Deve apresentar uma tela para indicar o gênero
-  - Deve apresentar uma tela para inserir uma foto
+  **Critérios de Aceitação:** <br />
+
+  - Deve apresentar a opção de entrar com o número de telefone<br />
+  - Deve apresentar o campo para o usuário inserir o número dele<br />
+  - Deve enviar um código de confirmação para o celular do usuário via sms<br />
+  - Deve apresentar a opção de “Não recebi um código”<br />
+  - Deve apresentar a opção de enviar o código novamente<br />
+  - Deve efetuar o cadastro<br />
+  - Deve apresentar a tela para adicionar um email<br />
+  - Deve dar a opção de pular ou fechar essa tela<br />
+  - Deve apresentar a tela para inserir uma senha<br />
+  - Deve apresentar uma tela para inserir o nome<br />
+  - Deve apresentar uma tela para inserir data de aniversário<br />
+  - Deve apresentar uma tela para indicar o gênero<br />
+  - Deve apresentar uma tela para inserir uma foto<br />
+
+<br />
 
 **US09 - Dar Superlike**<br />
   <p align="justify">&emsp;
