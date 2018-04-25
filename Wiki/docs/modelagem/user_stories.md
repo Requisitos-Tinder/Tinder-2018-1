@@ -66,8 +66,8 @@ __Término:__ _Sprint_ 2<br/>
 
 |ID|História de Usuário|Pontos|
 |--|-------------------|------|
-|US#13|Eu, como usuário, desejo definir configurações do sistema para que eu possa definir o comportamento do sistema em relação ao meu perfil e minhas preferências.|8|
-|US#16|Eu, como usuário, desejo que o sistema saiba a minha localização para que eu possa encontrar pessoas próximas a mim.|8|
+|US#13|Configurações gerais|8|
+|US#16|Localizar Pessoas Próximas|8|
 |US#20|Verificar combinações entre perfis|8|
 
 **US13 - Configurações gerais** <br />
@@ -118,14 +118,14 @@ __Término:__ _Sprint_ 5<br/>
 |US#21|Desfazer uma combinação|2|
 |US#23||13|
 
-  **US21 - Desfazer uma combinação** <br />
-    <p align="justify">&emsp;
-  	Eu, como usuário, desejo desfazer uma combinação para que eu possa deixar de interagir com a pessoa.
-    </p>
-  	Critérios de Aceitação: <br />
-  - Deve apresentar opções para os motivos do usuário querer desfazer a combinação: Mensagens inapropriadas, Fotos inapropriadas, Parece spam, Outra, Sem motivo
-  - Deve apresentar um campo de texto para o usuário escrever o motivo do unmatch, caso tenha selecionado a opção Outra.
-  - Deve retirar o perfil da lista de matches do usuário.
+**US21 - Desfazer uma combinação** <br />
+  <p align="justify">&emsp;
+	Eu, como usuário, desejo desfazer uma combinação para que eu possa deixar de interagir com a pessoa.
+  </p>
+	Critérios de Aceitação: <br />
+- Deve apresentar opções para os motivos do usuário querer desfazer a combinação: Mensagens inapropriadas, Fotos inapropriadas, Parece spam, Outra, Sem motivo
+- Deve apresentar um campo de texto para o usuário escrever o motivo do unmatch, caso tenha selecionado a opção Outra.
+- Deve retirar o perfil da lista de matches do usuário.
 
 
 ### Sprint 4
@@ -135,19 +135,29 @@ __Término:__ _Sprint_ 5<br/>
 |US#02|Realizar login com numero de celular|3|
 |US#04|Deletar minha conta|5|
 |US#09||8|
-|US#17|Eu, como usuário, desejo integrar o Tinder com o Instagram para que eu possa exibir as fotos no perfil.|5|
+|US#17|Integração com o Instragram|5|
 
-  **US02 - Realizar login com numero de celular**<br />
-    <p align="justify">&emsp;
-  	Eu, como usuário, desejo realizar login com número de celular para que eu possa utilizar o sistema.
-    </p>
-  	Critérios de Aceitação: <br />
-  - Deve apresentar a opção de entrar com o número de telefone
-  - Deve apresentar o campo para o usuário inserir o número dele
-  - Deve enviar um código de confirmação para o celular do usuário via sms
-  - Deve apresentar a opção de “Não recebi um código”
-  - Deve apresentar a opção de enviar o código novamente
-  - Deve efetuar o login
+**US02 - Realizar login com numero de celular**<br />
+  <p align="justify">&emsp;
+	Eu, como usuário, desejo realizar login com número de celular para que eu possa utilizar o sistema.
+  </p>
+	Critérios de Aceitação: <br />
+- Deve apresentar a opção de entrar com o número de telefone
+- Deve apresentar o campo para o usuário inserir o número dele
+- Deve enviar um código de confirmação para o celular do usuário via sms
+- Deve apresentar a opção de “Não recebi um código”
+- Deve apresentar a opção de enviar o código novamente
+- Deve efetuar o login
+
+**US17 - Integração com o Instragram**<br />
+  <p align="justify">&emsp;
+	Eu, como usuário, desejo integrar o Tinder com o Instagram para que eu possa exibir as fotos no perfil.
+  </p>
+	Critérios de Aceitação: <br />
+- O sistema deve exibir um botão para se conectar com o instragram.
+- O sistema deve conectar o perfil do usuário com o perfil do instagram.
+- O sistema deve mostrar algumas fotos do usuário no seu perfil.
+- O sistema deve exibir um botão para abrir o instagram do usuário.
 
 
 ### Sprint 5
@@ -155,15 +165,9 @@ __Término:__ _Sprint_ 5<br/>
 |ID|História de Usuário|Pontos|
 |--|-------------------|------|
 |US#05||3|
-<<<<<<< Updated upstream
 |US#06|Congelar minha conta|3|
-|US#14||13|
-|US#15||2|
-=======
-|US#14|Eu, como usuário, desejo que a minha melhor foto fique em destaque para que eu possa ser mais interessante para outras pessoas.|13|
-|US#15|Eu, como usuário, desejo criar meu nome de usuário para que eu possa compartilhar o meu perfil web.|2|
->>>>>>> Stashed changes
-|US#24||8|
+|US#14|Smart Photos|13|
+|US#15|Compartilhar Perfil Web|2|
 
 **US05 - Deletar minha conta**
     <p align="justify">&emsp;
@@ -186,6 +190,22 @@ __Término:__ _Sprint_ 5<br/>
   - Deve apresentar a opção de congelar conta
   - Deve inativar a conta
   - Deve apresentar a opção de reativar conta
+
+**US14 - Smart Photos**
+<p align="justify">&emsp;
+  Eu, como usuário, desejo que a minha melhor foto fique em destaque para que eu possa ser mais interessante para outras pessoas.
+</p>
+  Critérios de Aceitação: <br />
+  - Deve salvar os likes e deslikes de cada foto.
+  - Deve alternar a ordem das fotos que aparecem para os outros usuários de acordo com os likes e deslikes das fotos.
+
+**US15 - Compartilhar Perfil Web**
+<p align="justify">&emsp;
+  Eu, como usuário, desejo criar meu nome de usuário para que eu possa compartilhar o meu perfil web.
+</p>
+  Critérios de Aceitação: <br />
+  - Deve salvar o nome de usuário.
+  - Deve criar um rota para mostrar o perfil do usuário.
 
 
 ## Release 3
