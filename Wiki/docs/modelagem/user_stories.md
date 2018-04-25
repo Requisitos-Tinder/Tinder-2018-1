@@ -22,77 +22,61 @@ __Término:__ _Sprint_ 2<br/>
 |US#08|Dar Dislike|5|
 |US#11|Gerenciar Fotos|5|
 
-  **US01 - Realizar login com Facebook** <br />
+#### **US01 - Realizar login com Facebook** <br />
+
   <p align="justify">&emsp;
   	Eu, como usuário, desejo realizar login com Facebook para que eu possa utilizar o sistema.
   </p>
   	**Critérios de Aceitação:**<br />
+
   - Deve apresentar o botão para conectar com Facebook.<br />
   - Deve realizar a conexão com Facebook.
 
 <br />
-  **US07 - Dar Like** <br />
+
+#### **US03 - Realizar cadastro com Facebook**
+  <p align="justify">&emsp;
+	Eu, como usuário, desejo realizar cadastro com Facebook para que eu possa ter acesso ao sistema
+  </p>
+**Critérios de Aceitação:** <br />
+
+- Deve apresentar a opção de entrar com a conta do Facebook <br />
+- Deve encaminhar o usuário para a confirmação no Facebook<br />
+- Deve efetuar o cadastro
+<br />
+
+####  **US07 - Dar Like** <br />
   <p align="justify">&emsp;
   	Eu, como usuário, desejo dar like em um perfil para que eu possa Informar ao sistema que gostei do perfil.
   </p>
   	**Critérios de Aceitação:**<br />
-    - Quando o usuário avalia um perfil com um like, esse deve desaparecer da tela.<br />
-    - Uma vez que o usuário deu like em um perfil, esse não deve aparecer novamente para ser avaliado.<br />
-    - Os likes de usuário devem ser armazenados pelo sistema.<br />
+
+  - Quando o usuário avalia um perfil com um like, esse deve desaparecer da tela.<br />
+  - Uma vez que o usuário deu like em um perfil, esse não deve aparecer novamente para ser avaliado.<br />
+  - Os likes de usuário devem ser armazenados pelo sistema.<br />
 
 <br />
-  **US08 - Dar Dislike** <br />
+#### **US08 - Dar Dislike** <br />
   <p align="justify">&emsp;
   Eu, como usuário desejo dar dislike em um perfil para que eu possa Informar ao sistema que não gostei do perfil.
   </p>
   	**Critérios de Aceitação:**<br />
-    - Quando o usuário avalia um perfil com um dislike, esse deve desaparecer da tela.<br />
-    - Uma vez que o usuário deu dislike em um perfil, esse não deve aparecer novamente para ser avaliado por um determinado periodo de tempo.<br />
 
-<br />
-**US03 - Realizar cadastro com Facebook**
-    <p align="justify">&emsp;
-  	Eu, como usuário, desejo realizar cadastro com Facebook para que eu possa ter acesso ao sistema
-    </p>
-  **Critérios de Aceitação:** <br />
-
-  - Deve apresentar a opção de entrar com a conta do Facebook <br />
-  - Deve encaminhar o usuário para a confirmação no Facebook<br />
-  - Deve efetuar o cadastro
-<br />
-
-**US04 - Realizar cadastro com número de celular**
-    <p align="justify">&emsp;
-  	Eu, como usuário, desejo realizar cadastro com número de celular para que eu possa ter acesso ao sistema
-    </p>
-  **Critérios de Aceitação:** <br />
-
-  - Deve apresentar a opção de entrar com o número de telefone<br />
-  - Deve apresentar o campo para o usuário inserir o número dele<br />
-  - Deve enviar um código de confirmação para o celular do usuário via sms<br />
-  - Deve apresentar a opção de “Não recebi um código”<br />
-  - Deve apresentar a opção de enviar o código novamente<br />
-  - Deve efetuar o cadastro<br />
-  - Deve apresentar a tela para adicionar um email<br />
-  - Deve dar a opção de pular ou fechar essa tela<br />
-  - Deve apresentar a tela para inserir uma senha<br />
-  - Deve apresentar uma tela para inserir o nome<br />
-  - Deve apresentar uma tela para inserir data de aniversário<br />
-  - Deve apresentar uma tela para indicar o gênero<br />
-  - Deve apresentar uma tela para inserir uma foto<br />
+  - Quando o usuário avalia um perfil com um dislike, esse deve desaparecer da tela.<br />
+  - Uma vez que o usuário deu dislike em um perfil, esse não deve aparecer novamente para ser avaliado por um determinado periodo de tempo.<br />
 
 <br />
 
-**US11 - Gerenciar Fotos**
-    <p align="justify">&emsp;
-    Eu, como usuário, desejo Gerenciar minhas fotos para que eu possa Definir como será a apresentação visual do meu perfil.
-    </p>
-  **Critérios de Aceitação:** <br />
+#### **US11 - Gerenciar Fotos**
+  <p align="justify">&emsp;
+  Eu, como usuário, desejo Gerenciar minhas fotos para que eu possa Definir como será a apresentação visual do meu perfil.
+  </p>
+**Critérios de Aceitação:** <br />
 
-  - O usuário deve ser capaz de adicionar fotos do seu celular no seu perfil.<br />
-  - O usuário deve ser capaz de adicionar fotos do seu Facebook no seu perfil.<br />
-  - O usuário deve ser capaz de remover fotos do seu perfil.<br />
-  - O usuário deve ser capaz de escolher a ordem das fotos do seu perfil.<br />
+- O usuário deve ser capaz de adicionar fotos do seu celular no seu perfil.<br />
+- O usuário deve ser capaz de adicionar fotos do seu Facebook no seu perfil.<br />
+- O usuário deve ser capaz de remover fotos do seu perfil.<br />
+- O usuário deve ser capaz de escolher a ordem das fotos do seu perfil.<br />
 
 <br />
 
@@ -104,37 +88,40 @@ __Término:__ _Sprint_ 2<br/>
 |US#16|Localizar Pessoas Próximas|8|
 |US#20|Verificar combinações entre perfis|8|
 
-**US13 - Configurações gerais** <br />
+#### **US13 - Configurações gerais** <br />
   <p align="justify">&emsp;
   Eu, como usuário, desejo definir configurações do sistema para que eu possa definir o comportamento do sistema em relação ao meu perfil e minhas preferências.
   </p>
-  **Critérios de Aceitação:**<br />
+    **Critérios de Aceitação:**<br />
 
-- Devem ser apresentados widgets para edição de: Localização, Faixa etária, Distância máxima, mostrar-me homens ou mulheres, definir nome de usuário para web, habilitar/desabilitar: novos matches, mostrar-me no tinder, mensagens, curtidas de mensagens, super likes, vibração e som no aplicativo. Alterar medida de distância entre Km e Mi.<br />
-- Devem ser apresentados widgets com links para áreas de: Ajuda e suporte, Licenças, políticas de privacidade, termos de serviço.<br />
-- Devem ser apresentados widgets para opções como: compartilhar tinder, restaurar compra, sair, apagar conta, assinar Tinder Gold, assinar Tinder Plus, comprar super likes e comprar boosts.<br />
-- Deve ser apresentado o número da versão atual do sistema.<br />
+  - Devem ser apresentados widgets para edição de: Localização, Faixa etária, Distância máxima, mostrar-me homens ou mulheres, definir nome de usuário para web, habilitar/desabilitar: novos matches, mostrar-me no tinder, mensagens, curtidas de mensagens, super likes, vibração e som no aplicativo. Alterar medida de distância entre Km e Mi.<br />
+  - Devem ser apresentados widgets com links para áreas de: Ajuda e suporte, Licenças, políticas de privacidade, termos de serviço.<br />
+  - Devem ser apresentados widgets para opções como: compartilhar tinder, restaurar compra, sair, apagar conta, assinar Tinder Gold, assinar Tinder Plus, comprar super likes e comprar boosts.<br />
+  - Deve ser apresentado o número da versão atual do sistema.<br />
 
-**US16 - Localizar Pessoas Próximas** <br />
+<br />
+
+#### **US16 - Localizar Pessoas Próximas** <br />
   <p align="justify">&emsp;
   Eu, como usuário, desejo que o sistema saiba a minha localização para que eu possa encontrar pessoas próximas a mim.
   </p>
   **Critérios de Aceitação:**<br />
 
-- Deve ser capaz de acessar a localização do celular.<br />
-- Deve procurar pessoas em volta de acordo com o range que o usuário escolheu nas configurações.<br />
+  - Deve ser capaz de acessar a localização do celular.<br />
+  - Deve procurar pessoas em volta de acordo com o range que o usuário escolheu nas configurações.<br />
 
+<br />
 
-**US20 - Verificar combinações entre perfis** <br />
+#### **US20 - Verificar combinações entre perfis** <br />
   <p align="justify">&emsp;
   Eu, como usuário, desejo que o sistema verifique minhas combinações para que eu possa descobrir quais outras pessoas combinaram comigo.
   </p>
 	**Critérios de Aceitação:**<br />
 
-- Deve verificar se o perfil avaliado também deu like no perfil do usuário<br />
-- Deve apresentar um popup para o usuário que deu like por último, indicando que ocorreu uma combinação<br />
-- Deve enviar uma notificação ao usuário que deu like primeiro, indicando que ocorreu uma combinação<br />
-- Deve enviar um email ao usuário caso ele demore para visualizar a notificação<br />
+  - Deve verificar se o perfil avaliado também deu like no perfil do usuário<br />
+  - Deve apresentar um popup para o usuário que deu like por último, indicando que ocorreu uma combinação<br />
+  - Deve enviar uma notificação ao usuário que deu like primeiro, indicando que ocorreu uma combinação<br />
+  - Deve enviar um email ao usuário caso ele demore para visualizar a notificação<br />
 
 <br />
 
@@ -153,7 +140,7 @@ __Término:__ _Sprint_ 5<br/>
 |US#21|Desfazer uma combinação|2|
 |US#23|Acesso ao chat|13|
 
-**US10 - Denunciar um perfil** <br />
+#### **US10 - Denunciar um perfil** <br />
   <p align="justify">&emsp;
   Eu, como usuário, desejo Denunciar um perfil para que eu possa Reportar comportamento inadequado.
   </p>
@@ -166,7 +153,7 @@ __Término:__ _Sprint_ 5<br/>
 
 <br />
 
-**US12 - Editar as Informações** <br />
+#### **US12 - Editar as Informações** <br />
   <p align="justify">&emsp;
   Eu, como usuário, desejo Editar minhas informações pessoais para que eu possa Mantê-las atualizadas.
   </p>
@@ -179,7 +166,7 @@ __Término:__ _Sprint_ 5<br/>
 
 <br />
 
-**US21 - Desfazer uma combinação** <br />
+#### **US21 - Desfazer uma combinação** <br />
   <p align="justify">&emsp;
 	Eu, como usuário, desejo desfazer uma combinação para que eu possa deixar de interagir com a pessoa.
   </p>
@@ -191,10 +178,11 @@ __Término:__ _Sprint_ 5<br/>
 
 <br />
 
-**US23 - Acesso ao chat** <br/>
+#### **US23 - Acesso ao chat** <br/>
   <p align="justify">&emsp;
   Eu, como usuário, desejo ter acesso ao chat para que eu possa conversar com minhas combinações.
   </p>
+
   **Critérios de Aceitação:** <br />
   - Apresentar a tela de chat por meio de uma aba.
   - Listar botões com links para a página de conversa.
@@ -213,7 +201,7 @@ __Término:__ _Sprint_ 5<br/>
 |US#09|Dar Superlike|8|
 |US#17|Integração com o Instragram|5|
 
-**US02 - Realizar login com numero de celular**<br />
+#### **US02 - Realizar login com numero de celular**<br />
   <p align="justify">&emsp;
 	Eu, como usuário, desejo realizar login com número de celular para que eu possa utilizar o sistema.
   </p>
@@ -226,26 +214,29 @@ __Término:__ _Sprint_ 5<br/>
 - Deve apresentar a opção de enviar o código novamente<br />
 - Deve efetuar o login<br />
 
-**US04 - Realizar cadastro com número de celular**
+#### **US04 - Realizar cadastro com número de celular**
     <p align="justify">&emsp;
   	Eu, como usuário, desejo realizar cadastro com número de celular para que eu possa ter acesso ao sistema
     </p>
-  Critérios de Aceitação: <br />
-  - Deve apresentar a opção de entrar com o número de telefone
-  - Deve apresentar o campo para o usuário inserir o número dele
-  - Deve enviar um código de confirmação para o celular do usuário via sms
-  - Deve apresentar a opção de “Não recebi um código”
-  - Deve apresentar a opção de enviar o código novamente
-  - Deve efetuar o cadastro
-  - Deve apresentar a tela para adicionar um email
-  - Deve dar a opção de pular ou fechar essa tela
-  - Deve apresentar a tela para inserir uma senha
-  - Deve apresentar uma tela para inserir o nome
-  - Deve apresentar uma tela para inserir data de aniversário
-  - Deve apresentar uma tela para indicar o gênero
-  - Deve apresentar uma tela para inserir uma foto
 
-**US09 - Dar Superlike**<br />
+  **Critérios de Aceitação:** <br />
+
+  - Deve apresentar a opção de entrar com o número de telefone<br />
+  - Deve apresentar o campo para o usuário inserir o número dele<br />
+  - Deve enviar um código de confirmação para o celular do usuário via sms<br />
+  - Deve apresentar a opção de “Não recebi um código”<br />
+  - Deve apresentar a opção de enviar o código novamente<br />
+  - Deve efetuar o cadastro<br />
+  - Deve apresentar a tela para adicionar um email<br />
+  - Deve dar a opção de pular ou fechar essa tela<br />
+  - Deve apresentar a tela para inserir uma senha<br />
+  - Deve apresentar uma tela para inserir o nome<br />
+  - Deve apresentar uma tela para inserir data de aniversário<br />
+  - Deve apresentar uma tela para indicar o gênero<br />
+  - Deve apresentar uma tela para inserir uma foto<br />
+<br />
+
+#### **US09 - Dar Superlike**<br />
   <p align="justify">&emsp;
   Eu, como usuário, desejo Dar SuperLike em perfil para que eu possa Informar ao usuário avaliado que gostei do seu perfil.
   </p>
@@ -259,7 +250,7 @@ __Término:__ _Sprint_ 5<br/>
 
 <br />
 
-**US17 - Integração com o Instragram**<br />
+#### **US17 - Integração com o Instragram**<br />
   <p align="justify">&emsp;
 	Eu, como usuário, desejo integrar o Tinder com o Instagram para que eu possa exibir as fotos no perfil.
   </p>
@@ -282,22 +273,22 @@ __Término:__ _Sprint_ 5<br/>
 |US#15|Compartilhar Perfil Web|2|
 |US#24|Assinar serviços pagos|8|
 
-**US05 - Deletar minha conta**
-    <p align="justify">&emsp;
-  	Eu, como usuário, desejo deletar minha conta para que eu possa remover meus dados do sistema.
-    </p>
-  	**Critérios de Aceitação:** <br />
+#### **US05 - Deletar minha conta**
+  <p align="justify">&emsp;
+	Eu, como usuário, desejo deletar minha conta para que eu possa remover meus dados do sistema.
+  </p>
+  **Critérios de Aceitação:** <br />
 
-  - Deve apresentar a opção de deletar conta nas configurações<br />
-  - Deve apresentar a opção de congelar conta<br />
-  - Deve apresentar as opções: Preciso dar um tempo do Tinder, Algo não está funcionando, Conheci Alguém, Quero começar de novo, Eu não gosto do Tinder, Outra.<br />
-  - Deve apresentar a confirmação de deletar conta caso o usuário selecione as opções Preciso dar um tempo do Tinder ou Conheci alguém.<br />
-  - Deve encaminhar o usuário para a tela de Enviar Feedback<br />
-  - Deve excluir a conta<br />
+- Deve apresentar a opção de deletar conta nas configurações<br />
+- Deve apresentar a opção de congelar conta<br />
+- Deve apresentar as opções: Preciso dar um tempo do Tinder, Algo não está funcionando, Conheci Alguém, Quero começar de novo, Eu não gosto do Tinder, Outra.<br />
+- Deve apresentar a confirmação de deletar conta caso o usuário selecione as opções Preciso dar um tempo do Tinder ou Conheci alguém.<br />
+- Deve encaminhar o usuário para a tela de Enviar Feedback<br />
+- Deve excluir a conta<br />
 
 <br />
 
-**US06 - Congelar minha conta**
+#### **US06 - Congelar minha conta**
 <p align="justify">&emsp;
   Eu, como usuário, desejo congelar minha conta para que eu possa desativar temporariamente o meu perfil.
 </p>
@@ -310,7 +301,7 @@ __Término:__ _Sprint_ 5<br/>
   - Deve apresentar a opção de reativar conta<br />
 
 
-**US14 - Smart Photos**
+#### **US14 - Smart Photos**
 <p align="justify">&emsp;
   Eu, como usuário, desejo que a minha melhor foto fique em destaque para que eu possa ser mais interessante para outras pessoas.
 </p>
@@ -322,7 +313,7 @@ __Término:__ _Sprint_ 5<br/>
 
 <br />
 
-**US15 - Compartilhar Perfil Web**
+#### **US15 - Compartilhar Perfil Web**
 <p align="justify">&emsp;
   Eu, como usuário, desejo criar meu nome de usuário para que eu possa compartilhar o meu perfil web.
 </p>
@@ -334,7 +325,7 @@ __Término:__ _Sprint_ 5<br/>
 
 <br />
 
-**US24 - Assinar serviços pagos**
+#### **US24 - Assinar serviços pagos**
 <p align="justify">&emsp;
   Eu, como usuário, desejo assinar serviços pagos para que eu possa receber vantagens.
 </p>
@@ -367,10 +358,11 @@ __Término:__ _Sprint_ 8<br/>
 
 <br />
 
-**US18 - Integrar com Spotify** <br />
+#### **US18 - Integrar com Spotify** <br />
   <p align="justify">&emsp;
   	Eu, como usuário, desejo integrar com Spotify para que eu possa compartilhar meu gosto musical.</p>
-  	**Critérios de Aceitação:**<br />
+
+  **Critérios de Aceitação:**<br />
 
   - Deve conectar com o Spotify<br />
   - Deve coletar os artistas preferidos do usuário<br />
@@ -379,11 +371,12 @@ __Término:__ _Sprint_ 8<br/>
 
 <br />
 
-  **US19 - Escolher uma música preferida** <br />
+#### **US19 - Escolher uma música preferida** <br />
   <p align="justify">&emsp;
   	Eu, como usuário, desejo escolher uma música preferida para que eu possa atrair pessoas com o mesmo gosto.
   </p>
-  	**Critérios de Aceitação:** <br />
+
+  **Critérios de Aceitação:** <br />
 
   - Deve conectar com o Spotify<br />
   - Deve apresentar a tela de pesquisa de uma música<br />
@@ -391,7 +384,7 @@ __Término:__ _Sprint_ 8<br/>
 
 <br />
 
-  **US22 - Ver o feed das combinações** <br />
+#### **US22 - Ver o feed das combinações** <br />
   <p align="justify">&emsp;
   Eu, como usuário, desejo ver o feed das minhas combinações, para que eu possa acompanhar suas atualizações.
   </p>
@@ -405,10 +398,11 @@ __Término:__ _Sprint_ 8<br/>
 
 <br />
 
-  **US25 - Comprar boosts**
+####  **US25 - Comprar boosts**
   <p align="justify">&emsp;
   Eu, como usuário, desejo poder comprar boosts para que eu possa ter acesso a função boost.
   </p>
+
   **Critérios de Aceitação:** <br />
   - Deve ser disposto um botão para comprar boosts na tela de configuração.
   - Ao acionar o botão de compra deve ser apresentada a tela com preços e explicações sobre o boost.
@@ -431,10 +425,11 @@ __Término:__ _Sprint_ 8<br/>
 
 <br />
 
-**US26 - Utilizar boosts**
+#### **US26 - Utilizar boosts**
   <p align="justify">&emsp;
   Eu, como usuário, desejo utilizar a função boost para que eu possa aumentar a visibilidade do meu perfil temporariamente.
   </p>
+
   **Critérios de Aceitação:** <br />
   - Deve ser apresentado um botão para ativar um boost na tela de avaliação de perfis.
   - Deve ser apresentada uma tela explicando a função do boost e pedindo a confirmação do desejo de utilizar o boost.
@@ -445,10 +440,11 @@ __Término:__ _Sprint_ 8<br/>
 
 <br />
 
-**US27 - Comprar super like**
+#### **US27 - Comprar super like**
   <p align="justify">&emsp;
   Eu, como usuário, desejo comprar super like para que eu possa ter acesso a mais de um super like por dia.
   </p>
+
   **Critérios de Aceitação:** <br />
   - Deve ser disposto um botão para comprar super like na tela de configuração.
   - Ao acionar o botão de compra deve ser apresentada a tela com preços e explicações sobre o super like.
@@ -460,7 +456,7 @@ __Término:__ _Sprint_ 8<br/>
   - Ao selecionar o botão de assinar Tinder Plus redirecionar para tela com preços e vantagens do Tinder Plus.
 <br />
 
-**US28 - Limitar Likes** <br />
+#### **US28 - Limitar Likes** <br />
   <p align="justify">&emsp;
   Eu, como empresa tinder desejo limitar o número de likes do usuário para incentivar os usuários a adquirir serviços pagos.
   </p>
@@ -471,7 +467,7 @@ __Término:__ _Sprint_ 8<br/>
 
 <br />
 
-**US29 - Função Rewind** <br />
+#### **US29 - Função Rewind** <br />
   <p align="justify">&emsp;
   Eu, como Usuário Plus desejo poder utilizar a função Rewind para que eu possa desfazer um deslike.
   </p>
@@ -483,7 +479,7 @@ __Término:__ _Sprint_ 8<br/>
 
 <br />
 
-**US33 - Visualizar Likes Recebidos** <br />
+#### **US33 - Visualizar Likes Recebidos** <br />
 <p align="justify">&emsp;
   Eu, como Usuário Gold desejo visualizar quem me deu like para que eu possa saber quem gostou do meu perfil.
 </p>
@@ -503,7 +499,7 @@ __Término:__ _Sprint_ 8<br/>
 |US#32|Visível apenas para quem dei Like|5|
 
 <br />
-**US30 - Escolher Localização** <br />
+#### **US30 - Escolher Localização** <br />
 <p align="justify">&emsp;
   Eu, como Usuário Plus desejo poder escolher minha localização para que eu possa avaliar e ser avaliado em qualquer lugar do mundo.
 </p>
@@ -515,7 +511,7 @@ __Término:__ _Sprint_ 8<br/>
 <br />
 
 
-**US31 - Limitar Informações visualizadas**<br />
+#### **US31 - Limitar Informações visualizadas**<br />
 <p align="justify">&emsp;
   Eu, como Usuário Plus desejo poder Limitar o que os outros veem do meu perfil para que eu possa ter controle sobre meus dados.
 </p>
@@ -527,7 +523,7 @@ __Término:__ _Sprint_ 8<br/>
 <br />
 
 
-**US32 - Visível apenas para quem dei Like** <br />
+#### **US32 - Visível apenas para quem dei Like** <br />
 
 <p align="justify">&emsp;
 Eu, como Usuário Plus desejo ter a opção de ficar visível apenas para quem eu dei like para que eu possa tornar meu perfil mais exclusivo.
