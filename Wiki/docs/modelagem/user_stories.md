@@ -151,7 +151,7 @@ __Término:__ _Sprint_ 5<br/>
 |US#10|Denunciar um perfil|3|
 |US#12|Editar as Informações|3|
 |US#21|Desfazer uma combinação|2|
-|US#23||13|
+|US#23|Acesso ao chat|13|
 
 **US10 - Denunciar um perfil** <br />
   <p align="justify">&emsp;
@@ -188,6 +188,19 @@ __Término:__ _Sprint_ 5<br/>
   - Deve apresentar opções para os motivos do usuário querer desfazer a combinação: Mensagens inapropriadas, Fotos inapropriadas, Parece spam, Outra, Sem motivo<br />
   - Deve apresentar um campo de texto para o usuário escrever o motivo do unmatch, caso tenha selecionado a opção Outra.<br />
   - Deve retirar o perfil da lista de matches do usuário.<br />
+
+<br />
+
+**US23 - Acesso ao chat** <br/>
+  <p align="justify">&emsp;
+  Eu, como usuário, desejo ter acesso ao chat para que eu possa conversar com minhas combinações.
+  </p>
+  **Critérios de Aceitação:** <br />
+  - Apresentar a tela de chat por meio de uma aba.
+  - Listar botões com links para a página de conversa.
+  - Cada botão possui uma foto e o nome da combinação.
+  - A tela de um chat apresenta a foto e nome da combinação numa barra no topo.
+  -  Deve ser implementada a troca de mensagens entre dois usuários.
 
 <br />
 
@@ -267,6 +280,7 @@ __Término:__ _Sprint_ 5<br/>
 |US#06|Congelar minha conta|3|
 |US#14|Smart Photos|13|
 |US#15|Compartilhar Perfil Web|2|
+|US#24|Assinar serviços pagos|8|
 
 **US05 - Deletar minha conta**
     <p align="justify">&emsp;
@@ -300,6 +314,7 @@ __Término:__ _Sprint_ 5<br/>
 <p align="justify">&emsp;
   Eu, como usuário, desejo que a minha melhor foto fique em destaque para que eu possa ser mais interessante para outras pessoas.
 </p>
+
   **Critérios de Aceitação:** <br />
 
   - Deve salvar os likes e deslikes de cada foto.<br />
@@ -311,10 +326,27 @@ __Término:__ _Sprint_ 5<br/>
 <p align="justify">&emsp;
   Eu, como usuário, desejo criar meu nome de usuário para que eu possa compartilhar o meu perfil web.
 </p>
+
   **Critérios de Aceitação:** <br />
 
   - Deve salvar o nome de usuário.<br />
   - Deve criar um rota para mostrar o perfil do usuário.<br />
+
+<br />
+
+**US24 - Assinar serviços pagos**
+<p align="justify">&emsp;
+  Eu, como usuário, desejo assinar serviços pagos para que eu possa receber vantagens.
+</p>
+
+**Critérios de Aceitação:** <br />
+
+  - Devem ser dispostos widgets para assinar serviços como Tinder Plus e Tinder Gold na tela de configurações.  
+  - Ao acionar algum widget de assinatura deve ser apresentada a tela com preços e vantagens.  
+  - A tela com preços e vantagens contém um “carrossel” apresentando as vantagens.  
+  - A tela com preços e vantagens contém informações selecionáveis dos 3 pacotes de assinatura possíveis.  
+  - A tela com preços e vantagens contém um botão para confirmar a escolha do pacote.  
+  - Ao confirmar redirecionar para o pagamento no google play.  
 
 <br />
 
@@ -331,7 +363,7 @@ __Término:__ _Sprint_ 8<br/>
 |US#18|Integrar com Spotify|5|
 |US#19|Escolher uma música preferida|5|
 |US#22|Ver o feed das combinações|8|
-|US#25||3|
+|US#25|Comprar boosts|3|
 
 <br />
 
@@ -373,16 +405,59 @@ __Término:__ _Sprint_ 8<br/>
 
 <br />
 
+  **US25 - Comprar boosts**
+  <p align="justify">&emsp;
+  Eu, como usuário, desejo poder comprar boosts para que eu possa ter acesso a função boost.
+  </p>
+  **Critérios de Aceitação:** <br />
+  - Deve ser disposto um botão para comprar boosts na tela de configuração.
+  - Ao acionar o botão de compra deve ser apresentada a tela com preços e explicações sobre o boost.
+  - A tela com preços e explicações contém uma explicação da função do boost.
+  - A tela com preços e explicações contém informações selecionáveis dos 3 pacotes de compra possíveis.
+  - A tela com preços e explicações contém um botão para confirmar a escolha do pacote.
+  - A tela com preços e explicações contém um botão para assinar Tinder Plus.
+  - Ao confirmar redirecionar para o pagamento no google play.
+  - Ao selecionar o botão de assinar Tinder Plus redirecionar para tela com preços e vantagens do Tinder Plus.
+
 ### Sprint 7
 
 |ID|História de Usuário|Pontos|
 |--|-------------------|------|
-|US#26||8|
-|US#27||3|
+|US#26|Utilizar boosts|8|
+|US#27|Comprar super likes|3|
 |US#28|Limitar Likes|1|
 |US#29|Função Rewind|5|
 |US#33|Visualizar Likes Recebidos|3|
 
+<br />
+
+**US26 - Utilizar boosts**
+  <p align="justify">&emsp;
+  Eu, como usuário, desejo utilizar a função boost para que eu possa aumentar a visibilidade do meu perfil temporariamente.
+  </p>
+  **Critérios de Aceitação:** <br />
+  - Deve ser apresentado um botão para ativar um boost na tela de avaliação de perfis.
+  - Deve ser apresentada uma tela explicando a função do boost e pedindo a confirmação do desejo de utilizar o boost.
+  - Um boost é ativo por 30 min.
+  - Ao tentar utilizar a função boost sem possuir nenhum boost disponível usuário é redirecionado para tela com preço e explicação sobre o boost.
+  - Ao tentar utilizar a função boost enquanto outro boost já está ativo deve ser apresentada uma tela informando o tempo restante do boost ativo atualmente.
+  - Matches gerados no tempo de atividade de um boost devem possuir uma indicação de que foi gerado com ajuda do boost.
+
+<br />
+
+**US27 - Comprar super like**
+  <p align="justify">&emsp;
+  Eu, como usuário, desejo comprar super like para que eu possa ter acesso a mais de um super like por dia.
+  </p>
+  **Critérios de Aceitação:** <br />
+  - Deve ser disposto um botão para comprar super like na tela de configuração.
+  - Ao acionar o botão de compra deve ser apresentada a tela com preços e explicações sobre o super like.
+  - A tela com preços e explicações contém uma explicação da função do super like.
+  - A tela com preços e explicações contém informações selecionáveis dos 3 pacotes de compra possíveis.
+  - A tela com preços e explicações contém um botão para confirmar a escolha do pacote.
+  - A tela com preços e explicações contém um botão para assinar Tinder Plus.
+  - Ao confirmar redirecionar para o pagamento no google play.
+  - Ao selecionar o botão de assinar Tinder Plus redirecionar para tela com preços e vantagens do Tinder Plus.
 <br />
 
 **US28 - Limitar Likes** <br />
