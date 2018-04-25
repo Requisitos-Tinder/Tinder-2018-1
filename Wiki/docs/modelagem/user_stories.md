@@ -184,11 +184,12 @@ __Término:__ _Sprint_ 5<br/>
   </p>
 
   **Critérios de Aceitação:** <br />
-  - Apresentar a tela de chat por meio de uma aba.
-  - Listar botões com links para a página de conversa.
-  - Cada botão possui uma foto e o nome da combinação.
-  - A tela de um chat apresenta a foto e nome da combinação numa barra no topo.
-  -  Deve ser implementada a troca de mensagens entre dois usuários.
+
+  - Apresentar a tela de chat por meio de uma aba.<br />
+  - Listar botões com links para a página de conversa.<br />
+  - Cada botão possui uma foto e o nome da combinação.<br />
+  - A tela de um chat apresenta a foto e nome da combinação numa barra no topo.<br />
+  - Deve ser implementada a troca de mensagens entre dois usuários.<br />
 
 <br />
 
@@ -402,14 +403,15 @@ __Término:__ _Sprint_ 8<br/>
   </p>
 
   **Critérios de Aceitação:** <br />
-  - Deve ser disposto um botão para comprar boosts na tela de configuração.
-  - Ao acionar o botão de compra deve ser apresentada a tela com preços e explicações sobre o boost.
-  - A tela com preços e explicações contém uma explicação da função do boost.
-  - A tela com preços e explicações contém informações selecionáveis dos 3 pacotes de compra possíveis.
-  - A tela com preços e explicações contém um botão para confirmar a escolha do pacote.
-  - A tela com preços e explicações contém um botão para assinar Tinder Plus.
-  - Ao confirmar redirecionar para o pagamento no google play.
-  - Ao selecionar o botão de assinar Tinder Plus redirecionar para tela com preços e vantagens do Tinder Plus.
+
+  - Deve ser disposto um botão para comprar boosts na tela de configuração.<br />
+  - Ao acionar o botão de compra deve ser apresentada a tela com preços e explicações sobre o boost.<br />
+  - A tela com preços e explicações contém uma explicação da função do boost.<br />
+  - A tela com preços e explicações contém informações selecionáveis dos 3 pacotes de compra possíveis.<br />
+  - A tela com preços e explicações contém um botão para confirmar a escolha do pacote.<br />
+  - A tela com preços e explicações contém um botão para assinar Tinder Plus.<br />
+  - Ao confirmar redirecionar para o pagamento no google play.<br />
+  - Ao selecionar o botão de assinar Tinder Plus redirecionar para tela com preços e vantagens do Tinder Plus.<br />
 
 ### Sprint 7
 
@@ -429,12 +431,13 @@ __Término:__ _Sprint_ 8<br/>
   </p>
 
   **Critérios de Aceitação:** <br />
-  - Deve ser apresentado um botão para ativar um boost na tela de avaliação de perfis.
-  - Deve ser apresentada uma tela explicando a função do boost e pedindo a confirmação do desejo de utilizar o boost.
-  - Um boost é ativo por 30 min.
-  - Ao tentar utilizar a função boost sem possuir nenhum boost disponível usuário é redirecionado para tela com preço e explicação sobre o boost.
-  - Ao tentar utilizar a função boost enquanto outro boost já está ativo deve ser apresentada uma tela informando o tempo restante do boost ativo atualmente.
-  - Matches gerados no tempo de atividade de um boost devem possuir uma indicação de que foi gerado com ajuda do boost.
+
+  - Deve ser apresentado um botão para ativar um boost na tela de avaliação de perfis.<br />
+  - Deve ser apresentada uma tela explicando a função do boost e pedindo a confirmação do desejo de utilizar o boost.<br />
+  - Um boost é ativo por 30 min.<br />
+  - Ao tentar utilizar a função boost sem possuir nenhum boost disponível usuário é redirecionado para tela com preço e explicação sobre o boost.<br />
+  - Ao tentar utilizar a função boost enquanto outro boost já está ativo deve ser apresentada uma tela informando o tempo restante do boost ativo atualmente.<br />
+  - Matches gerados no tempo de atividade de um boost devem possuir uma indicação de que foi gerado com ajuda do boost.<br />
 
 <br />
 
@@ -444,14 +447,15 @@ __Término:__ _Sprint_ 8<br/>
   </p>
 
   **Critérios de Aceitação:** <br />
-  - Deve ser disposto um botão para comprar super like na tela de configuração.
-  - Ao acionar o botão de compra deve ser apresentada a tela com preços e explicações sobre o super like.
-  - A tela com preços e explicações contém uma explicação da função do super like.
-  - A tela com preços e explicações contém informações selecionáveis dos 3 pacotes de compra possíveis.
-  - A tela com preços e explicações contém um botão para confirmar a escolha do pacote.
-  - A tela com preços e explicações contém um botão para assinar Tinder Plus.
-  - Ao confirmar redirecionar para o pagamento no google play.
-  - Ao selecionar o botão de assinar Tinder Plus redirecionar para tela com preços e vantagens do Tinder Plus.
+
+  - Deve ser disposto um botão para comprar super like na tela de configuração.<br />
+  - Ao acionar o botão de compra deve ser apresentada a tela com preços e explicações sobre o super like.<br />
+  - A tela com preços e explicações contém uma explicação da função do super like.<br />
+  - A tela com preços e explicações contém informações selecionáveis dos 3 pacotes de compra possíveis.<br />
+  - A tela com preços e explicações contém um botão para confirmar a escolha do pacote.<br />
+  - A tela com preços e explicações contém um botão para assinar Tinder Plus.<br />
+  - Ao confirmar redirecionar para o pagamento no google play.<br />
+  - Ao selecionar o botão de assinar Tinder Plus redirecionar para tela com preços e vantagens do Tinder Plus.<br />
 <br />
 
 #### **US28 - Limitar Likes** <br />
