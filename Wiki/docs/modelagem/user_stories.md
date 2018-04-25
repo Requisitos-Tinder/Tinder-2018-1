@@ -3,10 +3,10 @@
 ## _Backlog_ do produto
 
 <a data-fancybox="gallery" href="../../img/user_stories.jpg"><img src="../../img/user_stories-mini.jpg"></a>
-
+<br />
 ## _Roadmap_
-
-### Release 1
+<br />
+## **Release 1**
 
 __Duração:__ Duas _Sprints_<br/>
 __Início:__ _Sprint_ 1<br/>
@@ -60,7 +60,7 @@ __Término:__ _Sprint_ 2<br/>
   - Deve apresentar uma tela para indicar o gênero
   - Deve apresentar uma tela para inserir uma foto
 
-
+<br />
 
 ### Sprint 2
 
@@ -81,8 +81,9 @@ __Término:__ _Sprint_ 2<br/>
   - Deve enviar uma notificação ao usuário que deu like primeiro, indicando que ocorreu uma combinação
   - Deve enviar um email ao usuário caso ele demore para visualizar a notificação  
 
+<br />
 
-## Release 2
+## **Release 2**
 
 __Duração:__ Três _Sprints_<br/>
 __Início:__ _Sprint_ 3<br/>
@@ -106,6 +107,7 @@ __Término:__ _Sprint_ 5<br/>
   - Deve apresentar um campo de texto para o usuário escrever o motivo do unmatch, caso tenha selecionado a opção Outra.
   - Deve retirar o perfil da lista de matches do usuário.
 
+<br />
 
 ### Sprint 4
 
@@ -128,6 +130,7 @@ __Término:__ _Sprint_ 5<br/>
   - Deve apresentar a opção de enviar o código novamente
   - Deve efetuar o login
 
+<br />
 
 ### Sprint 5
 
@@ -151,18 +154,22 @@ __Término:__ _Sprint_ 5<br/>
   - Deve encaminhar o usuário para a tela de Enviar Feedback
   - Deve excluir a conta
 
+<br />
+
 **US06 - Congelar minha conta**
 <p align="justify">&emsp;
   Eu, como usuário, desejo congelar minha conta para que eu possa desativar temporariamente o meu perfil.
 </p>
-  Critérios de Aceitação: <br />
+
+Critérios de Aceitação: <br />
   - Deve acessar a opção de deletar conta
   - Deve apresentar a opção de congelar conta
   - Deve inativar a conta
-  - Deve apresentar a opção de reativar conta 
+  - Deve apresentar a opção de reativar conta
 
+<br />
 
-## Release 3
+## **Release 3**
 
 __Duração:__ Três _Sprints_<br/>
 __Início:__ _Sprint_ 6<br/>
@@ -177,7 +184,9 @@ __Término:__ _Sprint_ 8<br/>
 |US#22|Ver o feed das combinações|8|
 |US#25||3|
 
-  **US18 - Integrar com Spotify** <br />
+<br />
+
+**US18 - Integrar com Spotify** <br />
   <p align="justify">&emsp;
   	Eu, como usuário, desejo integrar com Spotify para que eu possa compartilhar meu gosto musical.</p>
   	Critérios de Aceitação:<br />
@@ -205,12 +214,14 @@ __Término:__ _Sprint_ 8<br/>
   <p align="justify">&emsp;
   Eu, como usuário, desejo ver o feed das minhas combinações, para que eu possa acompanhar suas atualizações.
   </p>
+
   Critérios de Aceitação: <br />
   - Deve apresentar uma tela para visualizar o feed
   - Deve apresentar no feed os novos matches
   - Deve apresentar as atualizações das combinações: Fotos novas e Novas músicas.    
   - Deve apresentar as opções de Denunciar usuário, Desfazer match, Abrir Conversa e Abrir Perfil, de qualquer usuário combinado, a partir do feed.
 
+<br />
 
 ### Sprint 7
 
@@ -218,15 +229,80 @@ __Término:__ _Sprint_ 8<br/>
 |--|-------------------|------|
 |US#26||8|
 |US#27||3|
-|US#28||1|
-|US#29||5|
-|US#33||3|
+|US#28|Limitar Likes|1|
+|US#29|Função Rewind|5|
+|US#33|Visualizar Likes Recebidos|3|
 
+<br />
+
+**US28 Limitar Likes** <br />
+  <p align="justify">&emsp;
+  Eu, como empresa tinder desejo limitar o número de likes do usuário para incentivar os usuários a adquirir serviços pagos.
+  </p>
+
+  Critérios de aceitação: <br />
+
+  - Deve ser apresentado um cartão com a informação de que seus likes acabaram e opções de planos pagos para aquisição de likes infinitos.
+
+<br />
+
+**US29 Função Rewind** <br />
+  <p align="justify">&emsp;
+  Eu, como Usuário Plus desejo poder utilizar a função Rewind para que eu possa desfazer um deslike.
+  </p>
+
+  Critérios de aceitação: <br />
+
+  - Deve ser apresentado um Widget com a opção de desfazer o Deslike.
+  - O cartão que teve seu Deslike desfeito deverá aparecer novamente na tela para avaliação.
+
+<br />
+
+**US33 Visualizar Likes Recebidos:** <br />
+<p align="justify">&emsp;
+  Eu, como Usuário Gold desejo visualizar quem me deu like para que eu possa saber quem gostou do meu perfil.
+</p>
+
+  Critérios de aceitação: <br />
+  - Deve ser apresentado um Widget com foto de pessoas que curtiram seu perfil, e qual o número de curtidas o usuário possui.
+
+<br />
 
 ### Sprint 8
 
 |ID|História de Usuário|Pontos|
 |--|-------------------|------|
-|US#30||13|
-|US#31||5|
-|US#32||5|
+|US#30|Escolher Localização|13|
+|US#31|Limitar Informações visualizadas|5|
+|US#32|Visível apenas para quem dei Like|5|
+
+<br />
+**US30 Escolher Localização** <br />
+<p align="justify">&emsp;
+  Eu, como Usuário Plus desejo poder escolher minha localização para que eu possa avaliar e ser avaliado em qualquer lugar do mundo.
+</p>
+
+  Critérios de aceitação: <br />
+  - Deve ser apresentado a opção de “Vendo pessoas em” onde o usuário pode escolher a localização atual, ou algum lugar do mundo.
+
+<br />
+
+
+**US31 Limitar Informações visualizadas**<br />
+<p align="justify">&emsp;
+  Eu, como Usuário Plus desejo poder Limitar o que os outros veem do meu perfil para que eu possa ter controle sobre meus dados.
+</p>
+
+  Critérios de aceitação: <br />
+  - Devem ser apresentadas duas caixas de escolha, uma para a opção de mostrar o
+  
+<br />
+
+
+**US32 Visível apenas para quem dei Like** <br />
+
+<p align="justify">&emsp;
+Eu, como Usuário Plus desejo ter a opção de ficar visível apenas para quem eu dei like para que eu possa tornar meu perfil mais exclusivo.
+</p>
+Critérios de aceitação: <br />
+- Deve ser apresentado uma caixa de escolha para que o Usuário Plus possa escolher quem o vê, ser mostrado com base nas escolhas do sistema ou apenas para pessoas que curtiu.
