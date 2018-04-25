@@ -2,7 +2,7 @@
 
 ## _Backlog_ do produto
 
-FOTINHA
+<a data-fancybox="gallery" href="../../img/user_stories.jpg"><img src="../../img/user_stories-mini.jpg"></a>
 
 ## _Roadmap_
 
