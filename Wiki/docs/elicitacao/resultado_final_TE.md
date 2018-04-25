@@ -55,7 +55,7 @@
 | 49     | O usuário, como gold ou plus, poderá escolher a distância de quem pode ver ele                                                                      | [Observação Participativa](observacao_participativa/) |
 | 50     | O usuário, como gold ou plus, poderá usar 1 boost por mês de graça                                                                                  | [Observação Participativa](observacao_participativa/) |
 | 51     | O perfil deve ter opção de integração com Spotify para exibição do gosto musical do usuário.                                                        | [Observação Participativa](observacao_participativa/) |
-| 52     | O perfil deve ter opção de ativar ou não o recurso “Smart Photos” (Funcionalidade para selecionar a melhor foto do usuário em determinado momento). | [Observação Participativa](observacao_participativa/) |
+| 52     | O perfil deve ter opção de ativar ou não o recurso [Smart Photos](/modelagem/lexicos#smart-photos). | [Observação Participativa](observacao_participativa/) |
 | 53     | O usuário deve ser capaz de recomendar um perfil para alguém.                                                                                       | [Observação Participativa](observacao_participativa/) |
 | 54     | O sistema deve atualizar o feed com as novas informações dos matches.                                                                               | [Observação Participativa](observacao_participativa/) |
 | 55     | O sistema deve oferecer perfis para super like. (função super likeable)                                                                             | [Observação Participativa](observacao_participativa/) |
