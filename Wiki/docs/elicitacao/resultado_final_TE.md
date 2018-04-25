@@ -61,6 +61,7 @@
 | 55     | O sistema deve oferecer perfis para super like. (função super likeable)                                                                             | [Observação Participativa](observacao_participativa/) |
 | 56     | O usuário deve ser capaz de realizar login no sistema pelo Facebook                                                                             | [Observação Participativa](observacao_participativa/) |
 | 57     | O usuário deve ser capaz de realizar login no sistema pelo numéro de celular                                                                           | [Observação Participativa](observacao_participativa/) |
+| 58     | O usuário deve ser capaz de criar um perfil web                        |    |
 
 ### **Requisitos Não Funcionais**  
 
