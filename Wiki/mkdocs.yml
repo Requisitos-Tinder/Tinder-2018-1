@@ -32,6 +32,7 @@ pages:
          - 'Casos de Uso': 'modelagem/casosUso.md'
          - 'Especificação Suplementar': 'modelagem/EspSuplementar.md'
          - 'Historias de Usuário': 'modelagem/user_stories.md'
+         - 'NFR': 'modelagem/NFR.md'
          - 'Referências': 'modelagem/referencias.md'
      - Análise:
          - 'About': 'analise/analise.md'
