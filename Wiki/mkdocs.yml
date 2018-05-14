@@ -33,6 +33,7 @@ pages:
          - 'Especificação Suplementar': 'modelagem/EspSuplementar.md'
          - 'Historias de Usuário': 'modelagem/user_stories.md'
          - 'NFR': 'modelagem/NFR.md'
+         - 'iStar': 'modelagem/iStar.md'
          - 'Referências': 'modelagem/referencias.md'
      - Análise:
          - 'About': 'analise/analise.md'
