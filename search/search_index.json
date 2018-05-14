@@ -1752,7 +1752,7 @@
         }, 
         {
             "location": "/modelagem/iStar/", 
-            "text": "iStar\n\n\nModelo de depend\u00eancia\n\n\n\n\n\n\n\n\nRationales\n\n\nSmart Photos", 
+            "text": "iStar\n\n\n\n\nModelo de depend\u00eancia\n\n\n\n\n\n\nRationales\n\n\n\n\nMatch entre Usu\u00e1rios\n\n\n\n\n\n\nManter Conversas\n\n\n\n\n\n\nSmart Photos", 
             "title": "iStar"
         }, 
         {
@@ -1769,6 +1769,16 @@
             "location": "/modelagem/iStar/#rationales", 
             "text": "", 
             "title": "Rationales"
+        }, 
+        {
+            "location": "/modelagem/iStar/#match-entre-usuarios", 
+            "text": "", 
+            "title": "Match entre Usu\u00e1rios"
+        }, 
+        {
+            "location": "/modelagem/iStar/#manter-conversas", 
+            "text": "", 
+            "title": "Manter Conversas"
         }, 
         {
             "location": "/modelagem/iStar/#smart-photos", 
