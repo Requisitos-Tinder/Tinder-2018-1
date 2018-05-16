@@ -2,29 +2,18 @@
 <br />
 ### Modelo de dependência
 
-<a data-fancybox="gallery" href="../../img/iStar/iStar-Dependencia.png"><img src="../../img/iStar/iStar-Dependencia-mini.png"></a>
+<a data-fancybox="gallery" href="../../img/iStar/DependenciaV2.png"><img src="../../img/iStar/DependenciaV2-mini.png"></a>
 
 <br />
 ## **_Rationales_**
 <br />
 
-####  Match entre Usuários
-
-<a data-fancybox="gallery" href="../../img/iStar/RationaleMatch.png"><img src="../../img/iStar/RationaleMatch-mini.png"></a>
-
-<br />
 
 ####  Match entre Usuários V2
 
 <a data-fancybox="gallery" href="../../img/iStar/RationaleMatchV2.png"><img src="../../img/iStar/RationaleMatchV2-mini.png"></a>
 
 <br/>
-
-#### Manter Conversas
-
-<a data-fancybox="gallery" href="../../img/iStar/RationaleConversa.png"><img src="../../img/iStar/RationaleConversa-mini.png"></a>
-
-<br />
 
 #### Smart Photos
 
