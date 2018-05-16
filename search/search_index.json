@@ -1752,7 +1752,7 @@
         }, 
         {
             "location": "/modelagem/iStar/", 
-            "text": "iStar\n\n\n\n\nModelo de depend\u00eancia\n\n\n\n\n\n\nRationales\n\n\n\n\nMatch entre Usu\u00e1rios\n\n\n\n\n\n\nManter Conversas\n\n\n\n\n\n\nSmart Photos", 
+            "text": "iStar\n\n\n\n\nModelo de depend\u00eancia\n\n\n\n\n\n\nRationales\n\n\n\n\nMatch entre Usu\u00e1rios\n\n\n\n\n\n\nMatch entre Usu\u00e1rios V2\n\n\n\n\n\n\nManter Conversas\n\n\n\n\n\n\nSmart Photos\n\n\n\n\n\n\nSmart Photos V2\n\n\n\n\n\n\nIntegra\u00e7\u00e3o com outros softwares\n\n\n\n\n\n\nComunica\u00e7\u00e3o App-Servidor\n\n\n\n\n\n\nComunica\u00e7\u00e3o Servidor-App\n\n\n\n\n\n\nAtalhos de Navega\u00e7\u00e3o", 
             "title": "iStar"
         }, 
         {
@@ -1776,6 +1776,11 @@
             "title": "Match entre Usu\u00e1rios"
         }, 
         {
+            "location": "/modelagem/iStar/#match-entre-usuarios-v2", 
+            "text": "", 
+            "title": "Match entre Usu\u00e1rios V2"
+        }, 
+        {
             "location": "/modelagem/iStar/#manter-conversas", 
             "text": "", 
             "title": "Manter Conversas"
@@ -1784,6 +1789,31 @@
             "location": "/modelagem/iStar/#smart-photos", 
             "text": "", 
             "title": "Smart Photos"
+        }, 
+        {
+            "location": "/modelagem/iStar/#smart-photos-v2", 
+            "text": "", 
+            "title": "Smart Photos V2"
+        }, 
+        {
+            "location": "/modelagem/iStar/#integracao-com-outros-softwares", 
+            "text": "", 
+            "title": "Integra\u00e7\u00e3o com outros softwares"
+        }, 
+        {
+            "location": "/modelagem/iStar/#comunicacao-app-servidor", 
+            "text": "", 
+            "title": "Comunica\u00e7\u00e3o App-Servidor"
+        }, 
+        {
+            "location": "/modelagem/iStar/#comunicacao-servidor-app", 
+            "text": "", 
+            "title": "Comunica\u00e7\u00e3o Servidor-App"
+        }, 
+        {
+            "location": "/modelagem/iStar/#atalhos-de-navegacao", 
+            "text": "", 
+            "title": "Atalhos de Navega\u00e7\u00e3o"
         }, 
         {
             "location": "/modelagem/referencias/", 
