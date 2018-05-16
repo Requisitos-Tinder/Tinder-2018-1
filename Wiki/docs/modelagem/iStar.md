@@ -48,3 +48,33 @@
 #### Atalhos de Navegação
 
 <a data-fancybox="gallery" href="../../img/iStar/RationaleExpUsr.png"><img src="../../img/iStar/RationaleExpUsr-mini.png"></a>
+
+<br />
+
+#### Atualizar Perfil
+
+<a data-fancybox="gallery" href="../../img/iStar/SRAtualizarPerfil.png"><img src="../../img/iStar/SRAtualizarPerfil-mini.png"></a>
+
+<br />
+
+#### Criar Perfil
+
+<a data-fancybox="gallery" href="../../img/iStar/SRCriarPerfil.png"><img src="../../img/iStar/SRCriarPerfil-mini.png"></a>
+
+<br />
+
+#### Denuncia
+
+<a data-fancybox="gallery" href="../../img/iStar/SRDenuncia.png"><img src="../../img/iStar/SRDenuncia-mini.png"></a>
+
+<br />
+
+#### Exibir Anuncio
+
+<a data-fancybox="gallery" href="../../img/iStar/SRExibirAnuncio.png"><img src="../../img/iStar/SRExibirAnuncio-mini.png"></a>
+
+<br />
+
+#### Recomendar Perfil
+
+<a data-fancybox="gallery" href="../../img/iStar/SRRecomendarPerfil.png"><img src="../../img/iStar/SRRecomendarPerfil-mini.png"></a>
