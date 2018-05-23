@@ -1752,7 +1752,7 @@
         }, 
         {
             "location": "/modelagem/iStar/", 
-            "text": "iStar\n\n\n\n\nModelo de depend\u00eancia\n\n\n\n\n\n\nRationales\n\n\n\n\nMatch entre Usu\u00e1rios\n\n\n\n\n\n\nMatch entre Usu\u00e1rios V2\n\n\n\n\n\n\nManter Conversas\n\n\n\n\n\n\nSmart Photos\n\n\n\n\n\n\nSmart Photos V2\n\n\n\n\n\n\nIntegra\u00e7\u00e3o com outros softwares\n\n\n\n\n\n\nComunica\u00e7\u00e3o App-Servidor\n\n\n\n\n\n\nComunica\u00e7\u00e3o Servidor-App\n\n\n\n\n\n\nAtalhos de Navega\u00e7\u00e3o", 
+            "text": "iStar\n\n\n\n\nModelo de depend\u00eancia\n\n\n\n\n\n\nRationales\n\n\n\n\nMatch entre Usu\u00e1rios V2\n\n\n\n\n\n\nSmart Photos\n\n\n\n\n\n\nSmart Photos V2\n\n\n\n\n\n\nIntegra\u00e7\u00e3o com outros softwares\n\n\n\n\n\n\nComunica\u00e7\u00e3o App-Servidor\n\n\n\n\n\n\nComunica\u00e7\u00e3o Servidor-App\n\n\n\n\n\n\nAtalhos de Navega\u00e7\u00e3o\n\n\n\n\n\n\nAtualizar Perfil\n\n\n\n\n\n\nCriar Perfil\n\n\n\n\n\n\nDenuncia\n\n\n\n\n\n\nExibir Anuncio\n\n\n\n\n\n\nRecomendar Perfil", 
             "title": "iStar"
         }, 
         {
@@ -1771,19 +1771,9 @@
             "title": "Rationales"
         }, 
         {
-            "location": "/modelagem/iStar/#match-entre-usuarios", 
-            "text": "", 
-            "title": "Match entre Usu\u00e1rios"
-        }, 
-        {
             "location": "/modelagem/iStar/#match-entre-usuarios-v2", 
             "text": "", 
             "title": "Match entre Usu\u00e1rios V2"
-        }, 
-        {
-            "location": "/modelagem/iStar/#manter-conversas", 
-            "text": "", 
-            "title": "Manter Conversas"
         }, 
         {
             "location": "/modelagem/iStar/#smart-photos", 
@@ -1814,6 +1804,31 @@
             "location": "/modelagem/iStar/#atalhos-de-navegacao", 
             "text": "", 
             "title": "Atalhos de Navega\u00e7\u00e3o"
+        }, 
+        {
+            "location": "/modelagem/iStar/#atualizar-perfil", 
+            "text": "", 
+            "title": "Atualizar Perfil"
+        }, 
+        {
+            "location": "/modelagem/iStar/#criar-perfil", 
+            "text": "", 
+            "title": "Criar Perfil"
+        }, 
+        {
+            "location": "/modelagem/iStar/#denuncia", 
+            "text": "", 
+            "title": "Denuncia"
+        }, 
+        {
+            "location": "/modelagem/iStar/#exibir-anuncio", 
+            "text": "", 
+            "title": "Exibir Anuncio"
+        }, 
+        {
+            "location": "/modelagem/iStar/#recomendar-perfil", 
+            "text": "", 
+            "title": "Recomendar Perfil"
         }, 
         {
             "location": "/modelagem/referencias/", 
