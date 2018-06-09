@@ -308,3 +308,75 @@ Como a análise de discurso precisa ser feita por todos os integrantes, o Calebe
 <p align="justify">
 <b>Compromissos:</b> Terá uma reunião dia 01/04 com urgência, onde a participação de todos será obrigatória. Todos os artefatos que deveriam ter sido entregues nesta reunião, deverão ser entregues na próxima.
 </p>
+
+
+## **Reunião - 01/04**
+</br>
+
+**Data:** 01 de abril de 2018.
+
+**Horário de início:** 20h30min.
+
+**Horário de término:** 03h20min
+
+**Pessoas presentes:**
+- Amanda Muniz
+- Arthur Assis
+- Calebe Rios
+- Luciana Ribeiro
+- Vítor Cardoso
+- Waysman Silva
+
+**Pauta de reunião:** técnicas de elicitação
+
+**Discussões abordadas:** Daily, técnicas de elicitação, refatoração de requisitos.
+
+**Vídeo da reunião:** https://www.youtube.com/watch?v=xHN5u0FpZGI
+
+**Registro das decisões:**
+<p align="justify">A reunião começou com uma daily meeting para todos os integrantes do grupo terem uma noção do que estava acontecendo com o projeto até aquele momento. O resultado dessa daily se encontra na tabela abaixo.
+</p>
+
+| Integrante      | Itens feitos                                                 |
+| --------------- | ------------------------------------------------------------ |
+| Amanda Muniz    | Refatorou o rich picture do fluxo de match,  fez os textos presentes na home page, pautas de reunião e a análise de protocolo. |
+| Arthur Assis    | Parte da linha do tempo, escreveu o texto introdutório de elicitação, passou os artefatos de priorização de requisitos para markdown e criou sua parte de elicitação. |
+| Calebe Rios     | Subiu os artefatos que fez para a wiki e pesquisou sobre análise de discurso. |
+| Luciana Ribeiro | Criou a wiki, arrumou o questionário, fez a análise de protocolo e criou um tutorial sobre o mkdocs para o restante da equipe. |
+| Vítor Cardoso   | Fez o storytelling e explicou seu resultado.                 |
+| Waysman Silva   | Refatorou as técnicas de elicitação da primeira dinâmica.    |
+
+<p align="justify">Em seguida foi acordado todas as coisas que precisavam ser feitas durante a reunião. Sendo elas, terminar a wiki, passar os artefatos para a wiki, revisar as técnicas feitas, passar o moscow para uma tabela e revisar os requisitos.
+</p>
+
+<p align="justify">Enquanto os integrantes se dividiram para realizar as tarefas o Arthur explicou que a linha do tempo está sendo feita com base nas pautas de reunião, porém ainda falta linkar com os artefatos em si.
+</p>
+
+<p align="justify">O Arthur, o Calebe e o Vítor refatoraram os rich pictures, O Waysman e o Arthur se dedicaram em arrumar as páginas das técnicas, a Luciana arrumou as imagens dos rich pictures e das argumentações. A Amanda passou a análise de protocolo para markdown e colocou na wiki. O Vítor fez o texto introdutório sobre storytelling. O Calebe passou o moscow para tabela e arrumou o first things first. Arthur fez as tabelas parciais das técnicas. Por fim, Calebe explicou a análise de discurso e o grupo resolveu fazer uma tentativa de aplicação. A aplicação da análise de discurso começa exatamente em 04h27min00s na gravação da reunião. A última coisa feita na reunião foi uma refatoração dos requisitos.
+</p>
+
+<p align="justify">Durante a refatoração das páginas das técnicas surgiu algo que pode ser uma argumentação. E ela pode ser vista abaixo.
+</p>
+
+<p align="justify">ARGUMENTAÇÃO - É melhor colocar os resultado das elicitações em uma tabela só ou separar por elicitação?
+</p>
+
+<p align="justify">p1 - Eu acho melhor separar uma página por técnica de elicitação e na página principal colocamos as técnicas usadas e o resultado final. E na página da técnica em si a gente coloca como a metodologia foi executada e o resultado final. Arthur.
+</p>
+
+<p align="justify">p2 - Só que a Luciana falou que é melhor colocar tudo em uma tabela só informando a técnica escolhida. Waysman
+</p>
+
+<p align="justify">p3 - É bom ter em uma tabela todos os requisitos só para gente ter uma ideia de tudo que foi elicitado. Mas também é bom ter separado, porque conseguimos analisar técnica por técnica. Arthur
+</p>
+
+<p align="justify">p4 - Tem uma aba de técnicas e uma de finalização, em uma você coloca a tabela geral e quando for colocar cada técnica a gente coloca os requisitos que foram levantadas por ela. Luciana
+</p>
+
+<p align="justify">p5 - Essa separação por tabela é exatamente o que eu pensei. E eu fiz essa separação. Só faltou no de questionário, porque ele não levantou nenhum requisito. Então, acho melhor colocar o questionário como fonte de informação do que como técnica de elicitação. Arthur.
+</p>
+
+<p align="justify">CONCLUSÃO - Cada técnica de elicitação terá uma tabela com os requisitos que foram ali elicitados. E também existirá a tabela com o resultado geral.
+</p>
+
+**Compromissos:** -
