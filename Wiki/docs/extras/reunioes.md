@@ -416,3 +416,40 @@ Como a análise de discurso precisa ser feita por todos os integrantes, o Calebe
 
 **Compromissos:** <p align="justify">Todos os integrantes devem fazer os cenários e léxicos pelos quais são responsáveis no drive e passar para a ferramenta C&L, seguindo os modelos feitos na reunião. Tudo tem que estar pronto e revisado para a dinâmica de amanhã.
 </p>
+
+
+## **Reunião - 10/04**
+</br>
+**Data:** 10 de abril de 2018.
+
+**Horário de início:** 20h30min
+
+**Horário de término:** 03h30min
+
+**Pessoas presentes:**
+- Amanda Muniz
+- Calebe Rios
+- Luciana Ribeiro
+- Vítor Cardoso
+- Waysman Silva
+
+**Pauta de reunião:** léxicos e cenários.
+
+**Discussões abordadas:** daily, todos os cenários e léxicos existentes foram revisados e outros foram criados.
+
+**Vídeo da reunião:** https://www.youtube.com/watch?v=DHJxqV99l3I
+
+**Registro das decisões:**
+<p align="justify">A reunião começou com uma daily e o resultado se encontra na tabela abaixo.
+</p>
+
+| Integrantes   | Itens feitos                                                 |
+| ------------- | ------------------------------------------------------------ |
+| Amanda Muniz  | Revisou os cenários que tinha feito e encontrou novos para serem feitos. |
+| Vítor Cardoso | Passou os léxicos que fez para o drive e os revisou.         |
+| Waysman Silva | Fez alguns léxicos, criou outros e os revisou.               |
+
+<p align="justify">Em seguida, começou a revisão de todos os cenários e de todos os léxicos. A Luciana, o Vítor e o Waysman fizeram essa revisão, enquanto a Amanda passava os que já tinham sido revisados para markdown para subir para a wiki. Todos os cenários foram commitados para a wiki e foram linkados com os léxicos.
+</p>
+
+**Compromissos:** -
