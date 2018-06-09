@@ -453,3 +453,42 @@ Como a análise de discurso precisa ser feita por todos os integrantes, o Calebe
 </p>
 
 **Compromissos:** -
+
+
+## **Reunião - 17/04**
+</br>
+
+**Data:** 17 de abril de 2018
+
+**Horário de início:** 20h30min.
+
+**Horário de término:** 02h40min.
+
+**Pessoas presentes:**
+- Amanda Muniz
+- Calebe Rios
+- Luciana Ribeiro
+- Vítor Cardoso
+- Waysman Silva
+
+**Pauta de reunião:** casos de uso.
+
+**Discussões abordadas:** novos cenários e léxicos foram criados. Os casos de uso e a especificação suplementar foram feitos.
+
+**Vídeo da reunião:** https://www.youtube.com/watch?v=qernHpVEk4k
+
+**Registro das decisões:**
+
+<p align="justify">Durante a primeira parte da reunião os integrantes se dedicaram em fazer novos léxicos e novos cenários. A Luciana, o Vítor e o Waysman fizeram novos léxicos enquanto a Amanda fez novos cenários. Os cenários e léxicos feitos durante a reunião se encontram na tabela abaixo.
+</p>
+
+| Cenários                                                     | Léxicos                                                      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Congelar conta; Denunciar usuário pelo feed; Denunciar usuário pela conversa; Desfazer match pela conversa; Abrir conversa pelo feed; Abrir perfil pelo feed; Logout; Acessar configurações; | Plano pago; Plano plus; Plano Gold; Assinar; Distância; Faixa Etária; Mostrar-me no Tinder; Notificações; Curtir mensagem; Mensagem; Modo trabalho; Restaurar compras; Dicas de segurança; Regras da comunidade; Termos de serviço; Licenças; Congelar conta; Swipe; Cancelar; Foto Inapropriada; Passaporte; Descoberta; Atualização; Destaque; Descolar; Cartão; Oculto; |
+
+<p align="justify">Na segunda etapa da reunião, os integrantes começaram a fazer os casos de uso. O Vítor fez a especificação suplementar. Os casos de uso começaram sendo listados. Nesta listagem, os cenários foram consultados e os casos de uso foram descritos com qual cenário seria o fluxo principal e quais seriam os fluxos alternativos. Depois, a Amanda começou a fazer as especificações dos casos de uso, enquanto a Luciana subia a estrutura das páginas dos casos de uso para a wiki. A Luciana passou as especificações dos casos de uso para markdown e subiu para a wiki, o Vítor fez o mesmo com a especificação suplementar. O Calebe e o Vítor fizeram os diagramas dos casos de uso.
+</p>
+
+**Compromissos:**
+ <p align="justify">Nem todas as especificações foram terminadas durante a reunião, elas devem estar prontas até a hora da dinâmica de entrega. E o Calebe irá refatorar os diagramas para a dinâmica.
+</p>
