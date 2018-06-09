@@ -380,3 +380,39 @@ Como a análise de discurso precisa ser feita por todos os integrantes, o Calebe
 </p>
 
 **Compromissos:** -
+
+
+## **Reunião - 08/04**
+</br>
+**Data:** 08 de abril de 2018
+
+**Horário de início:** 15h45min.
+
+**Horário de término:** 17h50min.
+
+**Pessoas presentes:**
+- Arthur Assis
+- Luciana Ribeiro
+- Vítor Cardoso
+- Waysman Silva
+
+**Pauta de reunião:** cenários e léxicos
+
+**Discussões abordadas:** divisão dos cenários e léxicos entre os integrantes a equipe.
+
+**Vídeo da reunião:** -
+
+**Registro das decisões:**
+<p align="justify">A primeira coisa feita foi listar todos os cenários e léxicos que teriam que ser feitos, logo depois isso foi dividido entre os integrantes.  Além disso, o Arthur criou um modelo de cenário e de léxico para ser seguido.
+</p>
+
+| Integrante      | Cenários                                                     | Léxicos                                                      |
+| --------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Amanda Muniz    | Match; Desfazer match feed; Configuração de descoberta; Configuração de feed; Configuração de perfil web; Configuração de notificação; Deletar conta; | Perfil web; Localização; GIF; Tinder; Like; Deslike; Super Like; Match; |
+| Arthur Assis    | Cadastro com facebook e com número de celular; Integração spotify; Integração instagram; Acessar lista de matches; | Usuário; Usuário free; Usuário plus; Usuário gold; Não usuário; Compartilhar; |
+| Luciana Ribeiro | Avaliar perfil; Like; Deslike; Super Like; Denunciar pelo perfil; Recomendar perfil; Conversas; | Login; Sign up; Desfazer match; Rewind; Boost; Feed; Chat; Smart photos; Interesses; Recomendar usuário; Reported; |
+| Vítor Cardoso   | Login com facebook e com número de celular; Escolher fotos; Smart photos; Sobre mim; Instagram; Spotify; | Denunciar usuário; Distância máxima; Spam; Compartilhar feed; Sobre mim; Facebook; Spotify; Instagram; |
+| Waysman Silva   | Feed; Comprar serviços pagos;                                | Sticker; Emoji; Gênero; Sexo; Minha música; Contatos em comum; Info; Compartilhar minha URL; Nome de usuário; |
+
+**Compromissos:** <p align="justify">Todos os integrantes devem fazer os cenários e léxicos pelos quais são responsáveis no drive e passar para a ferramenta C&L, seguindo os modelos feitos na reunião. Tudo tem que estar pronto e revisado para a dinâmica de amanhã.
+</p>
