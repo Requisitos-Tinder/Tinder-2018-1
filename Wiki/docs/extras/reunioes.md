@@ -578,7 +578,7 @@ Como a análise de discurso precisa ser feita por todos os integrantes, o Calebe
 ## **Reunião - 06/05**
 </br>
 
-**Data:** 06 de junho de 2018.
+**Data:** 06 de maio de 2018.
 
 **Horário de início:** 20h30min.
 
@@ -607,7 +607,7 @@ Como a análise de discurso precisa ser feita por todos os integrantes, o Calebe
 ## **Reunião - 13/05**
 </br>
 
-**Data:** 13 de junho de 2018.
+**Data:** 13 de maio de 2018.
 
 **Horário de início:** 20h30min.
 
@@ -659,7 +659,7 @@ Com base nessa listagem o Vitor se dedicou em fazer o SD, enquanto a Luciana faz
 ## **Reunião - 18/05**
 </br>
 
-**Data:** 18 de junho de 2018
+**Data:** 18 de maio de 2018
 
 **Horário de início:** 20h30min.
 
@@ -691,7 +691,7 @@ A reunião começou com o Vítor explicando o que precisava ser refatorado no SD
 
 ## **Reunião - 22/05**
 </br>
-**Data:** 22 de junho de 2018.
+**Data:** 22 de maio de 2018.
 
 **Horário de início:** 20h30min.
 
@@ -727,7 +727,7 @@ A reunião começou com o Vítor explicando como criou a checklist. Os integrant
 ## **Reunião - 23/05**
 </br>
 
-**Data:** 23 de junho de 2018.
+**Data:** 23 de maio de 2018.
 
 **Horário de início:** 15h20min.
 
@@ -781,7 +781,7 @@ História de Usuário - **Luciana** / Arthur / Calebe
 ##  **Reunião - 27/05**
 </br>
 
-**Data:** 27 de junho de 2018.
+**Data:** 27 de maio de 2018.
 
 **Horário de início:** 20h30min.
 
@@ -814,3 +814,38 @@ A reunião começou com os integrantes decidindo que todos os checklists de elic
 | Vítor       | Storytelling e iStar.                      |
 
 **Compromissos:** Responder os checklists com urgência.
+
+
+## **Reunião - 05/06**
+
+**Data:** 05 de junho de 2018.
+
+**Horário de início:** 20h30min.
+
+**Horário de término:** 20h40min.
+
+**Pessoas presentes:**
+- Calebe Rios
+- Luciana Ribeiro
+- Vítor Cardoso
+
+**Pauta de reunião:** Matriz de rastreabilidade
+
+**Discussões abordadas:** escolha da matriz de rastreabilidade
+
+**Vídeo da reunião:** https://www.youtube.com/watch?v=yOgMnUTAXrU
+
+**Registro das decisões:**
+<p align="justify">
+Nesta reunião as matrizes individuais foram revisadas e os integrantes presentes escolheram a matriz de rastreabilidade da Amanda para ser seguido como modelo. Além disso, foi decidido que cada integrante vai fazer a matriz de um artefato.
+</p>
+
+| Integrantes | Integrante           |
+| ----------- | -------------------- |
+| Amanda      | Cenário              |
+| Arthur      | NFR                  |
+| Calebe      | Casos de uso         |
+| Luciana     | Histórias de usuário |
+| Vítor       | iStar                |
+
+**Compromissos:** Criar as matrizes de rastreabilidade para a próxima dinâmica.
