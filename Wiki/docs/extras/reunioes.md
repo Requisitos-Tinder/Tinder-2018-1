@@ -752,10 +752,12 @@ Os integrantes se reuniram para dividir os checklists e escolher quem responderi
 </p>
 
 Pré-rastreabilidade:
+
 - Rich Picture - **Arthur** / Luciana / Calebe
 - Argumentação - **Arthur** / Luciana / Amanda
 
 Elicitação:
+
 - Questionário - **Luciana** / Vitor / Arthur
 - Storytelling - **Vitor** / Amanda / Calebe
 - Análise de Protocolo - **Amanda** / Arthur / Vitor
@@ -764,6 +766,7 @@ Elicitação:
 - Introspecção - **Calebe** / Amanda / Arthur
 
 Modelagem:
+
 - Caso de Uso - **Calebe** / Vitor / Luciana
 História de Usuário - **Luciana** / Arthur / Calebe
 - Cenários - **Amanda** / Vitor / Arthur
@@ -773,3 +776,41 @@ História de Usuário - **Luciana** / Arthur / Calebe
 - Especificação Suplementar - **Vitor** / Arthur / Amanda
 
 **Compromissos:** Responder todos os checklists.
+
+
+##  **Reunião - 27/05**
+</br>
+
+**Data:** 27 de junho de 2018.
+
+**Horário de início:** 20h30min.
+
+**Horário de término:** 22h15min.
+
+**Pessoas presentes:**
+- Amanda Muniz
+- Arthur Assis
+- Calebe Rios
+- Luciana Ribeiro
+- Vítor Cardoso
+
+**Pauta de reunião:** Checklists
+
+**Discussões abordadas:** Revisão das checklists para serem resolvidas.
+
+**Vídeo da reunião:** https://www.youtube.com/watch?v=FwizJmF3ZhA
+
+**Registro das decisões:**
+<p align="justify">
+A reunião começou com os integrantes decidindo que todos os checklists de elicitação não precisam ser feitos. Então, todos os integrantes explicaram as perguntas dos checklists para serem aprovadas. Os checklists revisados se encontram na tabela abaixo.
+</p>
+
+| Integrantes | Checklists                                 |
+| ----------- | ------------------------------------------ |
+| Amanda      | Análise de Protocolo, Cenário e Léxicos    |
+| Arthur      | Argumentação, NFR                          |
+| Calebe      | Diagramas e especificações de casos de uso |
+| Luciana     | Histórias de usuário                       |
+| Vítor       | Storytelling e iStar.                      |
+
+**Compromissos:** Responder os checklists com urgência.
