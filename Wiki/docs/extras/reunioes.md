@@ -602,3 +602,55 @@ Como a análise de discurso precisa ser feita por todos os integrantes, o Calebe
 **Compromisso:**
 <p align="justify">Explicar para os professores que metade da equipe não pode participar da elaboração dos NFRs.
 </p>
+
+
+## **Reunião - 13/05**
+</br>
+
+**Data:** 13 de junho de 2018.
+
+**Horário de início:** 20h30min.
+
+**Horário de término:** 22h30min.
+
+**Pessoas presentes:**
+- Amanda Muniz
+- Luciana Ribeiro
+- Vítor Cardoso
+
+**Pauta de reunião:** iStar
+
+**Discussões abordadas:** criação de iStar.
+
+**Vídeo da reunião:** https://www.youtube.com/watch?v=em5GQzeusp8
+
+**Registro das decisões:**
+<p align="justify">A reunião começou com os integrantes lendo sobre o iStar, porque não sabiam como começar o artefato. Para a criação do iStar foi levado em conta um documento criado pela Amanda. Esse documento é uma pesquisa feita em grande parte da documentação do Tinder, para achar critérios de qualidade. Essa pesquisa pode ser encontrada [aqui](/pesquisaqualidade.md). Em seguida, a equipe listou os atores, softgoals, goals e tasks para auxiliar na montagem do iStar.
+</p>
+
+| Atores                                                       |
+| ------------------------------------------------------------ |
+| Usuário Tinder - ator; Automated decision-making and profiling - agente; Servidor - agente; Smart photos - agente; Super Likeable - agente. |
+
+| Goals                                                        | Tasks                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Descobrir outros usuários                                    | Fornecer critérios de pesquisa; Fornecer critérios de localização; Fornecer informações; Realizar swipe. |
+| Se conectar a outros usuários                                | Realizar um swipe com like; Receber um swipe com like; Realizar um match; Fornecer opção de conversa com o match. |
+| Acompanhar dados dos perfis dos matchs                       | Acessar o feed; Exibir as atualizações dos matches do usuário. |
+| Fornecer descontos e ofertas personalizadas                  | Coletar dados referentes ao uso do usuário do Tinder; Exibir ofertas de serviços pagos do Tinder; Exibir descontos de serviços pagos do Tinder. |
+| Testar as fotos para garantir que as primeiras são as melhores | Alterar a primeira foto que aparecerá para as outras pessoas; Coletar dados sempre que alguém realizar um swipe no usuário; Reordenar fotos para mostrar sempre as melhores. |
+| Exibir tela com quatro perfis Super Likeables                | Coletar dados dos gostos do usuário; Exibir quatro perfis para o usuário; Disponibilizar um super like gratuito; |
+
+| Softgoals                        | Tasks                                                        |
+| -------------------------------- | ------------------------------------------------------------ |
+| Recomendar pessoas interessantes | Coletar as informações fornecidas pelos usuários; Coletar dados referentes ao uso do Tinder pelo usuário; Coletar interesses em comum entre os dois usuários; Coletar os critérios de pesquisa do usuário; Coletar os critérios de localização do usuário; analisar essas informações com o algoritmo; Recomendar pessoas; Recomendar o usuário para outras pessoas. |
+| Exibir anúncios relevantes       | Coletar as informações fornecidas pelo usuário; Coletar dados referentes ao uso do Tinder pelo usuário; Analisar essas informações com o algoritmo; Exibir anúncios; Avaliar a eficácia desses anúncios. |
+| Promover proteção e segurança    | Coletar dados dos usuários; Analisar dados dos usuários; Prevenir ações ilegais; Prevenir ações não autorizadas; Suspender a conta do usuário que infringiu as regras. |
+
+| Rationales                                                   |
+| ------------------------------------------------------------ |
+| Acessar conversas; Smart Photos; Se conectar a outros usuários. |
+
+Com base nessa listagem o Vitor se dedicou em fazer o SD, enquanto a Luciana fazia os SR’s.
+
+**Compromissos:** -
