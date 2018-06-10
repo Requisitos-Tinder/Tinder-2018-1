@@ -625,7 +625,7 @@ Como a análise de discurso precisa ser feita por todos os integrantes, o Calebe
 **Vídeo da reunião:** https://www.youtube.com/watch?v=em5GQzeusp8
 
 **Registro das decisões:**
-<p align="justify">A reunião começou com os integrantes lendo sobre o iStar, porque não sabiam como começar o artefato. Para a criação do iStar foi levado em conta um documento criado pela Amanda. Esse documento é uma pesquisa feita em grande parte da documentação do Tinder, para achar critérios de qualidade. Essa pesquisa pode ser encontrada [aqui](/pesquisaqualidade.md). Em seguida, a equipe listou os atores, softgoals, goals e tasks para auxiliar na montagem do iStar.
+<p align="justify">A reunião começou com os integrantes lendo sobre o iStar, porque não sabiam como começar o artefato. Para a criação do iStar foi levado em conta um documento criado pela Amanda. Esse documento é uma pesquisa feita em grande parte da documentação do Tinder, para achar critérios de qualidade. Essa pesquisa pode ser encontrada [aqui](../extras/pesquisaqualidade.md). Em seguida, a equipe listou os atores, softgoals, goals e tasks para auxiliar na montagem do iStar.
 </p>
 
 | Atores                                                       |
@@ -652,5 +652,38 @@ Como a análise de discurso precisa ser feita por todos os integrantes, o Calebe
 | Acessar conversas; Smart Photos; Se conectar a outros usuários. |
 
 Com base nessa listagem o Vitor se dedicou em fazer o SD, enquanto a Luciana fazia os SR’s.
+
+**Compromissos:** -
+
+
+## **Reunião - 18/05**
+</br>
+
+**Data:** 18 de junho de 2018
+
+**Horário de início:** 20h30min.
+
+**Horário de término:**** 23h30min;
+
+**Pessoas presentes:**
+- Arthur Assis
+- Calebe Rios
+- Luciana Ribeiro
+- Vítor Cardoso
+
+**Pauta de reunião:** iStar
+
+**Discussões abordadas:** Refatoração do iStar.
+
+**Vídeo da reunião:** https://www.youtube.com/watch?v=A4Pksf5z8uk
+
+**Registro das decisões:**
+<p align="justify">
+A reunião começou com o Vítor explicando o que precisava ser refatorado no SD. A partir disso, os integrantes se dividiram e cada um fez a refatoração de algum artefato e eventualmente tiravam dúvidas entre si. Os artefatos refatorados e/ou criados durante essa reunião se encontram na tabela abaixo.
+</p>
+
+| iStar                 | Rationales                                                   |
+| --------------------- | ------------------------------------------------------------ |
+| Modelo de dependência | Match entre usuários; Smart photos; Integração com outros softwares; Comunicação app-servidor; Atalhos de navegação; Atualizar perfil; Criar perfil; Denúncia; Exibir anúncio; Recomendar perfil. |
 
 **Compromissos:** -
