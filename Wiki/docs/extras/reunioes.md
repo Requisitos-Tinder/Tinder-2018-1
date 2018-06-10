@@ -723,3 +723,53 @@ A reunião começou com o Vítor explicando como criou a checklist. Os integrant
 | Vítor       | iStar                |
 
 **Compromissos:** Os checklists precisam ser criados para a dinâmica de amanhã.
+
+## **Reunião - 23/05**
+</br>
+
+**Data:** 23 de junho de 2018.
+
+**Horário de início:** 15h20min.
+
+**Horário de término:** 15h40min.
+
+**Pessoas presentes:**
+- Amanda Muniz
+- Arthur Assis
+- Calebe Rios
+- Luciana Ribeiro
+- Vítor Cardoso
+
+**Pauta de reunião:** Verificação.
+
+**Discussões abordadas:** divisão dos checklists.
+
+**Vídeo da reunião:** -
+
+**Registro das decisões:**
+<p align="justify">
+Os integrantes se reuniram para dividir os checklists e escolher quem responderia o que. A ideia é que cada integrante é responsável por criar e responder três checklists e responder seis checklists criados por outras pessoas. O resultado da divisão ficou da seguinte maneira.
+</p>
+
+Pré-rastreabilidade:
+- Rich Picture - **Arthur** / Luciana / Calebe
+- Argumentação - **Arthur** / Luciana / Amanda
+
+Elicitação:
+- Questionário - **Luciana** / Vitor / Arthur
+- Storytelling - **Vitor** / Amanda / Calebe
+- Análise de Protocolo - **Amanda** / Arthur / Vitor
+- Análise de Discurso - **Calebe** / Luciana / Amanda
+- Observação Participativa - **Luciana** / Calebe / Vitor
+- Introspecção - **Calebe** / Amanda / Arthur
+
+Modelagem:
+- Caso de Uso - **Calebe** / Vitor / Luciana
+História de Usuário - **Luciana** / Arthur / Calebe
+- Cenários - **Amanda** / Vitor / Arthur
+- Léxicos - **Amanda** / Vitor / Luciana
+- NFR - **Arthur** / Luciana / Calebe
+- iStar - **Vitor** / Amanda / Calebe
+- Especificação Suplementar - **Vitor** / Arthur / Amanda
+
+**Compromissos:** Responder todos os checklists.
