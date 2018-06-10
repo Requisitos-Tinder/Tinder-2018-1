@@ -13,13 +13,13 @@
 <br />
 ###5. [Escolher Fotos de Perfil](../modelagem/cenarios/cenario05.md)
 <br />
-###6. [Smart Photos](../modelagem/cenarios/cenario06.md)
+###6. [Ativar Smart Photos](../modelagem/cenarios/cenario06.md)
 <br />
 ###7. [Conectar Perfil com Instagram](../modelagem/cenarios/cenario07.md)
 <br />
 ###8. [Conectar Perfil com Spotify.](../modelagem/cenarios/cenario08.md)
 <br />
-###9. [Sobre Mim](../modelagem/cenarios/cenario09.md)
+###9. [Editar o Sobre Mim](../modelagem/cenarios/cenario09.md)
 <br />
 ###10. [Avaliar Perfil de Outros Usuários](../modelagem/cenarios/cenario10.md)
 <br />
