@@ -247,6 +247,12 @@
      <changefreq>daily</changefreq>
     </url>
         
+    <url>
+     <loc>/extras/pesquisaqualidade/</loc>
+     <lastmod>2018-06-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
@@ -643,12 +649,6 @@
         
     <url>
      <loc>/modelagem/casosUso/UC27/</loc>
-     <lastmod>2018-06-10</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/extras/pesquisaqualidade/</loc>
      <lastmod>2018-06-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
