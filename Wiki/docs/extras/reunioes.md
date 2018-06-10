@@ -687,3 +687,39 @@ A reunião começou com o Vítor explicando o que precisava ser refatorado no SD
 | Modelo de dependência | Match entre usuários; Smart photos; Integração com outros softwares; Comunicação app-servidor; Atalhos de navegação; Atualizar perfil; Criar perfil; Denúncia; Exibir anúncio; Recomendar perfil. |
 
 **Compromissos:** -
+
+
+## **Reunião - 22/05**
+</br>
+**Data:** 22 de junho de 2018.
+
+**Horário de início:** 20h30min.
+
+**Horário de término:** 20h50min.
+
+**Pessoas presentes:**
+- Amanda Muniz
+- Arthur Assis
+- Calebe Rios
+- Vítor Cardoso
+
+**Pauta de reunião:** Checklists
+
+**Discussões abordadas:** Criação dos  checklists.
+
+**Vídeo da reunião:** https://www.youtube.com/watch?v=-t7-PNUW_AM
+
+**Registro das decisões:**
+<p align="justify">
+A reunião começou com o Vítor explicando como criou a checklist. Os integrantes decidiram quais checklists teriam que ser criados e foi decidido que seria focado em modelagem. E a partir disso dividiram entre os integrantes, essa divisão ficou da seguinte maneira.
+</p>
+
+| Integrantes | Artefatos            |
+| ----------- | -------------------- |
+| Amanda      | Cenário e léxico     |
+| Arthur      | NFR                  |
+| Calebe      | Casos de uso         |
+| Luciana     | Histórias de usuário |
+| Vítor       | iStar                |
+
+**Compromissos:** Os checklists precisam ser criados para a dinâmica de amanhã.
