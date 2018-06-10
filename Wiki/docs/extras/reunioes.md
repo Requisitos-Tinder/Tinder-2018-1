@@ -496,6 +496,7 @@ Como a análise de discurso precisa ser feita por todos os integrantes, o Calebe
 
 ## **Reunião - 24/04**
 </br>
+
 **Data:** 24 de abril de 2018
 
 **Horário de início:** 20h30min.
@@ -519,37 +520,51 @@ Como a análise de discurso precisa ser feita por todos os integrantes, o Calebe
 **Registro das decisões:**
 <p align="justify">No começo da reunião foi definido que o backlog com todas as histórias iria ser feito com uma coluna para manter a rastreabilidade dos requisitos. Além disso seria feito a preparação de todas as sprints e o loadmap seria escrito. Com isso definido, os integrantes começaram a criar as histórias de usuário em uma tabela. Essa tabela foi criada com as seguintes colunas.
 </p>
+
 | Épico | Sprint | ID   | Eu, como | Desejo | Para que eu possa | Pontos | Prioridade | Requisitos |
 | ----- | ------ | ---- | -------- | ------ | ----------------- | ------ | ---------- | ---------- |
 | -     | -      | -    | -        | -      | -                 | -      | -          | -          |
 
 <p align="justify">Durante toda a duração da reunião a equipe se dedicou em criar as histórias de usuário e em um momento acabou surgindo a seguinte argumentação.
 </p>
+
 <p align="justify">ARGUMENTAÇÃO - O limite de likes deve entrar na história de usuário de dar likes?
 </p>
+
 <p align="justify">p1 - O limite de likes não deveria entrar nessa user storie, pois é uma funcionalidade que não faz muito sentido para a história. É possível realizar a história sem esse limite. Essa funcionalidade vem dos serviços pagos. - Arthur
 </p>
+
 <p align="justify">p2 - O limite deve entrar porque seria um tipo de validação, como um critério de aceitação da história. - Luciana
 </p>
+
 <p align="justify">p3 - Concordo que limitar os likes seria um critério de aceitação, já que só verificaria se tem likes disponíveis sendo um usuário free. - Waysman
 </p>
+
 <p align="justify">p4 - Eu não acho que seria um critério de aceitação, pois não agrega valor na user storie de dar like. O valor dessa história é um usuário avaliar outro e o limite de likes agrega valor no épico de serviços pagos. - Arthur
 </p>
+
 <p align="justify">p5 - Não acho que agrega valor no épico de serviços pagos, já que seria como adicionar um IF/ELSE de um método da história de dar likes e isso não tem relação com a história de serviços pagos. - Luciana
 </p>
+
 <p align="justify">p6 - O limite de likes deveria entrar na história de dar likes porque a maioria dos usuários não são pagos. E os usuários pagos herdam as características de usuário. - Vítor
 </p>
+
 <p align="justify">p7 - Acho que isso não faz sentido, uma vez que a visão ágil acredita em entregar pequenos produtos funcionais e um produto com esse limite não agrega valor. Isso acaba quebrando a usabilidade e alguns requisitos funcionais. Se você não dá outra opção para usuário não faz sentido limitar os likes, enquanto não existir a opção de compra. - Arthur
 </p>
+
 <p align="justify">p8 - Eu não acho que a limitação do like ‘estraga’ o produto. Acho que essa limitação do like, mesmo antes de colocar os serviços pagos da um gostinho a mais e instiga o usuário a voltar quando tiver like disponível. - Waysman
 </p>
+
 <p align="justify">p9 - Discordo, porque o Tinder não fez isso. Eles disponibilizaram tudo e somente depois colocaram a limitação de likes. - Arthur
 </p>
+
 <p align="justify">CONCLUSÃO - O limite de likes não vai entrar nessa história de usuário, porque no caso de sucesso que Tinder, esse limite só foi criado posteriormente.
 </p>
+
 **Compromissos:**
 <p align="justify">Durante a reunião as histórias de usuário foram divididas entre os integrantes e cada um deve fazer os critérios de aceitação correspondentes. A divisão ficou da seguinte maneira.
 </p>
+
 | Integrantes | Histórias de usuários |
 | ----------- | --------------------- |
 | Amanda      | 1 ao 6                |
@@ -558,3 +573,32 @@ Como a análise de discurso precisa ser feita por todos os integrantes, o Calebe
 | Luciana     | 18 ao 22              |
 | Vítor       | 23 ao 27              |
 | Waysman     | 28 ao 33              |
+
+
+## **Reunião - 06/05**
+</br>
+
+**Data:** 06 de junho de 2018.
+
+**Horário de início:** 20h30min.
+
+**Horário de término:** 22h30min.
+
+**Pessoas presentes:**
+- Amanda Muniz
+- Arthur Assis
+- Luciana Ribeiro
+
+**Pauta de reunião:** NFR
+
+**Discussões abordadas:** Os NFR foram criados.
+
+**Vídeo da reunião:** https://www.youtube.com/watch?v=OzpL5VREVTg
+
+**Registro das decisões:**
+<p align="justify">Nesta reunião os NFRs serão criados. Para isso ser feito estão sendo usados os NFRs individuais criados pela Amanda e a especificação suplementar. Sendo assim, os integrantes revisaram e fizeram a refatoração dos NFRs já prontos. Além disso, o Arthur comandou a votação da propagação.
+</p>
+
+**Compromisso:**
+<p align="justify">Explicar para os professores que metade da equipe não pode participar da elaboração dos NFRs.
+</p>
