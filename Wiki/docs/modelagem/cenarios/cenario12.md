@@ -5,7 +5,7 @@
 |Título|Avaliar com _[Deslike](/modelagem/lexicos#deslike)_ Outros Perfis|
 |------|------------------------------------|
 |**Objetivo**|O [usuário](/modelagem/lexicos#usuario) pode dar _[deslike](/modelagem/lexicos#deslike)_ em outros perfis.|
-|**Contexto**|**Pré-condição:** É preciso estar logado na [aplicação](/modelagem/lexicos#tinder).<br />**Pós-condição:** Após dar _[deslike](/modelagem/lexicos#deslike)_.|
+|**Contexto**|**Pré-condição:** É preciso estar logado na [aplicação](/modelagem/lexicos#tinder).<br />**Pós-condição:** Após dar _[deslike](/modelagem/lexicos#deslike)_ o [usuário](/modelagem/lexicos#usuario) pode continaur avaliando outros perfis.
 |**Atores**|[Usuário](/modelagem/lexicos#usuario).|
 |**Recursos**|Acesso à Internet.|
 |**Episódios**|1. O [usuário](/modelagem/lexicos#usuario) acessa o aplicativo do [Tinder](/modelagem/lexicos#tinder).<br />2. O [usuário](/modelagem/lexicos#usuario) visualiza o perfil de outro usuário.<br />3. O [usuário](/modelagem/lexicos#usuario) dá _[deslike](/modelagem/lexicos#deslike)_ no perfil.<br />4.s O [usuário](/modelagem/lexicos#usuario) continua avaliando outros perfis.|
