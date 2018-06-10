@@ -43,6 +43,7 @@ pages:
          - 'Linha do Tempo': 'extras/linha-tempo.md'
          - 'Pautas de Reuniões': 'extras/reunioes.md'
          - 'Apresentações': 'extras/apresentacoes.md'
+         - 'Pesquisa de Qualidade': 'extras/pesquisaqualidade.md'
      - Pages :
          - 'Cenario 01': 'modelagem/cenarios/cenario01.md'
          - 'Cenario 02': 'modelagem/cenarios/cenario02.md'
@@ -110,7 +111,6 @@ pages:
          - 'UC 25': 'modelagem/casosUso/UC25.md'
          - 'UC 26': 'modelagem/casosUso/UC26.md'
          - 'UC 27': 'modelagem/casosUso/UC27.md'
-         - 'Pesquisa de Qualidade': 'extras/pesquisaqualidade.md'
 
 theme:
     name: simplex
