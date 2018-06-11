@@ -38,7 +38,6 @@ pages:
          - 'Referências': 'modelagem/referencias.md'
      - Análise:
          - 'About': 'analise/analise.md'
-         - 'Referências': 'analise/referencias.md'
          - 'Verificação': 'analise/verificacao.md'
          - 'Validação': 'analise/validacao.md'
 
@@ -115,6 +114,16 @@ pages:
          - 'UC 25': 'modelagem/casosUso/UC25.md'
          - 'UC 26': 'modelagem/casosUso/UC26.md'
          - 'UC 27': 'modelagem/casosUso/UC27.md'
+         - 'Verificação da Argumentação': 'analise/verificacao/veargumentacao.md'
+         - 'Verificação do Storytelling': 'analise/verificacao/vestorytelling.md'
+         - 'Verificação da Análise de Protocolo': 'analise/verificacao/veprotocolo.md'
+         - 'Verificação dos Casos de Uso': 'analise/verificacao/vecasodeuso.md'
+         - 'Verificação das Histórias de Usuário': 'analise/verificacao/veuserstorie.md'
+         - 'Verificação dos Cenários': 'analise/verificacao/vecenario.md'
+         - 'Verificação dos Léxicos': 'analise/verificacao/velexico.md'
+         - 'Verificação dos NFRs': 'analise/verificacao/venfr.md'
+         - 'Verificação do iStar': 'analise/verificacao/veistar.md'
+
 
 theme:
     name: simplex
