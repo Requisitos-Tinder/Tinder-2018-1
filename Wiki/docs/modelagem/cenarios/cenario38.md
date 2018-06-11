@@ -1,4 +1,4 @@
-# Abrir Perfil pelo feed
+# Desconectar da Conta
 
 <br />
 

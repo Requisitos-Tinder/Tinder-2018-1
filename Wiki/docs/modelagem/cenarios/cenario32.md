@@ -9,5 +9,5 @@
 |**Atores**|1. [Usuário](/modelagem/lexicos#usuario).<br />2. [Sistema](/modelagem/lexicos#tinder).|
 |**Recursos**|Acesso à Internet.|
 |**Episódios**|1. O [usuário](/modelagem/lexicos#usuario) abre a [aplicação](/modelagem/lexicos#tinder).<br />2. O [usuário](/modelagem/lexicos#usuario) abre a aba [_feed_](/modelagem/lexicos#feed) e [mensagens](/modelagem/lexicos#mensagem).<br />3. O [usuário](/modelagem/lexicos#usuario) seleciona o [_match_](/modelagem/lexicos#match) que quer [denunciar](/modelagem/lexicos#denunciar-usuario).<br />4. O [usuário](/modelagem/lexicos#usuario) seleciona o ícone de três pontos.<br />5. O [usuário](/modelagem/lexicos#usuario) seleciona [denunciar o perfil](/modelagem/lexicos#denunciar-usuario).<br />6. O [usuário](/modelagem/lexicos#usuario) seleciona o motivo.<br />7. O [sistema](/modelagem/lexicos#tinder) exibe uma [mensagem](/modelagem/lexicos#mensagem) de [_reported_](/modelagem/lexicos#reported).|
-|**Restrições**||
+|**Restrições**|Fluxo intuitivo|
 |**Exceção**|1. A internet parar de funcionar no meio da ação.<br />2. O [usuário](/modelagem/lexicos#usuario) fechar o [aplicativo](/modelagem/lexicos#tinder) antes de terminar a ação.|
