@@ -20,7 +20,7 @@ A argumentação é uma forma utilizada para que um conjunto de pessoas que disc
 
 <br>
 
-- p1 - É necessário colocar os concorrentes no Rich Picture para mostrar como o usuário escolhe qual aplicativo usar - **Arthur**
+- p1 - É necessário colocar os concorrentes no Rich Picture para mostrar como o O [usuário](/modelagem/lexicos#usuario) escolhe qual aplicativo usar - **Arthur**
 
 - p2 - Não é necessário colocá-los, porque não se sabe se é possível encaixar os concorrentes no Rich Picture - **Vítor**
 
