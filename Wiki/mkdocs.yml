@@ -50,6 +50,7 @@ pages:
          - 'Apresentações': 'extras/apresentacoes.md'
          - 'Pesquisa de Qualidade': 'extras/pesquisaqualidade.md'
      - Pages :
+         - 'Versoes argumentacao': 'pre-rastreabilidade/versoes_ateriores_argumentacoes.md'
          - 'Cenario 01': 'modelagem/cenarios/cenario01.md'
          - 'Cenario 02': 'modelagem/cenarios/cenario02.md'
          - 'Cenario 03': 'modelagem/cenarios/cenario03.md'
