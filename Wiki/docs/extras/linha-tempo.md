@@ -258,16 +258,18 @@ Dividir tarefas.
 
 |        Documento        |     Produzido por    |
 |:-----------------------:|:--------------------:|
-|  [Técnicas de Priorização V1](/elicitacao/tecnicas-priorizacao/) |    Arthur Assis    |
+|  Estratégia de Priorização |    Arthur Assis    |
 
 <br>
 #### Documentos produzidos durante a reunião:
 
 |        Documento        |     Produzido por    |
 |:-----------------------:|:--------------------:|
-| [Técnicas de Elicitação V1]() |    todos presentes na reunião    |
-|  [Requisitos Elicitados V1]()  |    todos presentes na reunião    |
-|  [Requisitos Oriorizados V1]()  |    todos presentes na reunião    |
+| [Observação Participativa V1]() |    todos presentes na reunião    |
+| [Questionário Usuários e não Usuários V1]() |    Amanda/Luciana    |
+| [Introspecção V1]() |    todos presentes na reunião    |
+| [Brainstorming V1]() |    todos presentes na reunião    |
+| [First Things First V1]()  |    todos presentes na reunião    |
 
 <br>
 #### Tarefas programadas pos-reunião:
@@ -289,14 +291,15 @@ Dividir tarefas.
 
 <br>
 #### Documentos apresentados:
-- [Técnicas de Priorização V1](/elicitacao/tecnicas-priorizacao/)
-- [Técnicas de Elicitação V1]()
-- [Requisitos Elicitados V1]()
-- [Requisitos Priorizados V1]()
+- [Observação Participativa V1]()
+- [Questionário V1]()
+- [Introspecção V1]()
+- [Brainstorming V1]()
+- [First Things First V1]()
 
 <br>
 #### Feedback:
-- Bom trabalho, porém mal documentado
+- As tequinicas de elicitação estão mal documentadas
 
 <br>
 ### [Reunião 28/03](reunioes/#reuniao-2803)
@@ -332,20 +335,21 @@ Dividir tarefas.
 
 |            Tarefa           |  Responsavel |        Resultado       |
 |:---------------------------:|:------------:|:----------------------:|
-|Criar o estrutura basica da wiki | Luciana Ribeiro | ----- |
-|Criar página de Pré-Rastreabilidade | Luciana Ribeiro | ----- |
-|Escrever textos introdutorios | Amanda Muniz | ----- |
-|Padronizar Pautas de Reunião | Amanda Muniz | ----- |
-|Criar página de Pós-Rastreabilidade | Amanda Muniz | ----- |
-|Realizar elicitação atravez de Entrevista | Amanda/Luciana | ----- |
-|Realizar elicitação atravez de Análise de Protocolo | Amanda/Luciana | ----- |
-|Criar página de Elicitação e Priorização | Arthur Assis | ----- |
-|Realizar elicitação atravez de Observação | Arthur Assis | ----- |
-|Criar página de Modelagem | Calebe Rios | ----- |
-|Criar página  Apresentações | Calebe Rios | ----- |
-|Criar plano para a Análise de Discurso | Calebe Rios | ----- |
-|Criar página de Análise | Vítor Cardoso| ----- |
-|Realizar elicitação atravez de StoryTelling  | Vítor Cardoso| ----- |
-|Refatorar [Técnicas de Elicitação V1]()  | Waysman Silva| ----- |
+|Criar o estrutura basica da wiki | Luciana Ribeiro | Feito |
+|Criar página de Pré-Rastreabilidade | Luciana Ribeiro | [Textos Pré-Rastreabilidade](/pre-rastreabilidade/pre-rastreabilidade/) |
+|Escrever textos introdutorios | Amanda Muniz | [Textos introdutorios pagina Home](/) |
+|Padronizar Pautas de Reunião | Amanda Muniz | [Pautas de reunião](/extras/reunioes) |
+|Criar página de Pós-Rastreabilidade | Amanda Muniz | [Textos introdutorios Pós-Rastreabilidade](/pos-rastreabilidade/pos-rastreabilidade/) |
+|Realizar elicitação atravez de Entrevista | Amanda/Luciana | Abandonado por dificuldade de contatar funcionarios do Tinder |
+|Realizar elicitação atravez de Análise de Protocolo | Amanda/Luciana | [Análise de Protocolo](/elicitacao/analise_protocolo/) |
+|Criar página de Elicitação e Priorização | Arthur Assis | [Textos introdutorios Elicitação e Priorização](/elicitacao/elicitacao/) |
+|Criar página de Modelagem | Calebe Rios | [Textos introdutorios Modelagem](/modelagem/modelagem/) |
+|Criar página  Apresentações | Calebe Rios | [Pagina de Apresentações](/extras/apresentacoes/) |
+|Criar plano para a Análise de Discurso | Calebe Rios | [Analise de Discurso V1](/elicitacao/analise_discurso/) |
+|Criar página de Análise | Vítor Cardoso| [Textos introdutorios Análise](/analise/analise/) |
+|Realizar elicitação atravez de StoryTelling  | Vítor Cardoso| [StoryTelling](/elicitacao/storytelling/) |
+|Refatorar [Observação Participativa V1]()  | Waysman Silva| [Observação Participativa V2]() |
+|Refatorar [Introspecção V1]()  | Waysman Silva| [Introspecção V2]() |
+|Refatorar [Brainstorming V1]()  | Waysman Silva| [Brainstorming V2]() |
 
 ---
