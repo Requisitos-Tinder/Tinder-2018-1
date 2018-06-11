@@ -1,4 +1,4 @@
-# Verificação dos Cenários
+# Verificação dos iStar
 
 ## Contexto
 
