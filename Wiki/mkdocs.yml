@@ -7,7 +7,10 @@ pages:
          - 'Argumentações': 'pre-rastreabilidade/argumentacoes.md'
          - 'Referências': 'pre-rastreabilidade/referencias.md'
      - Pós-Rastreabilidade:
+         - 'Matrizes de Rastreabilidade': 'pos-rastreabilidade/matriz-rastreabilidade.md'
          - 'About': 'pos-rastreabilidade/pos-rastreabilidade.md'
+         - 'Backward-from': 'pos-rastreabilidade/backwardfrom.md'
+         - 'Forward-from': 'pos-rastreabilidade/forwardfrom.md'
          - 'Referências': 'pos-rastreabilidade/referencias.md'
      - Elicitação:
          - 'About': 'elicitacao/elicitacao.md'
@@ -32,15 +35,22 @@ pages:
          - 'Casos de Uso': 'modelagem/casosUso.md'
          - 'Especificação Suplementar': 'modelagem/EspSuplementar.md'
          - 'Historias de Usuário': 'modelagem/user_stories.md'
+         - 'NFR': 'modelagem/NFR.md'
+         - 'iStar': 'modelagem/iStar.md'
          - 'Referências': 'modelagem/referencias.md'
      - Análise:
          - 'About': 'analise/analise.md'
-         - 'Referências': 'analise/referencias.md'
+         - 'Verificação': 'analise/verificacao.md'
+         - 'Validação': 'analise/validacao.md'
+
+
      - Extras:
          - 'Linha do Tempo': 'extras/linha-tempo.md'
          - 'Pautas de Reuniões': 'extras/reunioes.md'
          - 'Apresentações': 'extras/apresentacoes.md'
+         - 'Pesquisa de Qualidade': 'extras/pesquisaqualidade.md'
      - Pages :
+         - 'Versoes argumentacao': 'pre-rastreabilidade/versoes_ateriores_argumentacoes.md'
          - 'Cenario 01': 'modelagem/cenarios/cenario01.md'
          - 'Cenario 02': 'modelagem/cenarios/cenario02.md'
          - 'Cenario 03': 'modelagem/cenarios/cenario03.md'
@@ -107,6 +117,17 @@ pages:
          - 'UC 25': 'modelagem/casosUso/UC25.md'
          - 'UC 26': 'modelagem/casosUso/UC26.md'
          - 'UC 27': 'modelagem/casosUso/UC27.md'
+         - 'Verificação da Argumentação': 'analise/verificacao/veargumentacao.md'
+         - 'Verificação do Storytelling': 'analise/verificacao/vestorytelling.md'
+         - 'Verificação da Análise de Protocolo': 'analise/verificacao/veprotocolo.md'
+         - 'Verificação dos Casos de Uso': 'analise/verificacao/vecasodeuso.md'
+         - 'Verificação das Histórias de Usuário': 'analise/verificacao/veuserstorie.md'
+         - 'Verificação dos Cenários': 'analise/verificacao/vecenario.md'
+         - 'Verificação dos Léxicos': 'analise/verificacao/velexico.md'
+         - 'Verificação dos NFRs': 'analise/verificacao/venfr.md'
+         - 'Verificação do iStar': 'analise/verificacao/veistar.md'
+
+
 theme:
     name: simplex
 extra_css:

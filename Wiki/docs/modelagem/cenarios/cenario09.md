@@ -1,8 +1,8 @@
-# Sobre Mim
+# Editar o Sobre Mim
 
 <br />
 
-|Título|[Sobre Mim](/modelagem/lexicos#sobre-mim)|
+|Título|Editar o [Sobre Mim](/modelagem/lexicos#sobre-mim)|
 |------|---------|
 |**Objetivo**|Ditar [informações](/modelagem/lexicos#info) pessoais no perfil do [Tinder](/modelagem/lexicos#tinder)|
 |**Contexto**|**Pré-condição:** [usuário](/modelagem/lexicos#usuário) logado no [Tinder](/modelagem/lexicos#tinder).<br />**Pós-condição:** Um ou mais campos de [informações](/modelagem/lexicos#info) do perfil preenchidos.|
