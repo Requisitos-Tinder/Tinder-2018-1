@@ -9,6 +9,8 @@ pages:
      - Pós-Rastreabilidade:
          - 'Matrizes de Rastreabilidade': 'pos-rastreabilidade/matriz-rastreabilidade.md'
          - 'About': 'pos-rastreabilidade/pos-rastreabilidade.md'
+         - 'Backward-from': 'pos-rastreabilidade/backwardfrom.md'
+         - 'Forward-from': 'pos-rastreabilidade/forwardfrom.md'
          - 'Referências': 'pos-rastreabilidade/referencias.md'
      - Elicitação:
          - 'About': 'elicitacao/elicitacao.md'
