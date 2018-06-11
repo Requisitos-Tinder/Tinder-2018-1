@@ -29,6 +29,23 @@ As telas do sistema devem possuir poucas opções de navegação, tornando-as si
 Ícones devem ser claros em relação à seus objetivos.
 </p>
 
+<p align="justify">&emsp;
+Deve ser adotado um método simples de navegação e exploração das telas. Este método deve abranger a maior parte das operações de navegação da aplicação. O método em questão é o Swipe.
+</p>
+
+<p align="justify">&emsp;
+O Swipe (Deslizar) deve ser parte essêncial da principal funcionalidade da aplicação, que se resume em avaliar o perfil de outros usuários.  
+Deslizar um perfil para esquerda significa uma avaliação negativa.
+Deslizar um perfil para direita significa uma avaliação positiva.
+A função de superlike tambem se aproveitará do Swipe, de modo que ao deslizar um perfil para cima, significará um superlike no perfil em questão.  
+Além de abranger a funcionalidade de descoberta, a navegação entre as telas que representam diferentes funcionalidades, também deverá ser realizada através de Swipes.
+</p>
+
+<p align="justify">&emsp;
+Desse modo a usabilidade da aplicação obtém vantagens no que se refere à facilidade de aprendizagem do usuário, memorização de ações e intuitividade da interface.
+</p>
+
+
 <br />
 ## Confiabilidade:
 
@@ -36,21 +53,39 @@ As telas do sistema devem possuir poucas opções de navegação, tornando-as si
 <p align="justify">&emsp;
 Os dados do usuário referentes à autenticação e relacionamento com outras pessoas dentro do Tinder devem ser privados e consequentemente bem protegidos na base dados da empresa.
 </p>
+<p align="justify">&emsp;
+Não só os dados pessoais, mas também os dados de pagamento do usuário devem ser tratados com cuidado. Uma forma de alcançar esse objetivo é utilizar os sistemas de pagamentos ja existentes no Google Play e na App Store como intermediário nos pagamentos. Estes são sistemas já bem consolidados no contexto de pagamentos em aplicações móveis por conta de sua confiabilidade e qualidade em geral.
+</p>
 #### Segurança ao realizar a integração com as redes sociais (Facebook, Instagram, Spotify):
 <p align="justify">&emsp;
-Ao solicitar integração de seu perfil com algum outro sistema, apenas os dados do sistema a ser integrado deverão ser importados, de forma que nenhuma informação sobre o comportamento ou se quer a existência de um usuário no tinder.
+Ao solicitar integração de seu perfil com algum outro sistema, apenas os dados do sistema a ser integrado deverão ser importados, de forma que nenhuma informação sobre o comportamento ou se quer a existência de um usuário no tinder seja publicada em algum desses softwares.
+</p>
+
+<p align="justify">&emsp;
+Dessa forma deve-se adotar métodos de integração na qual sejam necessários o minimo de dados possível sobre o usuário, para que seja realizada a integração entre o Tinder e outro software.
+Possíveis dados necessários para integração:</br>
+- E-mail do usuário</br>
+- ID do usuário do Tinder</br>
+- Nome do usuário</br>
+
+Quais quer outros dados além destes podem ser vistos como desnecessários para uma simples conexão entre as contas de um usuário em softwares distintos.
 </p>
 
 <br />
 ## Desempenho:
 #### Tempo mínimo de resposta entre cada perfil avaliado:
+<p align="justify">&emsp;
 A atividade de avaliar perfil consiste em arrastar cards para o lado direito ou esquerdo em caso de like ou deslike respectivamente. Logo é necessário que outro card substitua o card que foi arrastado para o lado. Caso o tempo de carregamento desse novo card seja lento, a principal tela do aplicativo se tornaria inútil durante esse tempo, piorando significativamente a experiência do usuário.
-		Medidas de tempo?
-
+</p>
 
 #### Tempo mínimo de respostas quando houver o match:
 <p align="justify">&emsp;
 A tela que notifica o usuário que o match aconteceu, deve aparecer rapidamente e de forma invasiva, pois ela representa o objetivo da principal função do sistema(avaliar perfis) ser alcançado. Com isso o usuário tem noção em tempo real das consequências de suas avaliações.
+</p>
+
+##### Estratégia para alcancar tempos curtos de resposta:
+<p align="justify">&emsp;
+Para alcançar um tempo curto de resposta, uma estratégia interessante é tornar a interface levemente independente da persistencia e busca de dados. Para isso devem ser utilizados algorítimos que realizem acessos aos dados periodicamente, e não em cada vez que usuário tornar este acesso necessário. Isso daria uma maior janela de tempo para as respostas do servidor, enquanto o usuário se mantem ocupado nas avaliações de perfil.
 </p>
 
 <br />
@@ -80,22 +115,15 @@ O sistema deve estar disponível para diversas versões de um sistema operaciona
 </p>
 
 <br />
-## Restrições de Design?:
-
-<br />
-## Interfaces de Comunicações:
-Interface de comunicação com o facebook, instagram e spotify?
 
 <br />
 ## Padrões aplicáveis:
 <p align="justify">&emsp;
-Paleta de cores?
+Paleta de cores:
+<img src="../../img/tinderColors.png">
 </p>
 <p align="justify">&emsp;
-As cores predominantes nas telas são: Tons de Laranja, branco e cinza. Detalhes em Verde claro, azul claro, roxo, amarelo e dourado.
-</p>
-<p align="justify">&emsp;
-Navegação entre páginas por meio de abas.
+Navegação e exploração da maior parte do sistema deve ser feita através de Swipes e Abas.
 </p>
 
 <br />
