@@ -3,29 +3,28 @@
 
 O questionário foi criado inicialmente para que o grupo tivesse uma visão mais ampla a respeito dos tipos de usuário do Tinder, mas com a continuidade do projeto, o questionário foi ampliado para que os requisitos não-funcionais fossem levantados, levando em consideração que é a forma mais eficaz de compreender os motivos, intenções e insentivos que levam uma pessoa a se tornar usuário do Tinder. 
 
-Obtivemos 477 respostas no total e isso contribuiu muito para que a equipe tivesse um embasamento mais preciso a respeito das respostas.
+Obtivemos 479 respostas no total e isso contribuiu muito para que a equipe tivesse um embasamento mais preciso a respeito das respostas.
 
 Foi separado incialmente os participantes em dois ninchos: usuários e não usuários. Onde a maioria absoluta era ou ja foi usuário do Tinder. 
 
 
 
-<a data-fancybox="gallery" href="/elicitacao/questionario/quest1.png"><img src="quest1.png"></a>
-
+<a data-fancybox="gallery" href="../../../img/questionario/quest1.png"><img src="../../../img/questionario/quest1.png"></a>
 
 
 ### *Usuários* 
 
 Então para compreender o público alvo do Tinder, a pesquisa buscou avaliar a idade dos usuários, onde a maioria está entre 21 e 25 anos, mas que é possível visualizar que grande parte de seu público também está na faixa etária de 18 a 20 anos.
 
-<a data-fancybox="gallery" href="quest2.png"><img src="quest2.png"></a>
+<a data-fancybox="gallery" href="../../../img/questionario/quest2.png"><img src="../../../img/questionario/quest2.png"></a>
 
 O Tinder possui suporte para as plataformas: Android, IOS e Web. Através do questionário foi possível levantar a informação de que mais de 70% dos usuários utilizam a aplicação em dispositivos Android e que são poucos os usuários que utilizam o Tinder na versão Web. 
 
-<a data-fancybox="gallery" href="quest3.png"><img src="quest3.png"></a>
+<a data-fancybox="gallery" href="../../../img/questionario/quest3.png"><img src="../../../img/questionario/quest3.png"></a>
 
 A próxima pergunta foi muito interessante e surpreendente. Onde os usuários foram perguntados à respeito de suas motivações ao usar o Tinder.
 
-<a data-fancybox="gallery" href="quest4.png"><img src="quest4.png"></a>
+<a data-fancybox="gallery" href="../../../img/questionario/quest4.png"><img src="../../../img/questionario/quest4.png"></a>
 
 Foi dada aos participantes as seguintes opções, respectivamente:
 
@@ -53,21 +52,21 @@ Mas também foi possível que os participantes respondessem outros motivos com s
 
 A partir da compreenção dos motivos de um usuário utilizar o Tinder, foi buscado analisar como foi a experiência desses participantes.  
 
-<a data-fancybox="gallery" href="quest5.png"><img src="quest5.png"></a>
+<a data-fancybox="gallery" href="../../../img/questionario/quest5.png"><img src="../../../img/questionario/quest5.png"></a>
 
 
 
 Para entender se a proposta do Tinder foi bem recebida, foi perguntado aos participantes de suas expectativas foram alcançadas, com o intuito de entender se aquilo que a aplicação se propôs a fazer foi entendido pelos usuários.
 
-<a data-fancybox="gallery" href="quest6.png"><img src="quest6.png"></a>
+<a data-fancybox="gallery" href="../../../img/questionario/quest6.png"><img src="../../../img/questionario/quest6.png"></a>
 
 Uma grande preocupação da equipe foi descobrir se a plataforma era de fácil acesso, compreensão e uso.  
 
-<a data-fancybox="gallery" href="quest7.png"><img src="quest7.png"></a>
+<a data-fancybox="gallery" href="../../../img/questionario/quest7.png"><img src="../../../img/questionario/quest7.png"></a>
 
 Outra área abordada foi com relação aos concorrentes e seus possíveis benefícios em comparação ao Tinder. 
 
-<a data-fancybox="gallery" href="quest8.png"><img src="quest8.png"></a>
+<a data-fancybox="gallery" href="../../../img/questionario/quest8.png"><img src="../../../img/questionario/quest8.png"></a>
 
 Então foi pedido para que os usuários respondessem quais aplicações concorrentes eram de seu conhecimento:
 
@@ -88,13 +87,13 @@ Algumas pessoas inseriram outros concorrentes de sua preferência, como:
 3. Par perfeito
 4. Nerd Spell
 
-<a data-fancybox="gallery" href="quest9.png"><img src="quest9.png"></a>
+<a data-fancybox="gallery" href="../../../img/questionario/quest9.png"><img src="../../../img/questionario/quest9.png"></a>
 
 Algumas das respostas que obtivemos foram de grande ajuda para a compreensão de quais atraentes o Tinder possui, assim como as razões pelas quais alguns usuários optaram por utilizar uma aplicação concorrente. 
 
 Foram obtidas 70 respostas.
 
-<a data-fancybox="gallery" href="quest10.png"><img src="quest10.png"></a>
+<a data-fancybox="gallery" href="../../../img/questionario/quest10.png"><img src="../../../img/questionario/quest10.png"></a>
 
 O **questionário** pode ser encontrado no seguinte link:
 
