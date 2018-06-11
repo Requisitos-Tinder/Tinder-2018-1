@@ -302,6 +302,11 @@ Dividir tarefas.
 - As tequinicas de elicitação estão mal documentadas
 
 <br>
+
+-----
+
+<br>
+
 ### [Reunião 28/03](reunioes/#reuniao-2803)
 
 <br>
@@ -350,6 +355,45 @@ Dividir tarefas.
 |Realizar elicitação atravez de StoryTelling  | Vítor Cardoso| [StoryTelling](/elicitacao/storytelling/) |
 |Refatorar [Observação Participativa V1]()  | Waysman Silva| [Observação Participativa V2]() |
 |Refatorar [Introspecção V1]()  | Waysman Silva| [Introspecção V2]() |
-|Refatorar [Brainstorming V1]()  | Waysman Silva| [Brainstorming V2]() |
+|Refatorar [Brainstorming V1]() | Waysman Silva| [Brainstorming V2]() |
+<br>
+
+---
+
+<br>
+
+### [Reunião 31/03](reunioes/#reuniao-3103)
+
+<br>
+#### Objetivo: Revisar tarefas.
+
+<br>
+#### Participantes:
+- Amanda Muniz
+- Luciana Ribeiro
+- Waysman Silva
+
+<br>
+#### Documentos produzidos para a reunião:
+|        Documento        |     Produzido por    |
+|:-----------------------:|:--------------------:|
+|  [Observação Participativa V2]() |     Waysman Silva    |
+|  [Introspecção V2]() |     Waysman Silva    |
+|  [Brainstorming V2]() |     Waysman Silva    |
+
+<br>
+#### Documentos produzidos durante a reunião:
+
+|        Documento        |     Produzido por    |
+|:-----------------------:|:--------------------:|
+|  -----  |    -----    |
+
+<br>
+#### Tarefas programadas pos-reunião:
+
+|            Tarefa           |  Responsavel |        Resultado       |
+|:---------------------------:|:------------:|:----------------------:|
+| -----                       |-----         |-----                   |
+
 
 ---
