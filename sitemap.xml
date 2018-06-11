@@ -220,7 +220,13 @@
     </url>
         
     <url>
-     <loc>/analise/referencias/</loc>
+     <loc>/analise/verificacao/</loc>
+     <lastmod>2018-06-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/analise/validacao/</loc>
      <lastmod>2018-06-10</lastmod>
      <changefreq>daily</changefreq>
     </url>
