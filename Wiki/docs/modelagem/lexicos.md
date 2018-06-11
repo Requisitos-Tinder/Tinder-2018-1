@@ -6,7 +6,7 @@
 | Nome      	| Assinar                                                  	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Subscribe, assinatura.  |
-| **Noção**    	| O ato de assinar um [Plano pago](/modelagem/lexicos#plano-pago) do [tinder](/modelagem/lexicos#tinder)              	|
+| **Noção**    	| O ato de realizar a assinatura de um [Plano pago](/modelagem/lexicos#plano-pago) do [tinder](/modelagem/lexicos#tinder)              	|
 | **Impacto**   	| O [usuário free](/modelagem/lexicos#usuario-free) assina o [plano plus](/modelagem/lexicos#plano-plus)<br/>O [usuário free](/modelagem/lexicos#usuario-free) assina o [plano gold](/modelagem/lexicos#plano-gold) |
 | **Classificação** | verbo                                                    	|
 
@@ -72,7 +72,7 @@
 | Nome              | compartilhar                             |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Compartilha, share, shared, compartilhado, compartilhou. |
-| **Noção**         | O ato de compartilhar fotos, videos, áudios, [gifs](/modelagem/lexicos#gif) e [stickers](/modelagem/lexicos#sticker) com outros [usuários](/modelagem/lexicos#usuario) no [chat](/modelagem/lexicos#chat) |
+| **Noção**         | O ato de exibir fotos, videos, áudios, [gifs](/modelagem/lexicos#gif) e [stickers](/modelagem/lexicos#sticker) com outros [usuários](/modelagem/lexicos#usuario) no [chat](/modelagem/lexicos#chat) |
 | **Impacto**       | 1. O [usuário](/modelagem/lexicos#usuario) compartilha fotos com outro [usuário](/modelagem/lexicos#usuario) <br />2. O [usuário](/modelagem/lexicos#usuario) compartilha [gifs](/modelagem/lexicos#gif) com outro [usuário](/modelagem/lexicos#usuario) <br />3. O [usuário](/modelagem/lexicos#usuario) compartilha [stickers](/modelagem/lexicos#sticker) com outro [usuário](/modelagem/lexicos#usuario) |
 | **Classificação** | Verbo                                    |
 
@@ -85,7 +85,7 @@
 | **Sinônimos** 	| Compartilhar meu link, compartilhar meu [perfil](/modelagem/lexicos#perfil).          	|
 | **Noção**     	| Compartilhamento do [perfil](/modelagem/lexicos#perfil) do [usuário](/modelagem/lexicos#usuario) através de um link para uma página web. |
 |**Impacto**   	| O [usuário](/modelagem/lexicos#usuario) pode compartilhar um link de uma página com o seu [perfil](/modelagem/lexicos#usuario) web para outras pessoas poderem dar [like](/modelagem/lexicos#like). |
-|**Classificação**| Objeto                                                   	|
+|**Classificação**| Ação                                                  	|
 
 <br />
 
@@ -120,7 +120,7 @@
 | **Sinônimos** 	| [Like](/modelagem/lexicos#like) em mensagem, [like](/modelagem/lexicos#like) na [mensagem](/modelagem/lexicos#mensagem), coração na [mensagem](/modelagem/lexicos#mensagem). 	|
 | **Noção**     	| O [usuário](/modelagem/lexicos#usuario) pode reagir de forma positiva à alguma [mensagem](/modelagem/lexicos#mensagem) recebida com a sinalização de um coração. |
 | **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) curtiu a [mensagem](/modelagem/lexicos#mensagem) recebida.                    	|
-| **Classificação** | Objeto                                                   	|
+| **Classificação** | Ação                                                   	|
 
 <br />
 
@@ -163,7 +163,7 @@
 | Nome      	| Desfazer Match                                           	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Desfazer Match, Unmatch, Unmatched                       	|
-| **Noção**     	| Quando um [usuário](/modelagem/lexicos#usuario) quer desfazer um match dado com outro [usuário](/modelagem/lexicos#usuario) |
+| **Noção**     	| Quando um [usuário](/modelagem/lexicos#usuario) quer que um [match](/modelagem/lexicos#match) não exista mais. |
 | **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) pode desfazer o match nas [conversas](/modelagem/lexicos#chat) e no [feed](/modelagem/lexicos#feed)  	|
 | **Classificação** | Verbo                                                    	|
 
@@ -197,8 +197,8 @@
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Safety tips.                                             	|
 | **Noção**     	| Documento que instrui os [usuários](/modelagem/lexicos#usuario) em como usar a [aplicação](/modelagem/lexicos#tinder) de forma segura. |
-| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) restaura a compra do seu [plano pago](/modelagem/lexicos#plano-pago) em seu novo aparelho. |
-| **Classificação** | Verbo                                                    	|
+| **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) acessa as dicas de segurança para descobrir como usar uma funcionalidade. |
+| **Classificação** | Objeto                                                    	|
 
 <br />
 
@@ -297,7 +297,7 @@
 | Nome              | GIF                                      |
 | ----------------- | ---------------------------------------- |
 | **Sinônimos**     | Animation, animação                      |
-| **Noção**         | GIF é um formato de imagem que compacta várias imagens de forma a deixá-la animada. |
+| **Noção**         | Esse tipo de animação é um formato de imagem que compacta várias imagens de forma a deixá-la animada. |
 | **Impacto**       | GIFs podem ser mandados dentro de uma [conversa](/modelagem/lexicos#chat). |
 | **Classificação** | Objeto                                   |
 
@@ -329,8 +329,8 @@
 
 | Nome      	| Interesses                                               	|
 | ------------- | ------------------------------------------------------------ |
-| **Sinônimos** 	| Interesse                                                	|
-| **Noção**     	| Quando o [sistema](/modelagem/lexicos#tinder) cruza interesses em comum entre [usuários](/modelagem/lexicos#usuario) gerados a partir da integração com o [Facebook](/modelagem/lexicos#facebook) |
+| **Sinônimos** 	| Interesse, preferencias                                                	|
+| **Noção**     	| Quando o [sistema](/modelagem/lexicos#tinder) cruza as preferrencias em comum entre [usuários](/modelagem/lexicos#usuario) gerados a partir da integração com o [Facebook](/modelagem/lexicos#facebook) |
 | **Impacto**   	| Os interesses podem ser visualizados no perfil do usuário	|
 | **Classificação** | Sujeito                                                  	|
 
@@ -340,10 +340,10 @@
 
 | Nome              | Licença                                                      |
 | ----------------- | ------------------------------------------------------------ |
-| **Sinônimos**     |                                                              |
+| **Sinônimos**     | Certificado, declaração.                                                             |
 | **Noção**         | O [usuário](/modelagem/lexicos#usuario) pode ver os códigos e projetos utilizados para o desenvolvimento do [Tinder](/modelagem/lexicos#tinder). |
 | **Impacto**       | O [usuário](/modelagem/lexicos#usuario) sabe quais os aplicativos ou APIs foram utilizadas na composição do [aplicativo](/modelagem/lexicos#tinder). |
-| **Classificação** | Verbo                                                        |
+| **Classificação** | Objeto                                                       |
 
 <br />
 
@@ -384,8 +384,8 @@
 
 | Nome              | Match                                    |
 | ----------------- | ---------------------------------------- |
-| **Sinônimos**     | Interesse mútuo                          |
-| **Noção**         | O Match é quando duas ou mais [pessoas](/modelagem/lexicos#usuario) possuem interesses entre si. |
+| **Sinônimos**     | Interesse mútuo, combinação                          |
+| **Noção**         | A combinação é quando duas ou mais [pessoas](/modelagem/lexicos#usuario) possuem interesses entre si. |
 | **Impacto**       | Para o interesse mútuo acontecer dois [usuários](/modelagem/lexicos#usuario) precisam trocar [likes](/modelagem/lexicos#like) entre si. |
 | **Classificação** | Estado                                   |
 
@@ -418,7 +418,7 @@
 | Nome      	| Meus Artistas Preferidos.                                	|
 | ------------- | ------------------------------------------------------------ |
 | **Sinônimos** 	| Top Artists                                              	|
-| **Noção**     	| Lista dos artistas preferidos de um [usuário](/modelagem/lexicos#usuario) que fica disponível em seu [perfil](/modelagem/lexicos#perfil). |
+| **Noção**     	| Lista dos artistas mais escutados por um [usuário](/modelagem/lexicos#usuario) que fica disponível em seu [perfil](/modelagem/lexicos#perfil). |
 | **Impacto**   	| O [usuário](/modelagem/lexicos#usuario) define quais de seus artistas preferidos serão mostrados em seu [perfil](/modelagem/lexicos#perfil). |
 | **Classificação** | Objeto                                                   	|
 
@@ -494,8 +494,8 @@
 
 | Nome              | Padrão |
 |-------------------|--------|
-| **Sinônimos**     | |
-| **Noção**         | Padrão é o modelo que algum artefato segue caso não seja singular, diferente. |
+| **Sinônimos**     | Modelo, exemplo, molde|
+| **Noção**         | É o modelo que algum artefato segue caso não seja singular, diferente. |
 | **Impacto**       | No [Tinder](/modelagem/lexicos#tinder) os perfis seguem um padrão definido pelo [sistema](/modelagem/lexicos#tinder), com foto, nome, idade, descrição, etc. |
 | **Classificação** | Objeto |
 
