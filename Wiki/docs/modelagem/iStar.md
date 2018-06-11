@@ -122,3 +122,9 @@
 #### Recomendar Perfil
 
 <a data-fancybox="gallery" href="../../img/iStar/SRRecomendarPerfil.png"><img src="../../img/iStar/SRRecomendarPerfil-mini.png"></a>
+
+<br />
+
+#### Servicos Pagos
+
+<a data-fancybox="gallery" href="../../img/iStar/VersaoFinal/RationaleServicosPagos.png"><img src="../../img/iStar/VersaoFinal/RationaleServicosPagos-mini.png"></a>
