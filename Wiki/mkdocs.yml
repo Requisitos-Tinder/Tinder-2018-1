@@ -39,6 +39,10 @@ pages:
      - Análise:
          - 'About': 'analise/analise.md'
          - 'Referências': 'analise/referencias.md'
+         - 'Verificação': 'analise/verificacao.md'
+         - 'Validação': 'analise/validacao.md'
+
+
      - Extras:
          - 'Linha do Tempo': 'extras/linha-tempo.md'
          - 'Pautas de Reuniões': 'extras/reunioes.md'
