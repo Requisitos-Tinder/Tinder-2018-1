@@ -70,17 +70,17 @@ A argumentação é uma forma utilizada para que um conjunto de pessoas que disc
 
 - p3 - fazer a pesquisa não significa que os requisitos não funcionais estão sendo deixados de lado, mas sim que estão sendo feitas pesquisas para entendê-los melhor - **Vítor**
 
-- p4 - é melhor pesquisar e garantir uma representação mínima dos interesses dos usuários - **Amanda**
+- p4 - é melhor pesquisar e garantir uma representação mínima dos interesses dos [usuários](modelagem/lexicos#usuario) - **Amanda**
 
 - p5 - se feito agora seria sem embasamento nenhum - **Waysman**
 
 - p6 - todos os documentos são evolutivos. Então mesmo feito com menos conhecimento, eles seriam evoluídos e amadurecidos - **Arthur**
 
-- p7 - existe um embasamento porque os integrantes do grupo são usuários do tinder. O que cada indivíduo do grupo pensa do Tinder acaba sendo um pensamento de usuário, e isso  ajudaria na elaboração do rich picture - **Arthur**
+- p7 - existe um embasamento porque os integrantes do grupo são [usuários](/modelagem/lexicos#usuario) do [tinder](/modelagem/lexicos#tinder). O que cada indivíduo do grupo pensa do [Tinder](/modelagem/lexicos#tinder) acaba sendo um pensamento de [usuário](/modelagem/lexicos#usuario), e isso  ajudaria na elaboração do rich picture - **Arthur**
 
-- p8 - apesar dos integrantes serem usuários não é significativo, já que é um número extremamente pequeno de indivíduos e muitos não estão usando o Tinder de forma real. É muito difícil que seis pessoas representem todos os usuários. Por isso um doc- umento validaria os requisitos não funcionais - **Luciana**
+- p8 - apesar dos integrantes serem [usuários](/modelagem/lexicos#usuario) não é significativo, já que é um número extremamente pequeno de indivíduos e muitos não estão usando o [Tinder](/modelagem/lexicos#tinder) de forma real. É muito difícil que seis pessoas representem todos os [usuários](/modelagem/lexicos#usuario). Por isso um documento validaria os requisitos não funcionais - **Luciana**
 
-- A conclusão dessa argumentação foi que o rich picture de visão social seria feito depois que o formulário fosse lançado para receber respostas. Sendo assim, um questionário precisaria ser criado e para isso os integrantes levantaram perguntas que não poderiam faltar. Foi decidido que o questionário teria perguntas para usuários e não-usuários, perguntas sobre concorrentes e sobre os motivos de utilizar ou não o Tinder. A pessoa que ficou responsável pela elaboração do questionário foi a Luciana.
+- A conclusão dessa argumentação foi que o rich picture de visão social seria feito depois que o formulário fosse lançado para receber respostas. Sendo assim, um questionário precisaria ser criado e para isso os integrantes levantaram perguntas que não poderiam faltar. Foi decidido que o questionário teria perguntas para [usuários](/modelagem/lexicos#usuario) e [não-usuários](/modelagem/lexicos#usuario-nao-cadastrado), perguntas sobre concorrentes e sobre os motivos de utilizar ou não o [Tinder](/modelagem/lexicos#tinder).
 
 <br>
 
