@@ -7,8 +7,8 @@ pages:
          - 'Argumentações': 'pre-rastreabilidade/argumentacoes.md'
          - 'Referências': 'pre-rastreabilidade/referencias.md'
      - Pós-Rastreabilidade:
-         - 'Matrizes de Rastreabilidade': 'pos-rastreabilidade/matriz-rastreabilidade.md'
          - 'About': 'pos-rastreabilidade/pos-rastreabilidade.md'
+         - 'Matrizes de Rastreabilidade': 'pos-rastreabilidade/matriz-rastreabilidade.md'
          - 'Backward-from': 'pos-rastreabilidade/backwardfrom.md'
          - 'Forward-from': 'pos-rastreabilidade/forwardfrom.md'
          - 'Referências': 'pos-rastreabilidade/referencias.md'
