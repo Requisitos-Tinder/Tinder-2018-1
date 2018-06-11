@@ -72,14 +72,14 @@
 
 | Número | Requisito | Categoria | Técnica | Rich Picture |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|--------|--------|
-|1 |Suporte à plataforma Android |Compatibilidade| [Questionário](/elicitacao/questionario.md) | Geral |
-|2 |Suporte à plataforma IOS |Compatibilidade| [Questionário](/elicitacao/questionario.md) | Geral |
-|3 |Suporte à plataforma Web |Compatibilidade| [Questionário](/elicitacao/questionario.md) | Geral |
-|4 |Tempo mínimo de resposta entre cada [perfil](/modelagem/lexicos#perfil) avaliado |Desempenho| [Questionário](/elicitacao/questionario.md) | - |
-|5 |Tempo mínimo de respostas quando houver o [match](/modelagem/lexicos#match) |Desempenho| [Questionário](/elicitacao/questionario.md) | - |
-|6 |Segurança ao guardar os dados do [usuario](/modelagem/lexicos#usuario) |Segurança| [Questionário](/elicitacao/questionario.md) | Empresa |
+|1 |Suporte à plataforma Android |Compatibilidade| [Questionário](/elicitacao/questionario/questionario.md) | Geral |
+|2 |Suporte à plataforma IOS |Compatibilidade| [Questionário](/elicitacao/questionario/questionario.md) | Geral |
+|3 |Suporte à plataforma Web |Compatibilidade| [Questionário](/elicitacao/questionario/questionario.md) | Geral |
+|4 |Tempo mínimo de resposta entre cada [perfil](/modelagem/lexicos#perfil) avaliado |Desempenho| [Questionário](/elicitacao/questionario/questionario.md) | - |
+|5 |Tempo mínimo de respostas quando houver o [match](/modelagem/lexicos#match) |Desempenho| [Questionário](/elicitacao/questionario/questionario.md) | - |
+|6 |Segurança ao guardar os dados do [usuario](/modelagem/lexicos#usuario) |Segurança| [Questionário](/elicitacao/questionario/questionario.md) | Empresa |
 |7 |Segurança ao realizar a integração com as redes sociais (Facebook, Instragram, Spotify) |Segurança| [Storytelling](/elicitacao/storytelling.md) | Geral |
-|8 |Linguagem de fácil entendimento |Usabilidade| [Questionário](/elicitacao/questionario.md) | - |
-|9 |Compatibilidade com versões de browser (Google Chrome, Mozilla Firefox, etc) |Compatibilidade| [Questionário](/elicitacao/questionario.md) | Geral, empresa |
-|10 |Compatibilidade com versões de sistemas operacionais móveis |Compatibilidade| [Questionário](/elicitacao/questionario.md) | Geral |
-|11 |Interface intuítiva e de fácil compreensão |Usabilidade| [Questionário](/elicitacao/questionario.md) | - |
+|8 |Linguagem de fácil entendimento |Usabilidade| [Questionário](/elicitacao/questionario/questionario.md) | - |
+|9 |Compatibilidade com versões de browser (Google Chrome, Mozilla Firefox, etc) |Compatibilidade| [Questionário](/elicitacao/questionario/questionario.md) | Geral, empresa |
+|10 |Compatibilidade com versões de sistemas operacionais móveis |Compatibilidade| [Questionário](/elicitacao/questionario/questionario.md) | Geral |
+|11 |Interface intuítiva e de fácil compreensão |Usabilidade| [Questionário](/elicitacao/questionario/questionario.md) | - |

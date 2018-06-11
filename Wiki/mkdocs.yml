@@ -3,7 +3,7 @@ pages:
      - Home: index.md
      - Pré-Rastreabilidade:
          - 'About': 'pre-rastreabilidade/pre-rastreabilidade.md'
-         - 'Rich Pictures': 'pre-rastreabilidade/richPicture.md'
+         - 'Rich Pictures': 'pre-rastreabilidade/richPictures/richPictures-VFinal.md'
          - 'Argumentações': 'pre-rastreabilidade/argumentacoes.md'
          - 'Referências': 'pre-rastreabilidade/referencias.md'
      - Pós-Rastreabilidade:
@@ -125,6 +125,9 @@ pages:
          - 'Verificação dos Léxicos': 'analise/verificacao/velexico.md'
          - 'Verificação dos NFRs': 'analise/verificacao/venfr.md'
          - 'Verificação do iStar': 'analise/verificacao/veistar.md'
+         - 'RP V1': 'pre-rastreabilidade/richPictures/richPictures-V1.md'
+         - 'RP V1': 'pre-rastreabilidade/richPictures/richPictures-V2.md'
+         - 'RP V1': 'pre-rastreabilidade/richPictures/richPictures-V3.md'
 
 
 theme:

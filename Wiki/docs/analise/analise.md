@@ -8,4 +8,3 @@ Análise, a terceira das três grandes areas da engenharia de requisitos (Elicit
 ###1. [Verificação](../analise/verificacao.md)
 <br />
 
-###2. [Validação](../analise/validacao.md)
