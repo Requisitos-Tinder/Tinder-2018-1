@@ -428,6 +428,7 @@ Dividir tarefas.
 |  [Textos introdutorios Elicitação e Priorização](/elicitacao/elicitacao) |     Arthur Assis    |
 |  Estratégia para Analise de Discurso |     Calebe Rios    |
 |  [Questionário V2] |     Luciana Ribeiro    |
+|  [StoryTelling]() |     Vitor Cardoso    |
 |  [Analise de Protocolo V2](/elicitacao/analise_protocolo/) |     Amanda/Luciana    |
 
 
@@ -453,3 +454,34 @@ Dividir tarefas.
 | -----                       |-----         |-----                   |
 
 <br>
+---
+
+<br>
+### Ponto de controle 02/04:
+#### Participantes:
+- Amanda Muniz
+- Arthur Assis
+- Calebe Rios
+- Luciana Ribeiro
+- Vítor Cardoso
+- Waysman Silva
+
+<br>
+#### Documentos apresentados:
+- [Observação Participativa V2]()
+- [Questionário V2]()
+- [StoryTelling]()
+- [Introspecção V2]()
+- [Brainstorming V2]()
+- [Analise de Protocolo V2](/elicitacao/analise_protocolo/)
+- [Analise de Discurso]()
+- [MoSCoW V2]()
+- [First Things First V2]()
+
+<br>
+#### Feedback:
+- #TODO
+
+<br>
+
+-----
