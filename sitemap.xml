@@ -52,6 +52,18 @@
     </url>
         
     <url>
+     <loc>/pos-rastreabilidade/backwardfrom/</loc>
+     <lastmod>2018-06-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/pos-rastreabilidade/forwardfrom/</loc>
+     <lastmod>2018-06-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
      <loc>/pos-rastreabilidade/referencias/</loc>
      <lastmod>2018-06-11</lastmod>
      <changefreq>daily</changefreq>
