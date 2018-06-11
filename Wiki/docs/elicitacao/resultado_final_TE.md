@@ -81,3 +81,8 @@
 |9 |Compatibilidade com versões de browser (Google Chrome, Mozilla Firefox, etc) |Compatibilidade| [Questionário](questionario/) |
 |10 |Compatibilidade com versões de sistemas operacionais móveis |Compatibilidade| [Questionário](questionario/) |
 |11 |Interface intuítiva e de fácil compreensão |Usabilidade| [Questionário](questionario/) |
+
+
+### Moscow dos Requisitos Não Funcionais
+
+[Moscow](https://docs.google.com/forms/d/1PmX701a4EjQ-2obNP1WDlIHNcoNOm6R96O0Ii9ZLHsY/edit?edit_requested=true#responses)

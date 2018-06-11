@@ -16,7 +16,7 @@ pages:
          - 'About': 'elicitacao/elicitacao.md'
          - 'Técnicas Elicitação': 'elicitacao/tec_elicitacao.md'
          - 'Observação Participativa': 'elicitacao/observacao_participativa.md'
-         - 'Questionário': 'elicitacao/questionario.md'
+         - 'Questionário': 'elicitacao/questionario/questionario.md'
          - 'Introspecção': 'elicitacao/introspeccao.md'
          - 'Brainstorming': 'elicitacao/brainstorming.md'
          - 'Análise de Protocolo': 'elicitacao/analise_protocolo.md'
@@ -41,7 +41,6 @@ pages:
      - Análise:
          - 'About': 'analise/analise.md'
          - 'Verificação': 'analise/verificacao.md'
-         - 'Validação': 'analise/validacao.md'
 
 
      - Extras:
