@@ -229,7 +229,7 @@ Dividir tarefas.
 |:---------------------------:|:------------:|:----------------------:|
 |Criar cabeçalho ghpages | Luciana / Vítor | Não usaremos o ghpages |
 |Criar sidebar ghpages | Luciana / Vítor | Não usaremos o ghpages |
-| Storyline | Arthur Assis | [Storyline]() |
+| Lina do tempo | Arthur Assis | [Lina do tempo]() |
 | Documentar Pré-Rastreabilidade | Luciana Ribeiro | ----- |
 | Documentar Pós-Rastreabilidade | Amanda Muniz | ----- |
 | Documentar Pautas de Reunião | Amanda Muniz | ----- |
@@ -269,6 +269,7 @@ Dividir tarefas.
 | [Questionário Usuários e não Usuários V1]() |    Amanda/Luciana    |
 | [Introspecção V1]() |    todos presentes na reunião    |
 | [Brainstorming V1]() |    todos presentes na reunião    |
+| [MoSCoW V1]()  |    todos presentes na reunião    |
 | [First Things First V1]()  |    todos presentes na reunião    |
 
 <br>
@@ -350,12 +351,13 @@ Dividir tarefas.
 |Criar página de Elicitação e Priorização | Arthur Assis | [Textos introdutorios Elicitação e Priorização](/elicitacao/elicitacao/) |
 |Criar página de Modelagem | Calebe Rios | [Textos introdutorios Modelagem](/modelagem/modelagem/) |
 |Criar página  Apresentações | Calebe Rios | [Pagina de Apresentações](/extras/apresentacoes/) |
-|Criar plano para a Análise de Discurso | Calebe Rios | [Analise de Discurso V1](/elicitacao/analise_discurso/) |
+|Criar plano para a Análise de Discurso | Calebe Rios | Estratégia para Analise de Discurso |
 |Criar página de Análise | Vítor Cardoso| [Textos introdutorios Análise](/analise/analise/) |
 |Realizar elicitação atravez de StoryTelling  | Vítor Cardoso| [StoryTelling](/elicitacao/storytelling/) |
 |Refatorar [Observação Participativa V1]()  | Waysman Silva| [Observação Participativa V2]() |
 |Refatorar [Introspecção V1]()  | Waysman Silva| [Introspecção V2]() |
 |Refatorar [Brainstorming V1]() | Waysman Silva| [Brainstorming V2]() |
+
 <br>
 
 ---
@@ -395,5 +397,59 @@ Dividir tarefas.
 |:---------------------------:|:------------:|:----------------------:|
 | -----                       |-----         |-----                   |
 
+<br>
 
 ---
+
+<br>
+
+### [Reunião 01/04](reunioes/#reuniao-0104)
+
+<br>
+#### Objetivo: Revisar tarefas.
+
+<br>
+#### Participantes:
+- Amanda Muniz
+- Arthur Assis
+- Calebe Rios
+- Luciana Ribeiro
+- Vítor Cardoso
+- Waysman Silva
+
+<br>
+#### Documentos produzidos para a reunião:
+|        Documento        |     Produzido por    |
+|:-----------------------:|:--------------------:|
+|  [RichPicture fluxo de match v2]() |     Amanda Muniz    |
+|  [Textos introdutorios pagina Home](/) |     Amanda Muniz    |
+|  [Pautas de reunião até dia 28/03](/extras/reunioes/#reuniao-1803) |     Amanda Muniz    |
+|  [Linha do tempo até dia 28/03](/extras/linha-tempo/) |     Arthur Assis    |
+|  [Textos introdutorios Elicitação e Priorização](/elicitacao/elicitacao) |     Arthur Assis    |
+|  Estratégia para Analise de Discurso |     Calebe Rios    |
+|  [Questionário V2] |     Luciana Ribeiro    |
+|  [Analise de Protocolo V2](/elicitacao/analise_protocolo/) |     Amanda/Luciana    |
+
+
+<br>
+#### Documentos produzidos durante a reunião:
+
+|        Documento        |     Produzido por    |
+|:-----------------------:|:--------------------:|
+|  [RichPicture Fluxo Match V2]()  |    Amanda Muniz    |
+|  [RichPicture Tinder como empresa V2]()  |    Arthur Assis    |
+|  [First Things First V2]()  |    Arthur Assis     |
+|  [RichPicture Serviços Pagos V2]()  |    Calebe Rios    |
+|  [MoSCoW V2]()  |    Calebe Rios     |
+|  [RichPicture Concorrentes V2]()  |    Vitor Cardoso      |
+|  [RichPicture Fluxo do Cadastro V2]()  |    Waysman Silva     |
+|  [Analise de Discurso]()  |    Todos os presentes   |
+
+<br>
+#### Tarefas programadas pos-reunião:
+
+|            Tarefa           |  Responsavel |        Resultado       |
+|:---------------------------:|:------------:|:----------------------:|
+| -----                       |-----         |-----                   |
+
+<br>
