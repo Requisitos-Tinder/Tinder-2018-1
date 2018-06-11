@@ -1,7 +1,9 @@
 # Introspecção
 
 ## Metodologia
-A introspecção foi usada na etapa de levantamento de requisitos, onde os integrantes se colocavam no lugar de um [usuário](/modelagem/lexicos#usuario) realizando dada funcionalidade. Isso facilitou a elicitação dos requisitos funcionais.  
+A introspecção é uma é uma técnica muito utilizada na etapa de elicitação. Ela consiste em entender as funcionalidades importantes de um [sistema](/modelagem/lexicos#tinder), de forma que ele funcione. Apesar de muito usada, nem sempre a introspecção traz uma visão próxima da realidade. Uma vez que a pessoa que aplica a introspecção nem sempre tem uma visão voltada para a experiência do [usuário](/modelagem/lexicos#usuario).
+
+Sendo assim, a equipe utilizou a introspecção na etapa de levantamento de requisitos. Os integrates fizeram uma atividade que consistia em se colocavam no lugar de um [usuário](/modelagem/lexicos#usuario) realizando dada funcionalidade. Essa etapa foi feita sem usar o [sistema](/modelagem/lexicos#tinder), somente com o que os integrantes se lembravam e conheciam do mesmo. Isso facilitou a elicitação dos requisitos funcionais.  
 
 Essa parte foi realizada por todos os alunos individualmente e posteriormente esmiuçada para melhor entendimento do grupo. Foi deveras importante para cada integrante entender o requisitos funcionais do [sistema](/modelagem/lexicos#tinder) e pensar no que gostaria que fosse diferente.
 
