@@ -94,18 +94,21 @@ A argumentação é uma forma utilizada para que um conjunto de pessoas que disc
 
 <br>
 
-- p1 - O limite de likes não deveria entrar nessa user storie, pois é uma funcionalidade que não faz muito sentido para a história. É possível realizar a história sem esse limite. Essa funcionalidade vem dos serviços pagos. - **Arthur**
+- p1 - O limite de [likes](/modelagem/lexicos#like) não deveria entrar nessa user storie, pois é uma funcionalidade que não faz muito sentido para a história. É possível realizar a história sem esse limite. Essa funcionalidade vem dos [serviços pagos](/modelagem/lexicos#plano-pago). - **Arthur**
 
 - p2 - O limite deve entrar porque seria um tipo de validação, como um critério de aceitação da história. - **Luciana**
 
-- p3 - Concordo que limitar os likes seria um critério de aceitação, já que só verificaria se tem likes disponíveis sendo um usuário free. - **Waysman**
+- p3 - Concordo que limitar os [likes](/modelagem/lexicos#like) seria um critério de aceitação, já que só verificaria se tem [likes](/modelagem/lexicos#like) disponíveis sendo um [usuário free](/modelagem/lexicos#usuario-free). - **Waysman**
 
-- p4 - Eu não acho que seria um critério de aceitação, pois não agrega valor na user storie de dar like. O valor dessa história é um usuário avaliar outro e o limite de likes agrega valor no épico de serviços pagos. - **Arthur**
-- p5 - Não acho que agrega valor no épico de serviços pagos, já que seria como adicionar um IF/ELSE de um método da história de dar likes e isso não tem relação com a história de serviços pagos.  - **Luciana**
-- p6 - O limite de likes deveria entrar na história de dar likes porque a maioria dos usuários não são pagos. E os usuários pagos herdam as características de usuário. - **Vítor**
+- p4 - Eu não acho que seria um critério de aceitação, pois não agrega valor na user storie de dar [like](/modelagem/lexicos#like). O valor dessa história é um usuário avaliar outro e o limite de likes agrega valor no épico de [serviços pagos](/modelagem/lexicos#plano-pago). - **Arthur**
 
-- p7 - Acho que isso não faz sentido, uma vez que a visão ágil acredita em entregar pequenos produtos funcionais e um produto com esse limite não agrega valor. Isso acaba quebrando a usabilidade e alguns requisitos funcionais. Se você não dá outra opção para usuário não faz sentido limitar os likes, enquanto não existir a opção de compra. - **Arthur**
+- p5 - Não acho que agrega valor no épico de [serviços pagos](/modelagem/lexicos#plano-pago), já que seria como adicionar um IF/ELSE de um método da história de dar [likes](/modelagem/lexicos#like) e isso não tem relação com a história de serviços pagos.  - **Luciana**
+- p6 - O limite de [likes](/modelagem/lexicos#like) deveria entrar na história de dar [likes](/modelagem/lexicos#like) porque a maioria dos [usuários](/modelagem/lexicos#usuario) não são pagos. E os [usuários pagos](/modelagem/lexicos#usuario-plus) herdam as características de [usuário](/modelagem/lexicos#usuario). - **Vítor**
 
-- p8 - Eu não acho que a limitação do like ‘estraga’ o produto. Acho que  essa limitação do like, mesmo antes de colocar os serviços pagos da um gostinho a mais e instiga o usuário a voltar quando tiver like disponível. - **Waysman**
+- p7 - Acho que isso não faz sentido, uma vez que a visão ágil acredita em entregar pequenos produtos funcionais e um produto com esse limite não agrega valor. Isso acaba quebrando a usabilidade e alguns requisitos funcionais. Se você não dá outra opção para [usuário](/modelagem/lexicos#usuario) não faz sentido limitar os [likes](/modelagem/lexicos#like), enquanto não existir a opção de compra. - **Arthur**
 
-- p9 - Discordo, porque o Tinder não fez isso. Eles disponibilizaram tudo e somente depois colocaram a limitação de likes. - **Arthur**
+- p8 - Eu não acho que a limitação do [like](/modelagem/lexicos#like) ‘estraga’ o produto. Acho que  essa limitação do [like](/modelagem/lexicos#like), mesmo antes de colocar os [serviços pagos](/modelagem/lexicos#plano-pago) da um gostinho a mais e instiga o [usuário](/modelagem/lexicos#usuario) a voltar quando tiver [like](/modelagem/lexicos#like) disponível. - **Waysman**
+
+- p9 - Discordo, porque o [Tinder](/modelagem/lexicos#tinder) não fez isso. Eles disponibilizaram tudo e somente depois colocaram a limitação de [likes](/modelagem/lexicos#like). - **Arthur**
+
+- A conclusão dessa argumentacao foi que a funcionalidade de limitar [likes](/modelagem/lexicos#like) devieria se encontrar no épico de [serviços pagos](/modelagem/lexicos#plano-pago).
