@@ -5,6 +5,26 @@
 <a data-fancybox="gallery" href="../../img/iStar/DependenciaV2.png"><img src="../../img/iStar/DependenciaV2-mini.png"></a>
 
 <br />
+
+<br />
+### Modelo de dependência - Versão Final
+
+#### Dependencia Usuário-App
+
+<a data-fancybox="gallery" href="../../img/iStar/VersaoFinal/UsuarioApp.png"><img src="../../img/iStar/VersaoFinal/UsuarioApp-mini.png"></a>
+
+<br />
+#### Dependencia Serviços Pagos
+
+<a data-fancybox="gallery" href="../../img/iStar/VersaoFinal/ServicosPagos.png"><img src="../../img/iStar/VersaoFinal/ServicosPagos-mini.png"></a>
+
+<br />
+#### Dependencia App-Servidor
+
+<a data-fancybox="gallery" href="../../img/iStar/VersaoFinal/AppServidor.png"><img src="../../img/iStar/VersaoFinal/AppServidor-mini.png"></a>
+
+<br />
+
 ## **_Rationales_**
 <br />
 
