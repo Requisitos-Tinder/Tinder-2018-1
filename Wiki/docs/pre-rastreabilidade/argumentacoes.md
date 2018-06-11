@@ -40,17 +40,17 @@ A argumentação é uma forma utilizada para que um conjunto de pessoas que disc
 
 <br>
 
-- p1 - não é necessário fazer um rich picture separado, pois esse fluxo já está incluso no rich picture de match - **Amanda**
+- p1 - não é necessário fazer um rich picture separado, pois esse fluxo já está incluso no rich picture de [match](/modelagem/lexicos#match) - **Amanda**
 
 - p2 - não é necessário já que é um fluxo bem pequeno - **Vítor**
 
-- p3 - seria interessante ter um próprio, pois se a equipe estivesse criando o aplicativo do zero traria uma visão nova para o desenvolvimento que não seria óbvio - **Luciana**
+- p3 - seria interessante ter um próprio, pois se a equipe estivesse criando o [aplicativo](/modelagem/lexicos#tinder) do zero traria uma visão nova para o desenvolvimento que não seria óbvio - **Luciana**
 
-- p4 - é necessário já que pode trazer uma visão não funcional dessa parte da aplicação - **Arthur**
+- p4 - é necessário já que pode trazer uma visão não funcional dessa parte da [aplicação](/modelagem/lexicos#tinder) - **Arthur**
 
-- p5 - é bom para trazer informações do que deve aparecer no feed - **Vítor**
+- p5 - é bom para trazer informações do que deve aparecer no [feed](/modelagem/lexicos#feed) - **Vítor**
 
-- A conclusão dessa argumentação foi que o rich picture sobre o feed e conversas deveria ser feito. Logo em seguida começou outra argumentação a respeito do atraso na entrega do rich picture de visão social:
+- A conclusão dessa argumentação foi que o rich picture sobre o [feed](/modelagem/lexicos#feed) e [conversas](/modelagem/lexicos#chat) deveriam ser feitos.
 
 <br>
 
