@@ -514,7 +514,7 @@ Dividir tarefas.
 
 |        Documento        |     Produzido por    |
 |:-----------------------:|:--------------------:|
-| -----                       |-----         |-----                   |
+| -----                       |-----         |
 
 <br>
 #### Tarefas programadas pos-reunião:
@@ -531,4 +531,53 @@ Dividir tarefas.
 |Criar Léxicos: Denunciar usuário, Distância máxima, Spam, Sobre mim, Facebook, Spotify e Instagram  | Vitor Cardoso | Léxicos: [Denunciar usuário](/modelagem/lexicos/#denunciar-usuario), [Distância máxima](/modelagem/lexicos/#distancia-maxima), [Spam](/modelagem/lexicos/#spam), [Sobre mim](/modelagem/lexicos/#sobre-mim), [Facebook](/modelagem/lexicos/#facebook), [Spotify](/modelagem/lexicos/#spotify) e [Instagram](/modelagem/lexicos/#instagram)
 |Criar Cenarios: Feed e Comprar serviços pagos | Waysman Silva   | Cenarios: [17](/modelagem/cenarios/cenario17/), [21](/modelagem/cenarios/cenario21/) e [22](/modelagem/cenarios/cenario22/)
 |Criar Léxicos: Sticker, Emoji, Gênero, Sexo, Minha música, Contatos em comum, Info, Compartilhar minha URL e Nome de usuário  | Waysman Silva | Léxicos: [Sticker](/modelagem/lexicos/#sticker), [Emoji](/modelagem/lexicos/#emoji), [Gênero](/modelagem/lexicos/#genero), [Sexo](/modelagem/lexicos/#sexo), [Minha música](/modelagem/lexicos/#minha-musica), [Contatos em comum](/modelagem/lexicos/#contatos-em-comum), [Info](/modelagem/lexicos/#info), [Compartilhar minha URL](/modelagem/lexicos/#compartilhar-minha-url) e [Nome de usuário](/modelagem/lexicos/#nome-de-usuario)
+<br>
+
+---
+
+<br>
+
+### [Reunião 10/04](reunioes/#reuniao-0104)
+
+<br>
+#### Objetivo: Revisar Documentos.
+
+<br>
+#### Participantes:
+- Amanda Muniz
+- Calebe Rios
+- Luciana Ribeiro
+- Vítor Cardoso
+- Waysman Silva
+
+<br>
+#### Documentos produzidos para a reunião:
+|        Documento        |     Produzido por    |
+|:-----------------------:|:--------------------:|
+| Cenarios: [16](/modelagem/cenarios/cenario16/), [30](/modelagem/cenarios/cenario30/),[24](/modelagem/cenarios/cenario24/),[25](/modelagem/cenarios/cenario25/),[26](/modelagem/cenarios/cenario26/),[27](/modelagem/cenarios/cenario27/) e [28](/modelagem/cenarios/cenario28/) | Amanda Muniz |
+| Léxicos: [Perfil web](/modelagem/lexicos/#perfil-web), [Localização](/modelagem/lexicos/#localizacao), [GIF](/modelagem/lexicos/#gif), [Tinder](/modelagem/lexicos/#tinder), [Like](/modelagem/lexicos/#like), [Deslike](/modelagem/lexicos/#deslike), [Super Like](/modelagem/lexicos/#super-like) e [Match](/modelagem/lexicos/#match) | Amanda Muniz |
+| Cenarios: [01](/modelagem/cenarios/cenario01/),[02](/modelagem/cenarios/cenario02/),[08](/modelagem/cenarios/cenario08/),[07](/modelagem/cenarios/cenario07/) e [23](/modelagem/cenarios/cenario23/) | Arthur Assis |
+| Léxicos: [Usuário](/modelagem/lexicos/#usuario), [Usuário free](/modelagem/lexicos/#usuario-free), [Usuário plus](/modelagem/lexicos/#usuario-plus), [Usuário gold](/modelagem/lexicos/#usuario-gold), [Não usuário](/modelagem/lexicos/#usuario-nao-cadastrado) e [Compartilhar](/modelagem/lexicos/#compartilhar) | Arthur Assis |
+| Cenarios: [10](/modelagem/cenarios/cenario10/), [11](/modelagem/cenarios/cenario11/),[12](/modelagem/cenarios/cenario12/),[13](/modelagem/cenarios/cenario13/),[14](/modelagem/cenarios/cenario14/), [15](/modelagem/cenarios/cenario15/) e [17](/modelagem/cenarios/cenario17/) | Luciana Ribeiro |
+| Léxicos: [Login](/modelagem/lexicos/#logar), [Sign up](/modelagem/lexicos/#sing-up), [Desfazer match](/modelagem/lexicos/#desfazer-match), [Rewind](/modelagem/lexicos/#rewind), [Boost](/modelagem/lexicos/#boost), [Feed](/modelagem/lexicos/#feed), [Chat](/modelagem/lexicos/#chat), [Smart photos](/modelagem/lexicos/#smart-photos), [Interesses](/modelagem/lexicos/#interesses), [Recomendar usuário](/modelagem/lexicos/#recomendar-usuario) e [Reported](/modelagem/lexicos/#reported) | Luciana Ribeiro |
+| Cenarios: [03](/modelagem/cenarios/cenario03/), [04](/modelagem/cenarios/cenario04/), [05](/modelagem/cenarios/cenario05/), [06](/modelagem/cenarios/cenario06/), [09](/modelagem/cenarios/cenario09/), [07](/modelagem/cenarios/cenario07/) e [08](/modelagem/cenarios/cenario08/) | Vitor Cardoso |
+| Léxicos: [Denunciar usuário](/modelagem/lexicos/#denunciar-usuario), [Distância máxima](/modelagem/lexicos/#distancia-maxima), [Spam](/modelagem/lexicos/#spam), [Sobre mim](/modelagem/lexicos/#sobre-mim), [Facebook](/modelagem/lexicos/#facebook), [Spotify](/modelagem/lexicos/#spotify) e [Instagram](/modelagem/lexicos/#instagram) | Vitor Cardoso |
+| Cenarios: [17](/modelagem/cenarios/cenario17/), [21](/modelagem/cenarios/cenario21/) e [22](/modelagem/cenarios/cenario22/) | Waysman Silva |
+| Léxicos: [Sticker](/modelagem/lexicos/#sticker), [Emoji](/modelagem/lexicos/#emoji), [Gênero](/modelagem/lexicos/#genero), [Sexo](/modelagem/lexicos/#sexo), [Minha música](/modelagem/lexicos/#minha-musica), [Contatos em comum](/modelagem/lexicos/#contatos-em-comum), [Info](/modelagem/lexicos/#info), [Compartilhar minha URL](/modelagem/lexicos/#compartilhar-minha-url) e [Nome de usuário](/modelagem/lexicos/#nome-de-usuario) | Waysman Silva |
+
+
+<br>
+#### Documentos produzidos durante a reunião:
+
+|        Documento        |     Produzido por    |
+|:-----------------------:|:--------------------:|
+| -----                       |-----         |
+
+<br>
+#### Tarefas programadas pos-reunião:
+
+|            Tarefa           |  Responsavel |        Resultado       |
+|:---------------------------:|:------------:|:----------------------:|
+| ----- |-----| -----|
+
 <br>
