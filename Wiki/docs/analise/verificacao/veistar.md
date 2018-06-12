@@ -36,5 +36,6 @@
 - Elementos com apenas um "filho" possuem relação Or ?
 - Os recursos mais importantes foram abordados ?
 
-## Respostas:
-[Tabela de respostas](https://docs.google.com/spreadsheets/d/1txC-AwSKGjeYF4GbrHQia8s5SYEOqFTDtYb_QE_Q_f4/edit#gid=108503159)
+## Respostas
+
+[Link para as respostas do checklist de iStar](https://docs.google.com/spreadsheets/d/1txC-AwSKGjeYF4GbrHQia8s5SYEOqFTDtYb_QE_Q_f4/edit#gid=108503159)

@@ -21,4 +21,6 @@
 - O ambiente da história está bem retratado ?
 - Os eventos inclusos condizem com a realidade dos usuários ?
 
+## Resposta
 
+[Link para as respostas do checklist de StoryTelling](https://docs.google.com/spreadsheets/d/1nypEqkWrAlC6YHF3C57gqVFiNLiv4mn6rU1MtqQMUew/edit?usp=sharing)

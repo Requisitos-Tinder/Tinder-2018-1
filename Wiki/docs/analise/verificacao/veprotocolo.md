@@ -19,3 +19,6 @@ Esse é o check-list que servirá de base para a inspeção da análise de proto
 - Os requisitos elicitados estão presentes de alguma forma na narração?
 - Existe algum requisito que não foi levantado?
 
+## Resposta
+
+[Link para as respostas do checklist de Análise de Protocolo](https://docs.google.com/spreadsheets/d/1cExuIPIGsy-vivWFBDiIUZp8RxaDiKhQ0tu1XzT7wZA/edit?usp=sharing)

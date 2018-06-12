@@ -22,3 +22,6 @@
 - Os impactos são suficientes para explicar o léxico?
 - A classificação está correta?
 
+## Resposta
+
+[Link para as respostas do checklist de Léxico](https://docs.google.com/spreadsheets/d/1T30a0DraQGIOLvuC3cjMFY1m99XgvFG7ntRKA2R0Kkw/edit?usp=sharing)

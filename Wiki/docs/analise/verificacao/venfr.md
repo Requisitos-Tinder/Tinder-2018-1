@@ -34,4 +34,6 @@
 - Os impactos foram corretamente propagados ?
 - A maioria dos termos relevantes destes diagramas estão documentados em léxicos ?
 
+## Resposta
 
+[Link para as respostas do checklist de NFR](https://docs.google.com/spreadsheets/d/1pNa-oF3-_9zo10ikzQcoh_FFNYwj17_qFjMinE4SfCo/edit?usp=sharing)
