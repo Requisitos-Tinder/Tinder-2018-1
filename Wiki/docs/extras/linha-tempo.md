@@ -454,6 +454,7 @@ Dividir tarefas.
 | -----                       |-----         |-----                   |
 
 <br>
+
 ---
 
 <br>
@@ -480,8 +481,54 @@ Dividir tarefas.
 
 <br>
 #### Feedback:
-- #TODO
+- Bom numéro de tequinicas de elecitação
+- Bom numéro de requisitos
+- Bom numéro de resposta no Questionário
+- Tomar cuidado para não trabalhar apenas em cima da opinião do grupo
 
 <br>
 
 -----
+<br>
+
+### [Reunião 08/04](reunioes/#reuniao-0104)
+
+<br>
+#### Objetivo: Dividir tarefas.
+
+<br>
+#### Participantes:
+- Arthur Assis
+- Luciana Ribeiro
+- Vítor Cardoso
+- Waysman Silva
+
+<br>
+#### Documentos produzidos para a reunião:
+|        Documento        |     Produzido por    |
+|:-----------------------:|:--------------------:|
+| ----- | ----- |
+
+<br>
+#### Documentos produzidos durante a reunião:
+
+|        Documento        |     Produzido por    |
+|:-----------------------:|:--------------------:|
+| -----                       |-----         |-----                   |
+
+<br>
+#### Tarefas programadas pos-reunião:
+
+|            Tarefa           |  Responsavel |        Resultado       |
+|:---------------------------:|:------------:|:----------------------:|
+|Criar Cenarios: Match, Desfazer match pelo feed, Configuração de descoberta, Configuração de feed, Configuração de perfil web, Configuração de notificação e Deletar conta | Amanda Muniz | Cenarios: [16](/modelagem/cenarios/cenario16/), [30](/modelagem/cenarios/cenario30/),[24](/modelagem/cenarios/cenario24/),[25](/modelagem/cenarios/cenario25/),[26](/modelagem/cenarios/cenario26/),[27](/modelagem/cenarios/cenario27/) e [28](/modelagem/cenarios/cenario28/)
+|Criar Léxicos: Perfil web, Localização, GIF, Tinder, Like, Deslike, Super Like e Match  | Amanda Muniz | Léxicos: [Perfil web](/modelagem/lexicos/#perfil-web), [Localização](/modelagem/lexicos/#localizacao), [GIF](/modelagem/lexicos/#gif), [Tinder](/modelagem/lexicos/#tinder), [Like](/modelagem/lexicos/#like), [Deslike](/modelagem/lexicos/#deslike), [Super Like](/modelagem/lexicos/#super-like) e [Match](/modelagem/lexicos/#match)
+|Criar Cenarios: Cadastro com facebook e com número de celular, Integração spotify, Integração instagram e Acessar lista de matches | Arthur Assis | Cenarios: [01](/modelagem/cenarios/cenario01/),[02](/modelagem/cenarios/cenario02/),[08](/modelagem/cenarios/cenario08/),[07](/modelagem/cenarios/cenario07/) e [23](/modelagem/cenarios/cenario23/)
+|Criar Léxicos: Usuário, Usuário free, Usuário plus, Usuário gold, Não usuário e Compartilhar  | Arthur Assis | Léxicos: [Usuário](/modelagem/lexicos/#usuario), [Usuário free](/modelagem/lexicos/#usuario-free), [Usuário plus](/modelagem/lexicos/#usuario-plus), [Usuário gold](/modelagem/lexicos/#usuario-gold), [Não usuário](/modelagem/lexicos/#usuario-nao-cadastrado) e [Compartilhar](/modelagem/lexicos/#compartilhar)
+|Criar Cenarios: Avaliar perfil, Like, Deslike, Super Like, Denunciar pelo perfil, Recomendar perfil e Conversas | Luciana Ribeiro   | Cenarios: [10](/modelagem/cenarios/cenario10/), [11](/modelagem/cenarios/cenario11/),[12](/modelagem/cenarios/cenario12/),[13](/modelagem/cenarios/cenario13/),[14](/modelagem/cenarios/cenario14/), [15](/modelagem/cenarios/cenario15/) e [17](/modelagem/cenarios/cenario17/)
+|Criar Léxicos: Login, Sign up, Desfazer match, Rewind, Boost, Feed, Chat, Smart photos, Interesses, Recomendar usuário e Reported  | Luciana Ribeiro | Léxicos: [Login](/modelagem/lexicos/#logar), [Sign up](/modelagem/lexicos/#sing-up), [Desfazer match](/modelagem/lexicos/#desfazer-match), [Rewind](/modelagem/lexicos/#rewind), [Boost](/modelagem/lexicos/#boost), [Feed](/modelagem/lexicos/#feed), [Chat](/modelagem/lexicos/#chat), [Smart photos](/modelagem/lexicos/#smart-photos), [Interesses](/modelagem/lexicos/#interesses), [Recomendar usuário](/modelagem/lexicos/#recomendar-usuario) e [Reported](/modelagem/lexicos/#reported)
+|Criar Cenarios: Login com facebook e com número de celular, Escolher fotos, Smart photos, Sobre mim, Instagram e Spotify | Vitor Cardoso   | Cenarios: [03](/modelagem/cenarios/cenario03/), [04](/modelagem/cenarios/cenario04/), [05](/modelagem/cenarios/cenario05/), [06](/modelagem/cenarios/cenario06/), [09](/modelagem/cenarios/cenario09/), [07](/modelagem/cenarios/cenario07/) e [08](/modelagem/cenarios/cenario08/)
+|Criar Léxicos: Denunciar usuário, Distância máxima, Spam, Sobre mim, Facebook, Spotify e Instagram  | Vitor Cardoso | Léxicos: [Denunciar usuário](/modelagem/lexicos/#denunciar-usuario), [Distância máxima](/modelagem/lexicos/#distancia-maxima), [Spam](/modelagem/lexicos/#spam), [Sobre mim](/modelagem/lexicos/#sobre-mim), [Facebook](/modelagem/lexicos/#facebook), [Spotify](/modelagem/lexicos/#spotify) e [Instagram](/modelagem/lexicos/#instagram)
+|Criar Cenarios: Feed e Comprar serviços pagos | Waysman Silva   | Cenarios: [17](/modelagem/cenarios/cenario17/), [21](/modelagem/cenarios/cenario21/) e [22](/modelagem/cenarios/cenario22/)
+|Criar Léxicos: Sticker, Emoji, Gênero, Sexo, Minha música, Contatos em comum, Info, Compartilhar minha URL e Nome de usuário  | Waysman Silva | Léxicos: [Sticker](/modelagem/lexicos/#sticker), [Emoji](/modelagem/lexicos/#emoji), [Gênero](/modelagem/lexicos/#genero), [Sexo](/modelagem/lexicos/#sexo), [Minha música](/modelagem/lexicos/#minha-musica), [Contatos em comum](/modelagem/lexicos/#contatos-em-comum), [Info](/modelagem/lexicos/#info), [Compartilhar minha URL](/modelagem/lexicos/#compartilhar-minha-url) e [Nome de usuário](/modelagem/lexicos/#nome-de-usuario)
+<br>
