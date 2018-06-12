@@ -33,10 +33,10 @@ pages:
          - 'Cenários': 'modelagem/cenarios.md'
          - 'Diagramas de Caso de Uso' : 'modelagem/DiagCasoDeUso.md'
          - 'Casos de Uso': 'modelagem/casosUso.md'
-         - 'Especificação Suplementar': 'modelagem/EspSuplementar.md'
+         - 'Especificação Suplementar': 'modelagem/EspSuplementar/EspSuplementar.md'
          - 'Historias de Usuário': 'modelagem/user_stories.md'
          - 'NFR': 'modelagem/NFRs/NFR-VFinal.md'
-         - 'iStar': 'modelagem/iStar.md'
+         - 'iStar': 'modelagem/iStar/iStar-VFinal.md'
          - 'Referências': 'modelagem/referencias.md'
      - Análise:
          - 'About': 'analise/analise.md'
@@ -49,7 +49,8 @@ pages:
          - 'Apresentações': 'extras/apresentacoes.md'
          - 'Pesquisa de Qualidade': 'extras/pesquisaqualidade.md'
      - Pages :
-         - 'Versoes argumentacao': 'pre-rastreabilidade/versoes_ateriores_argumentacoes.md'
+         - 'Versoes argumentacao': 'pre-rastreabilidade/argumentacoes/argumentacao-V1.md'
+         - 'Versoes argumentacao FINAL': 'pre-rastreabilidade/argumentacoes/argumentacao-FINAL.md'
          - 'Cenario 01': 'modelagem/cenarios/cenario01.md'
          - 'Cenario 02': 'modelagem/cenarios/cenario02.md'
          - 'Cenario 03': 'modelagem/cenarios/cenario03.md'
@@ -115,7 +116,6 @@ pages:
          - 'UC 24': 'modelagem/casosUso/UC24.md'
          - 'UC 25': 'modelagem/casosUso/UC25.md'
          - 'UC 26': 'modelagem/casosUso/UC26.md'
-         - 'UC 27': 'modelagem/casosUso/UC27.md'
          - 'Verificação da Argumentação': 'analise/verificacao/veargumentacao.md'
          - 'Verificação do Storytelling': 'analise/verificacao/vestorytelling.md'
          - 'Verificação da Análise de Protocolo': 'analise/verificacao/veprotocolo.md'
@@ -133,6 +133,8 @@ pages:
          - 'RP V2': 'pre-rastreabilidade/richPictures/richPictures-V2.md'
          - 'RP V3': 'pre-rastreabilidade/richPictures/richPictures-V3.md'
          - 'NFR V1': 'modelagem/NFRs/NFR-V1.md'
+         - 'iStar V1': 'modelagem/iStar/iStar-V1.md'
+         - 'Esp. Suplementar V1': 'modelagem/EspSuplementar/EspSuplementarV1.md'
 
 
 theme:

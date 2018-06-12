@@ -1,23 +1,4 @@
-# Argumentações
-
-<br />
-
-### Versionamento
-
-| Versão      	| Argumentação                                                  	|
-| ------------- | ------------------------------------------------------------ |
-| [**Versão 1**](argumentacoes/argumentacao-V1.md) 	| É necessário colocar concorrentes no Rich Picture?, Deve ser feito um Rich Picture próprio para feed e conversas?, Deve ser feito um Rich Picture que aborde os requisitos não-funcionais?, O limite de likes deve entrar na história de usuário de dar like?  |
-| [**Versão Final**](argumentacoes/argumentacao-FINAL.md) 	| É necessário colocar concorrentes no Rich Picture?, Deve ser feito um Rich Picture próprio para feed e conversas?, Deve ser feito um Rich Picture que aborde os requisitos não-funcionais?, O limite de likes deve entrar na história de usuário de dar like?  |
-
-<br />
-
-## Introdução
-
-<p align="justify">&emsp;
-A argumentação é uma forma utilizada para que um conjunto de pessoas que discordam cheguem a um consenso, buscando como resultado uma conclusão racional. Ela é usada na pré-rastreabilidade para garantir o rastro nas decisões, assim é possível visualizar quais conflitos ocorreram, porque ocorreram, quem os provocou e qual proposição venceu.
-</p>
-
-<br>
+# Versões Finais
 
 ## Argumentação 01
 
@@ -25,7 +6,7 @@ A argumentação é uma forma utilizada para que um conjunto de pessoas que disc
 
 <br>
 
-<a data-fancybox="gallery" href="../../img/argumentacao/argumentacao01.png"><img src="../../img/argumentacao/argumentacao01-mini.png"></a>
+<a data-fancybox="gallery" href="../../../img/argumentacao/argumentacao01.png"><img src="../../../img/argumentacao/argumentacao01-mini.png"></a>
 
 <br>
 
@@ -45,7 +26,7 @@ A argumentação é uma forma utilizada para que um conjunto de pessoas que disc
 
 <br>
 
-<a data-fancybox="gallery" href="../../img/argumentacao/argumentacao02.png"><img src="../../img/argumentacao/argumentacao02-mini.png"></a>
+<a data-fancybox="gallery" href="../../../img/argumentacao/argumentacao02.png"><img src="../../../img/argumentacao/argumentacao02-mini.png"></a>
 
 <br>
 
@@ -69,7 +50,7 @@ A argumentação é uma forma utilizada para que um conjunto de pessoas que disc
 
 <br>
 
-<a data-fancybox="gallery" href="../../img/argumentacao/argumentacao03.png"><img src="../../img/argumentacao/argumentacao03-mini.png"></a>
+<a data-fancybox="gallery" href="../../../img/argumentacao/argumentacao03.png"><img src="../../../img/argumentacao/argumentacao03-mini.png"></a>
 
 <br>
 
@@ -99,7 +80,7 @@ A argumentação é uma forma utilizada para que um conjunto de pessoas que disc
 
 <br>
 
-<a data-fancybox="gallery" href="../../img/argumentacao/argumentacao04.png"><img src="../../img/argumentacao/argumentacao04-mini.png"></a>
+<a data-fancybox="gallery" href="../../../img/argumentacao/argumentacao04.png"><img src="../../../img/argumentacao/argumentacao04-mini.png"></a>
 
 <br>
 
