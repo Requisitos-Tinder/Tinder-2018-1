@@ -536,6 +536,31 @@ Dividir tarefas.
 ---
 
 <br>
+### Ponto de controle 09/04:
+#### Participantes:
+- Amanda Muniz
+- Arthur Assis
+- Calebe Rios
+- Luciana Ribeiro
+- Vítor Cardoso
+- Waysman Silva
+
+<br>
+#### Documentos apresentados:
+- [Cenário](/modelagem/cenarios/)
+- [Léxicos](/modelagem/lexicos/)
+
+<br>
+#### Feedback:
+- Falta passar para wiki
+- Diferenciar melhor restrição e exceção
+- Repitir nome do léxico no impacto
+
+<br>
+
+---
+
+<br>
 
 ### [Reunião 10/04](reunioes/#reuniao-0104)
 
