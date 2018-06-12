@@ -70,16 +70,18 @@
 
 #### Requisitos Não Funcionais  
 
-| Número | Requisito | Categoria | Técnica | Rich Picture |
-|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|--------|--------|
-|1 |Suporte à plataforma Android |Compatibilidade| [Questionário](/elicitacao/questionario/questionario.md) | [Geral](/pre-rastreabilidade/richPictures/richPictures-VFinal.md) |
-|2 |Suporte à plataforma IOS |Compatibilidade| [Questionário](/elicitacao/questionario/questionario.md) | [Geral](/pre-rastreabilidade/richPictures/richPictures-VFinal.md) |
-|3 |Suporte à plataforma Web |Compatibilidade| [Questionário](/elicitacao/questionario/questionario.md) | [Geral](/pre-rastreabilidade/richPictures/richPictures-VFinal.md) |
-|4 |Tempo mínimo de resposta entre cada [perfil](/modelagem/lexicos#perfil) avaliado |Desempenho| [Questionário](/elicitacao/questionario/questionario.md) | - |
-|5 |Tempo mínimo de respostas quando houver o [match](/modelagem/lexicos#match) |Desempenho| [Questionário](/elicitacao/questionario/questionario.md) | - |
-|6 |Segurança ao guardar os dados do [usuario](/modelagem/lexicos#usuario) |Segurança| [Questionário](/elicitacao/questionario/questionario.md) | [Empresa](/pre-rastreabilidade/richPictures/richPictures-VFinal.md) |
-|7 |Segurança ao realizar a integração com as redes sociais (Facebook, Instragram, Spotify) |Segurança| [Storytelling](/elicitacao/storytelling.md) | [Geral](/pre-rastreabilidade/richPictures/richPictures-VFinal.md) |
-|8 |Linguagem de fácil entendimento |Usabilidade| [Questionário](/elicitacao/questionario/questionario.md) | - |
-|9 |Compatibilidade com versões de browser (Google Chrome, Mozilla Firefox, etc) |Compatibilidade| [Questionário](/elicitacao/questionario/questionario.md) | [Geral, empresa](/pre-rastreabilidade/richPictures/richPictures-VFinal.md) |
-|10 |Compatibilidade com versões de sistemas operacionais móveis |Compatibilidade| [Questionário](/elicitacao/questionario/questionario.md) | [Geral](/pre-rastreabilidade/richPictures/richPictures-VFinal.md) |
-|11 |Interface intuítiva e de fácil compreensão |Usabilidade| [Questionário](/elicitacao/questionario/questionario.md) | - |
+| Número | Requisito | Categoria | Técnica |
+|--------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|--------|
+|1 |Suporte à plataforma Android |Compatibilidade| [Questionário](questionario/) |
+|2 |Suporte à plataforma IOS |Compatibilidade| [Questionário](questionario/) |
+|3 |Suporte à plataforma Web |Compatibilidade| [Questionário](questionario/) |
+|4 |Tempo mínimo de resposta entre cada perfil avaliado |Desempenho| [Questionário](questionario/) |
+|5 |Tempo mínimo de respostas quando houver o match |Desempenho| [Questionário](questionario/) |
+|6 |Segurança ao guardar os dados do usuário |Segurança| [Questionário](questionario/) |
+|7 |Segurança ao realizar a integração com as redes sociais (Facebook, Instragram, Spotify) |Segurança| [Storytelling](storytelling/) |
+|8 |Linguagem de fácil entendimento |Usabilidade| [Questionário](questionario/) |
+|9 |Compatibilidade com versões de browser (Google Chrome, Mozilla Firefox, etc) |Compatibilidade| [Questionário](questionario/) |
+|10 |Compatibilidade com versões de sistemas operacionais móveis |Compatibilidade| [Questionário](questionario/) |
+|11 |Interface intuítiva e de fácil compreensão |Usabilidade| [Questionário](questionario/) |
+|12 |Personalização de anúncios | Usabilidade | Confecção do NFR |
+|13 |Personalização de descoberta de perfis | Usabilidade | Confecção do NFR |
