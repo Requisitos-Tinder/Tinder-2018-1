@@ -1,6 +1,6 @@
-# Verificação das Histórias de Usuário
+## **Verificação das Histórias de Usuário**
 
-## Contexto
+### Contexto
 
 
 - Descrição da Inspeção: Este documento visa inspecionar todos os modelos de Histórias de Usuário desenvolvidos na disciplina
@@ -9,9 +9,9 @@
 - Autores do documento: Amanda Muniz, Arthur Assis, Calebe Rios, Luciana Ribeiro, Vítor Cardoso.
 - Inspetor: Luciana Ribeiro
 
-## Checklist
+### Checklist
 
-### História de Usuário
+#### História de Usuário
 
 - O título é auto-explicativo?
 - O “quem”, “o que” e o “por que” estão definidos na descrição da história?
@@ -28,20 +28,15 @@
 - Todos os termos apresentados nessa US estão documentados em lexicos? 
 - Todos os termos apresentados nessa US estão linkados a seus respectivos lexico
 
-### Epicos
+#### Epicos
 
 - O épico possui um nome explicativo? 
 - O épico possui US demais?  
 - O épico pode ser quebrado em outros?
 - Dentro do épico existem de 3 a 7 histórias de usuário? 
 
-### Sprint
+#### Sprint
 
 - A quantidade de sprints é suficiente? 
 - A sprint possui quantidade de pontos adequada?
 - Existe algo a ser modificado nessa sprint? 
-
-
-## Calebe
-## Vitor
-## Luciana

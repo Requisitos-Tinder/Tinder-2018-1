@@ -1,16 +1,18 @@
-# Storytelling
+## **Storytelling**
 
 <br>
-## Metodologia  
+### Metodologia  
 O Storytelling foi utilizado na elicitação de requisitos de maneira a forçar o desenvolvimento de possíveis situações a serem vividas pelos usuários, por meio de pequenas histórias. A partir dessas histórias é possível visualizar com mais clareza os requisitos envolvidos em cada situação simulada.
 
 <br>
-## Execução
+### Execução
+<br />
+
 ![storytelling1](../img/st1.jpg)
 ![storytelling2](../img/st2.jpg)
 
 <br>
-## Storytelling - Resultados
+### **Resultados**
 A partir da primeira história foi possível elicitar um requisíto não funcional que se encaixa tanto na área da segurança quanto na área da confiabilidade do sistema.  
 Requisito: O sistema não deve compartilhar dados do usuário no facebook.
 A partir da segunda história foram elicitados dois requisitos funcionais relacionados ao cadastro de usuário.  

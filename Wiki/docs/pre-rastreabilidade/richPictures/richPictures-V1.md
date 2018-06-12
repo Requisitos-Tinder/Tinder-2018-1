@@ -1,5 +1,6 @@
-# Rich Pictures - Versão 1
+# **Rich Pictures - Versão 1**
 
+<br />
 
 #### Rich Picture do fluxo principal
 
@@ -21,13 +22,13 @@
 
 #### Protótipo Individual 3 - Calebe
 
-<a data-fancybox="gallery" href="../../../img/richPicture/RP-Prototipo3.JPG"><img src="../../../img/richPicture/RP- Prototipo3-mini.jpg"></a>
+<a data-fancybox="gallery" href="../../../img/richPicture/RP-Prototipo3.jpg"><img src="../../../img/richPicture/RP-Prototipo3-mini.jpg"></a>
 
 <br />
 
 #### Protótipo Individual 4 - Vitor
 
-<a data-fancybox="gallery" href="../../../img/richPicture/RP- Prototipo4-mini.jpg"><img src="../../../img/richPicture/RP- Prototipo4.jpeg"></a>
+<a data-fancybox="gallery" href="../../../img/richPicture/RP- Prototipo4.jpeg"><img src="../../../img/richPicture/RP- Prototipo4-mini.jpg"></a>
 
 <br />
 

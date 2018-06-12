@@ -1,4 +1,4 @@
-## Questionário
+## **Questionário**
 
 
 O questionário foi criado inicialmente para que o grupo tivesse uma visão mais ampla a respeito dos tipos de usuário do Tinder, mas com a continuidade do projeto, o questionário foi ampliado para que os requisitos não-funcionais fossem levantados, levando em consideração que é a forma mais eficaz de compreender os motivos, intenções e insentivos que levam uma pessoa a se tornar usuário do Tinder. 
@@ -12,7 +12,7 @@ Foi separado incialmente os participantes em dois ninchos: usuários e não usu�
 <a data-fancybox="gallery" href="../../../img/questionario/quest1.png"><img src="../../../img/questionario/quest1.png"></a>
 
 
-### *Usuários* 
+### Usuários
 
 Então para compreender o público alvo do Tinder, a pesquisa buscou avaliar a idade dos usuários, onde a maioria está entre 21 e 25 anos, mas que é possível visualizar que grande parte de seu público também está na faixa etária de 18 a 20 anos.
 
@@ -99,9 +99,9 @@ O **questionário** pode ser encontrado no seguinte link:
 
 [Questionário](https://goo.gl/forms/rLw9t8uCIbbEGPkF2)
 
+<br />
 
-
-## Requisitos Levantados:
+## **Requisitos Levantados**:
 
 
 

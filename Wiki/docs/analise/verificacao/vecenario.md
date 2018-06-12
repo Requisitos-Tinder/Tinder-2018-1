@@ -1,6 +1,8 @@
-# Verificação dos Cenários
+## **Verificação dos Cenários**
 
-## Contexto
+<br />
+
+### Contexto
 
 - Descrição da Inspeção: Este documento visa inspecionar todos os cenários criados na fase de modelagem.
 - Técnica utilizada: Técnica de Leitura Check-List
@@ -8,7 +10,9 @@
 - Autores do documento: Amanda Muniz, Arthur Assis, Calebe Rios, Luciana Ribeiro, Vítor Cardoso e Waysman Silva.
 - Inspetora: Amanda Muniz
 
-## Checklist
+<br />
+
+### Checklist
 
 - Esse é o check-list que servirá de base para a inspeção dos cenários.
 - O título é auto-explicativo?
@@ -30,8 +34,3 @@
 - Os sub-cenários estão ligados ao cenário principal?
 - O cenário se aplica corretamente aos requisitos?
 
-## Amanda Muniz
-
-## Arthur Assis
-
-## Vítor Cardoso

@@ -1,6 +1,9 @@
 # **Resultado Final das Técnicas de Elicitação:**
 
+<br />
+
 ### **Requisitos Funcionais**  
+<br />
 
 | Número | Requisito                                                                                                                                           | Técnica                  |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
@@ -66,6 +69,8 @@
 | 60     | O usuário, como gold ou plus, deve ser capaz de limitar o que os outros veem do seu perfil                                                                            | [Observação Participativa](observacao_participativa/) |
 | 60     | O usuário deve ser capaz de criar um perfil web                        |  [Observação Participativa](observacao_participativa/)  |
 
+<br />
+
 ### **Requisitos Não Funcionais**  
 
 | Número | Requisito | Categoria | Técnica |
@@ -82,6 +87,7 @@
 |10 |Compatibilidade com versões de sistemas operacionais móveis |Compatibilidade| [Questionário](questionario/) |
 |11 |Interface intuítiva e de fácil compreensão |Usabilidade| [Questionário](questionario/) |
 
+<br />
 
 ### Moscow dos Requisitos Não Funcionais
 

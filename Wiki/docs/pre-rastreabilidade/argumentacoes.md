@@ -1,4 +1,4 @@
-# Argumentações
+## **Argumentações**
 
 <br />
 
@@ -7,7 +7,6 @@
 | Versão      	| Argumentação                                                  	|
 | ------------- | ------------------------------------------------------------ |
 | [**Versão 1**](argumentacoes/argumentacao-V1.md) 	| É necessário colocar concorrentes no Rich Picture?, Deve ser feito um Rich Picture próprio para feed e conversas?, Deve ser feito um Rich Picture que aborde os requisitos não-funcionais?, O limite de likes deve entrar na história de usuário de dar like?  |
-| [**Versão Final**](argumentacoes/argumentacao-FINAL.md) 	| É necessário colocar concorrentes no Rich Picture?, Deve ser feito um Rich Picture próprio para feed e conversas?, Deve ser feito um Rich Picture que aborde os requisitos não-funcionais?, O limite de likes deve entrar na história de usuário de dar like?  |
 
 <br />
 

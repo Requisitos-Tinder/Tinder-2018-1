@@ -1,6 +1,7 @@
-# Verificação dos Léxicos
+## **Verificação dos Léxicos**
+<br />
 
-## Contexto
+### Contexto
 
 - Descrição da Inspeção: Este documento visa inspecionar todos os léxicos criados na fase de modelagem.
 - Técnica utilizada: Técnica de Leitura Check-List
@@ -8,7 +9,9 @@
 - Autores do documento: Amanda Muniz, Arthur Assis, Calebe Rios, Luciana Ribeiro, Vítor Cardoso e Waysman Silva.
 - Inspetora: Amanda Muniz
 
-## Checklist
+<br />
+
+### Checklist
 
 - Esse é o check-list que servirá de base para a inspeção dos léxicos.
 - Existem sinônimos?
@@ -19,8 +22,3 @@
 - Os impactos são suficientes para explicar o léxico?
 - A classificação está correta?
 
-## Amanda Muniz
-
-## Luciana Ribeiro
-
-## Vítor Cardoso

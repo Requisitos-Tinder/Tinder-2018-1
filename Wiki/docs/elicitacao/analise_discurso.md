@@ -1,4 +1,6 @@
-# Análise de Discurso
+## **Análise de Discurso**
+
+<br />
 
 <b>Participantes</b>
 
@@ -23,7 +25,7 @@
 
 - Novas funcionalidades
 
-<b>Rodadas totais</b> - 4
+<b>Rodadas totais</b>: 4
 
 <b>Primeira rodada</b>
 

@@ -1,6 +1,8 @@
-# Verificação dos NFRs
+## **Verificação dos NFRs**
 
-## Contexto
+<br />
+
+### Contexto
 
 
 - Descrição da Inspeção: Este documento visa inspecionar todos os modelos de NFRs desenvolvidos na disciplina
@@ -9,7 +11,9 @@
 - Autores do documento: Amanda Muniz, Arthur Assis, Calebe Rios, Luciana Ribeiro, Vítor Cardoso.
 - Inspetor: Arthur Assis
 
-## Checklist
+<br />
+
+### Checklist
 
 - A maioria dos nomes dos softgoals apresentam o contexto ?
 - A maioria dos nomes dos softgoals representam critérios de qualidade ?
@@ -29,9 +33,5 @@
 - A maioria das contribuições entre ramos diferentes estão corretamente representadas ?
 - Os impactos foram corretamente propagados ?
 - A maioria dos termos relevantes destes diagramas estão documentados em léxicos ?
-
-## Luciana
-## Arthur
-## Calebe
 
 

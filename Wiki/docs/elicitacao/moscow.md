@@ -1,7 +1,7 @@
-# MoSCoW 
+## **MoSCoW** 
 <br>
 
-## Metodologia
+### Metodologia
 Para a primeira etapa os requisitos elicitados, serão divididos em quatro categorias _Must_, _Should_, _Could_ e _Would_, onde:
 
 - **_Must_** = Maior prioridade, requisitos de essenciais para o projeto.
@@ -16,7 +16,7 @@ Para que essa divisão ocorra será realizada uma votação entre os membros do 
 
 ---
 
-## Execução
+### Execução
 
 <br>
 #### Participantes:
@@ -38,7 +38,7 @@ Para que essa divisão ocorra será realizada uma votação entre os membros do 
 
 ---
 
-## Resultado
+### **Resultado**
 
 |Nº|Requisito|MoSCoW|
 |--|---------|------|

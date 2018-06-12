@@ -1,6 +1,7 @@
-# Verificação dos Storytelling
+## **Verificação dos Storytelling**
 
-## Contexto
+<br />
+### Contexto
 
 
 - Descrição da Inspeção: Este documento visa inspecionar todos os modelos de storytelling desenvolvidos na disciplina
@@ -9,7 +10,8 @@
 - Autores do documento: Amanda Muniz, Arthur Assis, Calebe Rios, Luciana Ribeiro, Vítor Cardoso.
 - Inspetor: Vitor Cardoso
 
-## Checklist
+<br />
+### Checklist
 
 - A história possui inicio meio e fim bem definidos ?
 - Os eventos estão bem divididos ?
@@ -19,7 +21,4 @@
 - O ambiente da história está bem retratado ?
 - Os eventos inclusos condizem com a realidade dos usuários ?
 
-## Vitor
-## Calebe
-## Amanda
 

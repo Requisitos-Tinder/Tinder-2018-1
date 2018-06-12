@@ -1,6 +1,8 @@
-# Verificação dos iStar
+## **Verificação dos iStar**
 
-## Contexto
+<br />
+
+### Contexto
 
 - Descrição da Inspeção: Este documento visa inspecionar todos os modelos de dependencia e rationales criados na fase de modelagem.
 - Técnica utilizada: Técnica de Leitura Check-List
@@ -8,9 +10,10 @@
 - Autores do documento: Amanda Muniz, Arthur Assis, Calebe Rios, Luciana Ribeiro, Vítor Cardoso.
 - Inspetor: Vítor Cardoso
 
-## Checklist
+### Checklist
+<br />
 
-### SD
+#### SD
 
 - Os atores mais importantes estão sendo representados ?
 - As metas flexíveis mais importantes estão representadas ?
@@ -20,8 +23,9 @@
 - Todas as metas flexíveis representam uma qualidade ?
 - Os termos especificos presentes no SD estão documentados em léxicos ?
 
+<br />
 
-### SR
+#### SR
 
 - Softgoals não se conectam com hardgoals ?
 - As hardgoals estão escritas de forma correta ?
@@ -31,10 +35,3 @@
 - And’s e Or’s não se misturam em uma mesma camada ?
 - Elementos com apenas um "filho" possuem relação Or ?
 - Os recursos mais importantes foram abordados ?
-
-
-## Vítor Cardoso
-
-## Amanda Muniz
-
-## Calebe Rios

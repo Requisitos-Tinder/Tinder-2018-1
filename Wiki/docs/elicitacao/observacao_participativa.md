@@ -1,8 +1,8 @@
-# Observação Participativa
+## **Observação Participativa**
 
 <br>
 
-## Metodologia
+### Metodologia
 
 <p align="justify">&emsp;
 A observação participativa é uma técnica muito utilizada na fase de elicitação de requisitos. Isso acontece porque observar o ambiente e contexto do problema a ser resolvido ajuda a encontrar as necessidades, os problemas e suas fontes. Para isso, o observador se insere no ambiente e observar suas atividades naturais.
@@ -18,7 +18,7 @@ Essa técnica foi a primeira a ser utiliada, pois a equipe precisava conhecer be
 
 ---
 
-## Resultados
+### Resultados
 
 | Número | Requisito                                                                                                                                           |
 |--------|-----------------------------------------------------------------------------------------------------------------------------------------------------|

@@ -1,7 +1,11 @@
-# Especificação Suplementar - Versão Final
+## **Especificação Suplementar - Versão Final**
+
 <br />
 ### Versionamento
-[**Versão 1**](EspSuplementarV1.md)
+
+| Versão      	| Especificação Suplementar                                                   	|
+| ------------- | ------------------------------------------------------------ |
+| [**Versão 1**](EspSuplementarV1.md)	| Especificação Suplementar  |
 
 <br />
 

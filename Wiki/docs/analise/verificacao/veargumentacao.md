@@ -1,6 +1,6 @@
-# Verificação dos Argumentação
+## **Verificação dos Argumentação**
 
-## Contexto
+### Contexto
 
 
 - Descrição da Inspeção: Este documento visa inspecionar todos os modelos de argumentação desenvolvidos na disciplina
@@ -9,7 +9,9 @@
 - Autores do documento: Amanda Muniz, Arthur Assis, Calebe Rios, Luciana Ribeiro, Vítor Cardoso.
 - Inspetor: Arthur Assis
 
-## Checklist
+<br />
+
+### Checklist
 
 - A maioria das proposições estão bem escritas ?
 - Nenhuma proposição está ligada diretamente a outra proposição ?
@@ -26,7 +28,4 @@
 - Todos termos relevantes neste diagrama possuem links com seus respectivos léxicos ?
 *(exceto os conflitos entre preferências e conflitos)
 
-## Luciana
-## Arthur
-## Amanda
 

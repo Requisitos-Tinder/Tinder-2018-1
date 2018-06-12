@@ -1,17 +1,19 @@
-# Priorização
+## **Priorização**
 
-<br>
+<br />
 
-## Técnicas Utilizadas:
+### Técnicas Utilizadas:
 
 - [MoSCoW](moscow/)
 - [First Things First](first_things_first/)
 
-<br>
-## Resultado:
-<br>
+<br />
+### **Resultado**:
+<br />
 
 #### Requisitos vitais para o projeto:
+<br />
+
 - O usuário deve ser capaz de editar perfil
 - O usuário deve ser capaz de visualizar outros perfis
 - O usuário deve ser capaz de avaliar outros perfis

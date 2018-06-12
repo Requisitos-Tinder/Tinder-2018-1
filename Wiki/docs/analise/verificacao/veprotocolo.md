@@ -1,7 +1,7 @@
-# Verificação da Análise de Protocolo
+## **Verificação da Análise de Protocolo**
 
 
-## Contexto
+### Contexto
 
 - Descrição da Inspeção: Este documento visa inspecionar a análise de protocolo criada na fase de elicitação.
 - Técnica utilizada: Técnica de Leitura Check-List
@@ -9,7 +9,7 @@
 - Autores do documento: Amanda Muniz e Luciana Ribeiro
 - Inspetora: Amanda Muniz
 
-## Checklist
+### Checklist
 
 Esse é o check-list que servirá de base para a inspeção da análise de protocolo.
 
@@ -19,8 +19,3 @@ Esse é o check-list que servirá de base para a inspeção da análise de proto
 - Os requisitos elicitados estão presentes de alguma forma na narração?
 - Existe algum requisito que não foi levantado?
 
-## Amanda Muniz
-
-## Arthur Assis
-
-## Vítor Cardoso

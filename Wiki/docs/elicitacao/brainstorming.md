@@ -1,4 +1,7 @@
-# Brainstorming
+## **Brainstorming**
+
+<br />
+
 <p align="justify">&emsp;
 O Brainstorming é uma técnica de reunião bem difundida na Engenharia de Requisitos. Ela consiste em um grupo de pessoas de diferentes áres levantando opiniões e trocando ideias sobre determinado assunto.
 </p>

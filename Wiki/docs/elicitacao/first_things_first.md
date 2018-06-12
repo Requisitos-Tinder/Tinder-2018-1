@@ -1,4 +1,4 @@
-# First Things First
+## **First Things First**
 
 <br>
 ### Metodologia
@@ -28,10 +28,10 @@ Onde:
 ---
 
 <br>
-## Execução
+### Execução
 <br>
 
-### Participantes:
+#### Participantes:
 - Amanda Muniz
 - Arthur Assis
 - Calebe Rios
@@ -39,10 +39,10 @@ Onde:
 - Vítor Cardoso
 - Waysman Silva
 
-### Data:
+#### Data:
 26/03/2018
 
-### Tabelas:
+#### Tabelas:
 
 <br>
 #### **Amanda Muniz**
@@ -359,7 +359,7 @@ Onde:
 
 
 <br>
-### Requisitos Ordenados por Prioridade
+### **Requisitos Ordenados por Prioridade**
 
 | Requisitos | Prioridade   |
 |------------|--------------|

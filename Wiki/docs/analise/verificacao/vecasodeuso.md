@@ -1,6 +1,6 @@
-# Verificação dos Casos de Uso
+## **Verificação dos Casos de Uso**
 
-## Contexto
+### Contexto
 
 
 - Descrição da Inspeção: Este documento visa inspecionar todos os modelos de especificação de casos de uso e diagrama de casos de uso desenvolvidos na disciplina
@@ -9,9 +9,13 @@
 - Autores do documento: Amanda Muniz, Arthur Assis, Calebe Rios, Luciana Ribeiro, Vítor Cardoso.
 - Inspetor: Calebe Rios
 
-## Checklist
+<br />
 
-### Especificação de Casos de Uso
+### Checklist
+
+<br />
+
+#### Especificação de Casos de Uso
 
 - O título é explicativo?
 - A descrição faz sentido?
@@ -38,7 +42,9 @@
 - Todos os termos na especificação existe no léxico?
 - O caso de uso está ligado a pelo menos 1 requisito?
 
-### Diagrama de Casos de Uso
+<br />
+
+#### Diagrama de Casos de Uso
 
 - O título é explicativo?
 - O diagrama de caso de uso prove algum resultado observável e de valor para os atores ou outros interessados do sistema?
@@ -57,7 +63,3 @@
 - O diagrama se aplica ao que ocorre na aplicação?
 - Todos os termos estão documentos em léxicos?
 
-
-## Calebe
-## Vitor
-## Luciana

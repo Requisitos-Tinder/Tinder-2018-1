@@ -2,7 +2,7 @@
 
 | Versão      	| iStars                                                  	|
 | ------------- | ------------------------------------------------------------ |
-| [**Versão 1**](iStar-V1.md) 	|     |
+| [**Versão 1**](iStar-V1.md) 	|  Modelo de dependencia, Smart Photos, Integração com outros softwares,  Comunicação Servidor-App,  Atalhos de Navegação, Match entre Usuários   |
 
 
 <br />

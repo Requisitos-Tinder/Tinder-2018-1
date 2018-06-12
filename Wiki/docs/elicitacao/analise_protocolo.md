@@ -1,6 +1,8 @@
-# Análise de Protocolo
+## **Análise de Protocolo**
 
-<b>Metodologia</b>
+<br />
+
+### Metodologia
 
 Para a análise de protocolo separamos duas pessoas, onde uma delas (Luciana) fez o papel de [usuário](/modelagem/lexicos#usuario) e narrou sua experiência no fluxo principal do [Tinder](/modelagem/lexicos#tinder), enquanto isso, a outra (Amanda) fez o registro dessas atividades. A narração será evidenciada nos próximos parágrafos.
 
@@ -16,8 +18,9 @@ Vou editar o meu [perfil](/modelagem/lexicos#perfil). Primeira coisa que consigo
 
 Vou editar as configurações. Nessa parte consigo colocar minha [localização](/modelagem/lexicos#localizacao), a [distancia máxima](/modelagem/lexicos#distancia-maxima) das pessoas que eu vou dar [like](/modelagem/lexicos#like), o [gênero](/modelagem/lexicos#genero) e a [faixa etária](/modelagem/lexicos#faixa-etaria) delas. Tenho a opção de mostrar o meu [perfil](/modelagem/lexicos#perfil) no [tinder](/modelagem/lexicos#tinder) ou não. Consigo configurar o conteúdo que eu compartilho no meu [perfil](/modelagem/lexicos#perfil). Consigo ver o meu [perfil web](/modelagem/lexicos#perfil-web), ver meu nome de [usuário](/modelagem/lexicos#usuario) e [compartilhar minha url](/modelagem/lexicos#compartilhar-minha-url). Consigo fazer o controle das [notificações](/modelagem/lexicos#notificacoes), quais que eu quero receber ou não. O resto das configurações são tópicos de ajuda e essas coisas.“
 
-<br>
-#### **Resultado:**
+<br />
+
+### **Resultado:**
 
 
 | Número | Requisito                                                    |

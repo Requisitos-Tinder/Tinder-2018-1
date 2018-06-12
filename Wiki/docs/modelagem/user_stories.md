@@ -1,6 +1,9 @@
-# _User Stories_
+## **User Stories**
 
-## _Backlog_ do produto
+<br />
+### _Backlog_ do produto
+
+<br />
 
 <a data-fancybox="gallery" href="../../img/user_stories.jpg"><img src="../../img/user_stories-mini.jpg"></a>
 <br />
