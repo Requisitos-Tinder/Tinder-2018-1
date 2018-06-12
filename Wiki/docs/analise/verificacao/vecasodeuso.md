@@ -63,3 +63,12 @@
 - O diagrama se aplica ao que ocorre na aplicação?
 - Todos os termos estão documentos em léxicos?
 
+## Resposta
+
+### Diagrama de Casos de uso
+
+[Link para as respostas do checklist de Diagrama de Casos de Uso](https://docs.google.com/spreadsheets/d/15zKAVx3EpujUtVb9FVOs7mjNoUsZrqeLseZH5_H7xv4/edit?usp=sharing)
+
+### Especificação de Casos de Uso
+
+[Link para as respostas do checklist de Especificação de Casos de Uso](https://docs.google.com/spreadsheets/d/1Z863t0B15qdKVXbZw5dU41cHSg3qzRB8lmttyFgY7ds/edit?usp=sharing)

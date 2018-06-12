@@ -26,6 +26,9 @@
 - A argumentação possui uma conclusão ?
 - Todos termos relevantes neste diagrama estão documentados em léxicos ?
 - Todos termos relevantes neste diagrama possuem links com seus respectivos léxicos ?
-*(exceto os conflitos entre preferências e conflitos)
 
+## Resposta
 
+### Argumentação
+
+[Link para as respostas do checklist de Argumentação](https://docs.google.com/spreadsheets/d/1x9Ti1Ygr99XP7DG6765TU3t1Jl_jrr5KIDFHcEJG46Y/edit?usp=sharing)

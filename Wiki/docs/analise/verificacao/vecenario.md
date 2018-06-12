@@ -34,3 +34,8 @@
 - Os sub-cenários estão ligados ao cenário principal?
 - O cenário se aplica corretamente aos requisitos?
 
+## Resposta
+
+### Cenário
+
+[Link para as respostas do checklist de Cenário](https://docs.google.com/spreadsheets/d/1BzsfY7nVsH6RNXeN41BJ3F9HCoyCg1lzDRnOcp-mtws/edit?usp=sharing)
