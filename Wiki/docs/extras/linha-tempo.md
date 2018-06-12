@@ -674,3 +674,28 @@ Dividir tarefas.
 
 
 <br>
+---
+
+<br>
+### Ponto de controle 18/04:
+#### Participantes:
+- Amanda Muniz
+- Arthur Assis
+- Calebe Rios
+- Luciana Ribeiro
+- Vítor Cardoso
+- Waysman Silva
+
+<br>
+#### Documentos apresentados:
+- [Diagrama de Caso de Uso](/modelagem/DiagCasoDeUso/)
+- [Especificação de caso de uso](/modelagem/casosUso/)
+- [Especificação Suplementar](/modelagem/EspSuplementar/)
+
+<br>
+#### Feedback:
+- Explicitar a diferença entre o app e o servidor
+- Faltou cardinalidade
+- Bom uso de extends e includes
+
+<br>
