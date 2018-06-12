@@ -64,7 +64,7 @@
 | 58     | O usuário deve ser capaz de deletar a conta no sistema.                                                                           | [Análise de Protocolo](analise_protocolo/) |
 | 59     | O usuário deve ser capaz de congelar a conta no sistema.                                                                           | [Análise de Protocolo](analise_protocolo/) |
 | 60     | O usuário, como gold ou plus, deve ser capaz de limitar o que os outros veem do seu perfil                                                                            | [Observação Participativa](observacao_participativa/) |
-| 60     | O usuário deve ser capaz de criar um perfil web                        |  [Observação Participativa](observacao_participativa/)  |
+| 61     | O usuário deve ser capaz de criar um perfil web                        |  [Observação Participativa](observacao_participativa/)  |
 
 ### **Requisitos Não Funcionais**  
 
@@ -81,6 +81,8 @@
 |9 |Compatibilidade com versões de browser (Google Chrome, Mozilla Firefox, etc) |Compatibilidade| [Questionário](questionario/) |
 |10 |Compatibilidade com versões de sistemas operacionais móveis |Compatibilidade| [Questionário](questionario/) |
 |11 |Interface intuítiva e de fácil compreensão |Usabilidade| [Questionário](questionario/) |
+|12 |Personalização de anúncios | Usabilidade | Confecção do NFR |
+|13 |Personalização de descoberta de perfis | Usabilidade | Confecção do NFR |
 
 
 ### Moscow dos Requisitos Não Funcionais
