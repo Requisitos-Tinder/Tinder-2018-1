@@ -24,11 +24,11 @@ Juntar RichPicture indviduais em um RichPicture geral e criar Argumentação.
 
 |        Documento        |     Produzido por    |
 |:-----------------------:|:--------------------:|
-|[RichPicture Amanda]()|    Amanda Muniz    |
-|  [RichPicture Calebe]() |     Calebe Rios    |
-| [RichPicture Luciana]() | Luciana Ribeiro |
-|  [RichPicture Vítor]()  |    Vítor Cardoso    |
-| [RichPicture Waysman]() |     Waysman Silva    |
+|[RichPicture Amanda](/pre-rastreabilidade/richPictures/richPictures-V1/#prototipo-individual-1-amanda)|    Amanda Muniz    |
+|  [RichPicture Calebe](/pre-rastreabilidade/richPictures/richPictures-V1/#prototipo-individual-3-calebe) |     Calebe Rios    |
+| [RichPicture Luciana](/pre-rastreabilidade/richPictures/richPictures-V1/#prototipo-individual-5-luciana) | Luciana Ribeiro |
+|  [RichPicture Vítor](/pre-rastreabilidade/richPictures/richPictures-V1/#prototipo-individual-4-vitor)  |    Vítor Cardoso    |
+| RichPicture Waysman |     Waysman Silva    |
 
 <br>
 
@@ -36,7 +36,7 @@ Juntar RichPicture indviduais em um RichPicture geral e criar Argumentação.
 
 |        Documento        |     Produzido por    |
 |:-----------------------:|:--------------------:|
-|  [RichPicture Final v1]() |    todos presentes na reunião    |
+|  [RichPicture Final v1](/pre-rastreabilidade/richPictures/richPictures-V1/#rich-picture-do-fluxo-principal) |    todos presentes na reunião    |
 |  Discussão 01 -É necessário colocar concorrentes no Rich Picture?  |    todos presentes na reunião    |
 
 <br>
@@ -44,8 +44,8 @@ Juntar RichPicture indviduais em um RichPicture geral e criar Argumentação.
 
 |            Tarefa           |  Responsavel |        Resultado       |
 |:---------------------------:|:------------:|:----------------------:|
-| Criar RichPicture indvidual | Arthur Assis | [RichPicture Arthur]() |
-| Criar Argumentação relativa a Discussão 1  |    Arthur Assis    |[Argumentação Concorrentes]()|
+| Criar RichPicture indvidual | Arthur Assis | [RichPicture Arthur](/pre-rastreabilidade/richPictures/richPictures-V1/#prototipo-individual-2-arthur) |
+| Criar Argumentação relativa a Discussão 1  |    Arthur Assis    |[Argumentação Concorrentes](/pre-rastreabilidade/argumentacoes/argumentacao-V1/)|
 
 ---
 <br>
@@ -60,9 +60,9 @@ Juntar RichPicture indviduais em um RichPicture geral e criar Argumentação.
 
 <br>
 #### Documentos apresentados:
-- [RichPicture Final v1]()
-- [RichPicture Calebe]()
-- [RichPicture Arthur]()
+- [RichPicture Final v1](/pre-rastreabilidade/richPictures/richPictures-V1/#rich-picture-do-fluxo-principal)
+- [RichPicture Calebe](/pre-rastreabilidade/richPictures/richPictures-V1/#prototipo-individual-3-calebe)
+- [RichPicture Arthur](/pre-rastreabilidade/richPictures/richPictures-V1/#prototipo-individual-2-arthur)
 
 <br>
 #### Feedback:
@@ -106,14 +106,14 @@ Dividir tarefas.
 
 |            Tarefa           |  Responsavel |        Resultado       |
 |:---------------------------:|:------------:|:----------------------:|
-| Criar RichPicture serviços pagos  | Calebe Rios | [RichPicture Serviços Pagos V1]() |
-| Criar RichPicture concorrentes  | Vítor Cardoso | [RichPicture Concorrentes V1]() |
+| Criar RichPicture serviços pagos  | Calebe Rios | [RichPicture Serviços Pagos V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-dos-servicos-pagos) |
+| Criar RichPicture concorrentes  | Vítor Cardoso | [RichPicture Concorrentes V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-dos-principais-concorrentes-do-tinder) |
 | Criar RichPicture visão social  | Luciana Ribeiro | ----- |
-| Criar RichPicture feed e mensages  | Amanda Muniz | [RichPicture Mach e Feed V1]() |
-| Criar RichPicture timeline mach  | Amanda Muniz | [RichPicture Mach e Feed V1]() |
-| Criar RichPicture visão de empresa  | Arthur Assis | [RichPicture Empresa V1]() |
-| Criar RichPicture cadastro  | Waysman Silva | [RichPicture Cadastro V1]() |
-| Refatorar [RichPicture Final v1]()  | Luciana Ribeiro | [RichPicture Final v2]() |
+| Criar RichPicture feed e mensages  | Amanda Muniz | [RichPicture Mach e Feed V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-do-fluxo-do-match) |
+| Criar RichPicture timeline mach  | Amanda Muniz | [RichPicture Mach e Feed V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-do-fluxo-do-match) |
+| Criar RichPicture visão de empresa  | Arthur Assis | [RichPicture Empresa V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-do-tinder-como-empresa) |
+| Criar RichPicture cadastro  | Waysman Silva | [RichPicture Cadastro V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-do-fluxo-do-cadastro) |
+| Refatorar [RichPicture Final v1](/pre-rastreabilidade/richPictures/richPictures-V1/)  | Luciana Ribeiro | [RichPicture Final v2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-do-fluxo-principal) |
 
 ---
 <br>
@@ -136,13 +136,13 @@ Revisar RichPictures produzidos e criar mais argumentações.
 
 |        Documento        |     Produzido por    |
 |:-----------------------:|:--------------------:|
-|  [RichPicture Empresa V1]() |    Arthur Assis    |
-|  [RichPicture Cadastro V1]() |   Waysman Silva   |
-|  [RichPicture Concorrentes V1]() |   Vítor Cardoso   |
-|  [RichPicture Mach e Feed V1]() |   Amanda Muniz   |
-|  [RichPicture Serviços Pagos V1]() |   Calebe Rios   |
-|  [RichPicture Final V2]() |   Luciana Ribeiro   |
-|  [Formulario 1 V1]() |   Luciana Ribeiro   |
+|  [RichPicture Empresa V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-do-tinder-como-empresa) |    Arthur Assis    |
+|  [RichPicture Cadastro V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-do-fluxo-do-cadastro) |   Waysman Silva   |
+|  [RichPicture Concorrentes V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-dos-principais-concorrentes-do-tinder) |   Vítor Cardoso   |
+|  [RichPicture Mach e Feed V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-do-fluxo-do-match) |   Amanda Muniz   |
+|  [RichPicture Serviços Pagos V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-dos-servicos-pagos) |   Calebe Rios   |
+|  [RichPicture Final V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-do-fluxo-principal) |   Luciana Ribeiro   |
+|  [Questionário](/elicitacao/questionario/questionario/) |   Luciana Ribeiro   |
 
 <br>
 #### Documentos produzidos durante a reunião:
@@ -157,8 +157,8 @@ Revisar RichPictures produzidos e criar mais argumentações.
 
 |            Tarefa           |  Responsavel |        Resultado       |
 |:---------------------------:|:------------:|:----------------------:|
-|  Criar Argumentação relativa a Discussão 2 |    Arthur Assis    |[Argumentação RichPicture Feed V1]()|
-|Criar Argumentação relativa a Discussão 2 |    Arthur Assis    |[Argumentação RichPicture Visão social V1]()|
+|  Criar Argumentação relativa a Discussão 2 |    Arthur Assis    |[Argumentação RichPicture Feed V1](/pre-rastreabilidade/argumentacoes/argumentacao-V1/#argumentacao-02-v1)|
+|Criar Argumentação relativa a Discussão 2 |    Arthur Assis    |[Argumentação RichPicture Visão social V1](/pre-rastreabilidade/argumentacoes/argumentacao-V1/#argumentacao-02-v1)|
 
 ---
 
@@ -174,14 +174,14 @@ Revisar RichPictures produzidos e criar mais argumentações.
 
 <br>
 #### Documentos apresentados:
-- [RichPicture Empresa V1]()
-- [RichPicture Cadastro V1]()
-- [RichPicture Concorrentes V1]()
-- [RichPicture Mach e Feed V1]()
-- [RichPicture Serviços Pagos V1]()
-- [RichPicture Final V2]()
-- [Argumentação RichPicture Feed V1]()
-- [Argumentação RichPicture Visão social V1]()
+- [RichPicture Empresa V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-do-tinder-como-empresa)
+- [RichPicture Cadastro V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-do-fluxo-do-cadastro)
+- [RichPicture Concorrentes V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-dos-principais-concorrentes-do-tinder)
+- [RichPicture Mach e Feed V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-do-fluxo-do-match)
+- [RichPicture Serviços Pagos V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-dos-servicos-pagos)
+- [RichPicture Final V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-do-fluxo-principal)
+- [Argumentação RichPicture Feed V1](/pre-rastreabilidade/argumentacoes/argumentacao-V1/#argumentacao-02-v1)
+- [Argumentação RichPicture Visão social V1](/pre-rastreabilidade/argumentacoes/argumentacao-V1/#argumentacao-02-v1))
 
 <br>
 #### Feedback:
@@ -229,7 +229,7 @@ Dividir tarefas.
 |:---------------------------:|:------------:|:----------------------:|
 |Criar cabeçalho ghpages | Luciana / Vítor | Não usaremos o ghpages |
 |Criar sidebar ghpages | Luciana / Vítor | Não usaremos o ghpages |
-| Lina do tempo | Arthur Assis | [Lina do tempo]() |
+| Lina do tempo | Arthur Assis | [Lina do tempo](/extras/linha-tempo/) |
 | Documentar Pré-Rastreabilidade | Luciana Ribeiro | ----- |
 | Documentar Pós-Rastreabilidade | Amanda Muniz | ----- |
 | Documentar Pautas de Reunião | Amanda Muniz | ----- |
@@ -265,12 +265,12 @@ Dividir tarefas.
 
 |        Documento        |     Produzido por    |
 |:-----------------------:|:--------------------:|
-| [Observação Participativa V1]() |    todos presentes na reunião    |
-| [Questionário Usuários e não Usuários V1]() |    Amanda/Luciana    |
-| [Introspecção V1]() |    todos presentes na reunião    |
-| [Brainstorming V1]() |    todos presentes na reunião    |
-| [MoSCoW V1]()  |    todos presentes na reunião    |
-| [First Things First V1]()  |    todos presentes na reunião    |
+| [Observação Participativa](/elicitacao/observacao_participativa/) |    todos presentes na reunião    |
+| [Questionário Usuários e não Usuários](/elicitacao/questionario/questionario/) |    Amanda/Luciana    |
+| [Introspecção](/elicitacao/introspeccao/) |    todos presentes na reunião    |
+| [Brainstorming](/elicitacao/brainstorming/) |    todos presentes na reunião    |
+| [MoSCoW](/elicitacao/moscow/)  |    todos presentes na reunião    |
+| [First Things First](/elicitacao/first_things_first/)  |    todos presentes na reunião    |
 
 <br>
 #### Tarefas programadas pos-reunião:
@@ -292,11 +292,11 @@ Dividir tarefas.
 
 <br>
 #### Documentos apresentados:
-- [Observação Participativa V1]()
-- [Questionário V1]()
-- [Introspecção V1]()
-- [Brainstorming V1]()
-- [First Things First V1]()
+- [Observação Participativa](/elicitacao/observacao_participativa/)
+- [Questionário Usuários e não Usuários](/elicitacao/questionario/questionario/)
+- [Introspecção](/elicitacao/introspeccao/)
+- [Brainstorming](/elicitacao/brainstorming/)
+- [First Things First V1](/elicitacao/first_things_first/)
 
 <br>
 #### Feedback:
@@ -354,9 +354,9 @@ Dividir tarefas.
 |Criar plano para a Análise de Discurso | Calebe Rios | Estratégia para Analise de Discurso |
 |Criar página de Análise | Vítor Cardoso| [Textos introdutorios Análise](/analise/analise/) |
 |Realizar elicitação atravez de StoryTelling  | Vítor Cardoso| [StoryTelling](/elicitacao/storytelling/) |
-|Refatorar [Observação Participativa V1]()  | Waysman Silva| [Observação Participativa V2]() |
-|Refatorar [Introspecção V1]()  | Waysman Silva| [Introspecção V2]() |
-|Refatorar [Brainstorming V1]() | Waysman Silva| [Brainstorming V2]() |
+|Refatorar Observação Participativa  | Waysman Silva| [Observação Participativa](/elicitacao/observacao_participativa/) |
+|Refatorar Introspecção  | Waysman Silva| [Introspecção](/elicitacao/introspeccao/) |
+|Refatorar Brainstorming V1 | Waysman Silva| [Brainstorming](/elicitacao/brainstorming/) |
 
 <br>
 
@@ -379,9 +379,9 @@ Dividir tarefas.
 #### Documentos produzidos para a reunião:
 |        Documento        |     Produzido por    |
 |:-----------------------:|:--------------------:|
-|  [Observação Participativa V2]() |     Waysman Silva    |
-|  [Introspecção V2]() |     Waysman Silva    |
-|  [Brainstorming V2]() |     Waysman Silva    |
+|  [Observação Participativa](/elicitacao/observacao_participativa/) |     Waysman Silva    |
+|  [Introspecção](/elicitacao/introspeccao/) |     Waysman Silva    |
+|  [Brainstorming](/elicitacao/brainstorming/) |     Waysman Silva    |
 
 <br>
 #### Documentos produzidos durante a reunião:
@@ -421,14 +421,14 @@ Dividir tarefas.
 #### Documentos produzidos para a reunião:
 |        Documento        |     Produzido por    |
 |:-----------------------:|:--------------------:|
-|  [RichPicture fluxo de match v2]() |     Amanda Muniz    |
+|  [RichPicture fluxo de match v2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-do-fluxo-do-match) |     Amanda Muniz    |
 |  [Textos introdutorios pagina Home](/) |     Amanda Muniz    |
 |  [Pautas de reunião até dia 28/03](/extras/reunioes/#reuniao-1803) |     Amanda Muniz    |
 |  [Linha do tempo até dia 28/03](/extras/linha-tempo/) |     Arthur Assis    |
 |  [Textos introdutorios Elicitação e Priorização](/elicitacao/elicitacao) |     Arthur Assis    |
 |  Estratégia para Analise de Discurso |     Calebe Rios    |
 |  [Questionário V2] |     Luciana Ribeiro    |
-|  [StoryTelling]() |     Vitor Cardoso    |
+|  [StoryTelling](/elicitacao/storytelling/) |     Vitor Cardoso    |
 |  [Analise de Protocolo V2](/elicitacao/analise_protocolo/) |     Amanda/Luciana    |
 
 
@@ -437,14 +437,14 @@ Dividir tarefas.
 
 |        Documento        |     Produzido por    |
 |:-----------------------:|:--------------------:|
-|  [RichPicture Fluxo Match V2]()  |    Amanda Muniz    |
-|  [RichPicture Tinder como empresa V2]()  |    Arthur Assis    |
-|  [First Things First V2]()  |    Arthur Assis     |
-|  [RichPicture Serviços Pagos V2]()  |    Calebe Rios    |
-|  [MoSCoW V2]()  |    Calebe Rios     |
-|  [RichPicture Concorrentes V2]()  |    Vitor Cardoso      |
-|  [RichPicture Fluxo do Cadastro V2]()  |    Waysman Silva     |
-|  [Analise de Discurso]()  |    Todos os presentes   |
+|  [RichPicture Fluxo Match V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-do-fluxo-do-match)  |    Amanda Muniz    |
+|  [RichPicture Tinder como empresa V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-do-tinder-como-empresa)  |    Arthur Assis    |
+|  [First Things First](/elicitacao/first_things_first/)  |    Arthur Assis     |
+|  [RichPicture Serviços Pagos V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-dos-servicos-pagos)  |    Calebe Rios    |
+|  [MoSCoW](/elicitacao/moscow/)  |    Calebe Rios     |
+|  [RichPicture Concorrentes V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-dos-servicos-pagos)  |    Vitor Cardoso      |
+|  [RichPicture Fluxo do Cadastro V2](/pre-rastreabilidade/richPictures/richPictures-V2/#rich-picture-do-fluxo-do-cadastro)  |    Waysman Silva     |
+|  [Analise de Discurso](/elicitacao/analise_discurso/)  |    Todos os presentes   |
 
 <br>
 #### Tarefas programadas pos-reunião:
@@ -469,15 +469,15 @@ Dividir tarefas.
 
 <br>
 #### Documentos apresentados:
-- [Observação Participativa V2]()
-- [Questionário V2]()
-- [StoryTelling]()
-- [Introspecção V2]()
-- [Brainstorming V2]()
+- [Observação Participativa](/elicitacao/observacao_participativa/)
+- [Questionário](/elicitacao/questionario/questionario/)
+- [StoryTelling](/elicitacao/storytelling/)
+- [Introspecção](/elicitacao/introspeccao/)
+- [Brainstorming](/elicitacao/brainstorming/)
 - [Analise de Protocolo V2](/elicitacao/analise_protocolo/)
-- [Analise de Discurso]()
-- [MoSCoW V2]()
-- [First Things First V2]()
+- [Analise de Discurso](/elicitacao/analise_discurso/)
+- [MoSCoW](/elicitacao/moscow/)
+- [First Things First](/elicitacao/first_things_first/)
 
 <br>
 #### Feedback:
