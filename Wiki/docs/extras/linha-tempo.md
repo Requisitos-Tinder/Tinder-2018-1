@@ -491,7 +491,7 @@ Dividir tarefas.
 -----
 <br>
 
-### [Reunião 08/04](reunioes/#reuniao-0104)
+### [Reunião 08/04](reunioes/#reuniao-0804)
 
 <br>
 #### Objetivo: Dividir tarefas.
@@ -562,7 +562,7 @@ Dividir tarefas.
 
 <br>
 
-### [Reunião 10/04](reunioes/#reuniao-0104)
+### [Reunião 10/04](reunioes/#reuniao-1004)
 
 <br>
 #### Objetivo: Revisar Documentos.
@@ -628,5 +628,49 @@ Dividir tarefas.
 #### Feedback:
 - Diferenciação entre restrição e exceção esta ok
 - Termo 'fluxo intuitivo' utilizado em diversas restrição muito é muito amplo
+
+<br>
+
+---
+
+<br>
+
+### [Reunião 17/04](reunioes/#reuniao-1704)
+
+<br>
+#### Objetivo: Refatorar cenários e léxicos e desenvolver casos de uso.
+
+<br>
+#### Participantes:
+- Amanda Muniz
+- Calebe Rios
+- Luciana Ribeiro
+- Vítor Cardoso
+- Waysman Silva
+
+<br>
+#### Documentos produzidos para a reunião:
+|        Documento        |     Produzido por    |
+|:-----------------------:|:--------------------:|
+| ----- | ----- |
+
+
+<br>
+#### Documentos produzidos durante a reunião:
+
+|        Documento        |     Produzido por    |
+|:-----------------------:|:--------------------:|
+| [Cenarios](/modelagem/cenarios/) | Amanda Muniz |
+| [lexicos](/modelagem/lexicos/) | Luciana/Vitor/Waysman |
+
+<br>
+#### Tarefas programadas pos-reunião:
+
+|            Tarefa           |  Responsavel |        Resultado       |
+|:---------------------------:|:------------:|:----------------------:|
+| Terminar a Diagrama de Caso de Uso |Calebe Rios| [Diagrama de Caso de Uso](/modelagem/DiagCasoDeUso/)|
+| Terminar a Especificação Suplementar |Vitor Cardoso| [Especificação Suplementar](/modelagem/EspSuplementar/)|
+| Terminar a Especificação do Caso de Uso |Amanda/Luciana/Waysman| [Especificação de caso de uso](/modelagem/casosUso/)|
+
 
 <br>
