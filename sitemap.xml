@@ -18,7 +18,7 @@
     </url>
         
     <url>
-     <loc>/pre-rastreabilidade/richPicture/</loc>
+     <loc>/pre-rastreabilidade/richPictures/richPictures-VFinal/</loc>
      <lastmod>2018-06-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -38,12 +38,6 @@
     
 
     
-        
-    <url>
-     <loc>/pos-rastreabilidade/matriz-rastreabilidade/</loc>
-     <lastmod>2018-06-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
         
     <url>
      <loc>/pos-rastreabilidade/pos-rastreabilidade/</loc>
@@ -92,7 +86,7 @@
     </url>
         
     <url>
-     <loc>/elicitacao/questionario/</loc>
+     <loc>/elicitacao/questionario/questionario/</loc>
      <lastmod>2018-06-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -192,7 +186,7 @@
     </url>
         
     <url>
-     <loc>/modelagem/EspSuplementar/</loc>
+     <loc>/modelagem/EspSuplementar/EspSuplementar/</loc>
      <lastmod>2018-06-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -204,13 +198,13 @@
     </url>
         
     <url>
-     <loc>/modelagem/NFR/</loc>
+     <loc>/modelagem/NFRs/NFR-VFinal/</loc>
      <lastmod>2018-06-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc>/modelagem/iStar/</loc>
+     <loc>/modelagem/iStar/iStar-VFinal/</loc>
      <lastmod>2018-06-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -233,12 +227,6 @@
         
     <url>
      <loc>/analise/verificacao/</loc>
-     <lastmod>2018-06-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/analise/validacao/</loc>
      <lastmod>2018-06-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -276,7 +264,13 @@
     
         
     <url>
-     <loc>/pre-rastreabilidade/versoes_ateriores_argumentacoes/</loc>
+     <loc>/pre-rastreabilidade/argumentacoes/argumentacao-V1/</loc>
+     <lastmod>2018-06-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/pre-rastreabilidade/argumentacoes/argumentacao-FINAL/</loc>
      <lastmod>2018-06-11</lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -672,12 +666,6 @@
     </url>
         
     <url>
-     <loc>/modelagem/casosUso/UC27/</loc>
-     <lastmod>2018-06-11</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
      <loc>/analise/verificacao/veargumentacao/</loc>
      <lastmod>2018-06-11</lastmod>
      <changefreq>daily</changefreq>
@@ -727,6 +715,66 @@
         
     <url>
      <loc>/analise/verificacao/veistar/</loc>
+     <lastmod>2018-06-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/pre-rastreabilidade/richPictures/richPictures-V1/</loc>
+     <lastmod>2018-06-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/pre-rastreabilidade/richPictures/richPictures-V2/</loc>
+     <lastmod>2018-06-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/pre-rastreabilidade/richPictures/richPictures-V3/</loc>
+     <lastmod>2018-06-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/modelagem/DiagDeCasosUso/DiagCasodeUso-V1/</loc>
+     <lastmod>2018-06-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/modelagem/DiagDeCasosUso/DiagCasodeUso-FINAL/</loc>
+     <lastmod>2018-06-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/pre-rastreabilidade/richPictures/richPictures-V2/</loc>
+     <lastmod>2018-06-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/pre-rastreabilidade/richPictures/richPictures-V3/</loc>
+     <lastmod>2018-06-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/modelagem/NFRs/NFR-V1/</loc>
+     <lastmod>2018-06-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/modelagem/iStar/iStar-V1/</loc>
+     <lastmod>2018-06-11</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/modelagem/EspSuplementar/EspSuplementarV1/</loc>
      <lastmod>2018-06-11</lastmod>
      <changefreq>daily</changefreq>
     </url>

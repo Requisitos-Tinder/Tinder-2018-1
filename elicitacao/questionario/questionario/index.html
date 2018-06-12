@@ -1,0 +1,842 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../../img/favicon.ico">
+        <title>Questionário - Wiki</title>
+        <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../../css/font-awesome-4.5.0.css" rel="stylesheet">
+        <link href="../../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="../../../css/highlight.css">
+        <link href="../../../stylesheets/main.css" rel="stylesheet">
+        <link href="../../../stylesheets/fancybox-style/jquery.fancybox.css" rel="stylesheet">
+        <link href="../../../stylesheets/fancybox-style/jquery.fancybox.min.css" rel="stylesheet">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+
+        <script src="../../../js/jquery-1.10.2.min.js"></script>
+        <script src="../../../js/bootstrap-3.0.3.min.js"></script>
+        <script src="../../../js/highlight.pack.js"></script> 
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="../../..">Wiki</a>
+        </div>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+                <!-- Main navigation -->
+                <ul class="nav navbar-nav">
+                    <li >
+                        <a href="../../..">Home</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pré-Rastreabilidade <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/pre-rastreabilidade/">About</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/richPictures/richPictures-VFinal/">Rich Pictures</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/argumentacoes/">Argumentações</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/referencias/">Referências</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pós-Rastreabilidade <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../../pos-rastreabilidade/pos-rastreabilidade/">About</a>
+</li>
+                            
+<li >
+    <a href="../../../pos-rastreabilidade/backwardfrom/">Backward-from</a>
+</li>
+                            
+<li >
+    <a href="../../../pos-rastreabilidade/forwardfrom/">Forward-from</a>
+</li>
+                            
+<li >
+    <a href="../../../pos-rastreabilidade/referencias/">Referências</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown active">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Elicitação <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../elicitacao/">About</a>
+</li>
+                            
+<li >
+    <a href="../../tec_elicitacao/">Técnicas Elicitação</a>
+</li>
+                            
+<li >
+    <a href="../../observacao_participativa/">Observação Participativa</a>
+</li>
+                            
+<li class="active">
+    <a href="./">Questionário</a>
+</li>
+                            
+<li >
+    <a href="../../introspeccao/">Introspecção</a>
+</li>
+                            
+<li >
+    <a href="../../brainstorming/">Brainstorming</a>
+</li>
+                            
+<li >
+    <a href="../../analise_protocolo/">Análise de Protocolo</a>
+</li>
+                            
+<li >
+    <a href="../../analise_discurso/">Analise de Discurso</a>
+</li>
+                            
+<li >
+    <a href="../../storytelling/">Storytelling</a>
+</li>
+                            
+<li >
+    <a href="../../resultado_final_TE/">Resultado Técnicas de Elicitação</a>
+</li>
+                            
+<li >
+    <a href="../../tec_priorizacao/">Técnicas Priorização</a>
+</li>
+                            
+<li >
+    <a href="../../moscow/">MoSCoW</a>
+</li>
+                            
+<li >
+    <a href="../../first_things_first/">First Things First</a>
+</li>
+                            
+<li >
+    <a href="../../referencias/">Referências</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modelagem <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../../modelagem/modelagem/">About</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/lexicos/">Léxicos</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/">Cenários</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/DiagCasoDeUso/">Diagramas de Caso de Uso</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/">Casos de Uso</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/EspSuplementar/EspSuplementar/">Especificação Suplementar</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/user_stories/">Historias de Usuário</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/NFRs/NFR-VFinal/">NFR</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/iStar/iStar-VFinal/">iStar</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/referencias/">Referências</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Análise <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../../analise/analise/">About</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/">Verificação</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Extras <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../../extras/linha-tempo/">Linha do Tempo</a>
+</li>
+                            
+<li >
+    <a href="../../../extras/reunioes/">Pautas de Reuniões</a>
+</li>
+                            
+<li >
+    <a href="../../../extras/apresentacoes/">Apresentações</a>
+</li>
+                            
+<li >
+    <a href="../../../extras/pesquisaqualidade/">Pesquisa de Qualidade</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/argumentacoes/argumentacao-V1/">Versoes argumentacao</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/argumentacoes/argumentacao-FINAL/">Versoes argumentacao FINAL</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario01/">Cenario 01</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario02/">Cenario 02</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario03/">Cenario 03</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario04/">Cenario 04</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario05/">Cenario 05</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario06/">Cenario 06</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario07/">Cenario 07</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario08/">Cenario 08</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario09/">Cenario 09</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario10/">Cenario 10</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario11/">Cenario 11</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario12/">Cenario 12</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario13/">Cenario 13</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario14/">Cenario 14</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario15/">Cenario 15</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario16/">Cenario 16</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario17/">Cenario 17</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario18/">Cenario 18</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario19/">Cenario 19</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario20/">Cenario 20</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario21/">Cenario 21</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario22/">Cenario 22</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario23/">Cenario 23</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario24/">Cenario 24</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario25/">Cenario 25</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario26/">Cenario 26</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario27/">Cenario 27</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario28/">Cenario 28</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario29/">Cenario 29</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario30/">Cenario 30</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario31/">Cenario 31</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario32/">Cenario 32</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario33/">Cenario 33</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario34/">Cenario 34</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario35/">Cenario 35</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario36/">Cenario 36</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario37/">Cenario 37</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario38/">Cenario 38</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/cenarios/cenario39/">Cenario 39</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC01/">UC 01</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC02/">UC 02</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC03/">UC 03</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC04/">UC 04</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC05/">UC 05</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC06/">UC 06</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC07/">UC 07</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC08/">UC 08</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC09/">UC 09</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC10/">UC 10</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC11/">UC 11</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC12/">UC 12</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC13/">UC 13</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC14/">UC 14</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC15/">UC 15</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC16/">UC 16</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC17/">UC 17</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC18/">UC 18</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC19/">UC 19</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC20/">UC 20</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC21/">UC 21</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC22/">UC 22</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC23/">UC 23</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC24/">UC 24</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC25/">UC 25</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/casosUso/UC26/">UC 26</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/veargumentacao/">Verificação da Argumentação</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/vestorytelling/">Verificação do Storytelling</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/veprotocolo/">Verificação da Análise de Protocolo</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/vecasodeuso/">Verificação dos Casos de Uso</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/veuserstorie/">Verificação das Histórias de Usuário</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/vecenario/">Verificação dos Cenários</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/velexico/">Verificação dos Léxicos</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/venfr/">Verificação dos NFRs</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/veistar/">Verificação do iStar</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/richPictures/richPictures-V1/">RP V1</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/richPictures/richPictures-V2/">RP V1</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/richPictures/richPictures-V3/">RP V1</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/DiagDeCasosUso/DiagCasodeUso-V1/">Diag de Caso de Uso V1</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/DiagDeCasosUso/DiagCasodeUso-FINAL/">Diag de Caso de Uso FINAL</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/richPictures/richPictures-V2/">RP V2</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/richPictures/richPictures-V3/">RP V3</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/NFRs/NFR-V1/">NFR V1</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/iStar/iStar-V1/">iStar V1</a>
+</li>
+                            
+<li >
+    <a href="../../../modelagem/EspSuplementar/EspSuplementarV1/">Esp. Suplementar V1</a>
+</li>
+                        </ul>
+                    </li>
+                </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                        <i class="fa fa-search"></i> Search
+                    </a>
+                </li>
+                    <li >
+                        <a rel="next" href="../../observacao_participativa/">
+                            <i class="fa fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="prev" href="../../introspeccao/">
+                            Next <i class="fa fa-arrow-right"></i>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#questionario">Questionário</a></li>
+            <li><a href="#usuarios">Usuários</a></li>
+        <li class="main "><a href="#requisitos-levantados">Requisitos Levantados:</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<h2 id="questionario"><strong>Questionário</strong></h2>
+<p>O questionário foi criado inicialmente para que o grupo tivesse uma visão mais ampla a respeito dos tipos de usuário do Tinder, mas com a continuidade do projeto, o questionário foi ampliado para que os requisitos não-funcionais fossem levantados, levando em consideração que é a forma mais eficaz de compreender os motivos, intenções e insentivos que levam uma pessoa a se tornar usuário do Tinder. </p>
+<p>Obtivemos 479 respostas no total e isso contribuiu muito para que a equipe tivesse um embasamento mais preciso a respeito das respostas.</p>
+<p>Foi separado incialmente os participantes em dois ninchos: usuários e não usuários. Onde a maioria absoluta era ou ja foi usuário do Tinder. </p>
+<p><a data-fancybox="gallery" href="../../../img/questionario/quest1.png"><img src="../../../img/questionario/quest1.png"></a></p>
+<h3 id="usuarios">Usuários</h3>
+<p>Então para compreender o público alvo do Tinder, a pesquisa buscou avaliar a idade dos usuários, onde a maioria está entre 21 e 25 anos, mas que é possível visualizar que grande parte de seu público também está na faixa etária de 18 a 20 anos.</p>
+<p><a data-fancybox="gallery" href="../../../img/questionario/quest2.png"><img src="../../../img/questionario/quest2.png"></a></p>
+<p>O Tinder possui suporte para as plataformas: Android, IOS e Web. Através do questionário foi possível levantar a informação de que mais de 70% dos usuários utilizam a aplicação em dispositivos Android e que são poucos os usuários que utilizam o Tinder na versão Web. </p>
+<p><a data-fancybox="gallery" href="../../../img/questionario/quest3.png"><img src="../../../img/questionario/quest3.png"></a></p>
+<p>A próxima pergunta foi muito interessante e surpreendente. Onde os usuários foram perguntados à respeito de suas motivações ao usar o Tinder.</p>
+<p><a data-fancybox="gallery" href="../../../img/questionario/quest4.png"><img src="../../../img/questionario/quest4.png"></a></p>
+<p>Foi dada aos participantes as seguintes opções, respectivamente:</p>
+<ol>
+<li>Diversão: 57.7%</li>
+<li>Solidão: 34.2%</li>
+<li>Entretenimento: 43.7%</li>
+<li>Amizades: 22.6%</li>
+<li>Relações casuais: 35.3%</li>
+<li>Relacionamento Sério: 25.6%</li>
+<li>Aumentar a autoestima: 28%</li>
+<li>Falta do que fazer: 56.9%</li>
+</ol>
+<p>Mas também foi possível que os participantes respondessem outros motivos com suas próprias palavras, e algumas dessas respostas foram:</p>
+<ol>
+<li>
+<p>Sexo</p>
+</li>
+<li>
+<p>Curiosidade</p>
+</li>
+<li>
+<p>Menage</p>
+</li>
+<li>
+<p>Passar o tédio</p>
+</li>
+</ol>
+<p>A partir da compreenção dos motivos de um usuário utilizar o Tinder, foi buscado analisar como foi a experiência desses participantes.  </p>
+<p><a data-fancybox="gallery" href="../../../img/questionario/quest5.png"><img src="../../../img/questionario/quest5.png"></a></p>
+<p>Para entender se a proposta do Tinder foi bem recebida, foi perguntado aos participantes de suas expectativas foram alcançadas, com o intuito de entender se aquilo que a aplicação se propôs a fazer foi entendido pelos usuários.</p>
+<p><a data-fancybox="gallery" href="../../../img/questionario/quest6.png"><img src="../../../img/questionario/quest6.png"></a></p>
+<p>Uma grande preocupação da equipe foi descobrir se a plataforma era de fácil acesso, compreensão e uso.  </p>
+<p><a data-fancybox="gallery" href="../../../img/questionario/quest7.png"><img src="../../../img/questionario/quest7.png"></a></p>
+<p>Outra área abordada foi com relação aos concorrentes e seus possíveis benefícios em comparação ao Tinder. </p>
+<p><a data-fancybox="gallery" href="../../../img/questionario/quest8.png"><img src="../../../img/questionario/quest8.png"></a></p>
+<p>Então foi pedido para que os usuários respondessem quais aplicações concorrentes eram de seu conhecimento:</p>
+<ol>
+<li>
+<p>Happn: 85.2%</p>
+</li>
+<li>
+<p>OkCupid: 8.5%</p>
+</li>
+<li>
+<p>Grindr: 36.4%</p>
+</li>
+<li>
+<p>Badoo: 40.3%</p>
+</li>
+<li>
+<p>Hornet: 2.8%</p>
+</li>
+</ol>
+<p>Algumas pessoas inseriram outros concorrentes de sua preferência, como:</p>
+<ol>
+<li>Adote um cara</li>
+<li>Lovoo</li>
+<li>Par perfeito</li>
+<li>Nerd Spell</li>
+</ol>
+<p><a data-fancybox="gallery" href="../../../img/questionario/quest9.png"><img src="../../../img/questionario/quest9.png"></a></p>
+<p>Algumas das respostas que obtivemos foram de grande ajuda para a compreensão de quais atraentes o Tinder possui, assim como as razões pelas quais alguns usuários optaram por utilizar uma aplicação concorrente. </p>
+<p>Foram obtidas 70 respostas.</p>
+<p><a data-fancybox="gallery" href="../../../img/questionario/quest10.png"><img src="../../../img/questionario/quest10.png"></a></p>
+<p>O <strong>questionário</strong> pode ser encontrado no seguinte link:</p>
+<p><a href="https://goo.gl/forms/rLw9t8uCIbbEGPkF2">Questionário</a></p>
+<p><br /></p>
+<h2 id="requisitos-levantados"><strong>Requisitos Levantados</strong>:</h2>
+<table>
+<thead>
+<tr>
+<th>Número</th>
+<th>Requisito</th>
+<th>Categoria</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Suporte à plataforma Android</td>
+<td>Compatibilidade</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Suporte à plataforma IOS</td>
+<td>Compatibilidade</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Suporte à plataforma Web</td>
+<td>Compatibilidade</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Tempo mínimo de resposta entre cada perfil avaliado</td>
+<td>Desempenho</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Tempo mínimo de respostas quando houver o match</td>
+<td>Desempenho</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Segurança ao guardar os dados do usuário</td>
+<td>Segurança</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Segurança ao realizar a integração com as redes sociais (Facebook, Instragram, Spotify)</td>
+<td>Segurança</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Linguagem de fácil entendimento</td>
+<td>Usabilidade</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Compatibilidade com versões de browser (Google Chrome, Mozilla Firefox, etc)</td>
+<td>Compatibilidade</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Compatibilidade com versões de sistemas operacionais móveis</td>
+<td>Compatibilidade</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Interface intuítiva e de fácil compreensão</td>
+<td>Usabilidade</td>
+</tr>
+</tbody>
+</table></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>var base_url = '../../..';</script>
+        <script src="../../../js/base.js"></script>
+        <script src="../../../stylesheets/fancybox-style/jquery.fancybox.js"></script>
+        <script src="../../../stylesheets/fancybox-style/jquery.fancybox.min.js"></script>
+        <script src="../../../search/require.js"></script>
+        <script src="../../../search/search.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td><kbd>&larr;</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td><kbd>&rarr;</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    </body>
+</html>

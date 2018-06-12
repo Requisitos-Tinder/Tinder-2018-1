@@ -60,7 +60,7 @@
 </li>
                             
 <li >
-    <a href="../../../pre-rastreabilidade/richPicture/">Rich Pictures</a>
+    <a href="../../../pre-rastreabilidade/richPictures/richPictures-VFinal/">Rich Pictures</a>
 </li>
                             
 <li >
@@ -75,10 +75,6 @@
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pós-Rastreabilidade <b class="caret"></b></a>
                         <ul class="dropdown-menu">
-                            
-<li >
-    <a href="../../../pos-rastreabilidade/matriz-rastreabilidade/">Matrizes de Rastreabilidade</a>
-</li>
                             
 <li >
     <a href="../../../pos-rastreabilidade/pos-rastreabilidade/">About</a>
@@ -114,7 +110,7 @@
 </li>
                             
 <li >
-    <a href="../../../elicitacao/questionario/">Questionário</a>
+    <a href="../../../elicitacao/questionario/questionario/">Questionário</a>
 </li>
                             
 <li >
@@ -183,7 +179,7 @@
 </li>
                             
 <li >
-    <a href="../../EspSuplementar/">Especificação Suplementar</a>
+    <a href="../../EspSuplementar/EspSuplementar/">Especificação Suplementar</a>
 </li>
                             
 <li >
@@ -191,11 +187,11 @@
 </li>
                             
 <li >
-    <a href="../../NFR/">NFR</a>
+    <a href="../../NFRs/NFR-VFinal/">NFR</a>
 </li>
                             
 <li >
-    <a href="../../iStar/">iStar</a>
+    <a href="../../iStar/iStar-VFinal/">iStar</a>
 </li>
                             
 <li >
@@ -213,10 +209,6 @@
                             
 <li >
     <a href="../../../analise/verificacao/">Verificação</a>
-</li>
-                            
-<li >
-    <a href="../../../analise/validacao/">Validação</a>
 </li>
                         </ul>
                     </li>
@@ -246,7 +238,11 @@
                         <ul class="dropdown-menu">
                             
 <li >
-    <a href="../../../pre-rastreabilidade/versoes_ateriores_argumentacoes/">Versoes argumentacao</a>
+    <a href="../../../pre-rastreabilidade/argumentacoes/argumentacao-V1/">Versoes argumentacao</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/argumentacoes/argumentacao-FINAL/">Versoes argumentacao FINAL</a>
 </li>
                             
 <li >
@@ -510,10 +506,6 @@
 </li>
                             
 <li >
-    <a href="../UC27/">UC 27</a>
-</li>
-                            
-<li >
     <a href="../../../analise/verificacao/veargumentacao/">Verificação da Argumentação</a>
 </li>
                             
@@ -548,6 +540,46 @@
 <li >
     <a href="../../../analise/verificacao/veistar/">Verificação do iStar</a>
 </li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/richPictures/richPictures-V1/">RP V1</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/richPictures/richPictures-V2/">RP V1</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/richPictures/richPictures-V3/">RP V1</a>
+</li>
+                            
+<li >
+    <a href="../../DiagDeCasosUso/DiagCasodeUso-V1/">Diag de Caso de Uso V1</a>
+</li>
+                            
+<li >
+    <a href="../../DiagDeCasosUso/DiagCasodeUso-FINAL/">Diag de Caso de Uso FINAL</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/richPictures/richPictures-V2/">RP V2</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/richPictures/richPictures-V3/">RP V3</a>
+</li>
+                            
+<li >
+    <a href="../../NFRs/NFR-V1/">NFR V1</a>
+</li>
+                            
+<li >
+    <a href="../../iStar/iStar-V1/">iStar V1</a>
+</li>
+                            
+<li >
+    <a href="../../EspSuplementar/EspSuplementarV1/">Esp. Suplementar V1</a>
+</li>
                         </ul>
                     </li>
                 </ul>
@@ -576,29 +608,39 @@
         <div class="container">
                 <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="main active"><a href="#uc21-manter-configuracoes">UC21 - Manter configurações</a></li>
+        <li class="main active"><a href="#uc21-manter-configuracoes-de-descoberta">UC21 - Manter configurações de descoberta</a></li>
     </ul>
 </div></div>
                 <div class="col-md-9" role="main">
 
-<h2 id="uc21-manter-configuracoes">UC21 - Manter configurações</h2>
+<h2 id="uc21-manter-configuracoes-de-descoberta">UC21 - Manter configurações de <a href="../../../modelagem/lexicos#descoberta">descoberta</a></h2>
 <p><br />
-<strong>Descrição</strong>: esse caso de uso permite que o usuário tenha acesso às configurações.</p>
-<p><br />
-<strong>Ator principal</strong>: usuário</p>
-<p><br />
-<strong>Pré-requisitos</strong>: Estar logado.</p>
+<strong>Descrição</strong>: esse caso de uso permite que o <a href="../../../modelagem/lexicos#usuario">usuário</a> acesse e edite as configurações de <a href="../../../modelagem/lexicos#descoberta">descoberta</a>.
+<br /></p>
+<p><strong>Ator principal</strong>: <a href="../../../modelagem/lexicos#usuario">usuário</a> e <a href="../../../modelagem/lexicos#tinder">sistema</a>
+<br /></p>
+<p><strong>Pré-requisitos</strong>:
+<br /> 1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> deve possuir um <a href="../../../modelagem/lexicos#perfil">perfil</a> e estar logado.
+<br /> 2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> deve permitir o uso de sua localização atual</p>
 <p><br />
 <strong>Fluxo principal</strong>:
-<br /> 1. O usuário abre o aplicativo.
-<br /> 2. O usuário vai para a aba de perfil.
-<br /> 3. O usuário seleciona a opção de configurações.</p>
+<br /> 1. O <a href="../../../modelagem/lexicos#usuario">usuário</a> acessa as configurações.
+<br /> 2. O <a href="../../../modelagem/lexicos#usuario">usuário</a> desliza a página até a seção de configuração de <a href="../../../modelagem/lexicos#descoberta">descoberta</a>.
+<br /> 3. O <a href="../../../modelagem/lexicos#usuario">usuário</a> define a localização dele.
+<br /> 4. O <a href="../../../modelagem/lexicos#tinder">sistema</a> pede autorização para utilizar a localização atual do <a href="../../../modelagem/lexicos#usuario">usuário</a>.
+<br /> 5. O <a href="../../../modelagem/lexicos#usuario">usuário</a> permite esse uso.
+<br /> 6. O <a href="../../../modelagem/lexicos#usuario">usuário</a> define a distância máxima das pessoas que serão mostradas a ele.
+<br /> 7. O <a href="../../../modelagem/lexicos#usuario">usuário</a> escolhe o gênero dessas pessoas.
+<br /> 8. O <a href="../../../modelagem/lexicos#usuario">usuário</a> escolhe a faixa etária delas.
+<br /> 9. O <a href="../../../modelagem/lexicos#usuario">usuário</a> escolhe se quer ou não que seu <a href="../../../modelagem/lexicos#perfil">perfil</a> apareça para outras pessoas.
+<br /> 10. O <a href="../../../modelagem/lexicos#usuario">usuário</a> seleciona a opção Ok para salvar suas alterações.
+<br /> 11. A tela volta para a aba de <a href="../../../modelagem/lexicos#perfil">perfil</a>.</p>
 <p><br />
 <strong>Fluxo alternativo</strong>: ---</p>
 <p><br />
 <strong>Fluxo de exceção</strong>: ---</p>
 <p><br />
-<strong>Pós-condição</strong>: A tela de configurações será exibida.</p></div>
+<strong>Pós-condição</strong>: Somente serão mostrados ao <a href="../../../modelagem/lexicos#usuario">usuário</a>, pessoas que se enquadrem nas escolhas dele.</p></div>
         </div>
 
         <footer class="col-md-12">

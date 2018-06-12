@@ -1,0 +1,712 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+        
+        
+        <link rel="shortcut icon" href="../../../img/favicon.ico">
+        <title>Diag de Caso de Uso FINAL - Wiki</title>
+        <link href="../../../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../../../css/font-awesome-4.5.0.css" rel="stylesheet">
+        <link href="../../../css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="../../../css/highlight.css">
+        <link href="../../../stylesheets/main.css" rel="stylesheet">
+        <link href="../../../stylesheets/fancybox-style/jquery.fancybox.css" rel="stylesheet">
+        <link href="../../../stylesheets/fancybox-style/jquery.fancybox.min.css" rel="stylesheet">
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+
+        <script src="../../../js/jquery-1.10.2.min.js"></script>
+        <script src="../../../js/bootstrap-3.0.3.min.js"></script>
+        <script src="../../../js/highlight.pack.js"></script> 
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="../../..">Wiki</a>
+        </div>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+                <!-- Main navigation -->
+                <ul class="nav navbar-nav">
+                    <li >
+                        <a href="../../..">Home</a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pré-Rastreabilidade <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/pre-rastreabilidade/">About</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/richPictures/richPictures-VFinal/">Rich Pictures</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/argumentacoes/">Argumentações</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/referencias/">Referências</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pós-Rastreabilidade <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../../pos-rastreabilidade/pos-rastreabilidade/">About</a>
+</li>
+                            
+<li >
+    <a href="../../../pos-rastreabilidade/backwardfrom/">Backward-from</a>
+</li>
+                            
+<li >
+    <a href="../../../pos-rastreabilidade/forwardfrom/">Forward-from</a>
+</li>
+                            
+<li >
+    <a href="../../../pos-rastreabilidade/referencias/">Referências</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Elicitação <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../../elicitacao/elicitacao/">About</a>
+</li>
+                            
+<li >
+    <a href="../../../elicitacao/tec_elicitacao/">Técnicas Elicitação</a>
+</li>
+                            
+<li >
+    <a href="../../../elicitacao/observacao_participativa/">Observação Participativa</a>
+</li>
+                            
+<li >
+    <a href="../../../elicitacao/questionario/questionario/">Questionário</a>
+</li>
+                            
+<li >
+    <a href="../../../elicitacao/introspeccao/">Introspecção</a>
+</li>
+                            
+<li >
+    <a href="../../../elicitacao/brainstorming/">Brainstorming</a>
+</li>
+                            
+<li >
+    <a href="../../../elicitacao/analise_protocolo/">Análise de Protocolo</a>
+</li>
+                            
+<li >
+    <a href="../../../elicitacao/analise_discurso/">Analise de Discurso</a>
+</li>
+                            
+<li >
+    <a href="../../../elicitacao/storytelling/">Storytelling</a>
+</li>
+                            
+<li >
+    <a href="../../../elicitacao/resultado_final_TE/">Resultado Técnicas de Elicitação</a>
+</li>
+                            
+<li >
+    <a href="../../../elicitacao/tec_priorizacao/">Técnicas Priorização</a>
+</li>
+                            
+<li >
+    <a href="../../../elicitacao/moscow/">MoSCoW</a>
+</li>
+                            
+<li >
+    <a href="../../../elicitacao/first_things_first/">First Things First</a>
+</li>
+                            
+<li >
+    <a href="../../../elicitacao/referencias/">Referências</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Modelagem <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../modelagem/">About</a>
+</li>
+                            
+<li >
+    <a href="../../lexicos/">Léxicos</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/">Cenários</a>
+</li>
+                            
+<li >
+    <a href="../../DiagCasoDeUso/">Diagramas de Caso de Uso</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/">Casos de Uso</a>
+</li>
+                            
+<li >
+    <a href="../../EspSuplementar/EspSuplementar/">Especificação Suplementar</a>
+</li>
+                            
+<li >
+    <a href="../../user_stories/">Historias de Usuário</a>
+</li>
+                            
+<li >
+    <a href="../../NFRs/NFR-VFinal/">NFR</a>
+</li>
+                            
+<li >
+    <a href="../../iStar/iStar-VFinal/">iStar</a>
+</li>
+                            
+<li >
+    <a href="../../referencias/">Referências</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Análise <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../../analise/analise/">About</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/">Verificação</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Extras <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../../extras/linha-tempo/">Linha do Tempo</a>
+</li>
+                            
+<li >
+    <a href="../../../extras/reunioes/">Pautas de Reuniões</a>
+</li>
+                            
+<li >
+    <a href="../../../extras/apresentacoes/">Apresentações</a>
+</li>
+                            
+<li >
+    <a href="../../../extras/pesquisaqualidade/">Pesquisa de Qualidade</a>
+</li>
+                        </ul>
+                    </li>
+                    <li class="dropdown active">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pages <b class="caret"></b></a>
+                        <ul class="dropdown-menu">
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/argumentacoes/argumentacao-V1/">Versoes argumentacao</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/argumentacoes/argumentacao-FINAL/">Versoes argumentacao FINAL</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario01/">Cenario 01</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario02/">Cenario 02</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario03/">Cenario 03</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario04/">Cenario 04</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario05/">Cenario 05</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario06/">Cenario 06</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario07/">Cenario 07</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario08/">Cenario 08</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario09/">Cenario 09</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario10/">Cenario 10</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario11/">Cenario 11</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario12/">Cenario 12</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario13/">Cenario 13</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario14/">Cenario 14</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario15/">Cenario 15</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario16/">Cenario 16</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario17/">Cenario 17</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario18/">Cenario 18</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario19/">Cenario 19</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario20/">Cenario 20</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario21/">Cenario 21</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario22/">Cenario 22</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario23/">Cenario 23</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario24/">Cenario 24</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario25/">Cenario 25</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario26/">Cenario 26</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario27/">Cenario 27</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario28/">Cenario 28</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario29/">Cenario 29</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario30/">Cenario 30</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario31/">Cenario 31</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario32/">Cenario 32</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario33/">Cenario 33</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario34/">Cenario 34</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario35/">Cenario 35</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario36/">Cenario 36</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario37/">Cenario 37</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario38/">Cenario 38</a>
+</li>
+                            
+<li >
+    <a href="../../cenarios/cenario39/">Cenario 39</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC01/">UC 01</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC02/">UC 02</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC03/">UC 03</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC04/">UC 04</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC05/">UC 05</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC06/">UC 06</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC07/">UC 07</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC08/">UC 08</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC09/">UC 09</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC10/">UC 10</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC11/">UC 11</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC12/">UC 12</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC13/">UC 13</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC14/">UC 14</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC15/">UC 15</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC16/">UC 16</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC17/">UC 17</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC18/">UC 18</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC19/">UC 19</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC20/">UC 20</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC21/">UC 21</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC22/">UC 22</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC23/">UC 23</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC24/">UC 24</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC25/">UC 25</a>
+</li>
+                            
+<li >
+    <a href="../../casosUso/UC26/">UC 26</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/veargumentacao/">Verificação da Argumentação</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/vestorytelling/">Verificação do Storytelling</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/veprotocolo/">Verificação da Análise de Protocolo</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/vecasodeuso/">Verificação dos Casos de Uso</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/veuserstorie/">Verificação das Histórias de Usuário</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/vecenario/">Verificação dos Cenários</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/velexico/">Verificação dos Léxicos</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/venfr/">Verificação dos NFRs</a>
+</li>
+                            
+<li >
+    <a href="../../../analise/verificacao/veistar/">Verificação do iStar</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/richPictures/richPictures-V1/">RP V1</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/richPictures/richPictures-V2/">RP V1</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/richPictures/richPictures-V3/">RP V1</a>
+</li>
+                            
+<li >
+    <a href="../DiagCasodeUso-V1/">Diag de Caso de Uso V1</a>
+</li>
+                            
+<li class="active">
+    <a href="./">Diag de Caso de Uso FINAL</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/richPictures/richPictures-V2/">RP V2</a>
+</li>
+                            
+<li >
+    <a href="../../../pre-rastreabilidade/richPictures/richPictures-V3/">RP V3</a>
+</li>
+                            
+<li >
+    <a href="../../NFRs/NFR-V1/">NFR V1</a>
+</li>
+                            
+<li >
+    <a href="../../iStar/iStar-V1/">iStar V1</a>
+</li>
+                            
+<li >
+    <a href="../../EspSuplementar/EspSuplementarV1/">Esp. Suplementar V1</a>
+</li>
+                        </ul>
+                    </li>
+                </ul>
+
+            <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                        <i class="fa fa-search"></i> Search
+                    </a>
+                </li>
+                    <li >
+                        <a rel="next" href="../DiagCasodeUso-V1/">
+                            <i class="fa fa-arrow-left"></i> Previous
+                        </a>
+                    </li>
+                    <li >
+                        <a rel="prev" href="../../../pre-rastreabilidade/richPictures/richPictures-V2/">
+                            Next <i class="fa fa-arrow-right"></i>
+                        </a>
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+        <div class="container">
+                <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+        <li class="main active"><a href="#diagramas-de-caso-de-uso">Diagramas de Caso de Uso</a></li>
+            <li><a href="#cadastrar-usuario-e-login-do-usuario">Cadastrar Usuário e Login do Usuário</a></li>
+            <li><a href="#integracao-com-redes-sociais">Integração com Redes Sociais</a></li>
+            <li><a href="#adquirir-servicos-pagos">Adquirir Servicos Pagos</a></li>
+            <li><a href="#match">Match</a></li>
+    </ul>
+</div></div>
+                <div class="col-md-9" role="main">
+
+<h2 id="diagramas-de-caso-de-uso">Diagramas de Caso de Uso</h2>
+<h4 id="cadastrar-usuario-e-login-do-usuario">Cadastrar Usuário e Login do Usuário</h4>
+<p><a data-fancybox="gallery" href="../../../img/casoDeUso/Diagrama01-CadastrarELogar-FINAL.png"><img src="../../../img/casoDeUso/Diagrama01-CadastrarELogar-FINAL-mini.png"></a></p>
+<p><br></p>
+<h4 id="integracao-com-redes-sociais">Integração com Redes Sociais</h4>
+<p><a data-fancybox="gallery" href="../../../img/casoDeUso/Diagrama02-IntegraçãoComRedesSociais-FINAL.png"><img src="../../../img/casoDeUso/Diagrama02-IntegraçãoComRedesSociais-FINAL-mini.png"></a></p>
+<p><br></p>
+<h4 id="adquirir-servicos-pagos">Adquirir Servicos Pagos</h4>
+<p><a data-fancybox="gallery" href="../../../img/casoDeUso/Diagrama03-AdquirirServicosPagos-FINAL.png"><img src="../../../img/casoDeUso/Diagrama03-AdquirirServicosPagos-FINAL-mini.png"></a></p>
+<p><br></p>
+<h4 id="match">Match</h4>
+<p><a data-fancybox="gallery" href="../../../img/casoDeUso/Diagrama04-Match-FINAL.png"><img src="../../../img/casoDeUso/Diagrama04-Match-FINAL-mini.png"></a></p>
+<p><br></p></div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>var base_url = '../../..';</script>
+        <script src="../../../js/base.js"></script>
+        <script src="../../../stylesheets/fancybox-style/jquery.fancybox.js"></script>
+        <script src="../../../stylesheets/fancybox-style/jquery.fancybox.min.js"></script>
+        <script src="../../../search/require.js"></script>
+        <script src="../../../search/search.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form role="form">
+                    <div class="form-group">
+                        <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="Keyboard Shortcuts Modal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <h4 class="modal-title" id="exampleModalLabel">Keyboard Shortcuts</h4>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td><kbd>&larr;</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td><kbd>&rarr;</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    </body>
+</html>
