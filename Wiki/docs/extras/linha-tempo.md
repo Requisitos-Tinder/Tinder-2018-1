@@ -606,3 +606,27 @@ Dividir tarefas.
 | ----- |-----| -----|
 
 <br>
+
+---
+
+<br>
+### Ponto de controle 11/04:
+#### Participantes:
+- Amanda Muniz
+- Arthur Assis
+- Calebe Rios
+- Luciana Ribeiro
+- Vítor Cardoso
+- Waysman Silva
+
+<br>
+#### Documentos apresentados:
+- [Cenário](/modelagem/cenarios/)
+- [Léxicos](/modelagem/lexicos/)
+
+<br>
+#### Feedback:
+- Diferenciação entre restrição e exceção esta ok
+- Termo 'fluxo intuitivo' utilizado em diversas restrição muito é muito amplo
+
+<br>
