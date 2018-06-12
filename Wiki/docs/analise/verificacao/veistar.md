@@ -33,8 +33,5 @@
 - Os recursos mais importantes foram abordados ?
 
 
-## Vítor Cardoso
-
-## Amanda Muniz
-
-## Calebe Rios
+## Respostas:
+[Tabela de respostas](https://docs.google.com/spreadsheets/d/1txC-AwSKGjeYF4GbrHQia8s5SYEOqFTDtYb_QE_Q_f4/edit#gid=108503159)
