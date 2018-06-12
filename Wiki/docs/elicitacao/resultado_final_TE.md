@@ -67,7 +67,7 @@
 | 58     | O usuário deve ser capaz de deletar a conta no sistema.                                                                           | [Análise de Protocolo](analise_protocolo/) |
 | 59     | O usuário deve ser capaz de congelar a conta no sistema.                                                                           | [Análise de Protocolo](analise_protocolo/) |
 | 60     | O usuário, como gold ou plus, deve ser capaz de limitar o que os outros veem do seu perfil                                                                            | [Observação Participativa](observacao_participativa/) |
-| 60     | O usuário deve ser capaz de criar um perfil web                        |  [Observação Participativa](observacao_participativa/)  |
+| 61     | O usuário deve ser capaz de criar um perfil web                        |  [Observação Participativa](observacao_participativa/)  |
 
 <br />
 
@@ -86,9 +86,19 @@
 |9 |Compatibilidade com versões de browser (Google Chrome, Mozilla Firefox, etc) |Compatibilidade| [Questionário](questionario/) |
 |10 |Compatibilidade com versões de sistemas operacionais móveis |Compatibilidade| [Questionário](questionario/) |
 |11 |Interface intuítiva e de fácil compreensão |Usabilidade| [Questionário](questionario/) |
+|12 |Personalização de anúncios | Usabilidade | Confecção do NFR |
+|13 |Personalização de descoberta de perfis | Usabilidade | Confecção do NFR |
 
 <br />
 
 ### Moscow dos Requisitos Não Funcionais
 
-[Moscow](https://docs.google.com/forms/d/1PmX701a4EjQ-2obNP1WDlIHNcoNOm6R96O0Ii9ZLHsY/edit?edit_requested=true#responses)
+[Moscow - Questionário](https://docs.google.com/forms/d/1PmX701a4EjQ-2obNP1WDlIHNcoNOm6R96O0Ii9ZLHsY/edit?edit_requested=true#responses)
+![moscowQ1](../img/moscowQ1.jpeg)
+![moscowQ2](../img/moscowQ2.jpeg)
+![moscowQ3](../img/moscowQ3.jpeg)
+![moscowQ4](../img/moscowQ4.jpeg)
+![moscowQ5](../img/moscowQ5.jpeg)
+![moscowQ6](../img/moscowQ6.jpeg)
+![moscowQ7](../img/moscowQ7.jpeg)
+![moscowQ8](../img/moscowQ8.jpeg)
