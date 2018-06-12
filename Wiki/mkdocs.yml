@@ -128,6 +128,8 @@ pages:
          - 'RP V1': 'pre-rastreabilidade/richPictures/richPictures-V1.md'
          - 'RP V1': 'pre-rastreabilidade/richPictures/richPictures-V2.md'
          - 'RP V1': 'pre-rastreabilidade/richPictures/richPictures-V3.md'
+         - 'Diag de Caso de Uso V1': 'modelagem/DiagDeCasosUso/DiagCasodeUso-V1.md'
+         - 'Diag de Caso de Uso FINAL': 'modelagem/DiagDeCasosUso/DiagCasodeUso-FINAL.md'
 
 
 theme:
