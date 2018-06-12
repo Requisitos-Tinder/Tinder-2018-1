@@ -33,7 +33,7 @@ pages:
          - 'Cenários': 'modelagem/cenarios.md'
          - 'Diagramas de Caso de Uso' : 'modelagem/DiagCasoDeUso.md'
          - 'Casos de Uso': 'modelagem/casosUso.md'
-         - 'Especificação Suplementar': 'modelagem/EspSuplementar.md'
+         - 'Especificação Suplementar': 'modelagem/EspSuplementar/EspSuplementar.md'
          - 'Historias de Usuário': 'modelagem/user_stories.md'
          - 'NFR': 'modelagem/NFRs/NFR-VFinal.md'
          - 'iStar': 'modelagem/iStar/iStar-VFinal.md'
@@ -135,6 +135,7 @@ pages:
          - 'RP V3': 'pre-rastreabilidade/richPictures/richPictures-V3.md'
          - 'NFR V1': 'modelagem/NFRs/NFR-V1.md'
          - 'iStar V1': 'modelagem/iStar/iStar-V1.md'
+         - 'Esp. Suplementar V1': 'modelagem/EspSuplementar/EspSuplementarV1.md'
 
 
 theme:
