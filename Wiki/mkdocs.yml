@@ -35,7 +35,7 @@ pages:
          - 'Casos de Uso': 'modelagem/casosUso.md'
          - 'Especificação Suplementar': 'modelagem/EspSuplementar.md'
          - 'Historias de Usuário': 'modelagem/user_stories.md'
-         - 'NFR': 'modelagem/NFR.md'
+         - 'NFR': 'modelagem/NFRs/NFR-VFinal.md'
          - 'iStar': 'modelagem/iStar.md'
          - 'Referências': 'modelagem/referencias.md'
      - Análise:
@@ -126,10 +126,16 @@ pages:
          - 'Verificação dos NFRs': 'analise/verificacao/venfr.md'
          - 'Verificação do iStar': 'analise/verificacao/veistar.md'
          - 'RP V1': 'pre-rastreabilidade/richPictures/richPictures-V1.md'
+<<<<<<< HEAD
          - 'RP V1': 'pre-rastreabilidade/richPictures/richPictures-V2.md'
          - 'RP V1': 'pre-rastreabilidade/richPictures/richPictures-V3.md'
          - 'Diag de Caso de Uso V1': 'modelagem/DiagDeCasosUso/DiagCasodeUso-V1.md'
          - 'Diag de Caso de Uso FINAL': 'modelagem/DiagDeCasosUso/DiagCasodeUso-FINAL.md'
+=======
+         - 'RP V2': 'pre-rastreabilidade/richPictures/richPictures-V2.md'
+         - 'RP V3': 'pre-rastreabilidade/richPictures/richPictures-V3.md'
+         - 'NFR V1': 'modelagem/NFRs/NFR-V1.md'
+>>>>>>> 0183423def558f03d7cf2b4e772e25941cc1eeb3
 
 
 theme:
