@@ -8,6 +8,8 @@
 <br />
 ### Modelo de dependência - Versão Final
 
+<br />
+
 #### Dependencia Usuário-App
 
 <a data-fancybox="gallery" href="../../../img/iStar/VersaoFinal/UsuarioApp.png"><img src="../../../img/iStar/VersaoFinal/UsuarioApp-mini.png"></a>
@@ -23,6 +25,23 @@
 <a data-fancybox="gallery" href="../../../../img/iStar/VersaoFinal/AppServidor.png"><img src="../../../img/iStar/VersaoFinal/AppServidor-mini.png"></a>
 
 <br />
+
+#### Dependencia Smart Photos
+
+<a data-fancybox="gallery" href="../../../../img/iStar/VersaoFinal/SD - Smart Photos.png"><img src="../../../img/iStar/VersaoFinal/SD - Smart Photos-mini.png"></a>
+
+<br />
+
+#### Dependencia Tipos de Usuário
+
+<p align="justify">&emsp;
+    A relação entre o usuário e a Aplicação já foi descrita acima, por essa razão optamos por mostrar apenas a relação 
+    entre os tipos de usuário e a Aplicação.
+</p>
+
+<br />
+
+<a data-fancybox="gallery" href="../../../../img/iStar/VersaoFinal/SD - TiposUsusarios.png"><img src="../../../img/iStar/VersaoFinal/SD - TiposUsusarios-mini.png"></a>
 
 ## **Rationales**
 
@@ -97,3 +116,11 @@
 #### Servicos Pagos
 
 <a data-fancybox="gallery" href="../../../img/iStar/VersaoFinal/RationaleServicosPagos.png"><img src="../../../img/iStar/VersaoFinal/RationaleServicosPagos-mini.png"></a>
+
+#### Conversas
+
+<a data-fancybox="gallery" href="../../../img/iStar/VersaoFinal/SR - Conversas.png"><img src="../../../img/iStar/VersaoFinal/SR - Conversas-mini.png"></a>
+
+#### Usuário Plus
+
+<a data-fancybox="gallery" href="../../../img/iStar/VersaoFinal/SR - UsuarioPlus.png"><img src="../../../img/iStar/VersaoFinal/SR - UsuarioPlus-mini.png"></a>
