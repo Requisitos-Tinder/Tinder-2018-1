@@ -6,7 +6,7 @@
 
 <br>
 
-<a data-fancybox="gallery" href="../../img/argumentacao/argumentacao01v1.png"><img src="../../img/argumentacao/argumentacao01v1-mini.png"></a>
+<a data-fancybox="gallery" href="../../../img/argumentacao/argumentacao01v1.png"><img src="../../../img/argumentacao/argumentacao01v1-mini.png"></a>
 
 <br>
 
@@ -26,7 +26,7 @@
 
 <br>
 
-<a data-fancybox="gallery" href="../../img/argumentacao/argumentacao02v1.png"><img src="../../img/argumentacao/argumentacao02v1-mini.png"></a>
+<a data-fancybox="gallery" href="../../../img/argumentacao/argumentacao02v1.png"><img src="../../../img/argumentacao/argumentacao02v1-mini.png"></a>
 
 <br>
 
@@ -50,7 +50,7 @@
 
 <br>
 
-<a data-fancybox="gallery" href="../../img/argumentacao/argumentacao03v1.png"><img src="../../img/argumentacao/argumentacao03v1-mini.png"></a>
+<a data-fancybox="gallery" href="../../../img/argumentacao/argumentacao03v1.png"><img src="../../../img/argumentacao/argumentacao03v1-mini.png"></a>
 
 <br>
 
@@ -80,7 +80,7 @@
 
 <br>
 
-<a data-fancybox="gallery" href="../../img/argumentacao/argumentacao04v1.png"><img src="../../img/argumentacao/argumentacao04v1-mini.png"></a>
+<a data-fancybox="gallery" href="../../../img/argumentacao/argumentacao04v1.png"><img src="../../../img/argumentacao/argumentacao04v1-mini.png"></a>
 
 <br>
 
